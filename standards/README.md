@@ -12,7 +12,7 @@ These standards continue to evolve as the archive grows.
 
 Coming soon.
 
-- YouTube Description Standard
+- Recording About Us Description Standard
 - Recording Production Standard
 - Artifact Documentation Standard
 - Collection Standards
