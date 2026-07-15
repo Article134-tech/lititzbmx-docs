@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://article134-tech.github.io/lititzbmx-sitemap/sitemap.xml
+Sitemap: https://sitemap.lititzbmx.com/sitemap.xml
