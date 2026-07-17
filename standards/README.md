@@ -10,10 +10,11 @@ These standards continue to evolve as the archive grows.
 
 ## Current Standards
 
-Coming soon.
+### Published
 
-- Recording About Us Description Standard
-- Recording Production Standard
-- Artifact Documentation Standard
-- Collection Standards
-- Metadata Standards
+- **LBS-001 — Recording Description "About" Standards**
+- **LBS-002 — Artifact Numbering Standards**
+
+### In Development
+
+- **LBS-003 — Site Page Layout Standards**
