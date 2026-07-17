@@ -15,6 +15,14 @@ This document establishes the standard description format used for Lititz BMX re
 
 ---
 
+## Authority
+
+This document defines the minimum required structure for the standardized "About" section used across official Lititz BMX media productions.
+
+Where conflicts exist between older published descriptions and this standard, the most current published version of this document governs.
+
+---
+
 # Scope
 
 This standard applies to:
@@ -69,3 +77,10 @@ This document is published to explain the media-description standards used by Li
 |----------|------|-------------|
 | 1.9 | July 2026 | Updated to reflect the published standard. |
 | 1.0 | July 2026 | Initial release |
+
+---
+
+## Related Standards
+
+- LBS-002 — Artifact Numbering Standards
+- LBS-003 — Site Page Layout Standards (In Development)
