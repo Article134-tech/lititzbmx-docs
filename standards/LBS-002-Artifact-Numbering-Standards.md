@@ -37,7 +37,7 @@ This standard applies to physical artifacts formally entered into the Lititz BMX
 - Awards, trophies, and plaques
 - Documents, photographs, and printed materials
 - Artwork and promotional materials
-- Other historically significant BMX objects accepted into the archive
+- Other historically significant BMX objects accepted into the archive.
 
 ---
 
@@ -140,7 +140,7 @@ The numbering structure is designed to support continued archive growth.
 
 Additional archive series may be established as needed while preserving previously assigned identifiers.
 
-Future cataloging enhancements shall not invalidate or replace existing permanent artifact numbers.
+Future changes to cataloging systems shall not invalidate or replace existing permanent artifact numbers.
 
 Supplemental classification fields may be added separately without altering the artifact identifier.
 
