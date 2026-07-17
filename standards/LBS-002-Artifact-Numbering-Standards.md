@@ -123,7 +123,7 @@ Artifact numbers should be used consistently wherever an artifact is referenced 
 - Internal links
 - File names
 - Image records
-- Spreadsheets
+- Spreadsheets and data exports
 - QR codes
 - Exhibit references
 - Research notes
@@ -150,7 +150,7 @@ Supplemental classification fields may be added separately without altering the 
 
 This document is published to explain the artifact-numbering standards used by Lititz BMX. It may be referenced for educational, archival, and preservation purposes.
 
-Lititz BMX artifact numbers, associated records, archive content, names, branding, and archive links remain the property of Lititz BMX.
+Lititz BMX artifact numbers, associated records, archive content, names, branding, and archive records, archive content, names, branding, and archive links of Lititz BMX.
 
 ---
 
