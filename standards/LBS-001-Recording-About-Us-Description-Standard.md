@@ -1,20 +1,17 @@
-# LBS-001: Recording About Us Description Standard
+# LBS-001: Lititz BMX Recording Description “About” Standards
 
-**Document ID:** LBS-001  
-**Title:** Recording About Us Description Standard  
+**Document Number:** LBS-001  
+**Title:** Lititz BMX Recording Description “About” Standards  
 **Status:** Active  
-**Version:** 1.0  
-**Effective Date:** July 2026
+**Version:** 1.9  
+**Effective Date:** July 2026  
+**Owner:** Lititz BMX
 
 ---
 
 # Purpose
 
-This standard establishes the required structure for the standardized "About" section used within Lititz BMX recording descriptions.
-
-The objective is to maintain consistency across published recordings while improving discoverability, internal linking, search engine optimization (SEO), and long-term archive preservation.
-
-This standard applies to all eligible Lititz BMX media productions unless a documented exception exists.
+This document establishes the standard description format used for Lititz BMX recordings published across YouTube and other supported media platforms. The objective is to provide a consistent viewer experience while directing audiences to the broader Lititz BMX Archive and related educational resources.
 
 ---
 
@@ -34,7 +31,7 @@ This standard applies to:
 
 # Objectives
 
-The Recording About Us Description shall:
+The Recording Description "About" section shall:
 
 - Maintain a consistent Lititz BMX identity
 - Explain the purpose of the archive
@@ -48,7 +45,7 @@ The Recording About Us Description shall:
 
 # Standard Structure
 
-The standardized Recording About Us section shall include, when applicable:
+The standardized Recording Description "About" section shall include, when applicable:
 
 1. About Lititz BMX
 2. Discover More in the Archive
@@ -60,8 +57,15 @@ The standardized Recording About Us section shall include, when applicable:
 
 ---
 
+# Public Use Notice
+
+This document is published to explain the media-description standards used by Lititz BMX. It may be referenced for educational and preservation purposes. Lititz BMX names, branding, and archive links remain the property of Lititz BMX.
+
+---
+
 # Revision History
 
 | Version | Date | Description |
 |----------|------|-------------|
+| 1.9 | July 2026 | Updated to reflect the published standard. |
 | 1.0 | July 2026 | Initial release |
