@@ -18,6 +18,15 @@ Official public logo assets for Lititz BMX.
 
 Each file uses the same approved Lititz BMX logo composition. The variants are provided so the logo can remain readable across light, dark, photographic, and mixed backgrounds.
 
+## Governing Standard
+
+Use of the Lititz BMX name, logo, and brand mark is governed by:
+
+- [LBS-004 — Lititz BMX Logo and Brand Mark Usage Standards](../standards/LBS-004-Lititz-BMX-Logo-and-Brand-Mark-Usage-Standards-v1.0.md)
+- [View the formatted PDF](../standards/LBS-004-Lititz-BMX-Logo-and-Brand-Mark-Usage-Standards-v1.0.pdf)
+
+The files and guidance in this directory support implementation of LBS-004. LBS-004 remains the formal governing standard.
+
 ## Technical Summary
 
 - File type: PNG
