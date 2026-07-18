@@ -1,49 +1,20 @@
 # LBS-002: Lititz BMX Artifact Numbering Standards
 
-**Document Number:** LBS-002  
-**Title:** Lititz BMX Artifact Numbering Standards  
-**Status:** Active  
-**Version:** 1.2  
-**Effective Date:** July 2026  
-**Owner:** Lititz BMX
+| Field | Value |
+|---|---|
+| Document Number | LBS-002 |
+| Version | 1.2 |
+| Status | Active |
+| Effective Date | July 2026 |
+| Owner | Lititz BMX |
 
----
+This document defines the official artifact numbering standard used throughout the Lititz BMX Archive & Inventory.
 
-# Purpose
+The numbering system provides every physical artifact with a permanent, unique identifier that remains consistent across the website, inventory records, videos, photographs, QR codes, educational resources, and future publications.
 
-This document establishes the standard numbering system used to assign permanent identifiers to artifacts cataloged within the Lititz BMX Archive.
+## Number Format
 
-The numbering system supports consistent cataloging, internal linking, digital references, long-term recordkeeping, and future archive expansion.
-
----
-
-# Authority
-
-This document defines the official artifact-numbering convention used by the Lititz BMX Archive.
-
-Where conflicts exist between older records and this standard, the most current published version of this document governs.
-
----
-
-# Scope
-
-This standard applies to physical artifacts formally entered into the Lititz BMX Archive, including:
-
-- Complete bicycles
-- Frames and forks
-- Components and accessories
-- Jerseys and other apparel
-- Helmets and protective equipment
-- Awards, trophies, and plaques
-- Documents, photographs, and printed materials
-- Artwork and promotional materials
-- Other historically significant BMX objects accepted into the archive.
-
----
-
-# Number Format
-
-Lititz BMX artifact numbers use the following format:
+Each artifact is assigned an identifier using the following format:
 
 ```text
 YY.NNNN
@@ -51,119 +22,83 @@ YY.NNNN
 
 Where:
 
-- `YY` identifies the archive series established during a cataloging year.
-- `NNNN` is a four-digit sequential number assigned within that series.
+- **YY** = Archive series established by year.
+- **NNNN** = Sequential four-digit artifact number beginning with `0001`.
 
-Example:
+Examples:
 
-```text
-26.0001
-```
+- `26.0001`
+- `26.0002`
+- `26.0003`
 
-Artifact numbers are permanent identifiers and shall not be reassigned.
+The current archive series (`26`) represents the standardized Lititz BMX Archive catalog established during 2026.
 
----
+## Assignment Standard
 
-# Assignment Standard
+Each physical artifact receives one permanent identifier.
 
-Artifact numbers shall be assigned sequentially as artifacts are formally entered into the archive catalog.
+Artifact numbers are assigned sequentially as items are formally cataloged.
 
-Assignment of an artifact number signifies that an archive record has been established. It does not necessarily indicate that photography, research, publication, or exhibit preparation is complete.
+Once assigned, an artifact number is never changed or reassigned.
 
-Each physical artifact shall normally receive one unique artifact number unless the archive determines that a grouped set should be cataloged as a single artifact.
+Numbers remain with the artifact regardless of:
 
----
+- Ownership
+- Display location
+- Website organization
+- Storage location
+- Future collection growth
 
-# Numbering Philosophy
+## Numbering Philosophy
 
-Artifact numbers are intentionally non-descriptive.
+Artifact numbers are intentionally non-descriptive. The identifier itself does not encode the artifact's manufacturer, rider, category, date, or historical significance. This ensures that as research evolves, historical interpretations change, or new information is discovered, artifact identifiers remain permanent and published references remain valid.
 
-The identifier itself does not identify an artifact's type, manufacturer, owner, rider, collection, condition, acquisition source, or historical period.
+## Leading Zeros
 
-Descriptive information is maintained within the artifact record rather than encoded into the identifier. This allows the identifier to remain permanent even when research findings, classifications, ownership history, or descriptive information change.
+Sequential numbers always contain four digits.
 
----
+Examples:
 
-# Leading Zeros
+- `26.0001`
+- `26.0017`
+- `26.0148`
+- `26.0213`
 
-The four-digit sequential portion shall retain all leading zeros.
+Leading zeros are retained for consistency, sorting, and long-term scalability.
 
-Correct:
+## Retired Numbers
 
-```text
-26.0007
-```
+If an artifact permanently leaves the collection, its identifier is retired.
 
-Incorrect:
+Retired numbers are never reassigned to another artifact.
 
-```text
-26.7
-```
+This preserves historical continuity and maintains permanent references within published materials.
 
-Leading zeros support consistent sorting, searching, display, data export, and digital linking.
+## Digital References
 
----
+Artifact identifiers serve as the primary reference throughout the Lititz BMX Archive ecosystem, including:
 
-# Retired Numbers
+- Archive & Inventory pages
+- YouTube videos and descriptions
+- Educational resources
+- QR Codes
+- Campaign pages
+- Research documents
+- Social media references
+- Internal inventory records
 
-Once assigned, an artifact number shall not be reused.
+## Future Expansion
 
-If an artifact is removed from the archive, transferred, deaccessioned, determined to be a duplicate record, or found to have been assigned in error, the number shall be retired rather than reassigned.
+The numbering standard is designed to support long-term archive growth.
 
-The corresponding record may be retained with an appropriate status note to preserve the integrity of the archive catalog.
+Additional archive series may be established in future years while maintaining compatibility with existing artifact references.
 
----
+## Related Standards
 
-# Digital References
+- **LBS-001 — Recording Description “About” Standards**
 
-Artifact numbers should be used consistently wherever an artifact is referenced within Lititz BMX systems, including:
+Lititz BMX Standards (LBS) establish the internal documentation practices used to preserve, catalog, and present BMX history. These standards may evolve over time as the archive grows, but previously assigned identifiers and published references remain permanent whenever practical.
 
-- Archive pages
-- Collection pages
-- Internal links
-- File names
-- Image records
-- Spreadsheets and data exports
-- QR codes
-- Exhibit references
-- Research notes
-- Media descriptions
-- Public documentation
+## Public-use notice
 
-Display punctuation, spacing, and leading zeros shall remain consistent across all Lititz BMX platforms whenever technically possible.
-
----
-
-# Future Expansion
-
-The numbering structure is designed to support continued archive growth.
-
-Additional archive series may be established as needed while preserving previously assigned identifiers.
-
-Future changes to cataloging systems shall not invalidate or replace existing permanent artifact numbers.
-
-Supplemental classification fields may be added separately without altering the artifact identifier.
-
----
-
-# Public Use Notice
-
-This document is published to explain the artifact-numbering standards used by Lititz BMX. It may be referenced for educational, archival, and preservation purposes.
-
-Lititz BMX artifact numbers, associated records, archive records, archive content, names, branding, and archive links remain the property of Lititz BMX.
-
----
-
-# Revision History
-
-| Version | Date | Description |
-|----------|------|-------------|
-| 1.2 | July 2026 | Updated to reflect the published standard. |
-| 1.0 | July 2026 | Initial release. |
-
----
-
-# Related Standards
-
-- LBS-001 — Lititz BMX Recording Description "About" Standards
-- LBS-003 — Site Page Layout Standards (In Development)
+This document is published to explain the artifact-numbering standards used by Lititz BMX. It may be referenced for educational and preservation purposes. Lititz BMX artifact numbers, associated records, archive content, names, branding, and archive links remain the property of Lititz BMX.
