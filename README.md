@@ -33,6 +33,7 @@ Public documentation describing the standards, conventions, and workflows used b
 - [Open the Standards library](standards/)
 - [LBS-001 — Recording Description “About” Standards](standards/LBS-001-Recording-About-Us-Description-Standards.md)
 - [LBS-002 — Artifact Numbering Standards](standards/LBS-002-Artifact-Numbering-Standards.md)
+- [LBS-004 — Logo and Brand Mark Usage Standards](standards/LBS-004-Lititz-BMX-Logo-and-Brand-Mark-Usage-Standards-v1.0.md)
 
 ### Reference Documents
 
