@@ -4,6 +4,15 @@
 **Version:** 1.0  
 **Published:** July 2026
 
+## Governing Standard
+
+This practical guide supports the formal requirements established in:
+
+- [LBS-004 — Lititz BMX Logo and Brand Mark Usage Standards](../standards/LBS-004-Lititz-BMX-Logo-and-Brand-Mark-Usage-Standards-v1.0.md)
+- [View the formatted PDF](../standards/LBS-004-Lititz-BMX-Logo-and-Brand-Mark-Usage-Standards-v1.0.pdf)
+
+When this guide and LBS-004 differ, LBS-004 governs.
+
 ## Approved Mark
 
 The approved Lititz BMX logo consists of:
@@ -47,17 +56,15 @@ Avoid:
 
 ## Clear Space and Cropping
 
-Leave enough space around the logo for the full tire, lettering, and underline to remain visually separate from surrounding content.
+Leave enough space around the logo for the full tire, lettering, and Pennsylvania keystone to remain visually separate from surrounding content.
 
 Do not crop:
 
 - the outer tire;
 - the “Lititz BMX” lettering;
-- the underline;
 - any part of the Pennsylvania keystone.
 
 No formal minimum reproduction size has been adopted. Confirm that the spokes, keystone, and lettering remain legible at the intended size.
-
 ## Prohibited Alterations
 
 Do not:
