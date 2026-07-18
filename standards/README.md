@@ -10,11 +10,18 @@ These standards continue to evolve as the archive grows.
 
 ## Current Standards
 
-### Published
+### LBS-001 — Recording Description “About” Standards
 
-- **LBS-001 — Recording Description "About" Standards**
-- **LBS-002 — Artifact Numbering Standards**
+- [Read the Markdown version](LBS-001-Recording-About-Us-Description-Standards.md)
+- [View the formatted PDF](LBS-001-Recording-About-Us-Description-Standards.pdf)
 
-### In Development
+### LBS-002 — Artifact Numbering Standards
 
-- **LBS-003 — Site Page Layout Standards**
+- [Read the Markdown version](LBS-002-Artifact-Numbering-Standards.md)
+- [View the formatted PDF](LBS-002-Artifact-Numbering-Standards.pdf)
+
+---
+
+## In Development
+
+- LBS-003 — Site Page Layout Standards
