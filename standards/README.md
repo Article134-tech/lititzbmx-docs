@@ -20,6 +20,10 @@ These standards continue to evolve as the archive grows.
 - [Read the Markdown version](LBS-002-Artifact-Numbering-Standards.md)
 - [View the formatted PDF](LBS-002-Artifact-Numbering-Standards.pdf)
 
+### LBS-004 — Logo and Brand Mark Usage Standards
+
+- [Read the Markdown version](LBS-004-Lititz-BMX-Logo-and-Brand-Mark-Usage-Standards-v1.0.md)
+- [View the formatted PDF](LBS-004-Lititz-BMX-Logo-and-Brand-Mark-Usage-Standards-v1.0.pdf)
 ---
 
 ## In Development
