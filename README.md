@@ -42,6 +42,14 @@ Public materials explaining Lititz BMX, its terminology, mission, preservation p
 - [FAQ-001 — Lititz BMX Frequently Asked Questions](reference/FAQ-001-Lititz-BMX-Frequently-Asked-Questions.md)
 - [GLO-001 — Lititz BMX Glossary](reference/GLO-001-Lititz-BMX-Glossary.md)
 
+### Brand Assets
+
+Official Lititz BMX logo files, technical specifications, verification imagery, and usage guidance.
+
+- [Open the Brand Assets library](brand-assets/)
+- [View Logo Usage Guidance](brand-assets/LOGO-USAGE.md)
+- [View the Asset Manifest](brand-assets/ASSET-MANIFEST.csv)
+
 ### Sitemap and Technical Resources
 
 This repository also hosts public sitemap and verification files supporting discovery and indexing of the Lititz BMX Archive.
