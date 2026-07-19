@@ -44,6 +44,16 @@ No missing material has been reconstructed through assumption.
 
 ---
 
+## Episode Archive
+
+Individual archival records are available for all 19 officially numbered campaign positions.
+
+The archive contains 18 verified episode records and one unverified placeholder preserving Episode 15 as **The Lost Episode**. Missing material has not been reconstructed through assumption.
+
+- [Open the complete episode index](episodes/)
+
+---
+
 ## Featured Subjects
 
 The campaign connects the reconstructed figure with:
