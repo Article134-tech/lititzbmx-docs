@@ -51,6 +51,13 @@ Official Lititz BMX logo files, technical specifications, verification imagery, 
 - [View Logo Usage Guidance](brand-assets/LOGO-USAGE.md)
 - [View the Asset Manifest](brand-assets/ASSET-MANIFEST.csv)
 
+### Campaign Archives
+
+Long-form preservation, restoration, educational, and storytelling campaigns produced by Lititz BMX.
+
+- [Open the Campaigns library](campaigns/)
+- [Explore the complete #RebuildRadicalRick campaign archive](campaigns/rebuild-radical-rick/)
+
 ### Sitemap and Technical Resources
 
 This repository also hosts public sitemap and verification files supporting discovery and indexing of the Lititz BMX Archive.
