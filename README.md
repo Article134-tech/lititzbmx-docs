@@ -57,7 +57,8 @@ Long-form preservation, restoration, educational, and storytelling campaigns pro
 
 - [Open the Campaigns library](campaigns/)
 - [Explore the complete #RebuildRadicalRick campaign archive](campaigns/rebuild-radical-rick/)
-
+- [Explore the complete #OperationDIRTWERX — The Story campaign archive](campaigns/operation-dirtwerx/)
+  
 ### Sitemap and Technical Resources
 
 This repository also hosts public sitemap and verification files supporting discovery and indexing of the Lititz BMX Archive.
