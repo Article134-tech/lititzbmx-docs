@@ -1,0 +1,18 @@
+﻿Position,Term,Grid Status,Match Count,All Verified Matches,Audit Note
+1,NORA,Multiple matches (2),2,R7C14-R4C14 (up); R9C12-R9C15 (right),The published grid contains NORA twice. No intended occurrence is selected without an official answer key. The separate published term CUP is retained as a known exception and is likely conceptually associated with NORA Cup.
+2,Encinas,Verified unique,1,R2C16-R8C16 (down),No special exception identified in the supplied source set.
+3,Thomsen,Verified unique,1,R10C16-R16C16 (down),The image supports the page’s later public-service discussion. The archive does not identify individuals from appearance alone.
+4,Patterson,Verified unique,1,R11C13-R19C13 (down),The page text emphasizes frame sets while the image shows related 2025 Patterson components. Both are preserved without forcing them to match.
+5,Hill,Verified unique,1,R15C2-R18C5 (down-right),No special exception identified in the supplied source set.
+6,Miranda,Verified unique,1,R16C15-R10C15 (up),This record must remain prominently classified as fictional alternate history. Its invented relationships and later-life claims must not be reused as factual biography.
+7,Brackens,Verified unique,1,R11C12-R18C12 (down),No special exception identified in the supplied source set.
+8,Loncarevich,Verified unique,1,R8C6-R18C6 (down),No special exception identified in the supplied source set.
+9,Ellis,Verified unique,1,R20C13-R20C17 (right),No special exception identified in the supplied source set.
+10,CUP,Not located,0,,"Preserve the published list exactly. Do not add CUP to the grid, remove it from the list, or invent a separate destination page. Link conceptually to NORA only."
+11,GT,Multiple matches (5),5,R3C8-R4C8 (down); R6C8-R5C9 (up-right); R6C9-R5C9 (up); R6C9-R7C10 (down-right); R20C10-R20C9 (left),GT appears five times in the grid. No intended occurrence is selected without an official answer key.
+12,Redline,Verified unique,1,R5C18-R11C18 (down),The profile gives broad brand history while the associated image documents a specific freestyle-era Redline product.
+13,Diamondback,Verified unique,1,R7C7-R17C7 (down),The working live URL uses the slug “diamonback-word-search.” That exact URL is preserved rather than silently corrected.
+14,Mongoose,Verified unique,1,R15C9-R8C9 (up),No special exception identified in the supplied source set.
+15,Robinson,Verified unique,1,R18C17-R11C17 (up),The text addresses origins and GT-era evolution; the 1995 advertisement documents the brand’s later team identity.
+16,Hutch,Verified unique,1,R14C3-R18C7 (down-right),The image supports Hutch’s freestyle identity. Individuals are not named from appearance alone.
+17,Shimano,Verified unique,1,R11C14-R17C14 (down),"No manual date, edition, model, or rider identity is supplied and none is invented."
