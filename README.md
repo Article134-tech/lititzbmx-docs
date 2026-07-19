@@ -51,6 +51,13 @@ Official Lititz BMX logo files, technical specifications, verification imagery, 
 - [View Logo Usage Guidance](brand-assets/LOGO-USAGE.md)
 - [View the Asset Manifest](brand-assets/ASSET-MANIFEST.csv)
 
+### Learning Resources
+
+Interactive educational resources combining BMX history, puzzles, profiles, images, and documented source material.
+
+- [Open the Learning Resources library](learning-resources/)
+- [Explore the Interactive BMX Word Search](learning-resources/word-search/)
+
 ### Campaign Archives
 
 Long-form preservation, restoration, educational, and storytelling campaigns produced by Lititz BMX.
