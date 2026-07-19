@@ -8,12 +8,14 @@ Unlike individual artifact pages, campaigns combine artifacts, interviews, photo
 
 ## Current Campaigns
 
-### #RebuildRadicalRick
+### [#RebuildRadicalRick](rebuild-radical-rick/)
 
-The preservation and reconstruction of the Radical Rick bicycle while documenting its history, restoration, associated artwork, and educational value.
+The preservation and reconstruction of a 40th Anniversary Radical Rick figure, documented through a 19-position serialized campaign connecting BMX history, comic culture, creator interviews, archival research, and community participation.
 
-*Status: Active*
+**Status:** Archived  
+**Campaign period:** March 12–28, 2025
 
+[Open the campaign archive](rebuild-radical-rick/)
 ---
 
 ### A Fireside Story of Harry Leary
