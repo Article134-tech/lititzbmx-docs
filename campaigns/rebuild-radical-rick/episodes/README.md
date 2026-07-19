@@ -28,7 +28,7 @@ The campaign contains **19 officially numbered episode positions**:
 13. [Episode 13: More Than the Character](episode-13-more-than-the-character.md)
 14. [Episode 14: A New Racer Has Been Born](episode-14-a-new-racer-has-been-born.md)
 15. [Episode 15: The Lost Episode — Was There More?](episode-15-the-lost-episode.md)
-16. [Episode 16: The Build Is Complete](episode-16-the-build-is-complete.md)
+16. [Episode 16: The Build is Complete](episode-16-the-build-is-complete.md)
 17. [Episode 17: Final Clues](episode-17-final-clues.md)
 18. [Episode 18: All Will Be Revealed](episode-18-all-will-be-revealed.md)
 19. [Episode 19: The Finale](episode-19-the-finale.md)
@@ -57,7 +57,7 @@ The campaign’s verified publication order differs from its official numbering.
 | March 24, 2025 | 14 | 17 | Final Clues |
 | March 25, 2025 | 15 | 14 | A New Racer Has Been Born |
 | March 26, 2025 | 16 | 18 | All Will Be Revealed |
-| March 27, 2025 | 17 | 16 | The Build Is Complete |
+| March 27, 2025 | 17 | 16 | The Build is Complete |
 | March 28, 2025 | 18 | 19 | The Finale |
 
 Episode 15 is excluded from the verified publication chronology because its original source and publication date have not been recovered.
