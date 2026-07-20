@@ -1,14 +1,30 @@
-[← Hill](./05-hill.md) | [Back to resource index](../README.md) | [Brackens →](./07-brackens.md)
+[← Hill](./05-hill.md) | [Word Search overview](../README.md) | [Learning Resources](../../README.md) | [Brackens →](./07-brackens.md)
 
 # 06 — Miranda
 
 ## The Brothers Who Rode Beyond BMX
 
+## Record identification
+
 **Official list position:** 6  
 **Category:** Rider / creative entry  
 **Content classification:** Fictional alternate history  
 **Grid status:** Verified unique  
-**Live learning page:** https://sites.google.com/view/lititzbmxinventorylist/learning-resources/word-search/miranda-word-search  
+**Live learning page:** [Open live learning page](https://sites.google.com/view/lititzbmxinventorylist/learning-resources/word-search/miranda-word-search)  
+**Archive package version:** 1.0  
+**Archive display version:** 1.1
+
+---
+
+## Resource structure
+
+1. Original published learning-page text
+2. Associated standalone source image
+3. Normalized archival summary and puzzle verification
+4. Preserved full public learning-page capture
+5. Source documentation and verification notes
+
+---
 
 ## Original page text
 
@@ -22,28 +38,30 @@ After years at the top, both brothers eventually stepped away from professional 
 Though their lives took dramatically different paths, the bond between the brothers never faded. Whether shaping a nation or changing the way people organized their thoughts, both carried with them the same drive that began on a dusty BMX track. In this imagined history, their legacy reminds us that BMX has always been more than racing—it’s a starting point for whatever comes next.
 ```
 
+---
+
 ## Associated source image
 
 ![Mustached BMX rider wearing a Hutch Factory Team jersey marked MIKE and holding a full-face helmet](../source-images/source-006-mike-miranda-hutch-factory-team.png)
 
 A mustached BMX rider wears a Hutch Factory Team jersey marked “MIKE” and holds a full-face helmet against a blue background.
 
+---
+
 ## Normalized archival summary
 
 The entry is a deliberately fictional alternate-history story that imagines Mike Miranda and Tommy Brackens as brothers whose BMX careers lead to absurdly different later achievements. Its humor reinforces BMX as a starting point for unexpected life paths.
+
+---
 
 ## Puzzle verification
 
 - **Verified match count:** 1
 - `R16C15-R10C15 (up)`
 
-## Source evidence
+---
 
-- [Profile page capture](../page-captures/page-006-miranda-profile.png)
-- [Standalone source image](../source-images/source-006-mike-miranda-hutch-factory-team.png)
-- [Source transcription](../SOURCE-TRANSCRIPTIONS.md#source-006-miranda)
-
-## Verification notes
+## Critical verification findings
 
 - This record must remain prominently classified as fictional alternate history. Its invented relationships and later-life claims must not be reused as factual biography.
 - Visible jersey text includes “MIKE” and “HUTCH FACTORY TEAM.”
@@ -52,3 +70,33 @@ The entry is a deliberately fictional alternate-history story that imagines Mike
 ---
 
 [← Hill](./05-hill.md) | [Back to resource index](../README.md) | [Brackens →](./07-brackens.md)
+
+---
+
+## Preserved public learning-page capture
+
+![Full archived capture of the Miranda Interactive BMX Word Search learning page](../page-captures/page-006-miranda-profile.png)
+
+This full-page capture preserves the public presentation, image placement, headings, and surrounding learning context as supplied for the archive.
+
+---
+
+## Core documentation
+
+- [Profile page capture](../page-captures/page-006-miranda-profile.png)
+- [Standalone source image](../source-images/source-006-mike-miranda-hutch-factory-team.png)
+- [Source transcription](../SOURCE-TRANSCRIPTIONS.md#source-006-miranda)
+- [Word Search archive overview](../README.md)
+- [Puzzle verification and coordinate map](../puzzle/PUZZLE-VERIFICATION.md)
+- [Image manifest](../IMAGE-MANIFEST.csv)
+- [SHA-256 fixity manifest](../SHA256SUMS.txt)
+
+---
+
+## Preservation note
+
+The Google Site remains the primary public learning experience. This GitHub page provides a durable, searchable, accessible presentation of the published profile while preserving its associated image, full-page capture, puzzle evidence, transcription, and verification record.
+
+---
+
+[← Hill](./05-hill.md) | [Word Search overview](../README.md) | [Learning Resources](../../README.md) | [Brackens →](./07-brackens.md)

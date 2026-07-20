@@ -1,14 +1,30 @@
-[← Miranda](./06-miranda.md) | [Back to resource index](../README.md) | [Loncarevich →](./08-loncarevich.md)
+[← Miranda](./06-miranda.md) | [Word Search overview](../README.md) | [Learning Resources](../../README.md) | [Loncarevich →](./08-loncarevich.md)
 
 # 07 — Brackens
 
 ## Tommy Brackens – “The Human Dragster”
 
+## Record identification
+
 **Official list position:** 7  
 **Category:** Rider  
 **Content classification:** Factual rider profile  
 **Grid status:** Verified unique  
-**Live learning page:** https://sites.google.com/view/lititzbmxinventorylist/learning-resources/word-search/brackens-word-search  
+**Live learning page:** [Open live learning page](https://sites.google.com/view/lititzbmxinventorylist/learning-resources/word-search/brackens-word-search)  
+**Archive package version:** 1.0  
+**Archive display version:** 1.1
+
+---
+
+## Resource structure
+
+1. Original published learning-page text
+2. Associated standalone source image
+3. Normalized archival summary and puzzle verification
+4. Preserved full public learning-page capture
+5. Source documentation and verification notes
+
+---
 
 ## Original page text
 
@@ -18,28 +34,30 @@ Tommy Brackens, born November 20, 1960, in Los Angeles, California, was one of t
 Brackens built a successful professional career throughout the 1980s, highlighted by major victories including the 1981 NBA Winternationals, the ABA Coliseum Classic, and the 1986 IBMXF World Championship. That same year, he won the “King of the Mountain” GPV Championship, reportedly reaching speeds of 92 mph on a 20-inch bike. In 1987, he earned the NORA Cup—awarded by readers of BMX Action Magazine—cementing his status as both a top competitor and fan favorite. He later founded Brackens Racing Products (1988–1990) before retiring from professional BMX in 1990.
 ```
 
+---
+
 ## Associated source image
 
 ![Tommy Brackens in yellow and blue GT racing gear posing beside a white GT Pro Series BMX bike in a vintage advertisement](../source-images/source-007-tommy-brackens-gt-advertisement.png)
 
 Tommy Brackens smiles in yellow-and-blue GT racing gear beside a white GT Pro Series BMX bicycle in a vintage advertisement.
 
+---
+
 ## Normalized archival summary
 
 The entry presents Tommy Brackens as an explosive BMX starter known as “The Human Dragster,” tracing his transition from motocross, professional racing success, NORA Cup recognition, and later business activity.
+
+---
 
 ## Puzzle verification
 
 - **Verified match count:** 1
 - `R11C12-R18C12 (down)`
 
-## Source evidence
+---
 
-- [Profile page capture](../page-captures/page-007-brackens-profile.png)
-- [Standalone source image](../source-images/source-007-tommy-brackens-gt-advertisement.png)
-- [Source transcription](../SOURCE-TRANSCRIPTIONS.md#source-007-brackens)
-
-## Verification notes
+## Critical verification findings
 
 - No special exception identified in the supplied source set.
 - Visible advertisement text includes “WIN… JUST FOR THE FUN OF IT.” and “TOMMY BRACKENS — The Human Dragster.”
@@ -48,3 +66,33 @@ The entry presents Tommy Brackens as an explosive BMX starter known as “The Hu
 ---
 
 [← Miranda](./06-miranda.md) | [Back to resource index](../README.md) | [Loncarevich →](./08-loncarevich.md)
+
+---
+
+## Preserved public learning-page capture
+
+![Full archived capture of the Brackens Interactive BMX Word Search learning page](../page-captures/page-007-brackens-profile.png)
+
+This full-page capture preserves the public presentation, image placement, headings, and surrounding learning context as supplied for the archive.
+
+---
+
+## Core documentation
+
+- [Profile page capture](../page-captures/page-007-brackens-profile.png)
+- [Standalone source image](../source-images/source-007-tommy-brackens-gt-advertisement.png)
+- [Source transcription](../SOURCE-TRANSCRIPTIONS.md#source-007-brackens)
+- [Word Search archive overview](../README.md)
+- [Puzzle verification and coordinate map](../puzzle/PUZZLE-VERIFICATION.md)
+- [Image manifest](../IMAGE-MANIFEST.csv)
+- [SHA-256 fixity manifest](../SHA256SUMS.txt)
+
+---
+
+## Preservation note
+
+The Google Site remains the primary public learning experience. This GitHub page provides a durable, searchable, accessible presentation of the published profile while preserving its associated image, full-page capture, puzzle evidence, transcription, and verification record.
+
+---
+
+[← Miranda](./06-miranda.md) | [Word Search overview](../README.md) | [Learning Resources](../../README.md) | [Loncarevich →](./08-loncarevich.md)

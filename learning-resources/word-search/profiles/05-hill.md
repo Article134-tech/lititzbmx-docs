@@ -1,14 +1,30 @@
-[← Patterson](./04-patterson.md) | [Back to resource index](../README.md) | [Miranda →](./06-miranda.md)
+[← Patterson](./04-patterson.md) | [Word Search overview](../README.md) | [Learning Resources](../../README.md) | [Miranda →](./06-miranda.md)
 
 # 05 — Hill
 
 ## Greg Hill – BMX Racing Icon & NORA Cup Champion
 
+## Record identification
+
 **Official list position:** 5  
 **Category:** Rider  
 **Content classification:** Factual rider profile  
 **Grid status:** Verified unique  
-**Live learning page:** https://sites.google.com/view/lititzbmxinventorylist/learning-resources/word-search/hill-word-search  
+**Live learning page:** [Open live learning page](https://sites.google.com/view/lititzbmxinventorylist/learning-resources/word-search/hill-word-search)  
+**Archive package version:** 1.0  
+**Archive display version:** 1.1
+
+---
+
+## Resource structure
+
+1. Original published learning-page text
+2. Associated standalone source image
+3. Normalized archival summary and puzzle verification
+4. Preserved full public learning-page capture
+5. Source documentation and verification notes
+
+---
 
 ## Original page text
 
@@ -18,28 +34,30 @@ Greg Hill is one of the most accomplished riders in BMX racing history, with a c
 Hill’s influence extended beyond racing through the founding of GHP (Greg Hill Products) in 1983, a brand that became a staple in BMX performance equipment. A four-time NORA Cup winner—awarded by readers of BMX Action Magazine—Hill was recognized not only for his success on the track but for his impact on the sport’s culture. He remained competitive into the 1990s, earning a Veteran Pro World Cup title in 1996 before retiring in 1998, leaving behind a legacy as one of BMX’s most respected champions.
 ```
 
+---
+
 ## Associated source image
 
 ![Greg Hill posed with a BMX bike in race gear in a vintage portrait image](../source-images/source-005-greg-hill-bmx-portrait.png)
 
 Greg Hill poses with a BMX bicycle while wearing race gear in a vintage portrait-style image.
 
+---
+
 ## Normalized archival summary
 
 The entry traces Greg Hill’s rise from early amateur racing through elite professional success, his NORA Cup recognition, and his broader influence through GHP.
+
+---
 
 ## Puzzle verification
 
 - **Verified match count:** 1
 - `R15C2-R18C5 (down-right)`
 
-## Source evidence
+---
 
-- [Profile page capture](../page-captures/page-005-hill-profile.png)
-- [Standalone source image](../source-images/source-005-greg-hill-bmx-portrait.png)
-- [Source transcription](../SOURCE-TRANSCRIPTIONS.md#source-005-hill)
-
-## Verification notes
+## Critical verification findings
 
 - No special exception identified in the supplied source set.
 - No additional source-image text is transcribed.
@@ -48,3 +66,33 @@ The entry traces Greg Hill’s rise from early amateur racing through elite prof
 ---
 
 [← Patterson](./04-patterson.md) | [Back to resource index](../README.md) | [Miranda →](./06-miranda.md)
+
+---
+
+## Preserved public learning-page capture
+
+![Full archived capture of the Hill Interactive BMX Word Search learning page](../page-captures/page-005-hill-profile.png)
+
+This full-page capture preserves the public presentation, image placement, headings, and surrounding learning context as supplied for the archive.
+
+---
+
+## Core documentation
+
+- [Profile page capture](../page-captures/page-005-hill-profile.png)
+- [Standalone source image](../source-images/source-005-greg-hill-bmx-portrait.png)
+- [Source transcription](../SOURCE-TRANSCRIPTIONS.md#source-005-hill)
+- [Word Search archive overview](../README.md)
+- [Puzzle verification and coordinate map](../puzzle/PUZZLE-VERIFICATION.md)
+- [Image manifest](../IMAGE-MANIFEST.csv)
+- [SHA-256 fixity manifest](../SHA256SUMS.txt)
+
+---
+
+## Preservation note
+
+The Google Site remains the primary public learning experience. This GitHub page provides a durable, searchable, accessible presentation of the published profile while preserving its associated image, full-page capture, puzzle evidence, transcription, and verification record.
+
+---
+
+[← Patterson](./04-patterson.md) | [Word Search overview](../README.md) | [Learning Resources](../../README.md) | [Miranda →](./06-miranda.md)
