@@ -20,8 +20,10 @@ A 20 × 20 BMX-history word search with 17 published terms. Each term now opens 
 
 ### [BMX History Quiz Series](quizzes/)
 
-An eleven-part BMX history quiz series covering the Early Days through 1986. Each entry preserves the published quiz, its supporting BMX Action source article, transcriptions, question-level documentation, known discrepancies, and source images.
+[![BMX History Quiz Series — The Early Days](quizzes/early-days/source-images/source-001-early-days-quiz-master.png)](quizzes/)
 
-**Status:** Complete archived sequence through 1986 / archived package v1.0
+A chronological learning series pairing eleven published BMX history quizzes—from **The Early Days** through **1986**—with their supporting historical article sources, exact transcriptions, verified answer ledgers, documented discrepancies, source images, page captures, and fixity records.
+
+**Status:** Complete archived sequence through 1986 / archived package v1.1
 
 [Open the BMX History Quiz Series archive](quizzes/)
