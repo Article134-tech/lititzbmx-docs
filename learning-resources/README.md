@@ -13,3 +13,11 @@ A 20 × 20 BMX-history word search with 17 published terms. Each listed term con
 **Status:** Active learning resource / archived package v1.0
 
 [Open the Interactive BMX Word Search archive](word-search/)
+
+### [BMX History Quiz Series](quizzes/)
+
+An eleven-part BMX history quiz series covering the Early Days through 1986. Each entry preserves the published quiz, its supporting BMX Action source article, transcriptions, question-level documentation, known discrepancies, and source images.
+
+**Status:** Complete archived sequence through 1986 / archived package v1.0
+
+[Open the BMX History Quiz Series archive](quizzes/)
