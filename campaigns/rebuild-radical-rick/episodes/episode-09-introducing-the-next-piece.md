@@ -1,5 +1,7 @@
 # Episode 9: Introducing the Next Piece
 
+[← Episode 8](episode-08-another-angle-of-the-build.md) | [Episode index](README.md) | [Episode 10 →](episode-10-looking-for-color.md)
+
 ## Episode Identification
 
 **Campaign:** #RebuildRadicalRick  
@@ -9,7 +11,18 @@
 **Chronological position:** 9  
 **Record status:** Verified  
 **Original platform:** Facebook  
-**Produced by:** Lititz BMX
+**Produced by:** Lititz BMX  
+**Archive display version:** 1.1
+
+---
+
+## Resource Structure
+
+1. Preserved original social-media post image
+2. Original published campaign text
+3. Normalized episode summary and archival context
+4. Full public archive-page capture
+5. Source documentation and verification notes
 
 ---
 
@@ -28,6 +41,14 @@ Episode 9 introduced the figure’s separate head component while announcing tha
 The accompanying image positioned the head beside *Radical Rick: The Complete Episodes*, which became the focus of a community giveaway connected with the campaign.
 
 The episode explained the giveaway terms, directed audiences to the Lititz BMX YouTube channel for the eventual winner announcement, and invited listeners to explore the Fireside BMX Chat with Radical Rick creator Damian X. Fulton.
+
+---
+
+## Published Social-Media Source Image
+
+![The original March 19, 2025 social-media post introducing the detached Radical Rick head component.](../source-images/episode-09-facebook-post.png)
+
+*The screenshot above is preserved as the visual source record for the published campaign post. The transcription below remains separate so the wording is searchable and accessible.*
 
 ---
 
@@ -95,12 +116,22 @@ The post also repeated the distinction between Lititz BMX and the official Radic
 
 ---
 
+## Preserved Public Archive Page Capture
+
+![The Lititz BMX public archive page for Episode 9, Introducing the Next Piece.](../page-captures/episode-09-page-capture.png)
+
+*This full-page capture preserves the public Lititz BMX presentation, including layout, image placement, campaign text, and navigation as supplied during the July 2026 archive build.*
+
+---
+
 ## Source Documentation
 
 **Campaign ledger:**  
 [Rebuild Radical Rick Campaign Ledger](../ledger/Rebuild-Radical-Rick-Campaign-Ledger-v1.0.md)
 
-**Source image or screenshot:** Not yet archived in this repository
+**Published-post screenshot:** [Open preserved source image](../source-images/episode-09-facebook-post.png)  
+**Public-page capture:** [Open preserved page capture](../page-captures/episode-09-page-capture.png)  
+**Image-evidence status:** Verified and visibly presented in this record
 
 **Source-text status:** Verified from the supplied screenshot, campaign-page transcription, and public archive page
 
@@ -127,3 +158,7 @@ The post also repeated the distinction between Lititz BMX and the official Radic
 This episode record separates original campaign language from later archival explanation.
 
 The verified post wording is preserved in the **Original Published Text** section. The episode summary and archival context were written later to explain the record and do not replace or alter the original source.
+
+---
+
+[← Episode 8](episode-08-another-angle-of-the-build.md) | [Episode index](README.md) | [Episode 10 →](episode-10-looking-for-color.md)

@@ -1,5 +1,7 @@
 # Episode 14: A New Racer Has Been Born
 
+[← Episode 13](episode-13-more-than-the-character.md) | [Episode index](README.md) | [Episode 15 →](episode-15-the-lost-episode.md)
+
 ## Episode Identification
 
 **Campaign:** #RebuildRadicalRick  
@@ -9,7 +11,18 @@
 **Chronological position:** 15  
 **Record status:** Verified  
 **Original platform:** Facebook  
-**Produced by:** Lititz BMX
+**Produced by:** Lititz BMX  
+**Archive display version:** 1.1
+
+---
+
+## Resource Structure
+
+1. Preserved original social-media post image
+2. Original published campaign text
+3. Normalized episode summary and archival context
+4. Full public archive-page capture
+5. Source documentation and verification notes
 
 ---
 
@@ -30,6 +43,14 @@ The accompanying images presented close views of the completed figure, including
 The post also connected the completed figure with sculptor Takeo “Taco” Tsuhara and directed readers to an article discussing the creation of the anniversary figure.
 
 Although the physical reconstruction was finished, the campaign’s final reveal and giveaway announcement were still several days away.
+
+---
+
+## Published Social-Media Source Image
+
+![The original March 25, 2025 social-media post showing the assembled figure and crediting sculptor Takeo “Taco” Tsuhara.](../source-images/episode-14-facebook-post.png)
+
+*The screenshot above is preserved as the visual source record for the published campaign post. The transcription below remains separate so the wording is searchable and accessible.*
 
 ---
 
@@ -89,12 +110,22 @@ Although the build itself was complete, the campaign continued through additiona
 
 ---
 
+## Preserved Public Archive Page Capture
+
+![The Lititz BMX public archive page for Episode 14, A New Racer Has Been Born.](../page-captures/episode-14-page-capture.png)
+
+*This full-page capture preserves the public Lititz BMX presentation, including layout, image placement, campaign text, and navigation as supplied during the July 2026 archive build.*
+
+---
+
 ## Source Documentation
 
 **Campaign ledger:**  
 [Rebuild Radical Rick Campaign Ledger](../ledger/Rebuild-Radical-Rick-Campaign-Ledger-v1.0.md)
 
-**Source image or screenshot:** Not yet archived in this repository
+**Published-post screenshot:** [Open preserved source image](../source-images/episode-14-facebook-post.png)  
+**Public-page capture:** [Open preserved page capture](../page-captures/episode-14-page-capture.png)  
+**Image-evidence status:** Verified and visibly presented in this record
 
 **Source-text status:** Verified from the supplied screenshot, campaign-page transcription, and public archive page
 
@@ -123,3 +154,7 @@ This episode record separates original campaign language from later archival exp
 The verified post wording is preserved in the **Original Published Text** section.
 
 The episode summary and archival context were written later to explain the reconstruction milestone, chronology, and surviving source material. They do not replace or alter the original campaign record.
+
+---
+
+[← Episode 13](episode-13-more-than-the-character.md) | [Episode index](README.md) | [Episode 15 →](episode-15-the-lost-episode.md)

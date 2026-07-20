@@ -1,5 +1,7 @@
 # Episode 5: Forward Facing
 
+[← Episode 4](episode-04-the-other-side.md) | [Episode index](README.md) | [Episode 6 →](episode-06-showing-some-love.md)
+
 ## Episode Identification
 
 **Campaign:** #RebuildRadicalRick  
@@ -9,7 +11,18 @@
 **Chronological position:** 5  
 **Record status:** Verified  
 **Original platform:** Facebook  
-**Produced by:** Lititz BMX
+**Produced by:** Lititz BMX  
+**Archive display version:** 1.1
+
+---
+
+## Resource Structure
+
+1. Preserved original social-media post image
+2. Original published campaign text
+3. Normalized episode summary and archival context
+4. Full public archive-page capture
+5. Source documentation and verification notes
 
 ---
 
@@ -28,6 +41,14 @@ Episode 5 presented the front view of the unassembled 40th Anniversary Radical R
 This was the final examination of the primary body component before the campaign began introducing and attaching the figure’s remaining pieces.
 
 The post also connected the figure to the preservation value of the original Radical Rick comics, describing them as a record of BMX’s early development and growing cultural prominence.
+
+---
+
+## Published Social-Media Source Image
+
+![The original March 15, 2025 social-media post showing the front of the headless Radical Rick body component.](../source-images/episode-05-facebook-post.png)
+
+*The screenshot above is preserved as the visual source record for the published campaign post. The transcription below remains separate so the wording is searchable and accessible.*
 
 ---
 
@@ -78,12 +99,22 @@ The post’s preservation statement framed Radical Rick comics as historical rec
 
 ---
 
+## Preserved Public Archive Page Capture
+
+![The Lititz BMX public archive page for Episode 5, Forward Facing.](../page-captures/episode-05-page-capture.png)
+
+*This full-page capture preserves the public Lititz BMX presentation, including layout, image placement, campaign text, and navigation as supplied during the July 2026 archive build.*
+
+---
+
 ## Source Documentation
 
 **Campaign ledger:**  
 [Rebuild Radical Rick Campaign Ledger](../ledger/Rebuild-Radical-Rick-Campaign-Ledger-v1.0.md)
 
-**Source image or screenshot:** Not yet archived in this repository
+**Published-post screenshot:** [Open preserved source image](../source-images/episode-05-facebook-post.png)  
+**Public-page capture:** [Open preserved page capture](../page-captures/episode-05-page-capture.png)  
+**Image-evidence status:** Verified and visibly presented in this record
 
 **Source-text status:** Verified from the supplied screenshot, campaign-page transcription, and public archive page
 
@@ -107,3 +138,7 @@ The post’s preservation statement framed Radical Rick comics as historical rec
 This episode record separates original campaign language from later archival explanation.
 
 The verified post wording is preserved in the **Original Published Text** section. The episode summary and archival context were written later to explain the record and do not replace or alter the original source.
+
+---
+
+[← Episode 4](episode-04-the-other-side.md) | [Episode index](README.md) | [Episode 6 →](episode-06-showing-some-love.md)

@@ -1,5 +1,7 @@
 # Episode 16: The Build is Complete
 
+[← Episode 15](episode-15-the-lost-episode.md) | [Episode index](README.md) | [Episode 17 →](episode-17-final-clues.md)
+
 ## Episode Identification
 
 **Campaign:** #RebuildRadicalRick  
@@ -9,7 +11,18 @@
 **Chronological position:** 17  
 **Record status:** Verified  
 **Original platform:** Facebook  
-**Produced by:** Lititz BMX
+**Produced by:** Lititz BMX  
+**Archive display version:** 1.1
+
+---
+
+## Resource Structure
+
+1. Preserved original social-media post image
+2. Original published campaign text
+3. Normalized episode summary and archival context
+4. Full public archive-page capture
+5. Source documentation and verification notes
 
 ---
 
@@ -29,6 +42,14 @@ Episode 16 presented a final one-day teaser before the conclusion of the #Rebuil
 The accompanying image showed the completed figure’s head positioned in front of *Radical Rick: The Complete Episodes*, while the brief post announced that everything would be revealed the following day.
 
 Although Episode 14 had already documented completion of the physical reconstruction, Episode 16 shifted the campaign toward its final reveal, giveaway result, and retrospective video.
+
+---
+
+## Published Social-Media Source Image
+
+![The original March 27, 2025 social-media post using the completed helmeted head as the final teaser.](../source-images/episode-16-facebook-post.png)
+
+*The screenshot above is preserved as the visual source record for the published campaign post. The transcription below remains separate so the wording is searchable and accessible.*
 
 ---
 
@@ -79,12 +100,22 @@ The brevity of the post distinguished it from the more detailed historical and e
 
 ---
 
+## Preserved Public Archive Page Capture
+
+![The Lititz BMX public archive page for Episode 16, The Build is Complete.](../page-captures/episode-16-page-capture.png)
+
+*This full-page capture preserves the public Lititz BMX presentation, including layout, image placement, campaign text, and navigation as supplied during the July 2026 archive build.*
+
+---
+
 ## Source Documentation
 
 **Campaign ledger:**  
 [Rebuild Radical Rick Campaign Ledger](../ledger/Rebuild-Radical-Rick-Campaign-Ledger-v1.0.md)
 
-**Source image or screenshot:** Not yet archived in this repository
+**Published-post screenshot:** [Open preserved source image](../source-images/episode-16-facebook-post.png)  
+**Public-page capture:** [Open preserved page capture](../page-captures/episode-16-page-capture.png)  
+**Image-evidence status:** Verified and visibly presented in this record
 
 **Source-text status:** Verified from the supplied screenshot and campaign-page transcription
 
@@ -113,3 +144,7 @@ This episode record separates original campaign language from later archival exp
 The complete verified post wording is preserved in the **Original Published Text** section.
 
 The episode summary and archival context were written later to explain the post’s placement within the campaign countdown. They do not replace or alter the original campaign record.
+
+---
+
+[← Episode 15](episode-15-the-lost-episode.md) | [Episode index](README.md) | [Episode 17 →](episode-17-final-clues.md)

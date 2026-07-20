@@ -1,5 +1,7 @@
 # Episode 1: We Can Rebuild Him — The Puzzle Begins
 
+[← Campaign overview](../README.md) | [Episode index](README.md) | [Episode 2 →](episode-02-a-different-angle.md)
+
 ## Episode Identification
 
 **Campaign:** #RebuildRadicalRick  
@@ -9,7 +11,18 @@
 **Chronological position:** 1  
 **Record status:** Verified  
 **Original platform:** Facebook  
-**Produced by:** Lititz BMX
+**Produced by:** Lititz BMX  
+**Archive display version:** 1.1
+
+---
+
+## Resource Structure
+
+1. Preserved original social-media post image
+2. Original published campaign text
+3. Normalized episode summary and archival context
+4. Full public archive-page capture
+5. Source documentation and verification notes
 
 ---
 
@@ -29,6 +42,14 @@ Episode 1 introduced the #RebuildRadicalRick campaign by presenting the primary 
 The post invited the public to follow the reconstruction over the following days and established basic historical context by noting that Radical Rick first appeared in the January 1980 issue of *BMX Plus!* Magazine.
 
 The phrase “We can rebuild him” established the campaign’s central concept: documenting the figure’s reconstruction one piece at a time through a serialized public story.
+
+---
+
+## Published Social-Media Source Image
+
+![The original March 12, 2025 social-media post showing the headless Radical Rick figure from the rear.](../source-images/episode-01-facebook-post.png)
+
+*The screenshot above is preserved as the visual source record for the published campaign post. The transcription below remains separate so the wording is searchable and accessible.*
 
 ---
 
@@ -79,12 +100,22 @@ Episode 1 remains on the primary campaign page rather than on a separate numbere
 
 ---
 
+## Preserved Public Archive Page Capture
+
+![A full Lititz BMX campaign-page capture introducing Episode 1 and the #RebuildRadicalRick reconstruction puzzle.](../page-captures/episode-01-page-capture.png)
+
+*This full-page capture preserves the public Lititz BMX presentation, including layout, image placement, campaign text, and navigation as supplied during the July 2026 archive build.*
+
+---
+
 ## Source Documentation
 
 **Campaign ledger:**  
 [Rebuild Radical Rick Campaign Ledger](../ledger/Rebuild-Radical-Rick-Campaign-Ledger-v1.0.md)
 
-**Source image or screenshot:** Not yet archived in this repository
+**Published-post screenshot:** [Open preserved source image](../source-images/episode-01-facebook-post.png)  
+**Public-page capture:** [Open preserved page capture](../page-captures/episode-01-page-capture.png)  
+**Image-evidence status:** Verified and visibly presented in this record
 
 **Source-text status:** Verified from the supplied screenshot, campaign-page transcription, and public archive page
 
@@ -107,3 +138,7 @@ Episode 1 remains on the primary campaign page rather than on a separate numbere
 This episode record separates original campaign language from later archival explanation.
 
 The verified post wording is preserved in the **Original Published Text** section. The episode summary and archival context were written later to explain the record and do not replace or alter the original source.
+
+---
+
+[← Campaign overview](../README.md) | [Episode index](README.md) | [Episode 2 →](episode-02-a-different-angle.md)

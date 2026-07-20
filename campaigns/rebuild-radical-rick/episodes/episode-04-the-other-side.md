@@ -1,5 +1,7 @@
 # Episode 4: The Other Side
 
+[← Episode 3](episode-03-the-left-side.md) | [Episode index](README.md) | [Episode 5 →](episode-05-forward-facing.md)
+
 ## Episode Identification
 
 **Campaign:** #RebuildRadicalRick  
@@ -9,7 +11,18 @@
 **Chronological position:** 4  
 **Record status:** Verified  
 **Original platform:** Facebook  
-**Produced by:** Lititz BMX
+**Produced by:** Lititz BMX  
+**Archive display version:** 1.1
+
+---
+
+## Resource Structure
+
+1. Preserved original social-media post image
+2. Original published campaign text
+3. Normalized episode summary and archival context
+4. Full public archive-page capture
+5. Source documentation and verification notes
 
 ---
 
@@ -29,6 +42,14 @@ Episode 4 completed the opening examination of the figure’s primary body compo
 The post continued the campaign’s mixture of physical documentation, humor, and Radical Rick history by referencing the character’s fictional “overproductive rad gland.”
 
 It also directed audiences to the larger campaign and the Fireside BMX Chat featuring Radical Rick creator Damian Fulton.
+
+---
+
+## Published Social-Media Source Image
+
+![The original March 14, 2025 social-media post showing the opposite side of the headless Radical Rick body component.](../source-images/episode-04-facebook-post.png)
+
+*The screenshot above is preserved as the visual source record for the published campaign post. The transcription below remains separate so the wording is searchable and accessible.*
 
 ---
 
@@ -79,12 +100,22 @@ The “overproductive rad gland” reference preserved the humor associated with
 
 ---
 
+## Preserved Public Archive Page Capture
+
+![The Lititz BMX public archive page for Episode 4, The Other Side.](../page-captures/episode-04-page-capture.png)
+
+*This full-page capture preserves the public Lititz BMX presentation, including layout, image placement, campaign text, and navigation as supplied during the July 2026 archive build.*
+
+---
+
 ## Source Documentation
 
 **Campaign ledger:**  
 [Rebuild Radical Rick Campaign Ledger](../ledger/Rebuild-Radical-Rick-Campaign-Ledger-v1.0.md)
 
-**Source image or screenshot:** Not yet archived in this repository
+**Published-post screenshot:** [Open preserved source image](../source-images/episode-04-facebook-post.png)  
+**Public-page capture:** [Open preserved page capture](../page-captures/episode-04-page-capture.png)  
+**Image-evidence status:** Verified and visibly presented in this record
 
 **Source-text status:** Verified from the supplied screenshot and campaign-page transcription
 
@@ -107,3 +138,7 @@ The “overproductive rad gland” reference preserved the humor associated with
 This episode record separates original campaign language from later archival explanation.
 
 The verified post wording is preserved in the **Original Published Text** section. The episode summary and archival context were written later to explain the record and do not replace or alter the original source.
+
+---
+
+[← Episode 3](episode-03-the-left-side.md) | [Episode index](README.md) | [Episode 5 →](episode-05-forward-facing.md)

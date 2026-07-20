@@ -1,5 +1,7 @@
 # Episode 19: The Finale
 
+[← Episode 18](episode-18-all-will-be-revealed.md) | [Episode index](README.md) | [Campaign overview →](../README.md)
+
 ## Episode Identification
 
 **Campaign:** #RebuildRadicalRick  
@@ -9,7 +11,18 @@
 **Chronological position:** 18  
 **Record status:** Verified  
 **Original platform:** Facebook  
-**Produced by:** Lititz BMX
+**Produced by:** Lititz BMX  
+**Archive display version:** 1.1
+
+---
+
+## Resource Structure
+
+1. Preserved original social-media post image
+2. Original published campaign text
+3. Normalized episode summary and archival context
+4. Full public archive-page capture
+5. Source documentation and verification notes
 
 ---
 
@@ -29,6 +42,14 @@ Episode 19 concluded the #RebuildRadicalRick campaign with the announcement that
 The episode recapped the reconstruction of the 40th Anniversary Radical Rick figure, thanked the participating community, and presented the completed campaign as a celebration of BMX history, comic culture, preservation, and shared enthusiasm.
 
 The grand prize was a copy of *Radical Rick: The Complete Episodes*. The supplied campaign-page text does not identify the winner by name, so that information remains subject to verification through the final video.
+
+---
+
+## Published Social-Media Source Image
+
+![The original March 28, 2025 finale post announcing the campaign conclusion, giveaway selection, and final video.](../source-images/episode-19-facebook-post.png)
+
+*The screenshot above is preserved as the visual source record for the published campaign post. The transcription below remains separate so the wording is searchable and accessible.*
 
 ---
 
@@ -94,12 +115,22 @@ The episode’s press-release format also documented Kyle A. Huffman’s role as
 
 ---
 
+## Preserved Public Archive Page Capture
+
+![The Lititz BMX public archive page for Episode 19, The Finale.](../page-captures/episode-19-page-capture.png)
+
+*This full-page capture preserves the public Lititz BMX presentation, including layout, image placement, campaign text, and navigation as supplied during the July 2026 archive build.*
+
+---
+
 ## Source Documentation
 
 **Campaign ledger:**  
 [Rebuild Radical Rick Campaign Ledger](../ledger/Rebuild-Radical-Rick-Campaign-Ledger-v1.0.md)
 
-**Source image or screenshot:** Not yet archived in this repository
+**Published-post screenshot:** [Open preserved source image](../source-images/episode-19-facebook-post.png)  
+**Public-page capture:** [Open preserved page capture](../page-captures/episode-19-page-capture.png)  
+**Image-evidence status:** Verified and visibly presented in this record
 
 **Source-text status:** Verified from the supplied screenshot, campaign-page transcription, and public archive page
 
@@ -133,3 +164,7 @@ This episode record separates original campaign language from later archival exp
 The complete verified campaign-page wording is preserved in the **Original Published Text** section, including its original grammar, punctuation, and the phrase “final shadow.”
 
 The episode summary, archival context, and verification notes were written later to explain the finale, giveaway, unresolved winner verification, and campaign chronology. They do not replace or alter the original campaign record.
+
+---
+
+[← Episode 18](episode-18-all-will-be-revealed.md) | [Episode index](README.md) | [Campaign overview →](../README.md)

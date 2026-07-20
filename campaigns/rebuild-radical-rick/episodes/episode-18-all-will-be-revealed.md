@@ -1,5 +1,7 @@
 # Episode 18: All Will Be Revealed
 
+[← Episode 17](episode-17-final-clues.md) | [Episode index](README.md) | [Episode 19 →](episode-19-the-finale.md)
+
 ## Episode Identification
 
 **Campaign:** #RebuildRadicalRick  
@@ -9,7 +11,18 @@
 **Chronological position:** 16  
 **Record status:** Verified  
 **Original platform:** Facebook  
-**Produced by:** Lititz BMX
+**Produced by:** Lititz BMX  
+**Archive display version:** 1.1
+
+---
+
+## Resource Structure
+
+1. Preserved original social-media post image
+2. Original published campaign text
+3. Normalized episode summary and archival context
+4. Full public archive-page capture
+5. Source documentation and verification notes
 
 ---
 
@@ -29,6 +42,14 @@ Episode 18 continued the final countdown toward the conclusion of the #RebuildRa
 The accompanying image showed the completed Radical Rick figure positioned over a copy of *Radical Rick: The Complete Episodes*. The post personified the figure as continuing to learn about Damian Fulton and the history surrounding the character.
 
 With two days remaining before the finale, the episode invited followers to reflect on what they had learned and identify their favorite part of the campaign.
+
+---
+
+## Published Social-Media Source Image
+
+![The original March 26, 2025 social-media post showing the assembled figure with Damian Fulton material before the finale.](../source-images/episode-18-facebook-post.png)
+
+*The screenshot above is preserved as the visual source record for the published campaign post. The transcription below remains separate so the wording is searchable and accessible.*
 
 ---
 
@@ -81,12 +102,22 @@ Although officially numbered Episode 18, it was published before Episode 16. The
 
 ---
 
+## Preserved Public Archive Page Capture
+
+![The Lititz BMX public archive page for Episode 18, All Will Be Revealed.](../page-captures/episode-18-page-capture.png)
+
+*This full-page capture preserves the public Lititz BMX presentation, including layout, image placement, campaign text, and navigation as supplied during the July 2026 archive build.*
+
+---
+
 ## Source Documentation
 
 **Campaign ledger:**  
 [Rebuild Radical Rick Campaign Ledger](../ledger/Rebuild-Radical-Rick-Campaign-Ledger-v1.0.md)
 
-**Source image or screenshot:** Not yet archived in this repository
+**Published-post screenshot:** [Open preserved source image](../source-images/episode-18-facebook-post.png)  
+**Public-page capture:** [Open preserved page capture](../page-captures/episode-18-page-capture.png)  
+**Image-evidence status:** Verified and visibly presented in this record
 
 **Source-text status:** Verified from the supplied screenshot and campaign-page transcription
 
@@ -117,3 +148,7 @@ This episode record separates original campaign language from later archival exp
 The complete verified post wording is preserved in the **Original Published Text** section.
 
 The episode summary and archival context were written later to explain the image, countdown, chronology, and audience-reflection prompt. They do not replace or alter the original campaign record.
+
+---
+
+[← Episode 17](episode-17-final-clues.md) | [Episode index](README.md) | [Episode 19 →](episode-19-the-finale.md)

@@ -1,5 +1,7 @@
 # Episode 13: More Than the Character
 
+[← Episode 12](episode-12-inside-ricks-mind.md) | [Episode index](README.md) | [Episode 14 →](episode-14-a-new-racer-has-been-born.md)
+
 ## Episode Identification
 
 **Campaign:** #RebuildRadicalRick  
@@ -9,7 +11,18 @@
 **Chronological position:** 12  
 **Record status:** Verified  
 **Original platform:** Facebook  
-**Produced by:** Lititz BMX
+**Produced by:** Lititz BMX  
+**Archive display version:** 1.1
+
+---
+
+## Resource Structure
+
+1. Preserved original social-media post image
+2. Original published campaign text
+3. Normalized episode summary and archival context
+4. Full public archive-page capture
+5. Source documentation and verification notes
 
 ---
 
@@ -30,6 +43,14 @@ The post highlighted a brief passage describing part of Damian Fulton’s creati
 Rather than focusing only on the fictional character, the episode directed attention toward the creator, the work behind the comic, and the decisions involved in connecting Radical Rick with its original audience.
 
 The post also continued promoting the campaign’s book giveaway.
+
+---
+
+## Published Social-Media Source Image
+
+![The original March 22, 2025 social-media post showing the head component with Damian Fulton creator-history material.](../source-images/episode-13-facebook-post.png)
+
+*The screenshot above is preserved as the visual source record for the published campaign post. The transcription below remains separate so the wording is searchable and accessible.*
 
 ---
 
@@ -86,12 +107,22 @@ The campaign giveaway remained part of the episode’s narrative, encouraging fo
 
 ---
 
+## Preserved Public Archive Page Capture
+
+![The Lititz BMX public archive page for Episode 13, More Than the Character.](../page-captures/episode-13-page-capture.png)
+
+*This full-page capture preserves the public Lititz BMX presentation, including layout, image placement, campaign text, and navigation as supplied during the July 2026 archive build.*
+
+---
+
 ## Source Documentation
 
 **Campaign ledger:**  
 [Rebuild Radical Rick Campaign Ledger](../ledger/Rebuild-Radical-Rick-Campaign-Ledger-v1.0.md)
 
-**Source image or screenshot:** Not yet archived in this repository
+**Published-post screenshot:** [Open preserved source image](../source-images/episode-13-facebook-post.png)  
+**Public-page capture:** [Open preserved page capture](../page-captures/episode-13-page-capture.png)  
+**Image-evidence status:** Verified and visibly presented in this record
 
 **Source-text status:** Verified from the supplied screenshot, campaign-page transcription, and public archive page
 
@@ -119,3 +150,7 @@ This episode record separates original campaign language from later archival exp
 The verified post wording is preserved in the **Original Published Text** section, including the incomplete quotation and shortened web address.
 
 The episode summary and archival context were written later to explain the surviving record and do not replace or alter the original source.
+
+---
+
+[← Episode 12](episode-12-inside-ricks-mind.md) | [Episode index](README.md) | [Episode 14 →](episode-14-a-new-racer-has-been-born.md)

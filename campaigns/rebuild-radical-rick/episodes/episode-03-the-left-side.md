@@ -1,5 +1,7 @@
 # Episode 3: The Left Side
 
+[← Episode 2](episode-02-a-different-angle.md) | [Episode index](README.md) | [Episode 4 →](episode-04-the-other-side.md)
+
 ## Episode Identification
 
 **Campaign:** #RebuildRadicalRick  
@@ -9,7 +11,18 @@
 **Chronological position:** 3  
 **Record status:** Verified  
 **Original platform:** Facebook  
-**Produced by:** Lititz BMX
+**Produced by:** Lititz BMX  
+**Archive display version:** 1.1
+
+---
+
+## Resource Structure
+
+1. Preserved original social-media post image
+2. Original published campaign text
+3. Normalized episode summary and archival context
+4. Full public archive-page capture
+5. Source documentation and verification notes
 
 ---
 
@@ -29,6 +42,14 @@ Episode 3 presented the left side of the unassembled 40th Anniversary Radical Ri
 The post combined the continuing visual reveal with a humorous piece of Radical Rick history: the character did not speak in the comic series. It compared that silence with Silent Bob and invited Kevin Smith to respond.
 
 The episode also directed audiences to the Fireside BMX Chat featuring Radical Rick creator Damian X. Fulton.
+
+---
+
+## Published Social-Media Source Image
+
+![The original March 13, 2025 social-media post showing the left side of the headless Radical Rick body component.](../source-images/episode-03-facebook-post.png)
+
+*The screenshot above is preserved as the visual source record for the published campaign post. The transcription below remains separate so the wording is searchable and accessible.*
 
 ---
 
@@ -78,12 +99,22 @@ The reference to Kevin Smith also extended the post beyond BMX into broader comi
 
 ---
 
+## Preserved Public Archive Page Capture
+
+![The Lititz BMX public archive page for Episode 3, The Left Side.](../page-captures/episode-03-page-capture.png)
+
+*This full-page capture preserves the public Lititz BMX presentation, including layout, image placement, campaign text, and navigation as supplied during the July 2026 archive build.*
+
+---
+
 ## Source Documentation
 
 **Campaign ledger:**  
 [Rebuild Radical Rick Campaign Ledger](../ledger/Rebuild-Radical-Rick-Campaign-Ledger-v1.0.md)
 
-**Source image or screenshot:** Not yet archived in this repository
+**Published-post screenshot:** [Open preserved source image](../source-images/episode-03-facebook-post.png)  
+**Public-page capture:** [Open preserved page capture](../page-captures/episode-03-page-capture.png)  
+**Image-evidence status:** Verified and visibly presented in this record
 
 **Source-text status:** Verified from the supplied screenshot and campaign-page transcription
 
@@ -106,3 +137,7 @@ The reference to Kevin Smith also extended the post beyond BMX into broader comi
 This episode record separates original campaign language from later archival explanation.
 
 The verified post wording is preserved in the **Original Published Text** section. The episode summary and archival context were written later to explain the record and do not replace or alter the original source.
+
+---
+
+[← Episode 2](episode-02-a-different-angle.md) | [Episode index](README.md) | [Episode 4 →](episode-04-the-other-side.md)

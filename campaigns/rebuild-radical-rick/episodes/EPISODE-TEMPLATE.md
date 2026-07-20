@@ -33,6 +33,14 @@ Write a concise archival summary explaining what occurred in this episode and ho
 
 ---
 
+## Published Social-Media Source Image
+
+![Accurate source-image description](../source-images/episode-XX-facebook-post.png)
+
+*Preserve the screenshot as the visual source record and keep the transcription separately searchable.*
+
+---
+
 ## Original Published Text
 
 Preserve the verified original post language below.
@@ -71,6 +79,14 @@ Add verified links associated with the episode.
 
 - [View the complete public campaign](https://sites.google.com/view/lititzbmxinventorylist/campaigns/rebuild-radical-rick-campaigns)
 - ADD INTERVIEW, ARTICLE, VIDEO, ARTIFACT, OR PUBLICATION LINKS
+
+---
+
+## Preserved Public Archive Page Capture
+
+![Accurate full-page description](../page-captures/episode-XX-page-capture.png)
+
+*Preserve the supplied public-page layout and document any source-boundary or duplication issue.*
 
 ---
 

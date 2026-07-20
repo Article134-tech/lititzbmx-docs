@@ -8,6 +8,7 @@ The campaign contains **19 officially numbered episode positions**:
 - **Episode 15 is preserved as an unverified lost episode**
 - The official numbering and verified publication chronology do not always match
 - Missing material has not been reconstructed through assumption
+- Every verified episode record now visibly presents its preserved source screenshot and full public-page capture
 
 ---
 
@@ -71,6 +72,16 @@ Episode 15 retains the known title **Was There More?**
 The surviving public Episode 15 page duplicates the image and text used for Episode 12. The original Episode 15 post, image, publication date, and narrative purpose remain unverified.
 
 [Read the Episode 15 lost-episode record](episode-15-the-lost-episode.md)
+
+---
+
+## Visual Evidence Standard
+
+Each verified episode page displays the surviving social-media source image beside searchable preserved text and also includes the full Lititz BMX public-page capture. Episode 15 displays its duplicate images only within a prominent contaminated-evidence warning.
+
+- [Browse public-page captures](../page-captures/)
+- [Browse social-media source images](../source-images/)
+- [Review the image manifest](../IMAGE-MANIFEST.csv)
 
 ---
 

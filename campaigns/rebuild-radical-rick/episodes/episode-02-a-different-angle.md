@@ -1,5 +1,7 @@
 # Episode 2: A Different Angle
 
+[← Episode 1](episode-01-we-can-rebuild-him-the-puzzle-begins.md) | [Episode index](README.md) | [Episode 3 →](episode-03-the-left-side.md)
+
 ## Episode Identification
 
 **Campaign:** #RebuildRadicalRick  
@@ -9,7 +11,18 @@
 **Chronological position:** 2  
 **Record status:** Verified  
 **Original platform:** Facebook  
-**Produced by:** Lititz BMX
+**Produced by:** Lititz BMX  
+**Archive display version:** 1.1
+
+---
+
+## Resource Structure
+
+1. Preserved original social-media post image
+2. Original published campaign text
+3. Normalized episode summary and archival context
+4. Full public archive-page capture
+5. Source documentation and verification notes
 
 ---
 
@@ -26,6 +39,14 @@
 Episode 2 presented a different view of the starting figure component, showing the underside and lower portion of the unassembled 40th Anniversary Radical Rick figure.
 
 The post expanded the campaign beyond the physical reconstruction by directing readers toward contemporary Radical Rick artwork, hand-painted clipboards, related figures, and the Fireside BMX Chat with Radical Rick creator Damian X. Fulton.
+
+---
+
+## Published Social-Media Source Image
+
+![The original March 12, 2025 social-media post showing the detached Radical Rick lower-body component from underneath.](../source-images/episode-02-facebook-post.png)
+
+*The screenshot above is preserved as the visual source record for the published campaign post. The transcription below remains separate so the wording is searchable and accessible.*
 
 ---
 
@@ -76,12 +97,22 @@ This episode therefore advanced both the visual puzzle and the campaign’s educ
 
 ---
 
+## Preserved Public Archive Page Capture
+
+![The Lititz BMX public archive page for Episode 2, A Different Angle.](../page-captures/episode-02-page-capture.png)
+
+*This full-page capture preserves the public Lititz BMX presentation, including layout, image placement, campaign text, and navigation as supplied during the July 2026 archive build.*
+
+---
+
 ## Source Documentation
 
 **Campaign ledger:**  
 [Rebuild Radical Rick Campaign Ledger](../ledger/Rebuild-Radical-Rick-Campaign-Ledger-v1.0.md)
 
-**Source image or screenshot:** Not yet archived in this repository
+**Published-post screenshot:** [Open preserved source image](../source-images/episode-02-facebook-post.png)  
+**Public-page capture:** [Open preserved page capture](../page-captures/episode-02-page-capture.png)  
+**Image-evidence status:** Verified and visibly presented in this record
 
 **Source-text status:** Verified from the supplied screenshot, campaign-page transcription, and public archive page
 
@@ -104,3 +135,7 @@ This episode therefore advanced both the visual puzzle and the campaign’s educ
 This episode record separates original campaign language from later archival explanation.
 
 The verified post wording is preserved in the **Original Published Text** section. The episode summary and archival context were written later to explain the record and do not replace or alter the original source.
+
+---
+
+[← Episode 1](episode-01-we-can-rebuild-him-the-puzzle-begins.md) | [Episode index](README.md) | [Episode 3 →](episode-03-the-left-side.md)

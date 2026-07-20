@@ -1,5 +1,7 @@
 # Episode 15: The Lost Episode
 
+[← Episode 14](episode-14-a-new-racer-has-been-born.md) | [Episode index](README.md) | [Episode 16 →](episode-16-the-build-is-complete.md)
+
 ## Episode Identification
 
 **Campaign:** #RebuildRadicalRick  
@@ -10,7 +12,18 @@
 **Chronological position:** Not assigned  
 **Record status:** Unverified — Lost Episode  
 **Original platform:** Not yet verified  
-**Produced by:** Lititz BMX
+**Produced by:** Lititz BMX  
+**Archive display version:** 1.1
+
+---
+
+## Resource Structure
+
+1. Preserved original social-media post image
+2. Original published campaign text
+3. Normalized episode summary and archival context
+4. Full public archive-page capture
+5. Source documentation and verification notes
 
 ---
 
@@ -63,6 +76,20 @@ The known title **Was There More?** has been retained because it appears indepen
 
 ---
 
+## Contaminated Surviving Visual Evidence
+
+> **Warning:** The two images below document the surviving Episode 15 page and associated screenshot, but both reproduce Episode 12 material. They are preserved to prove the archival problem and must not be treated as the original Episode 15 image or post.
+
+![The surviving Lititz BMX Episode 15 page capture, which duplicates Episode 12 material and is preserved only as contaminated evidence.](../page-captures/episode-15-page-capture.png)
+
+*Surviving Episode 15 public-page capture — preserved as contaminated evidence.*
+
+![The surviving screenshot associated with Episode 15, which duplicates Episode 12 content and is not accepted as the original Episode 15 source.](../source-images/episode-15-facebook-post.png)
+
+*Associated duplicate source screenshot — preserved for comparison with Episode 12, not authenticated as Episode 15.*
+
+---
+
 ## Comparison Record
 
 - [Read Episode 12: Inside Rick’s Mind](episode-12-inside-ricks-mind.md)
@@ -92,8 +119,9 @@ The known title **Was There More?** has been retained because it appears indepen
 **Campaign ledger:**  
 [Rebuild Radical Rick Campaign Ledger](../ledger/Rebuild-Radical-Rick-Campaign-Ledger-v1.0.md)
 
-**Current Episode 15 archive page:** Available, but its episode content is duplicated from Episode 12
+**Current Episode 15 archive page:** [Preserved page capture](../page-captures/episode-15-page-capture.png); content duplicates Episode 12
 
+**Surviving associated screenshot:** [Preserved contaminated duplicate](../source-images/episode-15-facebook-post.png)  
 **Original Episode 15 screenshot or image:** Not recovered
 
 **Original Episode 15 post text:** Not recovered
@@ -143,3 +171,7 @@ This record documents an absence rather than concealing it.
 Preserving the missing position protects the integrity of the campaign chronology and prevents duplicated or invented material from being presented as the original Episode 15 record.
 
 The title **Was There More?** is retained from the surviving archive page, while all unrecovered details remain explicitly identified as unknown.
+
+---
+
+[← Episode 14](episode-14-a-new-racer-has-been-born.md) | [Episode index](README.md) | [Episode 16 →](episode-16-the-build-is-complete.md)

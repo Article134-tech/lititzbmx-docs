@@ -1,5 +1,7 @@
 # Episode 11: Learning the Past
 
+[← Episode 10](episode-10-looking-for-color.md) | [Episode index](README.md) | [Episode 12 →](episode-12-inside-ricks-mind.md)
+
 ## Episode Identification
 
 **Campaign:** #RebuildRadicalRick  
@@ -9,7 +11,18 @@
 **Chronological position:** 13  
 **Record status:** Verified  
 **Original platform:** Facebook  
-**Produced by:** Lititz BMX
+**Produced by:** Lititz BMX  
+**Archive display version:** 1.1
+
+---
+
+## Resource Structure
+
+1. Preserved original social-media post image
+2. Original published campaign text
+3. Normalized episode summary and archival context
+4. Full public archive-page capture
+5. Source documentation and verification notes
 
 ---
 
@@ -28,6 +41,14 @@ Episode 11 presented the separate Radical Rick head component positioned over th
 The post connected the campaign with Radical Rick creator Damian Fulton’s discussion of anxiety and expanded the episode into a broader message about mental health, personal openness, and the importance of seeking help when needed.
 
 The episode also documented Lititz BMX founder Kyle A. Huffman’s public discussion of living with Bipolar I disorder and included the 988 Suicide and Crisis Lifeline information as originally published.
+
+---
+
+## Published Social-Media Source Image
+
+![The original March 23, 2025 social-media post connecting Damian Fulton, anxiety, mental-health discussion, and the Radical Rick campaign.](../source-images/episode-11-facebook-post.png)
+
+*The screenshot above is preserved as the visual source record for the published campaign post. The transcription below remains separate so the wording is searchable and accessible.*
 
 ---
 
@@ -93,12 +114,22 @@ Kyle A. Huffman’s personal disclosure was part of the original campaign langua
 
 ---
 
+## Preserved Public Archive Page Capture
+
+![The Lititz BMX public archive page for Episode 11, Learning the Past.](../page-captures/episode-11-page-capture.png)
+
+*This full-page capture preserves the public Lititz BMX presentation, including layout, image placement, campaign text, and navigation as supplied during the July 2026 archive build.*
+
+---
+
 ## Source Documentation
 
 **Campaign ledger:**  
 [Rebuild Radical Rick Campaign Ledger](../ledger/Rebuild-Radical-Rick-Campaign-Ledger-v1.0.md)
 
-**Source image or screenshot:** Not yet archived in this repository
+**Published-post screenshot:** [Open preserved source image](../source-images/episode-11-facebook-post.png)  
+**Public-page capture:** [Open preserved page capture](../page-captures/episode-11-page-capture.png)  
+**Image-evidence status:** Verified and visibly presented in this record
 
 **Source-text status:** Verified from the supplied screenshot, campaign-page transcription, and public archive page
 
@@ -127,3 +158,7 @@ This episode record separates original campaign language from later archival exp
 The verified post wording, including the personal mental-health disclosure and crisis-resource information, is preserved in the **Original Published Text** section.
 
 The episode summary and archival context were written later to explain the record and do not replace, reinterpret, or alter the original source.
+
+---
+
+[← Episode 10](episode-10-looking-for-color.md) | [Episode index](README.md) | [Episode 12 →](episode-12-inside-ricks-mind.md)

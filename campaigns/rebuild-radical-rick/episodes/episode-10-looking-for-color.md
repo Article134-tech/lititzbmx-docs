@@ -1,5 +1,7 @@
 # Episode 10: Looking for Color
 
+[← Episode 9](episode-09-introducing-the-next-piece.md) | [Episode index](README.md) | [Episode 11 →](episode-11-learning-the-past.md)
+
 ## Episode Identification
 
 **Campaign:** #RebuildRadicalRick  
@@ -9,7 +11,18 @@
 **Chronological position:** 10  
 **Record status:** Verified  
 **Original platform:** Facebook  
-**Produced by:** Lititz BMX
+**Produced by:** Lititz BMX  
+**Archive display version:** 1.1
+
+---
+
+## Resource Structure
+
+1. Preserved original social-media post image
+2. Original published campaign text
+3. Normalized episode summary and archival context
+4. Full public archive-page capture
+5. Source documentation and verification notes
 
 ---
 
@@ -28,6 +41,14 @@ Episode 10 presented the separate Radical Rick head component in front of a coll
 The post playfully suggested that the figure’s head had become distracted while reading the softcover book associated with the campaign giveaway and might be searching for color ideas.
 
 The episode connected the reconstruction with fan artwork, tattoos, Radical Rick’s early black-and-white presentation, and direct community participation through the question, “What is your favorite Radical Rick tattoo?”
+
+---
+
+## Published Social-Media Source Image
+
+![The original March 20, 2025 social-media post positioning the detached head among Radical Rick artwork and tattoos.](../source-images/episode-10-facebook-post.png)
+
+*The screenshot above is preserved as the visual source record for the published campaign post. The transcription below remains separate so the wording is searchable and accessible.*
 
 ---
 
@@ -82,12 +103,22 @@ The question asking viewers to identify their favorite tattoo encouraged partici
 
 ---
 
+## Preserved Public Archive Page Capture
+
+![The Lititz BMX public archive page for Episode 10, Looking for Color.](../page-captures/episode-10-page-capture.png)
+
+*This full-page capture preserves the public Lititz BMX presentation, including layout, image placement, campaign text, and navigation as supplied during the July 2026 archive build.*
+
+---
+
 ## Source Documentation
 
 **Campaign ledger:**  
 [Rebuild Radical Rick Campaign Ledger](../ledger/Rebuild-Radical-Rick-Campaign-Ledger-v1.0.md)
 
-**Source image or screenshot:** Not yet archived in this repository
+**Published-post screenshot:** [Open preserved source image](../source-images/episode-10-facebook-post.png)  
+**Public-page capture:** [Open preserved page capture](../page-captures/episode-10-page-capture.png)  
+**Image-evidence status:** Verified and visibly presented in this record
 
 **Source-text status:** Verified from the supplied screenshot, campaign-page transcription, and public archive page
 
@@ -114,3 +145,7 @@ This episode record separates original campaign language from later archival exp
 The verified Facebook wording is preserved in the **Original Published Text** section. The shorter question preserved on the public archive page is documented separately rather than being treated as the complete original post.
 
 The episode summary and archival context were written later to explain the record and do not replace or alter either surviving source.
+
+---
+
+[← Episode 9](episode-09-introducing-the-next-piece.md) | [Episode index](README.md) | [Episode 11 →](episode-11-learning-the-past.md)

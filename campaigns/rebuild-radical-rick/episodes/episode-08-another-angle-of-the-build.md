@@ -1,5 +1,7 @@
 # Episode 8: Another Angle of the Build
 
+[← Episode 7](episode-07-two-pieces-joined.md) | [Episode index](README.md) | [Episode 9 →](episode-09-introducing-the-next-piece.md)
+
 ## Episode Identification
 
 **Campaign:** #RebuildRadicalRick  
@@ -9,7 +11,18 @@
 **Chronological position:** 8  
 **Record status:** Verified  
 **Original platform:** Facebook  
-**Produced by:** Lititz BMX
+**Produced by:** Lititz BMX  
+**Archive display version:** 1.1
+
+---
+
+## Resource Structure
+
+1. Preserved original social-media post image
+2. Original published campaign text
+3. Normalized episode summary and archival context
+4. Full public archive-page capture
+5. Source documentation and verification notes
 
 ---
 
@@ -29,6 +42,14 @@ Episode 8 presented another view of the partially reconstructed 40th Anniversary
 The post expanded the reconstruction story through a published recollection from BMX racer Greg Hill, who remembered searching each new issue of *BMX Plus!* for the Radical Rick cartoon and wanting an opportunity to race the character.
 
 The episode invited audiences to consider a fictional race between Greg Hill and Radical Rick while directing them to the Fireside BMX Chat with Radical Rick creator Damian X. Fulton.
+
+---
+
+## Published Social-Media Source Image
+
+![The original March 18, 2025 social-media post showing the partially assembled Radical Rick figure from another angle.](../source-images/episode-08-facebook-post.png)
+
+*The screenshot above is preserved as the visual source record for the published campaign post. The transcription below remains separate so the wording is searchable and accessible.*
 
 ---
 
@@ -90,12 +111,22 @@ The reference to Eddie Fiola indicated that additional rider commentary appeared
 
 ---
 
+## Preserved Public Archive Page Capture
+
+![The Lititz BMX public archive page for Episode 8, Another Angle of the Build.](../page-captures/episode-08-page-capture.png)
+
+*This full-page capture preserves the public Lititz BMX presentation, including layout, image placement, campaign text, and navigation as supplied during the July 2026 archive build.*
+
+---
+
 ## Source Documentation
 
 **Campaign ledger:**  
 [Rebuild Radical Rick Campaign Ledger](../ledger/Rebuild-Radical-Rick-Campaign-Ledger-v1.0.md)
 
-**Source image or screenshot:** Not yet archived in this repository
+**Published-post screenshot:** [Open preserved source image](../source-images/episode-08-facebook-post.png)  
+**Public-page capture:** [Open preserved page capture](../page-captures/episode-08-page-capture.png)  
+**Image-evidence status:** Verified and visibly presented in this record
 
 **Source-text status:** Verified from the supplied screenshot and campaign-page transcription
 
@@ -121,3 +152,7 @@ The reference to Eddie Fiola indicated that additional rider commentary appeared
 This episode record separates original campaign language from later archival explanation.
 
 The verified post wording is preserved in the **Original Published Text** section. The episode summary and archival context were written later to explain the record and do not replace or alter the original source.
+
+---
+
+[← Episode 7](episode-07-two-pieces-joined.md) | [Episode index](README.md) | [Episode 9 →](episode-09-introducing-the-next-piece.md)

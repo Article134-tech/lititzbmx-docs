@@ -3,7 +3,8 @@
 **Status:** Archived  
 **Campaign period:** March 12–28, 2025  
 **Campaign:** #RebuildRadicalRick  
-**Produced by:** Lititz BMX
+**Produced by:** Lititz BMX  
+**Archive display version:** 1.1
 
 ---
 
@@ -14,6 +15,20 @@ In March 2025, Lititz BMX launched a multi-part social-media campaign documentin
 What began as a collection of unidentified figure components became a serialized story connecting BMX history, comic culture, preservation, community participation, and the work of Radical Rick creator Damian Fulton.
 
 The campaign followed the figure piece by piece, explored the history surrounding Radical Rick, incorporated related interviews and archival material, and concluded with a completed figure, a community giveaway, and a final retrospective video.
+
+---
+
+## Visual Campaign Record
+
+### Opening Post
+
+![The original March 12, 2025 campaign-opening post showing the headless Radical Rick figure.](source-images/episode-01-facebook-post.png)
+
+### Final Public Archive Page
+
+![The Lititz BMX public archive page for Episode 19, The Finale.](page-captures/episode-19-page-capture.png)
+
+The individual episode records present all surviving source screenshots and full public-page captures beside the preserved campaign text.
 
 ---
 
@@ -93,6 +108,17 @@ The definitive campaign ledger records each episode’s:
 
 ---
 
+## Visual Evidence and Fixity
+
+- [Image manifest](IMAGE-MANIFEST.csv)
+- [SHA-256 fixity manifest](SHA256SUMS.txt)
+- [Preserved public-page captures](page-captures/)
+- [Preserved social-media source images](source-images/)
+
+The image layer contains **19 full public-page captures** and **19 associated social-media screenshots**. Eighteen episode pairs are verified source records. Episode 15’s pair is deliberately classified as contaminated duplicate evidence.
+
+---
+
 ## Publication Chronology
 
 The verified publication-date sequence is:
@@ -147,7 +173,6 @@ The following items remain open:
 - verification of the Episode 19 giveaway winner through the final video;
 - verification of whether “final shadow” in the finale text was intentional or meant to read “final reveal”;
 - collection of direct Facebook-post URLs where still available;
-- creation of stable filenames for the surviving campaign screenshots.
 
 ---
 

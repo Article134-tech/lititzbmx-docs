@@ -1,5 +1,7 @@
 # Episode 7: Two Pieces Joined
 
+[← Episode 6](episode-06-showing-some-love.md) | [Episode index](README.md) | [Episode 8 →](episode-08-another-angle-of-the-build.md)
+
 ## Episode Identification
 
 **Campaign:** #RebuildRadicalRick  
@@ -9,7 +11,18 @@
 **Chronological position:** 7  
 **Record status:** Verified  
 **Original platform:** Facebook  
-**Produced by:** Lititz BMX
+**Produced by:** Lititz BMX  
+**Archive display version:** 1.1
+
+---
+
+## Resource Structure
+
+1. Preserved original social-media post image
+2. Original published campaign text
+3. Normalized episode summary and archival context
+4. Full public archive-page capture
+5. Source documentation and verification notes
 
 ---
 
@@ -28,6 +41,14 @@ Episode 7 documented the first completed attachment in the reconstruction: the e
 The post presented the partially assembled figure from the rear and invited audiences to continue following the campaign as additional components were added.
 
 This episode marked the first visible transformation from a collection of separate parts into a reconstructed Radical Rick figure.
+
+---
+
+## Published Social-Media Source Image
+
+![The original March 17, 2025 social-media post showing the arm attached to the Radical Rick torso.](../source-images/episode-07-facebook-post.png)
+
+*The screenshot above is preserved as the visual source record for the published campaign post. The transcription below remains separate so the wording is searchable and accessible.*
 
 ---
 
@@ -70,12 +91,22 @@ Although brief, the post represented an important narrative transition. The camp
 
 ---
 
+## Preserved Public Archive Page Capture
+
+![The Lititz BMX public archive page for Episode 7, Two Pieces Joined.](../page-captures/episode-07-page-capture.png)
+
+*This full-page capture preserves the public Lititz BMX presentation, including layout, image placement, campaign text, and navigation as supplied during the July 2026 archive build.*
+
+---
+
 ## Source Documentation
 
 **Campaign ledger:**  
 [Rebuild Radical Rick Campaign Ledger](../ledger/Rebuild-Radical-Rick-Campaign-Ledger-v1.0.md)
 
-**Source image or screenshot:** Not yet archived in this repository
+**Published-post screenshot:** [Open preserved source image](../source-images/episode-07-facebook-post.png)  
+**Public-page capture:** [Open preserved page capture](../page-captures/episode-07-page-capture.png)  
+**Image-evidence status:** Verified and visibly presented in this record
 
 **Source-text status:** Verified from the supplied screenshot, campaign-page transcription, and public archive page
 
@@ -98,3 +129,7 @@ Although brief, the post represented an important narrative transition. The camp
 This episode record separates original campaign language from later archival explanation.
 
 The verified post wording is preserved in the **Original Published Text** section. The episode summary and archival context were written later to explain the record and do not replace or alter the original source.
+
+---
+
+[← Episode 6](episode-06-showing-some-love.md) | [Episode index](README.md) | [Episode 8 →](episode-08-another-angle-of-the-build.md)

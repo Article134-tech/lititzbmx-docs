@@ -1,5 +1,7 @@
 # Episode 6: Showing Some Love
 
+[← Episode 5](episode-05-forward-facing.md) | [Episode index](README.md) | [Episode 7 →](episode-07-two-pieces-joined.md)
+
 ## Episode Identification
 
 **Campaign:** #RebuildRadicalRick  
@@ -9,7 +11,18 @@
 **Chronological position:** 6  
 **Record status:** Verified  
 **Original platform:** Facebook  
-**Produced by:** Lititz BMX
+**Produced by:** Lititz BMX  
+**Archive display version:** 1.1
+
+---
+
+## Resource Structure
+
+1. Preserved original social-media post image
+2. Original published campaign text
+3. Normalized episode summary and archival context
+4. Full public archive-page capture
+5. Source documentation and verification notes
 
 ---
 
@@ -29,6 +42,14 @@ Episode 6 introduced the first separate component to be added to the figure: Rad
 The post used the hand gesture as a playful visual cue, describing the unfinished figure as “showing some love” while announcing that the component would soon be attached.
 
 This episode marked the campaign’s transition from documenting the original body component to actively reconstructing the figure.
+
+---
+
+## Published Social-Media Source Image
+
+![The original March 16, 2025 social-media post showing the separate raised-hand arm component.](../source-images/episode-06-facebook-post.png)
+
+*The screenshot above is preserved as the visual source record for the published campaign post. The transcription below remains separate so the wording is searchable and accessible.*
 
 ---
 
@@ -74,12 +95,22 @@ The episode’s title and wording used the hand gesture to add humor and persona
 
 ---
 
+## Preserved Public Archive Page Capture
+
+![The Lititz BMX public archive page for Episode 6, Showing Some Love.](../page-captures/episode-06-page-capture.png)
+
+*This full-page capture preserves the public Lititz BMX presentation, including layout, image placement, campaign text, and navigation as supplied during the July 2026 archive build.*
+
+---
+
 ## Source Documentation
 
 **Campaign ledger:**  
 [Rebuild Radical Rick Campaign Ledger](../ledger/Rebuild-Radical-Rick-Campaign-Ledger-v1.0.md)
 
-**Source image or screenshot:** Not yet archived in this repository
+**Published-post screenshot:** [Open preserved source image](../source-images/episode-06-facebook-post.png)  
+**Public-page capture:** [Open preserved page capture](../page-captures/episode-06-page-capture.png)  
+**Image-evidence status:** Verified and visibly presented in this record
 
 **Source-text status:** Verified from the supplied screenshot and campaign-page transcription
 
@@ -103,3 +134,7 @@ The episode’s title and wording used the hand gesture to add humor and persona
 This episode record separates original campaign language from later archival explanation.
 
 The verified post wording is preserved in the **Original Published Text** section. The episode summary and archival context were written later to explain the record and do not replace or alter the original source.
+
+---
+
+[← Episode 5](episode-05-forward-facing.md) | [Episode index](README.md) | [Episode 7 →](episode-07-two-pieces-joined.md)
