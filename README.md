@@ -57,7 +57,8 @@ Interactive educational resources combining BMX history, puzzles, profiles, imag
 
 - [Open the Learning Resources library](learning-resources/)
 - [Explore the Interactive BMX Word Search](learning-resources/word-search/)
-
+- [Explore the BMX History Quiz Series](learning-resources/quizzes/)
+  
 ### Campaign Archives
 
 Long-form preservation, restoration, educational, and storytelling campaigns produced by Lititz BMX.
