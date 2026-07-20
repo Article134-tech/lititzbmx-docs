@@ -1,0 +1,7 @@
+﻿record_id,quiz,position,type,prompt,options,source_supported_response,verification_status,evidence,notes
+77-Q01,1977,1,Multiple choice,______ claims to have invented the no-hander/no-footer in 1977.,A. Steve Ruiz | B. Scott Clark | C. Stu Thomsen | D. Dennis Dain,C. Stu Thomsen,Verified,Article callout: Stu claims to have invented the no-hander/no-footer in 1977.,
+77-Q02,1977,2,Open response,__________________ O’Hare <nickname>,,Dirt Clod,Verified,Article refers to “Dirt Clod” O’Hare.,Published placeholder <nickname> is preserved.
+77-Q03,1977,3,Multiple choice,__________________ was known as the “Corona Kid”?,A. Brian Curnell | B. Coy Hudson | C. Kevin McNeal | D. Neil Bonds,C. Kevin McNeal,Verified,Article identifies Kevin McNeal as the man to beat at Corona and names the “Corona Kid” collection.,
+77-Q04,1977,4,Multiple choice,“Get Narly” was:,A. A game of hide-n-seek | B. Losing your grip while mid-jump | C. Catching “big air” | D. Going lake jumping,A. A game of hide-n-seek,Verified,Article: The whole method was to “get Narly”—just a simple game of hide ’n seek.,
+77-Q05,1977,5,Multiple choice,Who was known as the “Perfector of the Table Top”?,A. David Clinton | B. Ted Guilmette | C. Harry Leary | D. Donny Jones,D. Donny Jones,Verified,"Article says Buildin Leapin’ Jones, a.k.a. Donny Jones, was best known as the perfector of the table-top.",
+77-EX01,1977,6,Extra credit,How many individuals made up the founding PRO class?,A. 16 | B. 24 | C. 20 | D. 7,C. 20,Verified,The article’s founding-members list contains 20 names.,
