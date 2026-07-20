@@ -3,7 +3,7 @@
 ## Archived learning resource
 
 **Live learning page:** https://sites.google.com/view/lititzbmxinventorylist/learning-resources/quizzes/1985-bmx-history-quiz  
-**Archive package version:** 1.0  
+**Archive package version:** 1.1  
 **Prepared:** July 19, 2026  
 **Resource type:** Quiz and supporting historical article
 
@@ -30,7 +30,58 @@ This GitHub-ready package preserves the 1985 entry in the Lititz BMX history-qui
 
 ---
 
-## Verified answer summary
+## Published quiz image
+
+![BMX History Quiz: 1985](source-images/source-002-1985-quiz.png)
+
+---
+
+## Complete published quiz transcription
+
+The complete published quiz is displayed below so visitors can take it directly from this archive page. Wording, spelling, capitalization, punctuation, and answer choices remain as published; documented issues are not silently corrected.
+
+**BMX HISTORY QUIZ:**
+
+**1985**
+### 1
+**____________________ WAS THE CLOSEST CHALLENGER TO NO. 1 GREG HILL IN THE NBL.**
+
+### 2
+**____________________ WAS THE CLOSEST CHALLENGER TO NO. 1 GREG HILL IN THE USBA.**
+
+### 3
+**________________ MADE AN EXCLUSIVE DEAL WITH SKYWAY TO MAKE LAVENDER TUFFS.**
+
+- A. BOSS
+- B. CW
+- C. ELF
+- D. GT
+
+### 4
+**TOMMY BRACKENS’ NICKNAME WAS:**
+
+- A. THE HAPPY HUMAN
+- B. THE HUMAN HAMSTER
+- C. THE HUMAN DRAGSTER
+- D. JET FUEL DRAGSTER
+
+### 5
+**________________________ LEFT THE BMX ACTION TRICK TEAM TO GO TO CW.**
+
+- A. R.L. OSBORN
+- B. MIKE BUFF
+- C. EDDIE ROMAN
+- D. MIKE DOMINGUEZ
+
+### Extra Credit
+**“THE AWARD FOR MOST CONTROVERSIAL RIDER IN THE ENTIRE TEN YEARS OF BMX GOES TO...” __________________________**
+
+---
+
+## Verified answers
+
+<details>
+<summary><strong>Reveal verified answers</strong></summary>
 
 | Item | Answer | Evidence classification |
 |---|---|---|
@@ -43,7 +94,8 @@ This GitHub-ready package preserves the 1985 entry in the Lititz BMX history-qui
 
 [Open the complete verified answer key](quiz/1985-verified-answer-key.md)
 
----
+</details>
+
 
 ## Critical verification findings
 
@@ -62,6 +114,15 @@ The missing continuation was not invented or silently supplied.
 [Open the complete critical verification findings](CRITICAL-VERIFICATION-FINDINGS.md)
 
 ---
+
+## Supporting historical source image
+
+![BMX Action 1985 retrospective article spread](source-images/source-001-1985-bmx-action-spread.png)
+
+The complete supporting-source transcription remains available in **Core documentation** below.
+
+---
+
 
 ## Core documentation
 

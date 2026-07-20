@@ -3,7 +3,7 @@
 ## Archived learning resource
 
 **Live learning page:** https://sites.google.com/view/lititzbmxinventorylist/learning-resources/quizzes/1980-bmx-history-quiz  
-**Archive package version:** 1.0  
+**Archive package version:** 1.1  
 **Prepared:** July 19, 2026  
 **Resource type:** Quiz and supporting historical article
 
@@ -30,7 +30,64 @@ This GitHub-ready package preserves the 1980 entry in the Lititz BMX history-qui
 
 ---
 
-## Verified answer summary
+## Published quiz image
+
+![BMX History Quiz: 1980](source-images/source-002-1980-quiz.png)
+
+---
+
+## Complete published quiz transcription
+
+The complete published quiz is displayed below so visitors can take it directly from this archive page. Wording, spelling, capitalization, punctuation, and answer choices remain as published; documented issues are not silently corrected.
+
+**BMX HISTORY QUIZ:**
+
+**1980**
+### 1
+**________ “PRO-BABLY TRIPLED MORE THAN ANYONE IN THE SPORT”**
+
+- A. JASON JENSON
+- B. BOB OSBORN
+- C. STEVE GIBERSON
+- D. RICHIE ANDERSON
+
+### 2
+**____________________ WAS KNOWN AS “GIBEY”?**
+
+### 3
+**“________________ HAS SET AN EXAMPLE THAT IS CLEAN, HEALTHY, HONEST, AND COMPETITIVE.”**
+
+- A. STU THOMSEN
+- B. SCOTT BREITHAUPT
+- C. TED GUILLMETTE
+- D. BRENT PATTERSON
+
+### 4
+**____________ WAS KNOWN AS “THE AVALANCE”.**
+
+- A. RICHIE ANDERSON
+- B. CRAIG COOK
+- C. GREG HILL
+- D. BOB OSBORN
+
+### 5
+**T/F - BOBBY ENCINAS WON THE NO. 1 RIDER NORA CUP.**
+
+### Extra Credit
+**____________ DOES NOT CONDONE STUNT RIDING WITH BMX EQUIPMENT. OUR EFFORT IS IN RACING, NOT “CIRCUS ACTS.”**
+
+### Extra Extra Credit
+**____________ WAS THE NORA CUP NO. 1 TEAM AWARD.**
+
+### Extra Extra Extra Credit
+**WHAT WAS THE NICKNAME OF THE KID WITH “SIZE 4 ½ FOOTPRINTS” HE WAS LEAVING ON AND OFF THE TRACK” (BMXA)?**
+
+---
+
+## Verified answers
+
+<details>
+<summary><strong>Reveal verified answers</strong></summary>
 
 | Item | Answer |
 |---|---|
@@ -45,7 +102,8 @@ This GitHub-ready package preserves the 1980 entry in the Lititz BMX history-qui
 
 [Open the complete verified answer key](quiz/1980-verified-answer-key.md)
 
----
+</details>
+
 
 ## Critical verification findings
 
@@ -72,6 +130,15 @@ Seven answers are supported directly or contextually by the supplied retrospecti
 [Open the complete critical verification findings](CRITICAL-VERIFICATION-FINDINGS.md)
 
 ---
+
+## Supporting historical source image
+
+![BMX Action 1980 retrospective article spread](source-images/source-001-1980-bmx-action-spread.png)
+
+The complete supporting-source transcription remains available in **Core documentation** below.
+
+---
+
 
 ## Core documentation
 

@@ -3,7 +3,7 @@
 ## Archived learning resource
 
 **Live learning page:** https://sites.google.com/view/lititzbmxinventorylist/learning-resources/quizzes/1979-bmx-history-quiz  
-**Archive package version:** 1.0  
+**Archive package version:** 1.1  
 **Prepared:** July 19, 2026  
 **Resource type:** Quiz and supporting historical article
 
@@ -30,7 +30,63 @@ This GitHub-ready package preserves the 1979 entry in the Lititz BMX history-qui
 
 ---
 
-## Verified answer summary
+## Published quiz image
+
+![BMX History Quiz: 1979](source-images/source-002-1979-quiz.png)
+
+---
+
+## Complete published quiz transcription
+
+The complete published quiz is displayed below so visitors can take it directly from this archive page. Wording, spelling, capitalization, punctuation, and answer choices remain as published; documented issues are not silently corrected.
+
+**BMX HISTORY QUIZ:**
+
+**1979**
+### 1
+**________ INVENTED THE ONE-FOOTER IN 1979.**
+
+- A. EDDY KING
+- B. LEE MEDLIN
+- C. KYLE FLEMING
+- D. TIM JUDGE
+
+### 2
+**__________ WAS KNOWN AS THE “COCA COLA COWBOY”.**
+
+### 3
+**WHICH OF THESE RIDERS DID NOT RIDE FOR DG?**
+
+- A. TOBY HENDERSON
+- B. SAL ZUENER
+- C. JEFF BOTTEMA
+- D. HARRY LEARY
+
+### 4
+**__________ WAS RESPONSIBLE FOR THE SUCCESS OF THE JAG WORLD CHAMPIONSHIP SERIES.**
+
+- A. LEE MEDLIN
+- B. RENNY ROKER
+- C. BOB HARO
+- D. DAN OAKLEY
+
+### 5
+**__________ DID THE FIRST ROCK WALK AND STARTED A “MILLION DOLLAR INDUSTRY”.**
+
+- A. JOHN CREWS
+- B. CHRIS HOPKINS
+- C. KYLE FLEMING
+- D. BOB HARO
+
+### Extra Credit
+**WHILE NOT 1979, WHEN DID THE FIRST HARO PLATE APPEAR ON THE COVER OF BMX ACTION MAGAZINE?**
+
+---
+
+## Verified answers
+
+<details>
+<summary><strong>Reveal verified answers</strong></summary>
 
 | Item | Answer |
 |---|---|
@@ -43,7 +99,8 @@ This GitHub-ready package preserves the 1979 entry in the Lititz BMX history-qui
 
 [Open the complete verified answer key](quiz/1979-verified-answer-key.md)
 
----
+</details>
+
 
 ## Critical verification findings
 
@@ -70,6 +127,15 @@ All five main questions and the extra-credit question are supported by the suppl
 [Open the complete critical verification findings](CRITICAL-VERIFICATION-FINDINGS.md)
 
 ---
+
+## Supporting historical source image
+
+![BMX Action 1979 retrospective article spread](source-images/source-001-1979-bmx-action-spread.png)
+
+The complete supporting-source transcription remains available in **Core documentation** below.
+
+---
+
 
 ## Core documentation
 

@@ -2,7 +2,7 @@
 
 ## Published quizzes paired with their supporting historical sources
 
-**Archive package version:** 1.0  
+**Archive package version:** 1.1  
 **Prepared:** July 19, 2026  
 **Series status:** Complete archived sequence through 1986  
 **Governing standard:** The preservation model established for **#RebuildRadicalRick**
@@ -24,17 +24,17 @@ The approved workflow remains locked:
 
 | Quiz | Live resource | Main questions | Extra credit | Unresolved | Archive status |
 |---|---|---:|---:|---:|---|
-| [Early Days](early-days/) | [Open live page](https://sites.google.com/view/lititzbmxinventorylist/learning-resources/quizzes/early-days-bmx-history-quiz) | 5 | 1 | 3 | Source complete; three unresolved main questions and one prompt-supported inference |
-| [1977](1977/) | [Open live page](https://sites.google.com/view/lititzbmxinventorylist/learning-resources/quizzes/1977-bmx-history-quiz) | 5 | 1 | 0 | Source complete / archived package v1.0 |
-| [1978](1978/) | [Open live page](https://sites.google.com/view/lititzbmxinventorylist/learning-resources/quizzes/1978-bmx-history-quiz) | 5 | 1 | 0 | Source complete / archived package v1.0 |
-| [1979](1979/) | [Open live page](https://sites.google.com/view/lititzbmxinventorylist/learning-resources/quizzes/1979-bmx-history-quiz) | 5 | 1 | 0 | Source complete / archived package v1.0 |
-| [1980](1980/) | [Open live page](https://sites.google.com/view/lititzbmxinventorylist/learning-resources/quizzes/1980-bmx-history-quiz) | 5 | 3 | 0 | Source complete / archived package v1.0 |
-| [1981](1981/) | [Open live page](https://sites.google.com/view/lititzbmxinventorylist/learning-resources/quizzes/1981-bmx-history-quiz) | 5 | 2 | 0 | Source complete; cropped-source conditions documented |
-| [1982](1982/) | [Open live page](https://sites.google.com/view/lititzbmxinventorylist/learning-resources/quizzes/1982-bmx-history-quiz) | 5 | 3 | 1 | Source complete; one unresolved extra-credit question |
-| [1983](1983/) | [Open live page](https://sites.google.com/view/lititzbmxinventorylist/learning-resources/quizzes/1983-bmx-history-quiz) | 5 | 2 | 0 | Source complete / archived package v1.0 |
-| [1984](1984/) | [Open live page](https://sites.google.com/view/lititzbmxinventorylist/learning-resources/quizzes/1984-bmx-history-quiz) | 5 | 2 | 0 | Source complete / archived package v1.0 |
-| [1985](1985/) | [Open live page](https://sites.google.com/view/lititzbmxinventorylist/learning-resources/quizzes/1985-bmx-history-quiz) | 5 | 1 | 0 | Source complete / archived package v1.0 |
-| [1986](1986/) | [Open live page](https://sites.google.com/view/lititzbmxinventorylist/learning-resources/quizzes/1986-bmx-history-quiz) | 5 | 1 | 0 | Source complete / archived package v1.0 |
+| [Early Days](early-days/) | [Open live page](https://sites.google.com/view/lititzbmxinventorylist/learning-resources/quizzes/early-days-bmx-history-quiz) | 5 | 1 | 3 | Source complete; three unresolved main questions and one prompt-supported inference / package v1.1 |
+| [1977](1977/) | [Open live page](https://sites.google.com/view/lititzbmxinventorylist/learning-resources/quizzes/1977-bmx-history-quiz) | 5 | 1 | 0 | Source complete / archived package v1.1 |
+| [1978](1978/) | [Open live page](https://sites.google.com/view/lititzbmxinventorylist/learning-resources/quizzes/1978-bmx-history-quiz) | 5 | 1 | 0 | Source complete / archived package v1.1 |
+| [1979](1979/) | [Open live page](https://sites.google.com/view/lititzbmxinventorylist/learning-resources/quizzes/1979-bmx-history-quiz) | 5 | 1 | 0 | Source complete / archived package v1.1 |
+| [1980](1980/) | [Open live page](https://sites.google.com/view/lititzbmxinventorylist/learning-resources/quizzes/1980-bmx-history-quiz) | 5 | 3 | 0 | Source complete / archived package v1.1 |
+| [1981](1981/) | [Open live page](https://sites.google.com/view/lititzbmxinventorylist/learning-resources/quizzes/1981-bmx-history-quiz) | 5 | 2 | 0 | Source complete; cropped-source conditions documented / package v1.1 |
+| [1982](1982/) | [Open live page](https://sites.google.com/view/lititzbmxinventorylist/learning-resources/quizzes/1982-bmx-history-quiz) | 5 | 3 | 1 | Source complete; one unresolved extra-credit question / package v1.1 |
+| [1983](1983/) | [Open live page](https://sites.google.com/view/lititzbmxinventorylist/learning-resources/quizzes/1983-bmx-history-quiz) | 5 | 2 | 0 | Source complete / archived package v1.1 |
+| [1984](1984/) | [Open live page](https://sites.google.com/view/lititzbmxinventorylist/learning-resources/quizzes/1984-bmx-history-quiz) | 5 | 2 | 0 | Source complete / archived package v1.1 |
+| [1985](1985/) | [Open live page](https://sites.google.com/view/lititzbmxinventorylist/learning-resources/quizzes/1985-bmx-history-quiz) | 5 | 1 | 0 | Source complete / archived package v1.1 |
+| [1986](1986/) | [Open live page](https://sites.google.com/view/lititzbmxinventorylist/learning-resources/quizzes/1986-bmx-history-quiz) | 5 | 1 | 0 | Source complete / archived package v1.1 |
 
 ## Core documentation
 

@@ -3,7 +3,7 @@
 ## Archived learning resource
 
 **Live learning page:** https://sites.google.com/view/lititzbmxinventorylist/learning-resources/quizzes/1983-bmx-history-quiz  
-**Archive package version:** 1.0  
+**Archive package version:** 1.1  
 **Prepared:** July 19, 2026  
 **Resource type:** Quiz and supporting historical article
 
@@ -30,7 +30,56 @@ This GitHub-ready package preserves the 1983 entry in the Lititz BMX history-qui
 
 ---
 
-## Verified answer summary
+## Published quiz image
+
+![BMX History Quiz: 1983](source-images/source-002-1983-quiz.png)
+
+---
+
+## Complete published quiz transcription
+
+The complete published quiz is displayed below so visitors can take it directly from this archive page. Wording, spelling, capitalization, punctuation, and answer choices remain as published; documented issues are not silently corrected.
+
+**BMX HISTORY QUIZ:**
+
+**1983**
+### 1
+**A TWO PAGE ARTICLE WAS WRITTEN IN BMXA CALLING A TRICK THE __________ BUT IT BECAME “THE LEARY.”**
+
+### 2
+**____________________ “PROCEEDED TO DESTROY THE AMATEUR CLASSES” BUT DIDN’T TURN PRO THIS YEAR.**
+
+- A. GEORGE SEEVERS
+- B. MIKE POULSON
+- C. RICHIE ANDERSON
+- D. GARY ELLIS
+
+### 3
+**____________ WAITED UNTIL THE LAST RACE OF ’83 TO TURN PRO.**
+
+- A. ERIC RUPE
+- B. GREG GRUBBS
+- C. GARY ELLIS
+- D. ANTHONY SEWELL
+
+### 4
+**T/F - GREG HILL WON HIS FIRST NORA CUP WHILE RIDING FOR HUTCH, THEN LAUNCHED GREG HILL PRODUCTS (GHP) IN OCTOBER ’83, AND BECAME A DAD IN DECEMBER.**
+
+### 5
+**$________ WAS UP FOR GRABS IN THE ESPN SERIES.**
+
+### Extra Credit
+**________________ BROKE HIS WRIST AT THE ESPN FINALS BUT STILL RACED WITH IT.**
+
+### Extra Extra Credit
+**THE ________ TEN CAME OUT.**
+
+---
+
+## Verified answers
+
+<details>
+<summary><strong>Reveal verified answers</strong></summary>
 
 | Item | Answer | Evidence classification |
 |---|---|---|
@@ -44,7 +93,8 @@ This GitHub-ready package preserves the 1983 entry in the Lititz BMX history-qui
 
 [Open the complete verified answer key](quiz/1983-verified-answer-key.md)
 
----
+</details>
+
 
 ## Critical verification findings
 
@@ -63,6 +113,15 @@ The first six races offered $5,000 each. The seventh and final race offered $15,
 [Open the complete critical verification findings](CRITICAL-VERIFICATION-FINDINGS.md)
 
 ---
+
+## Supporting historical source image
+
+![BMX Action 1983 retrospective article spread](source-images/source-001-1983-bmx-action-spread.png)
+
+The complete supporting-source transcription remains available in **Core documentation** below.
+
+---
+
 
 ## Core documentation
 

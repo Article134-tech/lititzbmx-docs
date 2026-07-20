@@ -3,7 +3,7 @@
 ## Archived learning resource
 
 **Live learning page:** https://sites.google.com/view/lititzbmxinventorylist/learning-resources/quizzes/1986-bmx-history-quiz  
-**Archive package version:** 1.0  
+**Archive package version:** 1.1  
 **Prepared:** July 19, 2026  
 **Resource type:** Quiz and supporting historical article
 
@@ -30,7 +30,58 @@ This GitHub-ready package preserves the 1986 entry in the Lititz BMX history-qui
 
 ---
 
-## Verified answer summary
+## Published quiz image
+
+![BMX History Quiz: 1986](source-images/source-002-1986-quiz.png)
+
+---
+
+## Complete published quiz transcription
+
+The complete published quiz is displayed below so visitors can take it directly from this archive page. Wording, spelling, capitalization, punctuation, and answer choices remain as published; documented issues are not silently corrected.
+
+**BMX HISTORY QUIZ:**
+
+**1986**
+### 1
+**THE FLOGGIN’ ZONE GOT FLATTENED ___ MONTH(S) AFTER BEING FEATURED IN BMXA.**
+
+### 2
+**__________ HAD HIS BEST YEAR EVER - WITH A WIN AT THE WORLD CHAMPIONSHIPS IN ENGLAND.**
+
+- A. TOMMY BRACKENS
+- B. RICK PALMER
+- C. ERIC RUPE
+- D. RICHIE ANDERSON
+
+### 3
+**WHO IS QUOTED IN BMXA AS SAYING “THEY KNOW THAT CRAZY RONNIE ACTS LIKE THAT, AND THAT SOMETHING STUPID IS GOING TO HAPPEN. HE’S GOING TO ACT STUPID.” - ______________________________**
+
+- A. RICHIE ANDERSON
+- B. GREG HILL
+- C. PETE LONCAREVICH
+- D. BILLY GRIGGS
+
+### 4
+**IT WAS KNOWN AS “THE YEAR OF _____ SPONSORS.”**
+
+### 5
+**____________ WAS THE BMXA ROOKIE OF THE YEAR.**
+
+- A. TODD LYONS
+- B. MIKE KING
+- C. MATT HADAN
+- D. JON ANDERSON
+
+### Extra Credit
+**________________ “WAS THE FASTEST GIRL IN THE WORLD.”**
+
+---
+
+## Verified answers
+
+<details>
+<summary><strong>Reveal verified answers</strong></summary>
 
 | Item | Answer | Evidence classification |
 |---|---|---|
@@ -43,7 +94,8 @@ This GitHub-ready package preserves the 1986 entry in the Lititz BMX history-qui
 
 [Open the complete verified answer key](quiz/1986-verified-answer-key.md)
 
----
+</details>
+
 
 ## Critical verification findings
 
@@ -58,6 +110,15 @@ The supplied article spread begins after the larger retrospective sequence is un
 [Open the complete critical verification findings](CRITICAL-VERIFICATION-FINDINGS.md)
 
 ---
+
+## Supporting historical source image
+
+![BMX Action 1986 retrospective article spread](source-images/source-001-1986-bmx-action-spread.png)
+
+The complete supporting-source transcription remains available in **Core documentation** below.
+
+---
+
 
 ## Core documentation
 

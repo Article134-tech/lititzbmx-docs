@@ -3,7 +3,7 @@
 ## Archived learning resource
 
 **Live learning page:** https://sites.google.com/view/lititzbmxinventorylist/learning-resources/quizzes/1984-bmx-history-quiz  
-**Archive package version:** 1.0  
+**Archive package version:** 1.1  
 **Prepared:** July 19, 2026  
 **Resource type:** Quiz and supporting historical article
 
@@ -30,7 +30,61 @@ This GitHub-ready package preserves the 1984 entry in the Lititz BMX history-qui
 
 ---
 
-## Verified answer summary
+## Published quiz image
+
+![BMX History Quiz: 1984](source-images/source-002-1984-quiz.png)
+
+---
+
+## Complete published quiz transcription
+
+The complete published quiz is displayed below so visitors can take it directly from this archive page. Wording, spelling, capitalization, punctuation, and answer choices remain as published; documented issues are not silently corrected.
+
+**BMX HISTORY QUIZ:**
+
+**1984**
+### 1
+**ERIC RUPE BEAT GREG HILL BY ___ POINTS TO WIN NBL NO. 1 PRO.**
+
+### 2
+**THE PRIDE OF CW RACING WAS ____ <NICKNAME> ____ LONCAREVICH.**
+
+- A. PITTER PATTER PETE
+- B. PISTOL PETE
+- C. PRETTY-BOY PETE
+- D. PEPTO PETE
+
+### 3
+**____________ WAS A HUGE UP-AND-COMER WHO HAD UPS-AND-DOWNS, AND JOINED PRO NECK.**
+
+- A. DAVE VANDERSPEK
+- B. RON WILKERSON
+- C. HUGO GONZALES
+- D. SHAUN TEXAS
+
+### 4
+**T/F - GREG HILL WON HIS SECOND NORA CUP, BUT HIS FIRST WEARING A GHP JERSEY.**
+
+### 5
+**RONNIE ANDERSON SIGNED WITH ____________.**
+
+- A. FREE AGENT
+- B. PANDA
+- C. CW
+- D. ZERONINE
+
+### Extra Credit
+**____________________ WAS “SOME YOUNG PUNK” WHO WAS “MOVING UP” AND BATTLING IT OUT WITH THE KING - EDDIE FIOLA.**
+
+### Extra Extra Credit
+**T/F TOMMY BRACKENS STARTED THE SEASON WITH TORKER & ENDED WITH HIS OWN COMPANY, TOMMY BRACKENS PRODUCTS (TBP).**
+
+---
+
+## Verified answers
+
+<details>
+<summary><strong>Reveal verified answers</strong></summary>
 
 | Item | Answer | Evidence classification |
 |---|---|---|
@@ -44,7 +98,8 @@ This GitHub-ready package preserves the 1984 entry in the Lititz BMX history-qui
 
 [Open the complete verified answer key](quiz/1984-verified-answer-key.md)
 
----
+</details>
+
 
 ## Critical verification findings
 
@@ -63,6 +118,15 @@ The article says Hill won his second consecutive NORA Cup and that it was his fi
 [Open the complete critical verification findings](CRITICAL-VERIFICATION-FINDINGS.md)
 
 ---
+
+## Supporting historical source image
+
+![BMX Action 1984 retrospective article spread](source-images/source-001-1984-bmx-action-spread.png)
+
+The complete supporting-source transcription remains available in **Core documentation** below.
+
+---
+
 
 ## Core documentation
 

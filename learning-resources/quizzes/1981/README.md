@@ -3,7 +3,7 @@
 ## Archived learning resource
 
 **Live learning page:** https://sites.google.com/view/lititzbmxinventorylist/learning-resources/quizzes/1981-bmx-history-quiz  
-**Archive package version:** 1.0  
+**Archive package version:** 1.1  
 **Prepared:** July 19, 2026  
 **Resource type:** Quiz and supporting historical article
 
@@ -30,7 +30,66 @@ This GitHub-ready package preserves the 1981 entry in the Lititz BMX history-qui
 
 ---
 
-## Verified answer summary
+## Published quiz image
+
+![BMX History Quiz: 1981](source-images/source-002-1981-quiz.png)
+
+---
+
+## Complete published quiz transcription
+
+The complete published quiz is displayed below so visitors can take it directly from this archive page. Wording, spelling, capitalization, punctuation, and answer choices remain as published; documented issues are not silently corrected.
+
+**BMX HISTORY QUIZ:**
+
+**1981**
+### 1
+**________ ENDED HIS ONE-MAN BOYCOTT OF THE ABA.**
+
+- A. JOHN CREWS
+- B. JEFF KOSMALA
+- C. GREG HILL
+- D. JASON JENSEN
+
+### 2
+**T/F - 1981 WAS THE FIRST YEAR OF TALLYING CRUISER POINTS.**
+
+### 3
+**TORKER’S OWNER WAS:**
+
+- A. MIKE KING
+- B. STEVE JOHNSON
+- C. CLINT MILLER
+- D. JASON JENSEN
+
+### 4
+**____________ PANTS WERE THE FASHION LEADER.**
+
+### 5
+**“TRASH CAN” WAS HIS NICKNAME?**
+
+- A. RICH FARSIDE
+- B. BOB MORGAN
+- C. R.L. OSBORN
+- D. BRENT PATTERSON
+
+### Extra Credit
+**____________ HELMETS BECAME “THE ONLY NOGAN-KNOCKER TO WEAR.”**
+
+### Extra Extra Credit
+**THE FIRST PERSON TO PULL OFF A NO-FOOTER/ONE HANDER WAS:**
+
+- A. KEVIN MCNEAL
+- B. MIKE MIRANDA
+- C. STU THOMSEN
+- D. BOB MORGAN
+
+---
+
+## Verified answers
+
+<details>
+<summary><strong>Reveal verified answers</strong></summary>
 
 | Item | Answer | Evidence classification |
 |---|---|---|
@@ -44,7 +103,8 @@ This GitHub-ready package preserves the 1981 entry in the Lititz BMX history-qui
 
 [Open the complete verified answer key](quiz/1981-verified-answer-key.md)
 
----
+</details>
+
 
 ## Critical verification findings
 
@@ -67,6 +127,15 @@ The surviving source fragment connects JMC with the stylish-rider discussion ass
 [Open the complete critical verification findings](CRITICAL-VERIFICATION-FINDINGS.md)
 
 ---
+
+## Supporting historical source image
+
+![BMX Action 1981 retrospective article spread](source-images/source-001-1981-bmx-action-spread.png)
+
+The complete supporting-source transcription remains available in **Core documentation** below.
+
+---
+
 
 ## Core documentation
 

@@ -3,7 +3,7 @@
 ## Archived learning resource
 
 **Live learning page:** https://sites.google.com/view/lititzbmxinventorylist/learning-resources/quizzes/1978-bmx-history-quiz  
-**Archive package version:** 1.0  
+**Archive package version:** 1.1  
 **Prepared:** July 19, 2026  
 **Resource type:** Quiz and supporting historical article
 
@@ -30,7 +30,68 @@ This GitHub-ready package preserves the 1978 entry in the Lititz BMX history-qui
 
 ---
 
-## Verified answer summary
+## Published quiz image
+
+![BMX History Quiz: 1978](source-images/source-002-1978-quiz.png)
+
+---
+
+## Complete published quiz transcription
+
+The complete published quiz is displayed below so visitors can take it directly from this archive page. Wording, spelling, capitalization, punctuation, and answer choices remain as published; documented issues are not silently corrected.
+
+**BMX HISTORY QUIZ:**
+
+**1978**
+### 1
+**_____ WON THE VERY FIRST NORA CUP.**
+
+- A. STANLEY ROBINSON
+- B. BOBBY ENCINAS
+- C. JEFF UTTERBACK
+- D. STEVE SKIBEL
+
+### 2
+**JEFF RUIMNER CAME FROM __________ `<STATE>`**
+
+### 3
+**WHERE WAS KINGS BMX TRACK?**
+
+- A. LITITZ, PA
+- B. SAN DIEGO, CA
+- C. MODESTO, CA
+- D. SARASOTA, FL
+
+### 4
+**_____ FOUND NUMBER PLATES TO BE PROFITABLE.**
+
+- A. JT
+- B. ASHTABULA
+- C. BOB HARO
+- D. DAN OAKLEY
+
+### 5
+**THE NBA DID __________________ OF PROMOTION.**
+
+- A. “ALMOST ZILCH JOB”
+- B. “BETTER THAN USA BMX”
+- C. “INFLATE THE BALL”
+- D. “NOT HOLD BACK ANY EXPENSE”
+
+### Extra Credit
+**WHEELS ’N THINGS BIKE SHOP WAS IN**
+
+- A. SAN DIEGO, CA
+- B. OAKLAND, CA
+- C. LANSING, MI
+- D. PITTSBURG, PA
+
+---
+
+## Verified answers
+
+<details>
+<summary><strong>Reveal verified answers</strong></summary>
 
 | Item | Answer |
 |---|---|
@@ -43,7 +104,8 @@ This GitHub-ready package preserves the 1978 entry in the Lititz BMX history-qui
 
 [Open the complete verified answer key](quiz/1978-verified-answer-key.md)
 
----
+</details>
+
 
 ## Critical verification findings
 
@@ -64,6 +126,15 @@ All five main questions and the extra-credit question are answerable from the su
 [Open the complete critical verification findings](CRITICAL-VERIFICATION-FINDINGS.md)
 
 ---
+
+## Supporting historical source image
+
+![BMX Action 1978 retrospective article spread](source-images/source-001-1978-bmx-action-spread.png)
+
+The complete supporting-source transcription remains available in **Core documentation** below.
+
+---
+
 
 ## Core documentation
 
