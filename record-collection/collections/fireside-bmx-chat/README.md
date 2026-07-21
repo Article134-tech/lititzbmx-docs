@@ -6,7 +6,7 @@ Fireside BMX Chat preserves conversations and recordings that place BMX history 
 
 **Compiled dossiers:** 8  
 **Public package:** v1.1.0  
-**Dossier types:** Interview Dossier
+**Dossier types:** Interview and Recording Dossiers
 
 ## Visual dossier index
 
