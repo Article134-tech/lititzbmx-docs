@@ -58,7 +58,7 @@ Interactive educational resources combining BMX history, puzzles, profiles, imag
 - [Open the Learning Resources library](learning-resources/)
 - [Explore the Interactive BMX Word Search](learning-resources/word-search/)
 - [Explore the BMX History Quiz Series](learning-resources/quizzes/)
-  
+
 ### Campaign Archives
 
 Long-form preservation, restoration, educational, and storytelling campaigns produced by Lititz BMX.
@@ -66,6 +66,16 @@ Long-form preservation, restoration, educational, and storytelling campaigns pro
 - [Open the Campaigns library](campaigns/)
 - [Explore the complete #RebuildRadicalRick campaign archive](campaigns/rebuild-radical-rick/)
 - [Explore the complete #OperationDIRTWERX — The Story campaign archive](campaigns/operation-dirtwerx/)
+
+### The Lititz BMX Record Collection
+
+<a href="record-collection/README.md"><img src="record-collection/assets/record-collection-banner.png" alt="The Lititz BMX Record Collection visual index showing seven compiled media dossiers" width="720"></a>
+
+Archival standards and media dossiers preserving Lititz BMX recordings, transcripts, production context, publication materials, derivative records, and oral-history interviews.
+
+- [Explore the Lititz BMX Record Collection](record-collection/)
+- [Browse the Fireside BMX Chat dossiers](record-collection/collections/fireside-bmx-chat/)
+- [Review the Record Collection Archival Standard](record-collection/ARCHIVAL_STANDARD.md)
 
 ### Sitemap and Technical Resources
 
