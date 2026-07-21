@@ -1,0 +1,56 @@
+{
+  "record_id": "unb-dirtwerx-pr12-justin-dumas",
+  "collection": "Unboxing",
+  "subseries": null,
+  "episode_number": null,
+  "dossier_type": "Recording Dossier",
+  "recording_type": [
+    "unboxing",
+    "prototype-frame examination",
+    "artifact provenance record"
+  ],
+  "title": "Harry Leary DIRTWERX PR12 Prototype from Justin Dumas / Livermore Boss",
+  "published_title": "Unboxing BMX History — DIRTWERX Prototype from Livermore Boss’ Justin Dumas",
+  "source_url": "https://www.youtube.com/@LititzBMX17543",
+  "source_url_status": "individual canonical URL not supplied",
+  "host": "Kyle A. Huffman",
+  "guests": [],
+  "participants": [
+    "Kyle A. Huffman"
+  ],
+  "duration": "Not supplied",
+  "recording_date": null,
+  "publication_date": null,
+  "location": "Lititz BMX; exact private address excluded",
+  "language": "en",
+  "summary": "An unboxing and first examination of a frame presented in the historical publication as a DIRTWERX prototype connected to Harry Leary, Justin Dumas, and Livermore Boss.",
+  "historical_significance": "Preserves the acquisition and initial identification of a prototype-related frame while separating the historical publication title from later archival verification.",
+  "subjects": [
+    "Harry Leary",
+    "DIRTWERX",
+    "PR12",
+    "Justin Dumas",
+    "Livermore Boss",
+    "prototype BMX frame",
+    "provenance"
+  ],
+  "transcript_status": "No transcript was supplied for this recording.",
+  "preservation_status": [
+    "source-captured",
+    "dossier-compiled",
+    "documentation-gap-recorded"
+  ],
+  "rights": "All rights reserved unless separately documented; see docs/rights-and-access.md.",
+  "compiled_date": "2026-07-21",
+  "build_version": "1.1.0-part1",
+  "notes": [
+    "The historical publication title is preserved.",
+    "Any later correction or qualification belongs in the archival description and verification notes, not in an altered title-card image."
+  ],
+  "repository_path": "collections/unboxing/records/unb-dirtwerx-pr12-justin-dumas",
+  "source_image_original_filename": "2026-07-20_23-44-21.png",
+  "source_image_sha256": "99052afa43c7784834ed9516dd2eb4dc136d5bbdfed18cc3679384856eb2e882",
+  "related_record_ids": [
+    "fbc-lost-linda-leary-taylor-dirtwerx"
+  ]
+}

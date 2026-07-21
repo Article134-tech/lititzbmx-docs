@@ -1,49 +1,40 @@
-# GitHub Upload Guide
+# GitHub Deployment Guide — Public Package v1.1.0
 
-## Established repository destination
+This final deployment package follows the established Lititz BMX overwrite-and-review protocol for the existing repository.
 
-The Lititz BMX Record Collection belongs inside the existing public documentation repository:
+## Destination
 
-- **Account:** `Article134-tech`
-- **Repository:** `lititzbmx-docs`
+- **GitHub account:** `Article134-tech`
+- **Existing repository:** `lititzbmx-docs`
 - **Branch:** `main`
-- **Destination folder:** `record-collection/`
+- **Affected top-level folder:** `record-collection`
 
-No new repository is required or recommended for this upload.
+Do **not** create a new repository. Do **not** move, rename, delete, or restructure any sibling repository content.
 
-## GitHub Desktop method
+## Controlled GitHub Desktop sequence
 
 1. Open GitHub Desktop.
-2. Confirm `Article134-tech/lititzbmx-docs` is selected.
+2. Confirm the selected repository is `Article134-tech/lititzbmx-docs`.
 3. Confirm the branch is `main`.
-4. Click **Fetch origin**.
-5. Open the local repository folder in File Explorer.
-6. Copy the complete `record-collection` folder into the repository root.
-7. Do not delete, rename, replace, or reorganize any existing repository content.
-8. Return to GitHub Desktop and confirm every changed path begins with `record-collection/`.
-9. Commit with:
+4. Click **Fetch origin** and resolve any incoming changes before continuing.
+5. Open the local repository in File Explorer.
+6. Make a local backup copy of the existing `record-collection` folder.
+7. Copy the complete `record-collection` folder from this deployment ZIP into the repository root.
+8. When Windows identifies matching files, choose **Replace the files in the destination**.
+9. Return to GitHub Desktop and inspect the complete Changes list.
+10. Confirm every changed path begins with `record-collection/`.
+11. Confirm no root file or sibling folder changed.
+12. Use this commit summary:
 
-   `Add Lititz BMX Record Collection archival standard and first seven dossiers`
+   `Expand Lititz BMX Record Collection to v1.1.0`
 
-10. Push to `origin`.
+13. Commit to `main` and click **Push origin**.
+14. Complete the post-deployment checks in `docs/V1.1.0_GITHUB_DEPLOYMENT_WALKTHROUGH.md`.
 
-## Repository index update
+## Root repository README
 
-After the first commit is visible on GitHub, add a link to the existing root `README.md` using the text in `docs/ROOT_README_INDEX_ENTRY.md`.
+No root-repository README change is required when the existing Record Collection entry is already present. If that entry is missing or still says seven dossiers, use the prepared replacement text in `docs/ROOT_README_INDEX_ENTRY.md` as a separate README-only commit.
 
-Commit that README-only change separately with:
+## Public/private rule
 
-`Add Record Collection to repository index`
-
-## Verification after upload
-
-1. Confirm `record-collection/README.md` renders on GitHub.
-2. Open `record-collection/COLLECTION_INDEX.md` and test dossier links.
-3. Confirm images and PDFs display.
-4. Confirm the existing repository folders and files are unchanged.
-5. Confirm no unredacted phone number appears in repository search.
-6. Confirm the private preservation supplement was not uploaded.
-
-## Private supplement
-
-The private preservation supplement must remain outside the public `lititzbmx-docs` repository. It preserves unaltered source material requiring privacy controls.
+Only this reviewed public package belongs in `lititzbmx-docs`. Do not upload the private preservation supplement or any working-source folder outside this package.

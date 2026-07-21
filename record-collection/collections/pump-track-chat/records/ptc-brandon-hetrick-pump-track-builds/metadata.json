@@ -1,0 +1,66 @@
+{
+  "record_id": "ptc-brandon-hetrick-pump-track-builds",
+  "collection": "Pump Track Chat",
+  "subseries": null,
+  "episode_number": null,
+  "dossier_type": "Interview Dossier",
+  "recording_type": [
+    "on-location interview",
+    "technical conversation",
+    "community-development interview"
+  ],
+  "title": "Pump Track Builds with Brandon Hetrick",
+  "published_title": "Pump Track Chat — Pump Track Builds w/ Brandon Hetrick — Hosted by: Kyle A. Huffman",
+  "source_url": "https://www.youtube.com/@LititzBMX17543",
+  "source_url_status": "individual canonical URL not supplied",
+  "host": "Kyle A. Huffman",
+  "guests": [
+    "Brandon Hetrick"
+  ],
+  "participants": [
+    "Kyle A. Huffman",
+    "Brandon Hetrick"
+  ],
+  "duration": "21:06",
+  "recording_date": null,
+  "publication_date": null,
+  "location": "On location at a pump-track build; the title materials connect the discussion to Coleman Bike Park / Lebanon County",
+  "language": "en",
+  "summary": "Brandon Hetrick discusses his background building BMX tracks, skateparks, pump tracks, and event features; community planning; ADA-friendly and adaptive-rider considerations; construction timing; drainage; tourism; local-business effects; and the potential for a Lititz pump track.",
+  "historical_significance": "Preserves builder testimony used to inform the Warwick Township advocacy effort and documents the practical, recreational, accessibility, and economic dimensions of pump-track development.",
+  "subjects": [
+    "Brandon Hetrick",
+    "pump-track construction",
+    "Coleman Bike Park",
+    "Lebanon County",
+    "ADA-friendly design",
+    "adaptive riders",
+    "drainage",
+    "asphalt",
+    "tourism",
+    "local business",
+    "Lititz"
+  ],
+  "transcript_status": "Original machine transcript preserved unchanged; corrected machine transcript added separately; audio and speaker verification pending.",
+  "preservation_status": [
+    "source-captured",
+    "dossier-compiled",
+    "documentation-gap-recorded",
+    "transcript-verification-pending"
+  ],
+  "rights": "All rights reserved unless separately documented; see docs/rights-and-access.md.",
+  "compiled_date": "2026-07-21",
+  "build_version": "1.1.0-part1",
+  "notes": [
+    "Technical estimates and statements remain attributed to Brandon Hetrick and are not municipal engineering findings.",
+    "The corrected machine transcript normalizes obvious Lititz, Fulton Bank, and Felicia Stancil references; unresolved wording remains marked or unchanged."
+  ],
+  "repository_path": "collections/pump-track-chat/records/ptc-brandon-hetrick-pump-track-builds",
+  "source_image_original_filename": "2026-07-21_01-04-06.png",
+  "source_image_sha256": "7fb27879882ca685540324ed13fa7f6a38d3980508e4da94ab5b3be0e4ff4f15",
+  "related_record_ids": [
+    "../ptc-warwick-public-comment-rehearsal/README.md",
+    "../ptc-warwick-follow-up/README.md",
+    "unb-possible-early-radical-rick-art"
+  ]
+}

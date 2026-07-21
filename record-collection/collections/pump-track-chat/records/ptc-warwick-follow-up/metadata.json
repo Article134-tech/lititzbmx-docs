@@ -1,0 +1,65 @@
+{
+  "record_id": "ptc-warwick-follow-up",
+  "collection": "Pump Track Chat",
+  "subseries": null,
+  "episode_number": null,
+  "dossier_type": "Interview Dossier",
+  "recording_type": [
+    "interview",
+    "advocacy update",
+    "community-development conversation"
+  ],
+  "title": "Update! Pump Track Chat Podcast — Warwick Township Follow-Up",
+  "published_title": "Update! Pump Track Chat Podcast",
+  "source_url": "https://www.youtube.com/@LititzBMX17543",
+  "source_url_status": "individual canonical URL not supplied",
+  "host": "Kyle A. Huffman",
+  "guests": [
+    "John Stancliff"
+  ],
+  "participants": [
+    "Kyle A. Huffman",
+    "John Stancliff"
+  ],
+  "duration": "17:48",
+  "recording_date": null,
+  "publication_date": null,
+  "location": "Remote or unspecified conversation concerning Warwick Township, Pennsylvania",
+  "language": "en",
+  "summary": "Kyle and John Stancliff review the Warwick Township supervisors presentation, the board’s reception, Township Manager Brian Harris’s response, site and land-size possibilities, grassroots and municipal build paths, and preparation for the next recreation meeting.",
+  "historical_significance": "Preserves an immediate participant account of the pump-track proposal’s early public-government phase and the strategy that followed the supervisors meeting.",
+  "subjects": [
+    "Warwick Township",
+    "pump track advocacy",
+    "John Stancliff",
+    "Brian Harris",
+    "Green Mountain Cyclery",
+    "Ephrata",
+    "rail trail",
+    "municipal park",
+    "UCI",
+    "ADA access"
+  ],
+  "transcript_status": "Original machine transcript preserved unchanged; corrected machine transcript added separately; audio and speaker verification pending.",
+  "preservation_status": [
+    "source-captured",
+    "dossier-compiled",
+    "documentation-gap-recorded",
+    "transcript-verification-pending"
+  ],
+  "rights": "All rights reserved unless separately documented; see docs/rights-and-access.md.",
+  "compiled_date": "2026-07-21",
+  "build_version": "1.1.0-part1",
+  "notes": [
+    "Statements about board reactions and future decisions are participant recollections, not official township findings.",
+    "The corrected transcript normalizes obvious place names such as Lititz, Ephrata, and Macungie."
+  ],
+  "repository_path": "collections/pump-track-chat/records/ptc-warwick-follow-up",
+  "source_image_original_filename": "2026-07-21_00-49-21.png",
+  "source_image_sha256": "4e30602fb57ba9ff43d1a9f107419f38a9e26b91ec10a21e209da3a186b3a315",
+  "related_record_ids": [
+    "../ptc-warwick-public-comment-rehearsal/README.md",
+    "../ptc-lititz-past-future/README.md",
+    "../ptc-brandon-hetrick-pump-track-builds/README.md"
+  ]
+}

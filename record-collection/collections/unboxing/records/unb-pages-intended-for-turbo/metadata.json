@@ -1,0 +1,54 @@
+{
+  "record_id": "unb-pages-intended-for-turbo",
+  "collection": "Unboxing",
+  "subseries": null,
+  "episode_number": null,
+  "dossier_type": "Recording Dossier",
+  "recording_type": [
+    "unboxing",
+    "document examination",
+    "mail call"
+  ],
+  "title": "Opening the Pages Intended for Turbo — An Unboxing",
+  "published_title": "Opening the pages intended for Turbo… An unboxing",
+  "source_url": "https://www.youtube.com/@LititzBMX17543",
+  "source_url_status": "individual canonical URL not supplied",
+  "host": "Kyle A. Huffman",
+  "guests": [],
+  "participants": [
+    "Kyle A. Huffman"
+  ],
+  "duration": "Not supplied",
+  "recording_date": null,
+  "publication_date": null,
+  "location": "Lititz BMX; exact private address excluded",
+  "language": "en",
+  "summary": "An unboxing centered on pages described in the historical title as having been intended for “Turbo.” The source record preserves the opening event and the wording used at publication.",
+  "historical_significance": "Preserves the arrival and first examination of paper material linked by the publication to the Harry Leary Turbo context.",
+  "subjects": [
+    "Harry Leary Turbo",
+    "BMX documents",
+    "paper artifacts",
+    "mail call",
+    "unboxing"
+  ],
+  "transcript_status": "No transcript was supplied for this recording.",
+  "preservation_status": [
+    "source-captured",
+    "dossier-compiled",
+    "documentation-gap-recorded"
+  ],
+  "rights": "All rights reserved unless separately documented; see docs/rights-and-access.md.",
+  "compiled_date": "2026-07-21",
+  "build_version": "1.1.0-part1",
+  "notes": [
+    "The title is preserved as historical publication wording.",
+    "The phrase “intended for Turbo” is not expanded into a stronger provenance claim without supporting documentation."
+  ],
+  "repository_path": "collections/unboxing/records/unb-pages-intended-for-turbo",
+  "source_image_original_filename": "2026-07-20_23-56-16.png",
+  "source_image_sha256": "fd7bb2d72a64744808c6d7a54b2c9ec0485300c18c7cb66c943efa07f4c6d8c3",
+  "related_record_ids": [
+    "../unb-harry-leary-legacy-linda/README.md"
+  ]
+}

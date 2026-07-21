@@ -1,0 +1,61 @@
+{
+  "record_id": "fbc-damian-fulton-samaritans-purse",
+  "collection": "Fireside BMX Chat",
+  "subseries": null,
+  "episode_number": null,
+  "dossier_type": "Recording Dossier",
+  "recording_type": [
+    "campaign recording",
+    "charity recording",
+    "artifact presentation"
+  ],
+  "title": "Damian X. Fulton / Radical Rick / Samaritan’s Purse Campaign Recording",
+  "published_title": "Not supplied in the accessible source bundle",
+  "source_url": "https://youtube.com/shorts/t22nVfWSC6s",
+  "source_url_status": "canonical Short URL recovered from prior Lititz BMX work",
+  "host": "Kyle A. Huffman",
+  "guests": [
+    "Damian X. Fulton"
+  ],
+  "participants": [
+    "Damian X. Fulton",
+    "Kyle A. Huffman"
+  ],
+  "duration": "Not supplied",
+  "recording_date": null,
+  "publication_date": null,
+  "location": "Not supplied",
+  "language": "en",
+  "summary": "A Fireside BMX Chat campaign/charity recording connecting Damian X. Fulton, Radical Rick artwork, the Unofficial Harry Leary Fireside Chat Facebook Group, a Cactus Park BMX plaque, and a Samaritan’s Purse benefit effort.",
+  "historical_significance": "Documents how a BMX artifact and artist relationship became part of a charitable campaign while preserving the recording under its established Fireside BMX Chat editorial home.",
+  "subjects": [
+    "Damian X. Fulton",
+    "Radical Rick",
+    "Samaritan’s Purse",
+    "Unofficial Harry Leary Fireside Chat Facebook Group",
+    "Cactus Park BMX",
+    "charity",
+    "campaign recording"
+  ],
+  "transcript_status": "No transcript was supplied for this campaign/charity recording.",
+  "preservation_status": [
+    "source-captured",
+    "dossier-compiled",
+    "documentation-gap-recorded"
+  ],
+  "rights": "All rights reserved unless separately documented; see docs/rights-and-access.md.",
+  "compiled_date": "2026-07-21",
+  "build_version": "1.1.0-part1",
+  "notes": [
+    "Locked category decision: this remains under Fireside BMX Chat.",
+    "No fourth top-level Charity or Campaign category is created.",
+    "The visible plaque reads “Second Place,” while an inventory description identifies a Cactus Park plaque as “1st”; the discrepancy is preserved and not silently resolved."
+  ],
+  "repository_path": "collections/fireside-bmx-chat/records/fbc-damian-fulton-samaritans-purse",
+  "source_image_original_filename": "2026-07-21_00-45-23.png",
+  "source_image_sha256": "763e00e8742da5419273d733b9539e0a4613d75e2fd0d3fecfb16833dfba8a9d",
+  "related_record_ids": [
+    "../fbc-001-damian-x-fulton/README.md",
+    "unb-hooligan-radical-rick-figure"
+  ]
+}

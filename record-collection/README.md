@@ -1,101 +1,100 @@
 <p align="center">
-  <img src="assets/record-collection-banner.png" alt="The Lititz BMX Record Collection overview showing seven compiled Fireside BMX Chat dossiers" width="100%">
+  <img src="assets/record-collection-banner.png" alt="The Lititz BMX Record Collection overview showing 21 compiled dossiers across Fireside BMX Chat, Pump Track Chat, and Unboxing" width="100%">
 </p>
 
 # The Lititz BMX Record Collection
 
 **Repository location:** `Article134-tech/lititzbmx-docs/record-collection/`  
-**Integration method:** Additive folder upload to the existing Lititz BMX documentation repository; no repository restructuring required.  
-**Public package:** v1.0.2  
+**Integration method:** Controlled replacement of the existing `record-collection/` folder; no repository restructuring.  
+**Public package:** v1.1.0  
 **Archival standard:** v1.0.1  
-**Compiled:** 2026-07-20  
+**Compiled:** 2026-07-21  
 **Publisher and curator:** Lititz BMX / Kyle A. Huffman
 
-The **Lititz BMX Record Collection** preserves the complete historical footprint surrounding original Lititz BMX media: the recording, its descriptive record, transcript layers, planning documents, publication materials, derivative clip records, verification notes, and preservation history.
+The **Lititz BMX Record Collection** preserves the historical footprint surrounding original Lititz BMX media: the recording, descriptive record, transcript layers, planning documents, publication materials, derivative clips, verification notes, and preservation history.
 
-The goal is not merely to save videos. It is to preserve **how each recording came to exist, how it was presented, what survives, and what remains uncertain**.
+The purpose is not merely to save videos. It is to preserve **how each recording came to exist, how it was presented, what survives, and what remains uncertain**.
 
 ## Explore the collection
 
 <table>
 <tr>
-<td width="33%" valign="top">
-<a href="collections/fireside-bmx-chat/README.md"><img src="collections/fireside-bmx-chat/assets/category-cover.png" alt="Fireside BMX Chat category cover" width="100%"></a><br>
-<strong><a href="collections/fireside-bmx-chat/README.md">Fireside BMX Chat</a></strong><br>
-Interviews and oral histories presented through human settings, family memory, museum encounters, and shared activities.
-</td>
-<td width="33%" valign="top">
-<a href="collections/pump-track-chat/README.md"><img src="collections/pump-track-chat/assets/category-cover.png" alt="Pump Track Chat graphic for Pump Track Builds with Brandon Hetrick." width="100%"></a><br>
-<strong><a href="collections/pump-track-chat/README.md">Pump Track Chat</a></strong><br>
-Conversations about access, planning, riding, community development, and advocacy.
-</td>
-<td width="33%" valign="top">
-<a href="collections/unboxing/README.md"><img src="collections/unboxing/assets/category-thumbnail.png" alt="Lititz BMX unboxing photograph showing a package being opened." width="100%"></a><br>
-<strong><a href="collections/unboxing/README.md">Unboxing</a></strong><br>
-Records of opening, identifying, documenting, and first responding to newly received material.
-</td>
+<td width="33%" valign="top"><a href="collections/fireside-bmx-chat/README.md"><img src="collections/fireside-bmx-chat/assets/category-cover.png" alt="Fireside BMX Chat visual index" width="100%"></a><br><strong><a href="collections/fireside-bmx-chat/README.md">Fireside BMX Chat</a></strong><br><strong>8 dossiers</strong><br>Oral histories, family memory, museum encounters, and campaign records.</td>
+<td width="33%" valign="top"><a href="collections/pump-track-chat/README.md"><img src="collections/pump-track-chat/assets/category-cover.png" alt="Pump Track Chat visual index" width="100%"></a><br><strong><a href="collections/pump-track-chat/README.md">Pump Track Chat</a></strong><br><strong>4 dossiers</strong><br>Planning, access, advocacy, community history, and track-building knowledge.</td>
+<td width="33%" valign="top"><a href="collections/unboxing/README.md"><img src="collections/unboxing/assets/category-cover.png" alt="Unboxing visual index" width="100%"></a><br><strong><a href="collections/unboxing/README.md">Unboxing</a></strong><br><strong>9 dossiers</strong><br>Arrival, identification, condition, provenance clues, and first archival response.</td>
 </tr>
 </table>
 
-## Compiled record dossiers
+## Collection totals
 
-<table>
-<tr>
-<td width="30%" valign="top"><a href="collections/fireside-bmx-chat/records/fbc-001-damian-x-fulton/README.md"><img src="collections/fireside-bmx-chat/records/fbc-001-damian-x-fulton/assets/title-card.png" alt="Fireside BMX Chat title card featuring Damian X. Fulton and Radical Rick artwork." width="100%"></a></td>
-<td valign="top"><strong><a href="collections/fireside-bmx-chat/records/fbc-001-damian-x-fulton/README.md">Damian X. Fulton</a></strong><br>Creative-industry oral history and BMX cultural history interview.<br><br><a href="https://www.youtube.com/watch?v=vtVr6GBJtlM">Watch recording</a> · <a href="collections/fireside-bmx-chat/records/fbc-001-damian-x-fulton/interview-record.md">Interview Record</a></td>
-</tr><tr>
-<td width="30%" valign="top"><a href="collections/fireside-bmx-chat/records/fbc-greg-hill-floored/README.md"><img src="collections/fireside-bmx-chat/records/fbc-greg-hill-floored/assets/title-card.png" alt="Fireside BMX Chat title card showing a glowing garage heater above the Greg Hill episode title." width="100%"></a></td>
-<td valign="top"><strong><a href="collections/fireside-bmx-chat/records/fbc-greg-hill-floored/README.md">Greg Hill — Floored</a></strong><br>Experiential interview that begins as a garage-floor consultation and evolves into BMX oral history.<br><br><a href="https://www.youtube.com/watch?v=EI_tBe4Gf-A">Watch recording</a> · <a href="collections/fireside-bmx-chat/records/fbc-greg-hill-floored/interview-record.md">Interview Record</a></td>
-</tr><tr>
-<td width="30%" valign="top"><a href="collections/fireside-bmx-chat/records/fbc-004-greg-mathias-chasing-harry-hof/README.md"><img src="collections/fireside-bmx-chat/records/fbc-004-greg-mathias-chasing-harry-hof/assets/title-card.png" alt="Fireside BMX Chat title card for Greg Mathias at the National BMX Hall of Fame with fire graphics." width="100%"></a></td>
-<td valign="top"><strong><a href="collections/fireside-bmx-chat/records/fbc-004-greg-mathias-chasing-harry-hof/README.md">Greg Mathias — Hall of Fame</a></strong><br>On-location interview and collection encounter conducted inside the National BMX Hall of Fame.<br><br><a href="https://www.youtube.com/watch?v=EUTzVetaoLc">Watch recording</a> · <a href="collections/fireside-bmx-chat/records/fbc-004-greg-mathias-chasing-harry-hof/interview-record.md">Interview Record</a></td>
-</tr><tr>
-<td width="30%" valign="top"><a href="collections/fireside-bmx-chat/records/fbc-linda-leary-taylor-walk-talk/README.md"><img src="collections/fireside-bmx-chat/records/fbc-linda-leary-taylor-walk-talk/assets/title-card.png" alt="Fireside BMX Chat Walk and Talk title card showing an illustrated view of London Bridge." width="100%"></a></td>
-<td valign="top"><strong><a href="collections/fireside-bmx-chat/records/fbc-linda-leary-taylor-walk-talk/README.md">Linda Leary Taylor — Walk & Talk</a></strong><br>On-location memorial walk, family oral history, and place-based remembrance interview.<br><br><a href="https://www.youtube.com/watch?v=2EWCctB6bss">Watch recording</a> · <a href="collections/fireside-bmx-chat/records/fbc-linda-leary-taylor-walk-talk/interview-record.md">Interview Record</a></td>
-</tr><tr>
-<td width="30%" valign="top"><a href="collections/fireside-bmx-chat/records/fbc-005-the-boy-leary-ladies/README.md"><img src="collections/fireside-bmx-chat/records/fbc-005-the-boy-leary-ladies/assets/title-card.png" alt="The Boy title card showing a memorial poster board with Harry Leary family photographs and writings." width="100%"></a></td>
-<td valign="top"><strong><a href="collections/fireside-bmx-chat/records/fbc-005-the-boy-leary-ladies/README.md">The Boy — Leary Family</a></strong><br>Family oral history centered on preserved writings, memorial objects, and multi-generational testimony.<br><br><a href="https://www.youtube.com/watch?v=92rxPCGK6Pg">Watch recording</a> · <a href="collections/fireside-bmx-chat/records/fbc-005-the-boy-leary-ladies/interview-record.md">Interview Record</a></td>
-</tr><tr>
-<td width="30%" valign="top"><a href="collections/fireside-bmx-chat/records/fbc-jessica-reveal-archery-lesson/README.md"><img src="collections/fireside-bmx-chat/records/fbc-jessica-reveal-archery-lesson/assets/title-card.png" alt="Fireside BMX Chat and Archery Lesson title card with a silhouetted archer and flame background." width="100%"></a></td>
-<td valign="top"><strong><a href="collections/fireside-bmx-chat/records/fbc-jessica-reveal-archery-lesson/README.md">Jessica Reveal — Archery Lesson</a></strong><br>Experiential oral history built around mentorship, learning, and skill transfer through an archery lesson.<br><br><a href="https://www.youtube.com/watch?v=Gyuvtnze9N8">Watch recording</a> · <a href="collections/fireside-bmx-chat/records/fbc-jessica-reveal-archery-lesson/interview-record.md">Interview Record</a></td>
-</tr><tr>
-<td width="30%" valign="top"><a href="collections/fireside-bmx-chat/records/fbc-lost-linda-leary-taylor-dirtwerx/README.md"><img src="collections/fireside-bmx-chat/records/fbc-lost-linda-leary-taylor-dirtwerx/assets/navigation-thumbnail.png" alt="Black-and-white Lititz BMX display photograph showing the DIRTWERX bicycle and Harry Leary memorabilia." width="100%"></a></td>
-<td valign="top"><strong><a href="collections/fireside-bmx-chat/records/fbc-lost-linda-leary-taylor-dirtwerx/README.md">Lost DIRTWERX Conversation</a></strong><br>Recovered or “lost” conversational record centered on company history, family testimony, artifact provenance, and preservation stewardship.<br><br><a href="https://www.youtube.com/watch?v=pdP6kqSLUUs">Watch recording</a> · <a href="collections/fireside-bmx-chat/records/fbc-lost-linda-leary-taylor-dirtwerx/interview-record.md">Interview Record</a></td>
-</tr>
-</table>
+| Category | Dossiers | Primary record types |
+|---|---:|---|
+| [Fireside BMX Chat](collections/fireside-bmx-chat/README.md) | 8 | Interview Dossiers and one campaign/charity Recording Dossier |
+| [Pump Track Chat](collections/pump-track-chat/README.md) | 4 | Interview Dossiers and one Presentation Dossier |
+| [Unboxing](collections/unboxing/README.md) | 9 | Recording Dossiers |
+| **Complete collection** | **21** | Three established top-level categories |
+
+> The four derivative clips added to “The Boy” remain inside that dossier and are not counted as additional dossiers.
+
+## Browse all 21 dossiers
+
+### Fireside BMX Chat
+
+- [Fireside BMX Chat - Episode 1: Damian X. Fulton](collections/fireside-bmx-chat/records/fbc-001-damian-x-fulton/README.md) — Interview Dossier
+- [Fireside BMX Chat: Greg Hill - Floored](collections/fireside-bmx-chat/records/fbc-greg-hill-floored/README.md) — Interview Dossier
+- [Chasing Harry - Episode 4: Greg Mathias at the National BMX Hall of Fame](collections/fireside-bmx-chat/records/fbc-004-greg-mathias-chasing-harry-hof/README.md) — Interview Dossier
+- [A Walk & Talk with Linda Leary Taylor](collections/fireside-bmx-chat/records/fbc-linda-leary-taylor-walk-talk/README.md) — Interview Dossier
+- [The Boy: Harry Leary as Remembered by His Mother and Sisters](collections/fireside-bmx-chat/records/fbc-005-the-boy-leary-ladies/README.md) — Interview Dossier
+- [Fireside BMX Chat and Archery Lesson with Jessica Reveal](collections/fireside-bmx-chat/records/fbc-jessica-reveal-archery-lesson/README.md) — Interview Dossier
+- [Lost Fireside BMX Chat: Linda Leary Taylor and the DIRTWERX Era](collections/fireside-bmx-chat/records/fbc-lost-linda-leary-taylor-dirtwerx/README.md) — Interview Dossier
+- [Damian X. Fulton / Radical Rick / Samaritan’s Purse Campaign Recording](collections/fireside-bmx-chat/records/fbc-damian-fulton-samaritans-purse/README.md) — Recording Dossier
+
+### Pump Track Chat
+
+- [Warwick Township Pump Track Public-Comment Rehearsal / Reconstruction](collections/pump-track-chat/records/ptc-warwick-public-comment-rehearsal/README.md) — Presentation Dossier
+- [Update! Pump Track Chat Podcast — Warwick Township Follow-Up](collections/pump-track-chat/records/ptc-warwick-follow-up/README.md) — Interview Dossier
+- [The Past — Our Hope for the Future of Lititz](collections/pump-track-chat/records/ptc-lititz-past-future/README.md) — Interview Dossier
+- [Pump Track Builds with Brandon Hetrick](collections/pump-track-chat/records/ptc-brandon-hetrick-pump-track-builds/README.md) — Interview Dossier
+
+### Unboxing
+
+- [Custom Hooligan BMX Radical Rick 1:24 Figure](collections/unboxing/records/unb-hooligan-radical-rick-figure/README.md) — Recording Dossier
+- [Torker / Cathy Hanna / Bob Haro Surprise Unboxing](collections/unboxing/records/unb-torker-cathy-hanna-bob-haro/README.md) — Recording Dossier
+- [Harry Leary’s Personal BMX Legacy — Sent by Linda Leary Taylor](collections/unboxing/records/unb-harry-leary-legacy-linda/README.md) — Recording Dossier
+- [Harry Leary DIRTWERX PR12 Prototype from Justin Dumas / Livermore Boss](collections/unboxing/records/unb-dirtwerx-pr12-justin-dumas/README.md) — Recording Dossier
+- [BMX History Found? Possible Early Radical Rick Artwork with Brandon Hetrick](collections/unboxing/records/unb-possible-early-radical-rick-art/README.md) — Recording Dossier
+- [Opening the Pages Intended for Turbo — An Unboxing](collections/unboxing/records/unb-pages-intended-for-turbo/README.md) — Recording Dossier
+- [Reynolds Racing Unboxing](collections/unboxing/records/unb-reynolds-racing/README.md) — Recording Dossier
+- [Bill Allen / RAD Movie Mail Call](collections/unboxing/records/unb-bill-allen-rad-mail-call/README.md) — Recording Dossier
+- [Radical Rick Sticker-Pack Mystery Envelope](collections/unboxing/records/unb-radical-rick-sticker-pack/README.md) — Recording Dossier
 
 ## Start with the public record
 
 - [Complete Collection Index](COLLECTION_INDEX.md)
-- [Fireside BMX Chat visual index](collections/fireside-bmx-chat/README.md)
 - [Archival Standard](ARCHIVAL_STANDARD.md)
 - [Visual Presentation Standard](docs/VISUAL_PRESENTATION_STANDARD.md)
 - [Public/Private Preservation Rules](SECURITY_AND_PRIVACY.md)
-- [Validation Report](docs/VALIDATION_REPORT.md)
-- [Pre-Publication QA Results](docs/PREPUBLICATION_QA_RESULTS.md)
+- [v1.1.0 Deployment Validation](docs/V1.1.0_DEPLOYMENT_VALIDATION.md)
+- [v1.1.0 Change Report](docs/V1.1.0_PART2_CHANGE_REPORT.md)
+- [GitHub Deployment Walkthrough](docs/V1.1.0_GITHUB_DEPLOYMENT_WALKTHROUGH.md)
 - [Visual Asset Inventory](docs/VISUAL_ASSET_INVENTORY.md)
-- [v1.0.1 → v1.0.2 Change Report](docs/V1.0.2_CHANGE_REPORT.md)
-- [v1.0.1 → v1.0.2 Change Manifest](docs/V1.0.1_TO_V1.0.2_CHANGE_MANIFEST.md)
-- [v1.0.0 → v1.0.1 Change Manifest](docs/V1.0.0_TO_V1.0.1_CHANGE_MANIFEST.md)
 
 ## Repository hierarchy
 
 ```text
 The Lititz BMX Record Collection
 ├── collections/
-│   ├── fireside-bmx-chat/
-│   │   ├── records/                 Individual Interview Dossiers
-│   │   └── series/chasing-harry/   Explicit subseries documentation
-│   ├── pump-track-chat/            Category established; dossiers pending
-│   └── unboxing/                    Category established; dossiers pending
-├── templates/                      Reusable dossier templates
-├── schemas/                        Machine-readable metadata schema
-└── docs/                           Standards, upload instructions, and validation
+│   ├── fireside-bmx-chat/       8 dossiers; includes Chasing Harry subseries
+│   ├── pump-track-chat/         4 dossiers
+│   └── unboxing/                9 dossiers
+├── templates/                   Reusable dossier templates
+├── schemas/                     Machine-readable metadata schema
+└── docs/                        Standards, deployment, and validation
 ```
 
 ## Core archival rule
 
-> The original recording is the primary source. A transcript is an access aid. An Interview Record is a descriptive archival record. Supporting documents preserve context, but must not be confused with what was actually said or shown in the recording.
+> The original recording is the primary source. A transcript is an access aid. A dossier record is a descriptive archival record. Supporting documents preserve context, but must not be confused with what was actually said or shown in the recording.
 
 ## Public and private preservation layers
 
@@ -103,9 +102,9 @@ This repository is the **public-access package**. Direct contact details and una
 
 Read [SECURITY_AND_PRIVACY.md](SECURITY_AND_PRIVACY.md) before publishing or moving source materials.
 
-## Important status note
+## Transcript status
 
-The supplied transcripts are machine-generated. They are preserved unchanged and accompanied by normalized working copies, but they are **not yet fully speaker-labeled, punctuated, name-verified, or checked line-by-line against the audio**.
+Original machine transcripts are preserved unchanged when supplied. Corrected machine-transcript layers are stored separately as access aids. Records without supplied transcripts identify that gap explicitly; missing transcripts are not invented or borrowed from another record.
 
 ## Rights
 

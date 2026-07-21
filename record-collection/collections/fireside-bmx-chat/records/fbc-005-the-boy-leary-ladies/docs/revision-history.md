@@ -13,3 +13,7 @@
 - Preserved canonical URL, supplied title, public description status, title card when available, and raw transcript.
 - Added working transcript, Interview Record, topic and chapter indexes, curator notes, verification notes, and source inventory.
 - Applied and documented public/private source handling.
+
+## v1.1.0 Part 1
+
+- **2026-07-21:** Added four controlled derivative clip records (Clips 2–5), documented PULL BMX address-display approval, and preserved the supplied THE BOY image for Clip 5. Dossier count remains unchanged.

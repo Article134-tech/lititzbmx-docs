@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "Please cite the original Lititz BMX recording and this archival dossier."
+title: "Warwick Township Pump Track Public-Comment Rehearsal / Reconstruction"
+type: dataset
+authors:
+  - family-names: Huffman
+    given-names: Kyle A.
+publisher: "Lititz BMX"
+version: "1.1.0-part1"
+date-released: "2026-07-21"
+url: "https://www.youtube.com/@LititzBMX17543"
+license: "All rights reserved; see repository RIGHTS.md"

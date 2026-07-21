@@ -32,3 +32,7 @@ See `source/pre-production/` and `source/publication/`. Their presence varies ac
 - `docs/source-inventory.md`
 - `docs/rights-and-access.md`
 - `docs/revision-history.md`
+
+## v1.1.0 Part 1 derivative expansion
+
+- `derivatives/clips/` — four controlled derivative clip records (Clips 2–5); excluded from dossier count.

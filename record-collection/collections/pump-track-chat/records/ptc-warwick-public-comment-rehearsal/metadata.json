@@ -1,0 +1,58 @@
+{
+  "record_id": "ptc-warwick-public-comment-rehearsal",
+  "collection": "Pump Track Chat",
+  "subseries": null,
+  "episode_number": null,
+  "dossier_type": "Presentation Dossier",
+  "recording_type": [
+    "presentation rehearsal",
+    "public-comment reconstruction",
+    "advocacy recording"
+  ],
+  "title": "Warwick Township Pump Track Public-Comment Rehearsal / Reconstruction",
+  "published_title": "Not supplied in the accessible source bundle",
+  "source_url": "https://www.youtube.com/@LititzBMX17543",
+  "source_url_status": "individual canonical URL not supplied",
+  "host": "Kyle A. Huffman",
+  "guests": [],
+  "participants": [
+    "Kyle A. Huffman"
+  ],
+  "duration": "Not supplied",
+  "recording_date": null,
+  "publication_date": null,
+  "location": "Rehearsal/reconstruction setting; not the Warwick Township meeting room",
+  "language": "en",
+  "summary": "A recreation of Kyle A. Huffman’s Warwick Township pump-track public comment prepared or recorded outside the actual government meeting. It preserves the intended presentation and advocacy message but is not meeting footage.",
+  "historical_significance": "Documents the Lititz BMX-led advocacy process for a Warwick Township pump track while clearly separating a later recreation from the official public-meeting record.",
+  "subjects": [
+    "Warwick Township",
+    "pump track",
+    "public comment",
+    "recreation advocacy",
+    "Lititz BMX",
+    "presentation rehearsal"
+  ],
+  "transcript_status": "No transcript was supplied for this rehearsal/reconstruction recording.",
+  "preservation_status": [
+    "source-captured",
+    "dossier-compiled",
+    "documentation-gap-recorded"
+  ],
+  "rights": "All rights reserved unless separately documented; see docs/rights-and-access.md.",
+  "compiled_date": "2026-07-21",
+  "build_version": "1.1.0-part1",
+  "notes": [
+    "Locked classification: Presentation Dossier.",
+    "Locked wording: rehearsal/reconstruction, not actual Warwick Township meeting footage.",
+    "No statement in this dossier should imply that the supplied recording is an official township video."
+  ],
+  "repository_path": "collections/pump-track-chat/records/ptc-warwick-public-comment-rehearsal",
+  "source_image_original_filename": "2026-07-21_00-41-38.png",
+  "source_image_sha256": "2693bcddbf76dfe3d4e325c682fe2fa9f23c944d5e1f1363d8dc07c710878feb",
+  "related_record_ids": [
+    "../ptc-warwick-follow-up/README.md",
+    "../ptc-lititz-past-future/README.md",
+    "../ptc-brandon-hetrick-pump-track-builds/README.md"
+  ]
+}

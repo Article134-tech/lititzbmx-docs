@@ -1,17 +1,13 @@
-<p align="center"><img src="../assets/record-collection-banner.png" alt="The Lititz BMX Record Collection overview" width="100%"></p>
-
 # Record Collection Categories
 
-Categories organize public-facing programs and production series. Dossier types remain independent of category names.
+The public Record Collection contains **21 compiled dossiers** distributed across three established top-level categories.
 
-<table>
-<tr>
-<td width="33%" valign="top"><a href="fireside-bmx-chat/README.md"><img src="fireside-bmx-chat/assets/category-cover.png" alt="Fireside BMX Chat category cover" width="100%"></a><br><strong><a href="fireside-bmx-chat/README.md">Fireside BMX Chat</a></strong><br>Seven Interview Dossiers maintained in public package v1.0.2.</td>
-<td width="33%" valign="top"><a href="pump-track-chat/README.md"><img src="pump-track-chat/assets/category-cover.png" alt="Pump Track Chat graphic for Pump Track Builds with Brandon Hetrick." width="100%"></a><br><strong><a href="pump-track-chat/README.md">Pump Track Chat</a></strong><br>Category established; dossiers are added only after a complete source package is reviewed.</td>
-<td width="33%" valign="top"><a href="unboxing/README.md"><img src="unboxing/assets/category-thumbnail.png" alt="Lititz BMX unboxing photograph showing a package being opened." width="100%"></a><br><strong><a href="unboxing/README.md">Unboxing</a></strong><br>Category established; Recording Dossier is the default type.</td>
-</tr>
-</table>
+| Category | Count | Visual index | Scope |
+|---|---:|---|---|
+| Fireside BMX Chat | 8 | [Open visual index](fireside-bmx-chat/README.md) | Oral history, family memory, museum encounters, and campaign records |
+| Pump Track Chat | 4 | [Open visual index](pump-track-chat/README.md) | Advocacy, planning, community history, access, and building expertise |
+| Unboxing | 9 | [Open visual index](unboxing/README.md) | Arrival, condition, identification, provenance, and first archival response |
 
-## Classification rule
+The four “The Boy” derivative clips remain inside the existing Fireside BMX Chat dossier and do not increase the dossier count. The Damian Fulton Samaritan’s Purse campaign recording remains under Fireside BMX Chat; no fourth category exists.
 
-A category identifies the editorial home. The dossier type identifies what happened. An interview remains an Interview Dossier whether it appears under Fireside BMX Chat or Pump Track Chat; an unboxing is normally a Recording Dossier because the opening and first examination are the primary event.
+[Return to the complete Record Collection](../README.md)

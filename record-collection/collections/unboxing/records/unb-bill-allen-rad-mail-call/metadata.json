@@ -1,0 +1,57 @@
+{
+  "record_id": "unb-bill-allen-rad-mail-call",
+  "collection": "Unboxing",
+  "subseries": null,
+  "episode_number": null,
+  "dossier_type": "Recording Dossier",
+  "recording_type": [
+    "unboxing",
+    "document and memorabilia examination",
+    "mail call"
+  ],
+  "title": "Bill Allen / RAD Movie Mail Call",
+  "published_title": "Not supplied in the accessible source bundle",
+  "source_url": "https://www.youtube.com/@LititzBMX17543",
+  "source_url_status": "individual canonical URL not supplied",
+  "host": "Kyle A. Huffman",
+  "guests": [],
+  "participants": [
+    "Kyle A. Huffman"
+  ],
+  "duration": "Not supplied",
+  "recording_date": null,
+  "publication_date": null,
+  "location": "Lititz BMX; exact private address excluded",
+  "language": "en",
+  "summary": "A mail-call and unboxing record for material supplied by Bill Allen and associated with the film RAD, including the signed manuscript/script and signed USA Today material identified in the Lititz BMX artifact records.",
+  "historical_significance": "Documents the arrival context for film-related BMX artifacts connecting Bill Allen, RAD, media history, and the Lititz BMX collection.",
+  "subjects": [
+    "Bill Allen",
+    "RAD",
+    "signed script",
+    "USA Today",
+    "BMX film history",
+    "mail call"
+  ],
+  "transcript_status": "No transcript was supplied for the Bill Allen / RAD recording. The unrelated Reynolds Racing transcript is expressly excluded.",
+  "preservation_status": [
+    "source-captured",
+    "dossier-compiled",
+    "documentation-gap-recorded"
+  ],
+  "rights": "All rights reserved unless separately documented; see docs/rights-and-access.md.",
+  "compiled_date": "2026-07-21",
+  "build_version": "1.1.0-part1",
+  "notes": [
+    "Locked rule: this dossier has no supplied transcript.",
+    "Locked rule: no Reynolds Racing transcript or text may be attached to this record.",
+    "The source image is preserved unchanged."
+  ],
+  "repository_path": "collections/unboxing/records/unb-bill-allen-rad-mail-call",
+  "source_image_original_filename": "2026-07-21_00-32-35.png",
+  "source_image_sha256": "60794620379acdc3fba917f17dc6b428e1f28606b64ac7962a41e0078f486a70",
+  "related_record_ids": [
+    "../unb-hooligan-radical-rick-figure/README.md",
+    "fbc-001-damian-x-fulton"
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "record_id": "unb-radical-rick-sticker-pack",
+  "collection": "Unboxing",
+  "subseries": null,
+  "episode_number": null,
+  "dossier_type": "Recording Dossier",
+  "recording_type": [
+    "unboxing",
+    "sticker and ephemera examination",
+    "mail call"
+  ],
+  "title": "Radical Rick Sticker-Pack Mystery Envelope",
+  "published_title": "Not supplied in the accessible source bundle",
+  "source_url": "https://www.youtube.com/@LititzBMX17543",
+  "source_url_status": "individual canonical URL not supplied",
+  "host": "Kyle A. Huffman",
+  "guests": [],
+  "participants": [
+    "Kyle A. Huffman"
+  ],
+  "duration": "Not supplied",
+  "recording_date": null,
+  "publication_date": null,
+  "location": "Lititz BMX; exact private address excluded",
+  "language": "en",
+  "summary": "An unboxing and examination of a mystery envelope containing Radical Rick sticker material associated with Damian X. Fulton.",
+  "historical_significance": "Preserves small-format Radical Rick ephemera and its arrival context as part of the continuing relationship between the artist, character, collectors, and Lititz BMX.",
+  "subjects": [
+    "Radical Rick",
+    "Damian X. Fulton",
+    "BMX stickers",
+    "ephemera",
+    "mail call"
+  ],
+  "transcript_status": "No transcript was supplied for this recording.",
+  "preservation_status": [
+    "source-captured",
+    "dossier-compiled",
+    "documentation-gap-recorded"
+  ],
+  "rights": "All rights reserved unless separately documented; see docs/rights-and-access.md.",
+  "compiled_date": "2026-07-21",
+  "build_version": "1.1.0-part1",
+  "notes": [
+    "The exact number and edition status of the sticker packs should be verified against the audiovisual source or artifact record.",
+    "The source image is preserved unchanged."
+  ],
+  "repository_path": "collections/unboxing/records/unb-radical-rick-sticker-pack",
+  "source_image_original_filename": "2026-07-21_00-35-22.png",
+  "source_image_sha256": "dddd322a3c8321df4103499abb578991438b0be1609d48369ae7f9ab212e28d0",
+  "related_record_ids": [
+    "fbc-001-damian-x-fulton",
+    "../unb-hooligan-radical-rick-figure/README.md"
+  ]
+}

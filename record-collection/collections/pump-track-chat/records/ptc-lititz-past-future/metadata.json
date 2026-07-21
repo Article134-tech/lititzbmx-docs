@@ -1,0 +1,64 @@
+{
+  "record_id": "ptc-lititz-past-future",
+  "collection": "Pump Track Chat",
+  "subseries": null,
+  "episode_number": null,
+  "dossier_type": "Interview Dossier",
+  "recording_type": [
+    "interview",
+    "local oral history",
+    "community advocacy conversation"
+  ],
+  "title": "The Past — Our Hope for the Future of Lititz",
+  "published_title": "Join us for a conversation about BMX in Lititz, PA — The Past - Our Hope for the Future of Lititz",
+  "source_url": "https://www.youtube.com/@LititzBMX17543",
+  "source_url_status": "individual canonical URL not supplied",
+  "host": "Kyle A. Huffman",
+  "guests": [
+    "John Stancliff"
+  ],
+  "participants": [
+    "Kyle A. Huffman",
+    "John Stancliff"
+  ],
+  "duration": "19:39",
+  "recording_date": null,
+  "publication_date": null,
+  "location": "Remote or unspecified conversation about Lititz, Pennsylvania",
+  "language": "en",
+  "summary": "John Stancliff recalls the former BMX track in Lititz, how he discovered and raced there, local and regional BMX competition, and how a modern pump track could restore accessible wheeled recreation to the community.",
+  "historical_significance": "Connects first-person local BMX memory with present-day advocacy and preserves testimony about the former Lititz track, nearby businesses, race culture, and community use.",
+  "subjects": [
+    "Lititz BMX track",
+    "John Stancliff",
+    "Lititz",
+    "Mongoose",
+    "NBL",
+    "Pennsylvania BMX",
+    "pump track",
+    "community recreation",
+    "local oral history"
+  ],
+  "transcript_status": "Original machine transcript preserved unchanged; corrected machine transcript added separately; audio and speaker verification pending.",
+  "preservation_status": [
+    "source-captured",
+    "dossier-compiled",
+    "documentation-gap-recorded",
+    "transcript-verification-pending"
+  ],
+  "rights": "All rights reserved unless separately documented; see docs/rights-and-access.md.",
+  "compiled_date": "2026-07-21",
+  "build_version": "1.1.0-part1",
+  "notes": [
+    "Dates, names, track locations, and race details are preserved as John Stancliff’s recollection unless independently verified.",
+    "The corrected transcript normalizes obvious place and brand names while retaining unresolved names as uncertain."
+  ],
+  "repository_path": "collections/pump-track-chat/records/ptc-lititz-past-future",
+  "source_image_original_filename": "2026-07-21_00-54-06.png",
+  "source_image_sha256": "c3311049db151c1ac0395420595999db6e22ca56a73e89127a35f7275d21e25f",
+  "related_record_ids": [
+    "../ptc-warwick-public-comment-rehearsal/README.md",
+    "../ptc-warwick-follow-up/README.md",
+    "../ptc-brandon-hetrick-pump-track-builds/README.md"
+  ]
+}

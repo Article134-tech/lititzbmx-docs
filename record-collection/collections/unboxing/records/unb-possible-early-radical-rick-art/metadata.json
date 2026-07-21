@@ -1,0 +1,61 @@
+{
+  "record_id": "unb-possible-early-radical-rick-art",
+  "collection": "Unboxing",
+  "subseries": null,
+  "episode_number": null,
+  "dossier_type": "Recording Dossier",
+  "recording_type": [
+    "unboxing",
+    "artwork examination",
+    "on-location recording"
+  ],
+  "title": "BMX History Found? Possible Early Radical Rick Artwork with Brandon Hetrick",
+  "published_title": "Full Length — Audio is rough at first — BMX Art History: Found & Unboxed w/ Special Guest Brandon Hetrick — At Coleman Bike Park: Lebanon, PA",
+  "source_url": "https://www.youtube.com/@LititzBMX17543",
+  "source_url_status": "individual canonical URL not supplied",
+  "host": "Kyle A. Huffman",
+  "guests": [
+    "Brandon Hetrick"
+  ],
+  "participants": [
+    "Kyle A. Huffman",
+    "Brandon Hetrick"
+  ],
+  "duration": "Not supplied",
+  "recording_date": null,
+  "publication_date": null,
+  "location": "Coleman Bike Park, Lebanon, Pennsylvania",
+  "language": "en",
+  "summary": "Kyle and Brandon Hetrick examine artwork that the historical publication cautiously presents as possible early Radical Rick material. The title itself records uncertainty and warns that the audio is rough at first.",
+  "historical_significance": "Documents an attribution question at the moment of discovery without converting a tentative identification into settled authorship.",
+  "subjects": [
+    "Radical Rick",
+    "Damian X. Fulton",
+    "Brandon Hetrick",
+    "Coleman Bike Park",
+    "BMX artwork",
+    "attribution",
+    "unboxing"
+  ],
+  "transcript_status": "No transcript was supplied for this recording.",
+  "preservation_status": [
+    "source-captured",
+    "dossier-compiled",
+    "documentation-gap-recorded"
+  ],
+  "rights": "All rights reserved unless separately documented; see docs/rights-and-access.md.",
+  "compiled_date": "2026-07-21",
+  "build_version": "1.1.0-part1",
+  "notes": [
+    "“Possible” is a locked qualifier and must remain.",
+    "The source image notes rough audio at the beginning.",
+    "No final attribution evidence was supplied with this build bundle."
+  ],
+  "repository_path": "collections/unboxing/records/unb-possible-early-radical-rick-art",
+  "source_image_original_filename": "2026-07-20_23-50-04.png",
+  "source_image_sha256": "ff04b4ff1c4993f88fffd7aa3c8fb70e269a449e711760ef97dc9e694dd205de",
+  "related_record_ids": [
+    "ptc-brandon-hetrick-pump-track-builds",
+    "fbc-001-damian-x-fulton"
+  ]
+}

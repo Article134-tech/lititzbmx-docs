@@ -13,3 +13,10 @@
 - mark unclear words rather than guessing;
 - compare the final verified transcript with the raw source;
 - add external research only in a separate research layer.
+
+## Derivative clip verification
+
+- Individual clip URLs, durations, and full published descriptions were not present in the accessible source bundle.
+- The handwritten Linda Leary document has not been transcribed because difficult wording remains uncertain.
+- Clip 5 is linked to the supplied `THE BOY` image by locked curator decision.
+- All four records are derivatives and must not be counted as dossiers.

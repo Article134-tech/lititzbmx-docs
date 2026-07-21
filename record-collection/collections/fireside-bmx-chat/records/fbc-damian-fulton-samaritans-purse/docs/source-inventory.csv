@@ -1,0 +1,4 @@
+source_id,source_type,original_reference,repository_path,access,status,sha256,notes
+SRC-001,submitted publication/title image,2026-07-21_00-45-23.png,source/publication/2026-07-21_00-45-23.png,public,preserved unchanged,763e00e8742da5419273d733b9539e0a4613d75e2fd0d3fecfb16833dfba8a9d,Supplied for the v1.1.0 Part 1 build.
+SRC-002,recording URL reference,https://youtube.com/shorts/t22nVfWSC6s,source/youtube-record.md,public reference,canonical Short URL recovered from prior Lititz BMX work,,Audiovisual file is not copied into this repository.
+SRC-003,published-description snapshot,build decision and visible title text,source/published-description.md,public,compiled,,Full platform description was not present unless explicitly quoted in the file.

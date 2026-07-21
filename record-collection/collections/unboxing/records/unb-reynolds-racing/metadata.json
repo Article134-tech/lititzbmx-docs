@@ -1,0 +1,50 @@
+{
+  "record_id": "unb-reynolds-racing",
+  "collection": "Unboxing",
+  "subseries": null,
+  "episode_number": null,
+  "dossier_type": "Recording Dossier",
+  "recording_type": [
+    "unboxing",
+    "BMX bicycle and component examination"
+  ],
+  "title": "Reynolds Racing Unboxing",
+  "published_title": "Not supplied in the accessible source bundle",
+  "source_url": "https://www.youtube.com/@LititzBMX17543",
+  "source_url_status": "individual canonical URL not supplied",
+  "host": "Kyle A. Huffman",
+  "guests": [],
+  "participants": [
+    "Kyle A. Huffman"
+  ],
+  "duration": "Not supplied",
+  "recording_date": null,
+  "publication_date": null,
+  "location": "Lititz BMX; exact private address excluded",
+  "language": "en",
+  "summary": "An unboxing record associated with a white Reynolds Racing BMX bicycle and a packaged item shown beside it.",
+  "historical_significance": "Preserves the first-examination context for Reynolds Racing-related material while maintaining strict separation from unrelated Bill Allen / RAD records.",
+  "subjects": [
+    "Reynolds Racing",
+    "BMX bicycle",
+    "unboxing",
+    "artifact provenance"
+  ],
+  "transcript_status": "No matching Reynolds Racing transcript was present in the accessible source bundle. No unrelated transcript was substituted.",
+  "preservation_status": [
+    "source-captured",
+    "dossier-compiled",
+    "documentation-gap-recorded"
+  ],
+  "rights": "All rights reserved unless separately documented; see docs/rights-and-access.md.",
+  "compiled_date": "2026-07-21",
+  "build_version": "1.1.0-part1",
+  "notes": [
+    "This dossier must remain separate from the Bill Allen / RAD Movie Mail Call dossier.",
+    "The unrelated transcript discrepancy is documented as an exclusion, not attached content."
+  ],
+  "repository_path": "collections/unboxing/records/unb-reynolds-racing",
+  "source_image_original_filename": "2026-07-21_00-29-37.png",
+  "source_image_sha256": "c770eb8bd6345438376b3e8add567e3b8504f66fbdfa6ad69d5e71a1d4d4ab73",
+  "related_record_ids": []
+}

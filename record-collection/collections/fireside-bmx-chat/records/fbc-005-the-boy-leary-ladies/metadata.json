@@ -63,6 +63,38 @@
     "The public description identifies the recording as Episode Five.",
     "The file named “Leary Ladies Conversation Outline - The Boy Posterboard.pdf” does not contain a The Boy conversation outline. Its content is a “3 of 3” promotional text for the earlier Linda London Bridge episode. It is preserved and clearly flagged rather than silently reassigned.",
     "The machine transcript contains misspellings of the Leary name and other words; the readings require fidelity review against audio and the original writings.",
-    "The exact authorship relationship of Cammie’s writing is preserved as she explains it: her words, written in Beverly’s voice, drawing from shared memories."
-  ]
+    "The exact authorship relationship of Cammie’s writing is preserved as she explains it: her words, written in Beverly’s voice, drawing from shared memories.",
+    "Four derivative clip records (Clips 2–5) were added in v1.1.0 Part 1; they do not increase the dossier count."
+  ],
+  "derivative_records": [
+    {
+      "derivative_record_id": "fbc-005-clip-02-cammie-eulogy",
+      "clip_number": 2,
+      "title": "Harry Leary: A Eulogy Read by a Sister (Cammie)",
+      "counts_as_dossier": false,
+      "path": "derivatives/clips/clip-02-cammie-eulogy"
+    },
+    {
+      "derivative_record_id": "fbc-005-clip-03-linda-handwritten-poem",
+      "clip_number": 3,
+      "title": "Linda Leary’s Handwritten Poem About Harry",
+      "counts_as_dossier": false,
+      "path": "derivatives/clips/clip-03-linda-handwritten-poem"
+    },
+    {
+      "derivative_record_id": "fbc-005-clip-04-pull-bmx-magazine",
+      "clip_number": 4,
+      "title": "Beverly Leary with the PULL BMX Magazine Featuring Harry Leary",
+      "counts_as_dossier": false,
+      "path": "derivatives/clips/clip-04-pull-bmx-magazine"
+    },
+    {
+      "derivative_record_id": "fbc-005-clip-05-the-boy-poster-board",
+      "clip_number": 5,
+      "title": "THE BOY — Memorial Poster Board",
+      "counts_as_dossier": false,
+      "path": "derivatives/clips/clip-05-the-boy-poster-board"
+    }
+  ],
+  "last_expanded_date": "2026-07-21"
 }

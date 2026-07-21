@@ -51,3 +51,14 @@ The original recording is the primary source. The raw transcript is preserved un
 - visual access layer completed;
 - machine transcript preserved;
 - full audio verification pending.
+
+## Derivative clip records added in v1.1.0 Part 1
+
+The following are supporting derivatives of this existing dossier. They do **not** increase the Record Collection dossier count.
+
+- [Clip 2 — Harry Leary: A Eulogy Read by a Sister (Cammie)](derivatives/clips/clip-02-cammie-eulogy/README.md)
+- [Clip 3 — Linda Leary’s Handwritten Poem About Harry](derivatives/clips/clip-03-linda-handwritten-poem/README.md)
+- [Clip 4 — Beverly Leary with the PULL BMX Magazine Featuring Harry Leary](derivatives/clips/clip-04-pull-bmx-magazine/README.md)
+- [Clip 5 — THE BOY Memorial Poster Board](derivatives/clips/clip-05-the-boy-poster-board/README.md)
+
+[Open the derivative-clip register](derivatives/clips/README.md).

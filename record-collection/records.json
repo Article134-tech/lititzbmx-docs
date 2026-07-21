@@ -446,5 +446,832 @@
       "The exact serial number and complete manufacturing history of the NOS frame were not available at the time of the conversation."
     ],
     "repository_path": "collections/fireside-bmx-chat/records/fbc-lost-linda-leary-taylor-dirtwerx"
+  },
+  {
+    "record_id": "unb-hooligan-radical-rick-figure",
+    "collection": "Unboxing",
+    "subseries": null,
+    "episode_number": null,
+    "dossier_type": "Recording Dossier",
+    "recording_type": [
+      "unboxing",
+      "artifact first examination",
+      "custom figure documentation"
+    ],
+    "title": "Custom Hooligan BMX Radical Rick 1:24 Figure",
+    "published_title": "Not supplied in the accessible source bundle",
+    "source_url": "https://www.youtube.com/@LititzBMX17543",
+    "source_url_status": "individual canonical URL not supplied",
+    "host": "Kyle A. Huffman",
+    "guests": [],
+    "participants": [
+      "Kyle A. Huffman"
+    ],
+    "duration": "Not supplied",
+    "recording_date": null,
+    "publication_date": null,
+    "location": "Not supplied",
+    "language": "en",
+    "summary": "A Lititz BMX unboxing and first-examination record for a custom 1:24-scale Radical Rick figure. The supplied packaging image credits Hooligan BMX for the figure, Damian X. Fulton for Radical Rick, John Stancliff / Gap Hill Speed Shop for the painted bicycle and scene, and Lititz BMX as the preserving project.",
+    "historical_significance": "Documents a contemporary fan-made interpretation of Radical Rick and the collaboration among BMX artists, builders, collectors, and the Lititz BMX preservation project.",
+    "subjects": [
+      "Radical Rick",
+      "Damian X. Fulton",
+      "Hooligan BMX",
+      "John Stancliff",
+      "Gap Hill Speed Shop",
+      "custom BMX figure",
+      "BMX art"
+    ],
+    "transcript_status": "No transcript was supplied for this recording.",
+    "preservation_status": [
+      "source-captured",
+      "dossier-compiled",
+      "documentation-gap-recorded"
+    ],
+    "rights": "All rights reserved unless separately documented; see docs/rights-and-access.md.",
+    "compiled_date": "2026-07-21",
+    "build_version": "1.1.0-part1",
+    "notes": [
+      "The source image is preserved unchanged.",
+      "The exact platform title, duration, publication date, and individual canonical URL were not present in the accessible build bundle."
+    ],
+    "repository_path": "collections/unboxing/records/unb-hooligan-radical-rick-figure",
+    "source_image_original_filename": "2026-07-20_22-52-56.png",
+    "source_image_sha256": "db3829cb7df493f419895bd64421301157c665cf5d0bd88bc8d58775ff83d796",
+    "related_record_ids": [
+      "fbc-001-damian-x-fulton",
+      "../unb-bill-allen-rad-mail-call/README.md",
+      "../unb-radical-rick-sticker-pack/README.md"
+    ]
+  },
+  {
+    "record_id": "unb-torker-cathy-hanna-bob-haro",
+    "collection": "Unboxing",
+    "subseries": null,
+    "episode_number": null,
+    "dossier_type": "Recording Dossier",
+    "recording_type": [
+      "unboxing",
+      "artifact first examination",
+      "mail call"
+    ],
+    "title": "Torker / Cathy Hanna / Bob Haro Surprise Unboxing",
+    "published_title": "Not supplied in the accessible source bundle",
+    "source_url": "https://www.youtube.com/@LititzBMX17543",
+    "source_url_status": "individual canonical URL not supplied",
+    "host": "Kyle A. Huffman",
+    "guests": [],
+    "participants": [
+      "Kyle A. Huffman"
+    ],
+    "duration": "Not supplied",
+    "recording_date": null,
+    "publication_date": null,
+    "location": "Lititz BMX; exact private address excluded",
+    "language": "en",
+    "summary": "A package-opening record associated with Torker, Cathy Hanna, Bob Haro, shirts, and the signed BMX Action hat later preserved in the Lititz BMX collection. The submitted source image records the unopened package at the beginning of the event.",
+    "historical_significance": "Preserves the arrival context for objects connecting early BMX racing, freestyle, magazine culture, and modern tribute merchandise.",
+    "subjects": [
+      "Torker BMX",
+      "Cathy Hanna",
+      "Bob Haro",
+      "BMX Action",
+      "signed hat",
+      "mail call",
+      "artifact provenance"
+    ],
+    "transcript_status": "No transcript was supplied for this recording.",
+    "preservation_status": [
+      "source-captured",
+      "dossier-compiled",
+      "documentation-gap-recorded"
+    ],
+    "rights": "All rights reserved unless separately documented; see docs/rights-and-access.md.",
+    "compiled_date": "2026-07-21",
+    "build_version": "1.1.0-part1",
+    "notes": [
+      "The exact platform title and individual URL were not supplied.",
+      "No shipping-label details are transcribed into the descriptive record."
+    ],
+    "repository_path": "collections/unboxing/records/unb-torker-cathy-hanna-bob-haro",
+    "source_image_original_filename": "2026-07-20_22-55-00.png",
+    "source_image_sha256": "f24326ac640ad69b59956c3276e82c5207f7455792dd3399026605373464a16c",
+    "related_record_ids": []
+  },
+  {
+    "record_id": "unb-harry-leary-legacy-linda",
+    "collection": "Unboxing",
+    "subseries": null,
+    "episode_number": null,
+    "dossier_type": "Recording Dossier",
+    "recording_type": [
+      "unboxing",
+      "telephone conversation",
+      "artifact provenance discussion",
+      "family oral history"
+    ],
+    "title": "Harry Leary’s Personal BMX Legacy — Sent by Linda Leary Taylor",
+    "published_title": "Not supplied in the accessible source bundle",
+    "source_url": "https://www.youtube.com/@LititzBMX17543",
+    "source_url_status": "individual canonical URL not supplied",
+    "host": "Kyle A. Huffman",
+    "guests": [
+      "Linda Leary Taylor"
+    ],
+    "participants": [
+      "Kyle A. Huffman",
+      "Linda Leary Taylor",
+      "Anne-Marie Huffman"
+    ],
+    "duration": "27:03",
+    "recording_date": null,
+    "publication_date": null,
+    "location": "Remote telephone conversation during a Lititz BMX unboxing; exact locations not supplied",
+    "language": "en",
+    "summary": "Kyle opens and examines a group of Harry Leary-related objects while Linda Leary Taylor explains what she knows about the contents, including hats, shirts, a sweatband, a Supercross seat and post, a GT lanyard, a chain, a calendar, and photographs. Linda repeatedly distinguishes what she knows from what she cannot confirm.",
+    "historical_significance": "Captures provenance at the moment of first examination and preserves family testimony linking personal objects to Harry Leary’s apartment, car, travels, clinics, bicycles, and relationships.",
+    "subjects": [
+      "Harry Leary",
+      "Linda Leary Taylor",
+      "Leary family",
+      "DIRTWERX",
+      "Supercross BMX",
+      "GT Bicycles",
+      "Legacy Nationals",
+      "Silver Dollar Nationals",
+      "BMX memorabilia",
+      "artifact provenance"
+    ],
+    "transcript_status": "Original machine transcript preserved unchanged; corrected machine transcript added separately; audio and speaker verification pending.",
+    "preservation_status": [
+      "source-captured",
+      "dossier-compiled",
+      "documentation-gap-recorded",
+      "transcript-verification-pending"
+    ],
+    "rights": "All rights reserved unless separately documented; see docs/rights-and-access.md.",
+    "compiled_date": "2026-07-21",
+    "build_version": "1.1.0-part1",
+    "notes": [
+      "The original machine transcript is retained byte-for-byte.",
+      "The corrected layer normalizes obvious names and places without converting uncertain recollection into fact.",
+      "Statements about ownership, sponsorship, travel, and object history remain attributed to the speakers."
+    ],
+    "repository_path": "collections/unboxing/records/unb-harry-leary-legacy-linda",
+    "source_image_original_filename": "2026-07-20_23-36-38.png",
+    "source_image_sha256": "8a6b2505c81a0ea605aef9e98449d98a152d696a94c91f0b11951dded7169d75",
+    "related_record_ids": [
+      "fbc-005-the-boy-leary-ladies",
+      "fbc-linda-leary-taylor-walk-talk",
+      "fbc-lost-linda-leary-taylor-dirtwerx"
+    ]
+  },
+  {
+    "record_id": "unb-dirtwerx-pr12-justin-dumas",
+    "collection": "Unboxing",
+    "subseries": null,
+    "episode_number": null,
+    "dossier_type": "Recording Dossier",
+    "recording_type": [
+      "unboxing",
+      "prototype-frame examination",
+      "artifact provenance record"
+    ],
+    "title": "Harry Leary DIRTWERX PR12 Prototype from Justin Dumas / Livermore Boss",
+    "published_title": "Unboxing BMX History — DIRTWERX Prototype from Livermore Boss’ Justin Dumas",
+    "source_url": "https://www.youtube.com/@LititzBMX17543",
+    "source_url_status": "individual canonical URL not supplied",
+    "host": "Kyle A. Huffman",
+    "guests": [],
+    "participants": [
+      "Kyle A. Huffman"
+    ],
+    "duration": "Not supplied",
+    "recording_date": null,
+    "publication_date": null,
+    "location": "Lititz BMX; exact private address excluded",
+    "language": "en",
+    "summary": "An unboxing and first examination of a frame presented in the historical publication as a DIRTWERX prototype connected to Harry Leary, Justin Dumas, and Livermore Boss.",
+    "historical_significance": "Preserves the acquisition and initial identification of a prototype-related frame while separating the historical publication title from later archival verification.",
+    "subjects": [
+      "Harry Leary",
+      "DIRTWERX",
+      "PR12",
+      "Justin Dumas",
+      "Livermore Boss",
+      "prototype BMX frame",
+      "provenance"
+    ],
+    "transcript_status": "No transcript was supplied for this recording.",
+    "preservation_status": [
+      "source-captured",
+      "dossier-compiled",
+      "documentation-gap-recorded"
+    ],
+    "rights": "All rights reserved unless separately documented; see docs/rights-and-access.md.",
+    "compiled_date": "2026-07-21",
+    "build_version": "1.1.0-part1",
+    "notes": [
+      "The historical publication title is preserved.",
+      "Any later correction or qualification belongs in the archival description and verification notes, not in an altered title-card image."
+    ],
+    "repository_path": "collections/unboxing/records/unb-dirtwerx-pr12-justin-dumas",
+    "source_image_original_filename": "2026-07-20_23-44-21.png",
+    "source_image_sha256": "99052afa43c7784834ed9516dd2eb4dc136d5bbdfed18cc3679384856eb2e882",
+    "related_record_ids": [
+      "fbc-lost-linda-leary-taylor-dirtwerx"
+    ]
+  },
+  {
+    "record_id": "unb-possible-early-radical-rick-art",
+    "collection": "Unboxing",
+    "subseries": null,
+    "episode_number": null,
+    "dossier_type": "Recording Dossier",
+    "recording_type": [
+      "unboxing",
+      "artwork examination",
+      "on-location recording"
+    ],
+    "title": "BMX History Found? Possible Early Radical Rick Artwork with Brandon Hetrick",
+    "published_title": "Full Length — Audio is rough at first — BMX Art History: Found & Unboxed w/ Special Guest Brandon Hetrick — At Coleman Bike Park: Lebanon, PA",
+    "source_url": "https://www.youtube.com/@LititzBMX17543",
+    "source_url_status": "individual canonical URL not supplied",
+    "host": "Kyle A. Huffman",
+    "guests": [
+      "Brandon Hetrick"
+    ],
+    "participants": [
+      "Kyle A. Huffman",
+      "Brandon Hetrick"
+    ],
+    "duration": "Not supplied",
+    "recording_date": null,
+    "publication_date": null,
+    "location": "Coleman Bike Park, Lebanon, Pennsylvania",
+    "language": "en",
+    "summary": "Kyle and Brandon Hetrick examine artwork that the historical publication cautiously presents as possible early Radical Rick material. The title itself records uncertainty and warns that the audio is rough at first.",
+    "historical_significance": "Documents an attribution question at the moment of discovery without converting a tentative identification into settled authorship.",
+    "subjects": [
+      "Radical Rick",
+      "Damian X. Fulton",
+      "Brandon Hetrick",
+      "Coleman Bike Park",
+      "BMX artwork",
+      "attribution",
+      "unboxing"
+    ],
+    "transcript_status": "No transcript was supplied for this recording.",
+    "preservation_status": [
+      "source-captured",
+      "dossier-compiled",
+      "documentation-gap-recorded"
+    ],
+    "rights": "All rights reserved unless separately documented; see docs/rights-and-access.md.",
+    "compiled_date": "2026-07-21",
+    "build_version": "1.1.0-part1",
+    "notes": [
+      "“Possible” is a locked qualifier and must remain.",
+      "The source image notes rough audio at the beginning.",
+      "No final attribution evidence was supplied with this build bundle."
+    ],
+    "repository_path": "collections/unboxing/records/unb-possible-early-radical-rick-art",
+    "source_image_original_filename": "2026-07-20_23-50-04.png",
+    "source_image_sha256": "ff04b4ff1c4993f88fffd7aa3c8fb70e269a449e711760ef97dc9e694dd205de",
+    "related_record_ids": [
+      "ptc-brandon-hetrick-pump-track-builds",
+      "fbc-001-damian-x-fulton"
+    ]
+  },
+  {
+    "record_id": "unb-pages-intended-for-turbo",
+    "collection": "Unboxing",
+    "subseries": null,
+    "episode_number": null,
+    "dossier_type": "Recording Dossier",
+    "recording_type": [
+      "unboxing",
+      "document examination",
+      "mail call"
+    ],
+    "title": "Opening the Pages Intended for Turbo — An Unboxing",
+    "published_title": "Opening the pages intended for Turbo… An unboxing",
+    "source_url": "https://www.youtube.com/@LititzBMX17543",
+    "source_url_status": "individual canonical URL not supplied",
+    "host": "Kyle A. Huffman",
+    "guests": [],
+    "participants": [
+      "Kyle A. Huffman"
+    ],
+    "duration": "Not supplied",
+    "recording_date": null,
+    "publication_date": null,
+    "location": "Lititz BMX; exact private address excluded",
+    "language": "en",
+    "summary": "An unboxing centered on pages described in the historical title as having been intended for “Turbo.” The source record preserves the opening event and the wording used at publication.",
+    "historical_significance": "Preserves the arrival and first examination of paper material linked by the publication to the Harry Leary Turbo context.",
+    "subjects": [
+      "Harry Leary Turbo",
+      "BMX documents",
+      "paper artifacts",
+      "mail call",
+      "unboxing"
+    ],
+    "transcript_status": "No transcript was supplied for this recording.",
+    "preservation_status": [
+      "source-captured",
+      "dossier-compiled",
+      "documentation-gap-recorded"
+    ],
+    "rights": "All rights reserved unless separately documented; see docs/rights-and-access.md.",
+    "compiled_date": "2026-07-21",
+    "build_version": "1.1.0-part1",
+    "notes": [
+      "The title is preserved as historical publication wording.",
+      "The phrase “intended for Turbo” is not expanded into a stronger provenance claim without supporting documentation."
+    ],
+    "repository_path": "collections/unboxing/records/unb-pages-intended-for-turbo",
+    "source_image_original_filename": "2026-07-20_23-56-16.png",
+    "source_image_sha256": "fd7bb2d72a64744808c6d7a54b2c9ec0485300c18c7cb66c943efa07f4c6d8c3",
+    "related_record_ids": [
+      "../unb-harry-leary-legacy-linda/README.md"
+    ]
+  },
+  {
+    "record_id": "unb-reynolds-racing",
+    "collection": "Unboxing",
+    "subseries": null,
+    "episode_number": null,
+    "dossier_type": "Recording Dossier",
+    "recording_type": [
+      "unboxing",
+      "BMX bicycle and component examination"
+    ],
+    "title": "Reynolds Racing Unboxing",
+    "published_title": "Not supplied in the accessible source bundle",
+    "source_url": "https://www.youtube.com/@LititzBMX17543",
+    "source_url_status": "individual canonical URL not supplied",
+    "host": "Kyle A. Huffman",
+    "guests": [],
+    "participants": [
+      "Kyle A. Huffman"
+    ],
+    "duration": "Not supplied",
+    "recording_date": null,
+    "publication_date": null,
+    "location": "Lititz BMX; exact private address excluded",
+    "language": "en",
+    "summary": "An unboxing record associated with a white Reynolds Racing BMX bicycle and a packaged item shown beside it.",
+    "historical_significance": "Preserves the first-examination context for Reynolds Racing-related material while maintaining strict separation from unrelated Bill Allen / RAD records.",
+    "subjects": [
+      "Reynolds Racing",
+      "BMX bicycle",
+      "unboxing",
+      "artifact provenance"
+    ],
+    "transcript_status": "No matching Reynolds Racing transcript was present in the accessible source bundle. No unrelated transcript was substituted.",
+    "preservation_status": [
+      "source-captured",
+      "dossier-compiled",
+      "documentation-gap-recorded"
+    ],
+    "rights": "All rights reserved unless separately documented; see docs/rights-and-access.md.",
+    "compiled_date": "2026-07-21",
+    "build_version": "1.1.0-part1",
+    "notes": [
+      "This dossier must remain separate from the Bill Allen / RAD Movie Mail Call dossier.",
+      "The unrelated transcript discrepancy is documented as an exclusion, not attached content."
+    ],
+    "repository_path": "collections/unboxing/records/unb-reynolds-racing",
+    "source_image_original_filename": "2026-07-21_00-29-37.png",
+    "source_image_sha256": "c770eb8bd6345438376b3e8add567e3b8504f66fbdfa6ad69d5e71a1d4d4ab73",
+    "related_record_ids": []
+  },
+  {
+    "record_id": "unb-bill-allen-rad-mail-call",
+    "collection": "Unboxing",
+    "subseries": null,
+    "episode_number": null,
+    "dossier_type": "Recording Dossier",
+    "recording_type": [
+      "unboxing",
+      "document and memorabilia examination",
+      "mail call"
+    ],
+    "title": "Bill Allen / RAD Movie Mail Call",
+    "published_title": "Not supplied in the accessible source bundle",
+    "source_url": "https://www.youtube.com/@LititzBMX17543",
+    "source_url_status": "individual canonical URL not supplied",
+    "host": "Kyle A. Huffman",
+    "guests": [],
+    "participants": [
+      "Kyle A. Huffman"
+    ],
+    "duration": "Not supplied",
+    "recording_date": null,
+    "publication_date": null,
+    "location": "Lititz BMX; exact private address excluded",
+    "language": "en",
+    "summary": "A mail-call and unboxing record for material supplied by Bill Allen and associated with the film RAD, including the signed manuscript/script and signed USA Today material identified in the Lititz BMX artifact records.",
+    "historical_significance": "Documents the arrival context for film-related BMX artifacts connecting Bill Allen, RAD, media history, and the Lititz BMX collection.",
+    "subjects": [
+      "Bill Allen",
+      "RAD",
+      "signed script",
+      "USA Today",
+      "BMX film history",
+      "mail call"
+    ],
+    "transcript_status": "No transcript was supplied for the Bill Allen / RAD recording. The unrelated Reynolds Racing transcript is expressly excluded.",
+    "preservation_status": [
+      "source-captured",
+      "dossier-compiled",
+      "documentation-gap-recorded"
+    ],
+    "rights": "All rights reserved unless separately documented; see docs/rights-and-access.md.",
+    "compiled_date": "2026-07-21",
+    "build_version": "1.1.0-part1",
+    "notes": [
+      "Locked rule: this dossier has no supplied transcript.",
+      "Locked rule: no Reynolds Racing transcript or text may be attached to this record.",
+      "The source image is preserved unchanged."
+    ],
+    "repository_path": "collections/unboxing/records/unb-bill-allen-rad-mail-call",
+    "source_image_original_filename": "2026-07-21_00-32-35.png",
+    "source_image_sha256": "60794620379acdc3fba917f17dc6b428e1f28606b64ac7962a41e0078f486a70",
+    "related_record_ids": [
+      "../unb-hooligan-radical-rick-figure/README.md",
+      "fbc-001-damian-x-fulton"
+    ]
+  },
+  {
+    "record_id": "unb-radical-rick-sticker-pack",
+    "collection": "Unboxing",
+    "subseries": null,
+    "episode_number": null,
+    "dossier_type": "Recording Dossier",
+    "recording_type": [
+      "unboxing",
+      "sticker and ephemera examination",
+      "mail call"
+    ],
+    "title": "Radical Rick Sticker-Pack Mystery Envelope",
+    "published_title": "Not supplied in the accessible source bundle",
+    "source_url": "https://www.youtube.com/@LititzBMX17543",
+    "source_url_status": "individual canonical URL not supplied",
+    "host": "Kyle A. Huffman",
+    "guests": [],
+    "participants": [
+      "Kyle A. Huffman"
+    ],
+    "duration": "Not supplied",
+    "recording_date": null,
+    "publication_date": null,
+    "location": "Lititz BMX; exact private address excluded",
+    "language": "en",
+    "summary": "An unboxing and examination of a mystery envelope containing Radical Rick sticker material associated with Damian X. Fulton.",
+    "historical_significance": "Preserves small-format Radical Rick ephemera and its arrival context as part of the continuing relationship between the artist, character, collectors, and Lititz BMX.",
+    "subjects": [
+      "Radical Rick",
+      "Damian X. Fulton",
+      "BMX stickers",
+      "ephemera",
+      "mail call"
+    ],
+    "transcript_status": "No transcript was supplied for this recording.",
+    "preservation_status": [
+      "source-captured",
+      "dossier-compiled",
+      "documentation-gap-recorded"
+    ],
+    "rights": "All rights reserved unless separately documented; see docs/rights-and-access.md.",
+    "compiled_date": "2026-07-21",
+    "build_version": "1.1.0-part1",
+    "notes": [
+      "The exact number and edition status of the sticker packs should be verified against the audiovisual source or artifact record.",
+      "The source image is preserved unchanged."
+    ],
+    "repository_path": "collections/unboxing/records/unb-radical-rick-sticker-pack",
+    "source_image_original_filename": "2026-07-21_00-35-22.png",
+    "source_image_sha256": "dddd322a3c8321df4103499abb578991438b0be1609d48369ae7f9ab212e28d0",
+    "related_record_ids": [
+      "fbc-001-damian-x-fulton",
+      "../unb-hooligan-radical-rick-figure/README.md"
+    ]
+  },
+  {
+    "record_id": "ptc-warwick-public-comment-rehearsal",
+    "collection": "Pump Track Chat",
+    "subseries": null,
+    "episode_number": null,
+    "dossier_type": "Presentation Dossier",
+    "recording_type": [
+      "presentation rehearsal",
+      "public-comment reconstruction",
+      "advocacy recording"
+    ],
+    "title": "Warwick Township Pump Track Public-Comment Rehearsal / Reconstruction",
+    "published_title": "Not supplied in the accessible source bundle",
+    "source_url": "https://www.youtube.com/@LititzBMX17543",
+    "source_url_status": "individual canonical URL not supplied",
+    "host": "Kyle A. Huffman",
+    "guests": [],
+    "participants": [
+      "Kyle A. Huffman"
+    ],
+    "duration": "Not supplied",
+    "recording_date": null,
+    "publication_date": null,
+    "location": "Rehearsal/reconstruction setting; not the Warwick Township meeting room",
+    "language": "en",
+    "summary": "A recreation of Kyle A. Huffman’s Warwick Township pump-track public comment prepared or recorded outside the actual government meeting. It preserves the intended presentation and advocacy message but is not meeting footage.",
+    "historical_significance": "Documents the Lititz BMX-led advocacy process for a Warwick Township pump track while clearly separating a later recreation from the official public-meeting record.",
+    "subjects": [
+      "Warwick Township",
+      "pump track",
+      "public comment",
+      "recreation advocacy",
+      "Lititz BMX",
+      "presentation rehearsal"
+    ],
+    "transcript_status": "No transcript was supplied for this rehearsal/reconstruction recording.",
+    "preservation_status": [
+      "source-captured",
+      "dossier-compiled",
+      "documentation-gap-recorded"
+    ],
+    "rights": "All rights reserved unless separately documented; see docs/rights-and-access.md.",
+    "compiled_date": "2026-07-21",
+    "build_version": "1.1.0-part1",
+    "notes": [
+      "Locked classification: Presentation Dossier.",
+      "Locked wording: rehearsal/reconstruction, not actual Warwick Township meeting footage.",
+      "No statement in this dossier should imply that the supplied recording is an official township video."
+    ],
+    "repository_path": "collections/pump-track-chat/records/ptc-warwick-public-comment-rehearsal",
+    "source_image_original_filename": "2026-07-21_00-41-38.png",
+    "source_image_sha256": "2693bcddbf76dfe3d4e325c682fe2fa9f23c944d5e1f1363d8dc07c710878feb",
+    "related_record_ids": [
+      "../ptc-warwick-follow-up/README.md",
+      "../ptc-lititz-past-future/README.md",
+      "../ptc-brandon-hetrick-pump-track-builds/README.md"
+    ]
+  },
+  {
+    "record_id": "ptc-warwick-follow-up",
+    "collection": "Pump Track Chat",
+    "subseries": null,
+    "episode_number": null,
+    "dossier_type": "Interview Dossier",
+    "recording_type": [
+      "interview",
+      "advocacy update",
+      "community-development conversation"
+    ],
+    "title": "Update! Pump Track Chat Podcast — Warwick Township Follow-Up",
+    "published_title": "Update! Pump Track Chat Podcast",
+    "source_url": "https://www.youtube.com/@LititzBMX17543",
+    "source_url_status": "individual canonical URL not supplied",
+    "host": "Kyle A. Huffman",
+    "guests": [
+      "John Stancliff"
+    ],
+    "participants": [
+      "Kyle A. Huffman",
+      "John Stancliff"
+    ],
+    "duration": "17:48",
+    "recording_date": null,
+    "publication_date": null,
+    "location": "Remote or unspecified conversation concerning Warwick Township, Pennsylvania",
+    "language": "en",
+    "summary": "Kyle and John Stancliff review the Warwick Township supervisors presentation, the board’s reception, Township Manager Brian Harris’s response, site and land-size possibilities, grassroots and municipal build paths, and preparation for the next recreation meeting.",
+    "historical_significance": "Preserves an immediate participant account of the pump-track proposal’s early public-government phase and the strategy that followed the supervisors meeting.",
+    "subjects": [
+      "Warwick Township",
+      "pump track advocacy",
+      "John Stancliff",
+      "Brian Harris",
+      "Green Mountain Cyclery",
+      "Ephrata",
+      "rail trail",
+      "municipal park",
+      "UCI",
+      "ADA access"
+    ],
+    "transcript_status": "Original machine transcript preserved unchanged; corrected machine transcript added separately; audio and speaker verification pending.",
+    "preservation_status": [
+      "source-captured",
+      "dossier-compiled",
+      "documentation-gap-recorded",
+      "transcript-verification-pending"
+    ],
+    "rights": "All rights reserved unless separately documented; see docs/rights-and-access.md.",
+    "compiled_date": "2026-07-21",
+    "build_version": "1.1.0-part1",
+    "notes": [
+      "Statements about board reactions and future decisions are participant recollections, not official township findings.",
+      "The corrected transcript normalizes obvious place names such as Lititz, Ephrata, and Macungie."
+    ],
+    "repository_path": "collections/pump-track-chat/records/ptc-warwick-follow-up",
+    "source_image_original_filename": "2026-07-21_00-49-21.png",
+    "source_image_sha256": "4e30602fb57ba9ff43d1a9f107419f38a9e26b91ec10a21e209da3a186b3a315",
+    "related_record_ids": [
+      "../ptc-warwick-public-comment-rehearsal/README.md",
+      "../ptc-lititz-past-future/README.md",
+      "../ptc-brandon-hetrick-pump-track-builds/README.md"
+    ]
+  },
+  {
+    "record_id": "ptc-lititz-past-future",
+    "collection": "Pump Track Chat",
+    "subseries": null,
+    "episode_number": null,
+    "dossier_type": "Interview Dossier",
+    "recording_type": [
+      "interview",
+      "local oral history",
+      "community advocacy conversation"
+    ],
+    "title": "The Past — Our Hope for the Future of Lititz",
+    "published_title": "Join us for a conversation about BMX in Lititz, PA — The Past - Our Hope for the Future of Lititz",
+    "source_url": "https://www.youtube.com/@LititzBMX17543",
+    "source_url_status": "individual canonical URL not supplied",
+    "host": "Kyle A. Huffman",
+    "guests": [
+      "John Stancliff"
+    ],
+    "participants": [
+      "Kyle A. Huffman",
+      "John Stancliff"
+    ],
+    "duration": "19:39",
+    "recording_date": null,
+    "publication_date": null,
+    "location": "Remote or unspecified conversation about Lititz, Pennsylvania",
+    "language": "en",
+    "summary": "John Stancliff recalls the former BMX track in Lititz, how he discovered and raced there, local and regional BMX competition, and how a modern pump track could restore accessible wheeled recreation to the community.",
+    "historical_significance": "Connects first-person local BMX memory with present-day advocacy and preserves testimony about the former Lititz track, nearby businesses, race culture, and community use.",
+    "subjects": [
+      "Lititz BMX track",
+      "John Stancliff",
+      "Lititz",
+      "Mongoose",
+      "NBL",
+      "Pennsylvania BMX",
+      "pump track",
+      "community recreation",
+      "local oral history"
+    ],
+    "transcript_status": "Original machine transcript preserved unchanged; corrected machine transcript added separately; audio and speaker verification pending.",
+    "preservation_status": [
+      "source-captured",
+      "dossier-compiled",
+      "documentation-gap-recorded",
+      "transcript-verification-pending"
+    ],
+    "rights": "All rights reserved unless separately documented; see docs/rights-and-access.md.",
+    "compiled_date": "2026-07-21",
+    "build_version": "1.1.0-part1",
+    "notes": [
+      "Dates, names, track locations, and race details are preserved as John Stancliff’s recollection unless independently verified.",
+      "The corrected transcript normalizes obvious place and brand names while retaining unresolved names as uncertain."
+    ],
+    "repository_path": "collections/pump-track-chat/records/ptc-lititz-past-future",
+    "source_image_original_filename": "2026-07-21_00-54-06.png",
+    "source_image_sha256": "c3311049db151c1ac0395420595999db6e22ca56a73e89127a35f7275d21e25f",
+    "related_record_ids": [
+      "../ptc-warwick-public-comment-rehearsal/README.md",
+      "../ptc-warwick-follow-up/README.md",
+      "../ptc-brandon-hetrick-pump-track-builds/README.md"
+    ]
+  },
+  {
+    "record_id": "ptc-brandon-hetrick-pump-track-builds",
+    "collection": "Pump Track Chat",
+    "subseries": null,
+    "episode_number": null,
+    "dossier_type": "Interview Dossier",
+    "recording_type": [
+      "on-location interview",
+      "technical conversation",
+      "community-development interview"
+    ],
+    "title": "Pump Track Builds with Brandon Hetrick",
+    "published_title": "Pump Track Chat — Pump Track Builds w/ Brandon Hetrick — Hosted by: Kyle A. Huffman",
+    "source_url": "https://www.youtube.com/@LititzBMX17543",
+    "source_url_status": "individual canonical URL not supplied",
+    "host": "Kyle A. Huffman",
+    "guests": [
+      "Brandon Hetrick"
+    ],
+    "participants": [
+      "Kyle A. Huffman",
+      "Brandon Hetrick"
+    ],
+    "duration": "21:06",
+    "recording_date": null,
+    "publication_date": null,
+    "location": "On location at a pump-track build; the title materials connect the discussion to Coleman Bike Park / Lebanon County",
+    "language": "en",
+    "summary": "Brandon Hetrick discusses his background building BMX tracks, skateparks, pump tracks, and event features; community planning; ADA-friendly and adaptive-rider considerations; construction timing; drainage; tourism; local-business effects; and the potential for a Lititz pump track.",
+    "historical_significance": "Preserves builder testimony used to inform the Warwick Township advocacy effort and documents the practical, recreational, accessibility, and economic dimensions of pump-track development.",
+    "subjects": [
+      "Brandon Hetrick",
+      "pump-track construction",
+      "Coleman Bike Park",
+      "Lebanon County",
+      "ADA-friendly design",
+      "adaptive riders",
+      "drainage",
+      "asphalt",
+      "tourism",
+      "local business",
+      "Lititz"
+    ],
+    "transcript_status": "Original machine transcript preserved unchanged; corrected machine transcript added separately; audio and speaker verification pending.",
+    "preservation_status": [
+      "source-captured",
+      "dossier-compiled",
+      "documentation-gap-recorded",
+      "transcript-verification-pending"
+    ],
+    "rights": "All rights reserved unless separately documented; see docs/rights-and-access.md.",
+    "compiled_date": "2026-07-21",
+    "build_version": "1.1.0-part1",
+    "notes": [
+      "Technical estimates and statements remain attributed to Brandon Hetrick and are not municipal engineering findings.",
+      "The corrected machine transcript normalizes obvious Lititz, Fulton Bank, and Felicia Stancil references; unresolved wording remains marked or unchanged."
+    ],
+    "repository_path": "collections/pump-track-chat/records/ptc-brandon-hetrick-pump-track-builds",
+    "source_image_original_filename": "2026-07-21_01-04-06.png",
+    "source_image_sha256": "7fb27879882ca685540324ed13fa7f6a38d3980508e4da94ab5b3be0e4ff4f15",
+    "related_record_ids": [
+      "../ptc-warwick-public-comment-rehearsal/README.md",
+      "../ptc-warwick-follow-up/README.md",
+      "unb-possible-early-radical-rick-art"
+    ]
+  },
+  {
+    "record_id": "fbc-damian-fulton-samaritans-purse",
+    "collection": "Fireside BMX Chat",
+    "subseries": null,
+    "episode_number": null,
+    "dossier_type": "Recording Dossier",
+    "recording_type": [
+      "campaign recording",
+      "charity recording",
+      "artifact presentation"
+    ],
+    "title": "Damian X. Fulton / Radical Rick / Samaritan’s Purse Campaign Recording",
+    "published_title": "Not supplied in the accessible source bundle",
+    "source_url": "https://youtube.com/shorts/t22nVfWSC6s",
+    "source_url_status": "canonical Short URL recovered from prior Lititz BMX work",
+    "host": "Kyle A. Huffman",
+    "guests": [
+      "Damian X. Fulton"
+    ],
+    "participants": [
+      "Damian X. Fulton",
+      "Kyle A. Huffman"
+    ],
+    "duration": "Not supplied",
+    "recording_date": null,
+    "publication_date": null,
+    "location": "Not supplied",
+    "language": "en",
+    "summary": "A Fireside BMX Chat campaign/charity recording connecting Damian X. Fulton, Radical Rick artwork, the Unofficial Harry Leary Fireside Chat Facebook Group, a Cactus Park BMX plaque, and a Samaritan’s Purse benefit effort.",
+    "historical_significance": "Documents how a BMX artifact and artist relationship became part of a charitable campaign while preserving the recording under its established Fireside BMX Chat editorial home.",
+    "subjects": [
+      "Damian X. Fulton",
+      "Radical Rick",
+      "Samaritan’s Purse",
+      "Unofficial Harry Leary Fireside Chat Facebook Group",
+      "Cactus Park BMX",
+      "charity",
+      "campaign recording"
+    ],
+    "transcript_status": "No transcript was supplied for this campaign/charity recording.",
+    "preservation_status": [
+      "source-captured",
+      "dossier-compiled",
+      "documentation-gap-recorded"
+    ],
+    "rights": "All rights reserved unless separately documented; see docs/rights-and-access.md.",
+    "compiled_date": "2026-07-21",
+    "build_version": "1.1.0-part1",
+    "notes": [
+      "Locked category decision: this remains under Fireside BMX Chat.",
+      "No fourth top-level Charity or Campaign category is created.",
+      "The visible plaque reads “Second Place,” while an inventory description identifies a Cactus Park plaque as “1st”; the discrepancy is preserved and not silently resolved."
+    ],
+    "repository_path": "collections/fireside-bmx-chat/records/fbc-damian-fulton-samaritans-purse",
+    "source_image_original_filename": "2026-07-21_00-45-23.png",
+    "source_image_sha256": "763e00e8742da5419273d733b9539e0a4613d75e2fd0d3fecfb16833dfba8a9d",
+    "related_record_ids": [
+      "../fbc-001-damian-x-fulton/README.md",
+      "unb-hooligan-radical-rick-figure"
+    ]
   }
 ]

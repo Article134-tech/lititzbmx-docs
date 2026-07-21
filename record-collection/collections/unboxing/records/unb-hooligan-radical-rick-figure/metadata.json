@@ -1,0 +1,58 @@
+{
+  "record_id": "unb-hooligan-radical-rick-figure",
+  "collection": "Unboxing",
+  "subseries": null,
+  "episode_number": null,
+  "dossier_type": "Recording Dossier",
+  "recording_type": [
+    "unboxing",
+    "artifact first examination",
+    "custom figure documentation"
+  ],
+  "title": "Custom Hooligan BMX Radical Rick 1:24 Figure",
+  "published_title": "Not supplied in the accessible source bundle",
+  "source_url": "https://www.youtube.com/@LititzBMX17543",
+  "source_url_status": "individual canonical URL not supplied",
+  "host": "Kyle A. Huffman",
+  "guests": [],
+  "participants": [
+    "Kyle A. Huffman"
+  ],
+  "duration": "Not supplied",
+  "recording_date": null,
+  "publication_date": null,
+  "location": "Not supplied",
+  "language": "en",
+  "summary": "A Lititz BMX unboxing and first-examination record for a custom 1:24-scale Radical Rick figure. The supplied packaging image credits Hooligan BMX for the figure, Damian X. Fulton for Radical Rick, John Stancliff / Gap Hill Speed Shop for the painted bicycle and scene, and Lititz BMX as the preserving project.",
+  "historical_significance": "Documents a contemporary fan-made interpretation of Radical Rick and the collaboration among BMX artists, builders, collectors, and the Lititz BMX preservation project.",
+  "subjects": [
+    "Radical Rick",
+    "Damian X. Fulton",
+    "Hooligan BMX",
+    "John Stancliff",
+    "Gap Hill Speed Shop",
+    "custom BMX figure",
+    "BMX art"
+  ],
+  "transcript_status": "No transcript was supplied for this recording.",
+  "preservation_status": [
+    "source-captured",
+    "dossier-compiled",
+    "documentation-gap-recorded"
+  ],
+  "rights": "All rights reserved unless separately documented; see docs/rights-and-access.md.",
+  "compiled_date": "2026-07-21",
+  "build_version": "1.1.0-part1",
+  "notes": [
+    "The source image is preserved unchanged.",
+    "The exact platform title, duration, publication date, and individual canonical URL were not present in the accessible build bundle."
+  ],
+  "repository_path": "collections/unboxing/records/unb-hooligan-radical-rick-figure",
+  "source_image_original_filename": "2026-07-20_22-52-56.png",
+  "source_image_sha256": "db3829cb7df493f419895bd64421301157c665cf5d0bd88bc8d58775ff83d796",
+  "related_record_ids": [
+    "fbc-001-damian-x-fulton",
+    "../unb-bill-allen-rad-mail-call/README.md",
+    "../unb-radical-rick-sticker-pack/README.md"
+  ]
+}

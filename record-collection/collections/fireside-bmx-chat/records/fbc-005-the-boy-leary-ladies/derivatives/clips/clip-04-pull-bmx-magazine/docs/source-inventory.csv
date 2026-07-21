@@ -1,0 +1,3 @@
+source_id,source_type,original_reference,repository_path,access,status,sha256,notes
+SRC-001,submitted derivative image,2026-07-21_01-13-19.png,source/publication/2026-07-21_01-13-19.png,public,preserved unchanged,089e0b95e16d2cf02084206fe815835bf262e4922ea144bdaf9788cc6c0d151c,Source image for the derivative clip.
+SRC-002,parent recording,https://www.youtube.com/watch?v=92rxPCGK6Pg,source/youtube-record.md,public reference,retained,,Individual clip URL not supplied.

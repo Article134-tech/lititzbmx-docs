@@ -1,0 +1,68 @@
+{
+  "record_id": "unb-harry-leary-legacy-linda",
+  "collection": "Unboxing",
+  "subseries": null,
+  "episode_number": null,
+  "dossier_type": "Recording Dossier",
+  "recording_type": [
+    "unboxing",
+    "telephone conversation",
+    "artifact provenance discussion",
+    "family oral history"
+  ],
+  "title": "Harry Leary’s Personal BMX Legacy — Sent by Linda Leary Taylor",
+  "published_title": "Not supplied in the accessible source bundle",
+  "source_url": "https://www.youtube.com/@LititzBMX17543",
+  "source_url_status": "individual canonical URL not supplied",
+  "host": "Kyle A. Huffman",
+  "guests": [
+    "Linda Leary Taylor"
+  ],
+  "participants": [
+    "Kyle A. Huffman",
+    "Linda Leary Taylor",
+    "Anne-Marie Huffman"
+  ],
+  "duration": "27:03",
+  "recording_date": null,
+  "publication_date": null,
+  "location": "Remote telephone conversation during a Lititz BMX unboxing; exact locations not supplied",
+  "language": "en",
+  "summary": "Kyle opens and examines a group of Harry Leary-related objects while Linda Leary Taylor explains what she knows about the contents, including hats, shirts, a sweatband, a Supercross seat and post, a GT lanyard, a chain, a calendar, and photographs. Linda repeatedly distinguishes what she knows from what she cannot confirm.",
+  "historical_significance": "Captures provenance at the moment of first examination and preserves family testimony linking personal objects to Harry Leary’s apartment, car, travels, clinics, bicycles, and relationships.",
+  "subjects": [
+    "Harry Leary",
+    "Linda Leary Taylor",
+    "Leary family",
+    "DIRTWERX",
+    "Supercross BMX",
+    "GT Bicycles",
+    "Legacy Nationals",
+    "Silver Dollar Nationals",
+    "BMX memorabilia",
+    "artifact provenance"
+  ],
+  "transcript_status": "Original machine transcript preserved unchanged; corrected machine transcript added separately; audio and speaker verification pending.",
+  "preservation_status": [
+    "source-captured",
+    "dossier-compiled",
+    "documentation-gap-recorded",
+    "transcript-verification-pending"
+  ],
+  "rights": "All rights reserved unless separately documented; see docs/rights-and-access.md.",
+  "compiled_date": "2026-07-21",
+  "build_version": "1.1.0-part1",
+  "notes": [
+    "The original machine transcript is retained byte-for-byte.",
+    "The corrected layer normalizes obvious names and places without converting uncertain recollection into fact.",
+    "Statements about ownership, sponsorship, travel, and object history remain attributed to the speakers."
+  ],
+  "repository_path": "collections/unboxing/records/unb-harry-leary-legacy-linda",
+  "source_image_original_filename": "2026-07-20_23-36-38.png",
+  "source_image_sha256": "8a6b2505c81a0ea605aef9e98449d98a152d696a94c91f0b11951dded7169d75",
+  "related_record_ids": [
+    "fbc-005-the-boy-leary-ladies",
+    "fbc-linda-leary-taylor-walk-talk",
+    "fbc-lost-linda-leary-taylor-dirtwerx"
+  ]
+}

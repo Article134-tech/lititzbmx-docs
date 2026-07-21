@@ -1,0 +1,7 @@
+# Source Inventory
+
+| ID | Type | Original reference | Repository path | Access | Status | SHA-256 / note |
+|---|---|---|---|---|---|---|
+| SRC-001 | submitted publication/title image | 2026-07-20_23-50-04.png | source/publication/2026-07-20_23-50-04.png | public | preserved unchanged | ff04b4ff1c4993f88fffd7aa3c8fb70e269a449e711760ef97dc9e694dd205de |
+| SRC-002 | recording URL reference | https://www.youtube.com/@LititzBMX17543 | source/youtube-record.md | public reference | individual canonical URL not supplied | Audiovisual file is not copied into this repository. |
+| SRC-003 | published-description snapshot | build decision and visible title text | source/published-description.md | public | compiled | Full platform description was not present unless explicitly quoted in the file. |
