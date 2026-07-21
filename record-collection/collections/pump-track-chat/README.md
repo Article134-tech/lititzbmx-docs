@@ -1,4 +1,4 @@
-<p align="center"><img src="assets/category-cover.png" alt="Pump Track Chat category cover with a stylized pump track" width="100%"></p>
+<p align="center"><img src="assets/category-cover.png" alt="Pump Track Chat graphic for Pump Track Builds with Brandon Hetrick." width="100%"></p>
 
 # Pump Track Chat
 
@@ -9,7 +9,7 @@ Pump Track Chat records conversations about pump tracks, BMX access, planning, c
 
 ## Current repository status
 
-No complete Pump Track Chat source submission is included in repository version 1.0.1. The category is preserved now so future records enter a stable home without changing the collection architecture.
+No complete Pump Track Chat source submission is included in public package version 1.0.2. The category is preserved now so future records enter a stable home without changing the collection architecture.
 
 ## Future dossier intake
 

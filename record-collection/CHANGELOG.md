@@ -1,5 +1,14 @@
 # Changelog
 
+## 1.0.2 - 2026-07-20
+
+- Replaced the generic Pump Track Chat category cover with the supplied Brandon Hetrick graphic.
+- Replaced the generic Unboxing category cover with the supplied Lititz BMX unboxing photograph and added a compact crop for category navigation.
+- Added the supplied DIRTWERX display photograph to the Lost Linda Leary Taylor dossier and used a cropped derivative in indexes and composite navigation graphics.
+- Preserved the earlier generic Lost DIRTWERX repository cover as a superseded navigation asset.
+- Updated provenance, rights, visual inventory, validation, QA, change documentation, and fixity records.
+- Made no changes to recordings, transcripts, testimony, descriptive conclusions, or the established repository architecture.
+
 ## 1.0.1 - 2026-07-20
 
 - Added the required public visual-access layer to collection, category, and dossier landing pages.

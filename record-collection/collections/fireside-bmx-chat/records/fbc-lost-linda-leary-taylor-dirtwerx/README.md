@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.youtube.com/watch?v=pdP6kqSLUUs">
-    <img src="assets/repository-access-cover.png" alt="Repository access cover for the lost DIRTWERX conversation with Linda Leary Taylor, featuring a simple BMX frame illustration." width="100%">
+    <img src="assets/linda-leary-dirtwerx-display-photo.png" alt="Black-and-white Lititz BMX display photograph showing Harry Leary memorabilia and the preserved DIRTWERX bicycle." width="62%">
   </a>
 </p>
 
@@ -8,7 +8,7 @@
 
 <p align="center"><strong><a href="https://www.youtube.com/watch?v=pdP6kqSLUUs">▶ Watch the complete recording on YouTube</a></strong></p>
 
-> **Visual provenance:** No original publication graphic was submitted. This repository access cover was created only to provide visual parity and is labeled as a later archival navigation asset.
+> **Visual provenance:** No original publication thumbnail was submitted with the recovered recording. This supporting Lititz BMX display photograph was supplied during the v1.0.2 review and is used as the active dossier-access image. It is not represented as the original YouTube thumbnail. The earlier generic repository cover remains preserved as a superseded navigation asset.
 
 ## At a glance
 

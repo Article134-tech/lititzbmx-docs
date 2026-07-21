@@ -1,4 +1,4 @@
-<p align="center"><img src="assets/category-cover.png" alt="Unboxing category cover with an open archival box" width="100%"></p>
+<p align="center"><img src="assets/category-cover.png" alt="Lititz BMX photograph showing a package being opened during an unboxing." width="52%"></p>
 
 # Unboxing
 
@@ -9,7 +9,7 @@ Unboxing records preserve the opening, identification, condition, packing, prove
 
 ## Current repository status
 
-No complete Unboxing dossier is included in repository version 1.0.1. The category is established so future unboxings can be added without changing the collection architecture.
+No complete Unboxing dossier is included in public package version 1.0.2. The category is established so future unboxings can be added without changing the collection architecture.
 
 ## Minimum future record
 

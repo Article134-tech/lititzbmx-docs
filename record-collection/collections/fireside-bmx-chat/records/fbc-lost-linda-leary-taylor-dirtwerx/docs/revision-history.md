@@ -1,5 +1,13 @@
 # Revision History
 
+## 2026-07-20 - Public package v1.0.2
+
+- Added the supplied black-and-white Lititz BMX DIRTWERX display photograph as later supporting material.
+- Replaced the generic cover in active dossier and index presentation while preserving that earlier cover as a superseded repository asset.
+- Added a cropped navigation derivative without altering the submitted source image.
+- Updated provenance, rights, visual inventory, source inventory, and fixity documentation.
+- No recording, transcript, testimony, metadata conclusion, or verification finding was changed.
+
 ## 2026-07-20 - Repository v1.0.1
 
 - Added the required public visual-access layer to the dossier README.

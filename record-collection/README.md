@@ -6,7 +6,8 @@
 
 **Repository location:** `Article134-tech/lititzbmx-docs/record-collection/`  
 **Integration method:** Additive folder upload to the existing Lititz BMX documentation repository; no repository restructuring required.  
-**Repository standard:** v1.0.1  
+**Public package:** v1.0.2  
+**Archival standard:** v1.0.1  
 **Compiled:** 2026-07-20  
 **Publisher and curator:** Lititz BMX / Kyle A. Huffman
 
@@ -24,12 +25,12 @@ The goal is not merely to save videos. It is to preserve **how each recording ca
 Interviews and oral histories presented through human settings, family memory, museum encounters, and shared activities.
 </td>
 <td width="33%" valign="top">
-<a href="collections/pump-track-chat/README.md"><img src="collections/pump-track-chat/assets/category-cover.png" alt="Pump Track Chat category cover" width="100%"></a><br>
+<a href="collections/pump-track-chat/README.md"><img src="collections/pump-track-chat/assets/category-cover.png" alt="Pump Track Chat graphic for Pump Track Builds with Brandon Hetrick." width="100%"></a><br>
 <strong><a href="collections/pump-track-chat/README.md">Pump Track Chat</a></strong><br>
 Conversations about access, planning, riding, community development, and advocacy.
 </td>
 <td width="33%" valign="top">
-<a href="collections/unboxing/README.md"><img src="collections/unboxing/assets/category-cover.png" alt="Unboxing category cover" width="100%"></a><br>
+<a href="collections/unboxing/README.md"><img src="collections/unboxing/assets/category-thumbnail.png" alt="Lititz BMX unboxing photograph showing a package being opened." width="100%"></a><br>
 <strong><a href="collections/unboxing/README.md">Unboxing</a></strong><br>
 Records of opening, identifying, documenting, and first responding to newly received material.
 </td>
@@ -58,7 +59,7 @@ Records of opening, identifying, documenting, and first responding to newly rece
 <td width="30%" valign="top"><a href="collections/fireside-bmx-chat/records/fbc-jessica-reveal-archery-lesson/README.md"><img src="collections/fireside-bmx-chat/records/fbc-jessica-reveal-archery-lesson/assets/title-card.png" alt="Fireside BMX Chat and Archery Lesson title card with a silhouetted archer and flame background." width="100%"></a></td>
 <td valign="top"><strong><a href="collections/fireside-bmx-chat/records/fbc-jessica-reveal-archery-lesson/README.md">Jessica Reveal — Archery Lesson</a></strong><br>Experiential oral history built around mentorship, learning, and skill transfer through an archery lesson.<br><br><a href="https://www.youtube.com/watch?v=Gyuvtnze9N8">Watch recording</a> · <a href="collections/fireside-bmx-chat/records/fbc-jessica-reveal-archery-lesson/interview-record.md">Interview Record</a></td>
 </tr><tr>
-<td width="30%" valign="top"><a href="collections/fireside-bmx-chat/records/fbc-lost-linda-leary-taylor-dirtwerx/README.md"><img src="collections/fireside-bmx-chat/records/fbc-lost-linda-leary-taylor-dirtwerx/assets/repository-access-cover.png" alt="Repository access cover for the lost DIRTWERX conversation with Linda Leary Taylor, featuring a simple BMX frame illustration." width="100%"></a></td>
+<td width="30%" valign="top"><a href="collections/fireside-bmx-chat/records/fbc-lost-linda-leary-taylor-dirtwerx/README.md"><img src="collections/fireside-bmx-chat/records/fbc-lost-linda-leary-taylor-dirtwerx/assets/navigation-thumbnail.png" alt="Black-and-white Lititz BMX display photograph showing the DIRTWERX bicycle and Harry Leary memorabilia." width="100%"></a></td>
 <td valign="top"><strong><a href="collections/fireside-bmx-chat/records/fbc-lost-linda-leary-taylor-dirtwerx/README.md">Lost DIRTWERX Conversation</a></strong><br>Recovered or “lost” conversational record centered on company history, family testimony, artifact provenance, and preservation stewardship.<br><br><a href="https://www.youtube.com/watch?v=pdP6kqSLUUs">Watch recording</a> · <a href="collections/fireside-bmx-chat/records/fbc-lost-linda-leary-taylor-dirtwerx/interview-record.md">Interview Record</a></td>
 </tr>
 </table>
@@ -73,6 +74,8 @@ Records of opening, identifying, documenting, and first responding to newly rece
 - [Validation Report](docs/VALIDATION_REPORT.md)
 - [Pre-Publication QA Results](docs/PREPUBLICATION_QA_RESULTS.md)
 - [Visual Asset Inventory](docs/VISUAL_ASSET_INVENTORY.md)
+- [v1.0.1 → v1.0.2 Change Report](docs/V1.0.2_CHANGE_REPORT.md)
+- [v1.0.1 → v1.0.2 Change Manifest](docs/V1.0.1_TO_V1.0.2_CHANGE_MANIFEST.md)
 - [v1.0.0 → v1.0.1 Change Manifest](docs/V1.0.0_TO_V1.0.1_CHANGE_MANIFEST.md)
 
 ## Repository hierarchy

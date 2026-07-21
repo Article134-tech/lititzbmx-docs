@@ -1,53 +1,50 @@
 # Pre-Publication QA Results
 
-**Package:** Lititz BMX Record Collection v1.0.1  
+**Package:** Lititz BMX Record Collection v1.0.2  
 **Date:** 2026-07-20  
 **Destination:** `Article134-tech/lititzbmx-docs/record-collection/`
 
 ## Repository safety — PASS
 
-- Existing repository and `main` branch workflow retained.
+- Existing `lititzbmx-docs` repository and `main` branch workflow retained.
 - Package contains one outer folder: `record-collection/`.
-- No existing root file or sibling folder is included for replacement.
-- Root README entry remains a separate second-commit instruction.
-- Private preservation supplement is not present.
+- Update uses the established copy-and-replace protocol.
+- No root file or sibling project folder is included.
+- No v1.0.1 file is removed.
+- Private preservation supplement is absent.
 
 ## Archival integrity — PASS
 
 - Seven metadata records validate against the schema.
 - Required dossier files are present.
 - Original timestamped transcripts remain unchanged.
-- Six submitted title-card files are byte-for-byte unchanged from the v1.0.0 compilation.
-- Missing documentation remains documented rather than invented.
+- Six supplied Fireside title cards remain unchanged.
+- The Pump Track Chat, Unboxing, and DIRTWERX submitted images remain exact copies.
+- The generic Lost DIRTWERX cover remains preserved as a superseded visual-history layer.
 - Public/private source handling remains intact.
-- Public PDFs were rescanned for the targeted contact information and unrelated Jessica clip-notes page content; none was found.
 
 ## Visual presentation — PASS
 
-- Collection landing page has a visual overview banner.
-- Collection categories have visual navigation.
-- Fireside BMX Chat has a seven-record visual index.
-- All completed dossier READMEs display an opening visual.
-- Six original title cards are displayed without alteration.
-- Lost DIRTWERX uses a clearly labeled later repository access cover.
-- All displayed images contain descriptive alt text.
-- No approved Lititz BMX logo was reconstructed or restyled for newly created navigation graphics.
-- No glow, recoloring, or decorative effect was added to supplied title cards.
+- Collection banner reflects the new Lost DIRTWERX supporting image.
+- Fireside BMX Chat composite reflects the new Lost DIRTWERX supporting image.
+- Pump Track Chat displays the supplied Brandon Hetrick graphic.
+- Unboxing displays the supplied full photograph and a compact crop in collection navigation.
+- Lost DIRTWERX displays the supplied full photograph and a compact crop in indexes.
+- All active images include descriptive alt text.
+- No supplied image received an unrequested glow, recoloring, logo alteration, or decorative effect.
 
 ## Links and package structure — PASS
 
-- All local links and image paths in public Markdown files resolve inside the package.
-- No local computer-specific path appears in a public README.
-- No link escapes the `record-collection/` folder.
-- Package structure remains additive and suitable for the existing `lititzbmx-docs` repository.
+- All local Markdown links and image paths resolve inside the package.
+- No local machine path appears in a public README.
+- Package structure remains suitable for additive overwrite in the existing repository.
 
-## Post-upload verification still required
+## Post-upload verification required
 
-After pushing the first commit, confirm on GitHub that:
+After pushing the v1.0.2 commit, confirm on GitHub that:
 
-1. `record-collection/README.md` displays the overview banner;
-2. the three category images render;
-3. each Fireside dossier displays its title card or labeled repository cover;
-4. the existing repository root and established folders remain unchanged.
-
-The root README index entry must not be committed until those four checks pass.
+1. the Record Collection banner shows the updated DIRTWERX tile;
+2. the Fireside BMX Chat composite and Lost DIRTWERX dossier use the new image;
+3. Pump Track Chat uses the supplied pump-track graphic;
+4. Unboxing uses the supplied package-opening photograph;
+5. every changed path was limited to `record-collection/`.

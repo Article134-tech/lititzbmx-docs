@@ -1,55 +1,46 @@
-# Upload Instructions — Existing Lititz BMX Documentation Repository
+# Redeployment Instructions — Public Package v1.0.2
 
-This package is designed for the established Lititz BMX GitHub workflow.
+This package follows the established Lititz BMX overwrite-and-review protocol for the existing repository.
 
 ## Destination
 
 - **GitHub account:** `Article134-tech`
 - **Existing repository:** `lititzbmx-docs`
 - **Branch:** `main`
-- **New top-level folder:** `record-collection`
+- **Affected top-level folder:** `record-collection`
 
-Do **not** create a new repository. Do **not** replace the repository root. Do **not** delete, rename, or restructure any existing Lititz BMX folders or files.
+Do **not** create a new repository. Do **not** move, rename, delete, or restructure any established repository content.
 
-## Safe upload sequence in GitHub Desktop
+## Established GitHub Desktop sequence
 
 1. Open GitHub Desktop.
-2. Confirm the current repository is `Article134-tech/lititzbmx-docs`.
+2. Confirm the current repository is `lititzbmx-docs`.
 3. Confirm the current branch is `main`.
-4. Click **Fetch origin** before changing files.
+4. Click **Fetch origin**.
 5. Open the repository in File Explorer.
-6. Copy the complete `record-collection` folder from this package into the root of the existing local `lititzbmx-docs` folder.
-7. Confirm that the existing folders remain untouched, including:
-   - `brand-assets`
-   - `campaigns`
-   - `data`
-   - `learning-resources`
-   - `reference`
-   - `standards`
-8. Return to GitHub Desktop and review the changed-file list. It should show only newly added files under `record-collection/`.
-9. Confirm the previewed README files display their opening visuals and that all changed paths remain under `record-collection/`.
-10. Use this commit summary:
+6. Copy the complete `record-collection` folder from this package into the existing local `lititzbmx-docs` repository.
+7. When Windows identifies matching files, choose **Replace the files in the destination**.
+8. Return to GitHub Desktop and review the complete Changes list.
+9. Confirm every changed path begins with `record-collection/`.
+10. Confirm no root file or sibling folder changed.
+11. Use this commit summary:
 
-   `Add Lititz BMX Record Collection archival standard and first seven dossiers`
+   `Update Record Collection visuals to v1.0.2`
 
-11. Commit directly to `main`.
-12. Click **Push origin**.
-13. Verify the new folder on GitHub before making any index change, including the rendered collection banner, category covers, and dossier title cards.
+12. Commit directly to `main`.
+13. Click **Push origin**.
+14. Verify the Record Collection landing page, Fireside BMX Chat index, Lost DIRTWERX dossier, Pump Track Chat page, and Unboxing page on GitHub.
 
-## Separate repository-index update
+## Root README
 
-After the folder upload has been verified, update the existing repository `README.md` in a separate commit using the copy-ready text in:
+The repository-root README index update remains a separate commit. Use the prepared text in:
 
 `record-collection/docs/ROOT_README_INDEX_ENTRY.md`
 
-Use this second commit summary:
+Recommended root-index commit summary:
 
 `Add Record Collection to repository index`
 
-Keeping the folder upload and index update in separate commits follows the established additive, reviewable Lititz BMX workflow.
-
 ## Public/private rule
 
-Only this reviewed public package belongs in `lititzbmx-docs`.
-
-Do **not** upload the private preservation supplement to the public repository.
+Only this reviewed public package belongs in `lititzbmx-docs`. Do not upload the private preservation supplement.
