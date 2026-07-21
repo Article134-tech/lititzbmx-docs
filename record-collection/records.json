@@ -1,0 +1,450 @@
+[
+  {
+    "record_id": "fbc-001-damian-x-fulton",
+    "collection": "Fireside BMX Chat",
+    "subseries": null,
+    "episode_number": 1,
+    "dossier_type": "Interview Dossier",
+    "recording_type": [
+      "interview",
+      "oral history",
+      "audio theater"
+    ],
+    "title": "Fireside BMX Chat - Episode 1: Damian X. Fulton",
+    "published_title": "Damian Fulton Talks 80s Toys, BMX, Beachside Audio Theater, and Marvel",
+    "source_url": "https://www.youtube.com/watch?v=vtVr6GBJtlM",
+    "host": "Kyle A. Huffman",
+    "guests": [
+      "Damian X. Fulton"
+    ],
+    "participants": [
+      "Kyle A. Huffman",
+      "Damian X. Fulton",
+      "Anne-Marie Huffman"
+    ],
+    "duration": "34:18",
+    "recording_date": null,
+    "publication_date": "2025-03-06",
+    "location": "Seaside bonfire setting presented through audio theater; exact physical location not supplied",
+    "language": "en",
+    "summary": "Damian X. Fulton discusses his creative career, Radical Rick, BMX advertising and magazine culture, Harry Leary’s public image and longevity, 1980s toy and entertainment work, and the continuing relationship between BMX history and contemporary preservation.",
+    "historical_significance": "The recording connects BMX oral history with advertising, illustration, magazine publishing, toy development, and the creation of Radical Rick. It also documents the early relationship between Damian Fulton and the emerging Lititz BMX preservation project.",
+    "subjects": [
+      "Damian X. Fulton",
+      "Radical Rick",
+      "Harry Leary",
+      "Diamondback",
+      "BMX Plus!",
+      "BMX advertising",
+      "Joar pads",
+      "BMX Hall of Fame",
+      "Hot Wheels",
+      "Masters of the Universe",
+      "Mattel",
+      "Marvel",
+      "charity",
+      "Lititz BMX"
+    ],
+    "transcript_status": "raw machine transcript captured; timestamp-normalized working transcript created; speaker and fidelity verification pending",
+    "preservation_status": [
+      "source-captured",
+      "dossier-compiled",
+      "transcript-verification-pending",
+      "documentation-gap-recorded"
+    ],
+    "rights": "All rights reserved unless separately documented.",
+    "compiled_date": "2026-07-20",
+    "notes": [
+      "The legacy package reports a 34:18 video duration; the pasted timestamped transcript ends at approximately 33:41.",
+      "Machine transcript spellings for Damian Fulton, Harry Leary, Kuwahara, Joar, Stu Thomsen, Eddie Fiola, and other names require audio verification.",
+      "A complete current YouTube description was not included in the available Damian source package; this repository preserves that absence rather than inventing one.",
+      "Two untimed transcript text files were supplied and are byte-identical; both originals are retained in the private supplement, while the public repository uses the timestamped version."
+    ],
+    "repository_path": "collections/fireside-bmx-chat/records/fbc-001-damian-x-fulton"
+  },
+  {
+    "record_id": "fbc-greg-hill-floored",
+    "collection": "Fireside BMX Chat",
+    "subseries": null,
+    "episode_number": null,
+    "dossier_type": "Interview Dossier",
+    "recording_type": [
+      "interview",
+      "oral history",
+      "experiential conversation",
+      "service consultation"
+    ],
+    "title": "Fireside BMX Chat: Greg Hill - Floored",
+    "published_title": "Fireside BMX Chat: Greg Hill Talks - Leaving BMX, Harry Leary, 85 Grands, and Garage Floors Audio",
+    "source_url": "https://www.youtube.com/watch?v=EI_tBe4Gf-A",
+    "host": "Kyle A. Huffman",
+    "guests": [
+      "Greg Hill"
+    ],
+    "participants": [
+      "Kyle A. Huffman",
+      "Greg Hill",
+      "Anne-Marie Huffman"
+    ],
+    "duration": "16:54",
+    "recording_date": null,
+    "publication_date": null,
+    "location": "Kyle A. Huffman’s garage; exact street address intentionally not recorded",
+    "language": "en",
+    "summary": "Greg Hill visits Kyle’s garage to discuss flooring options, materials, process, cost, and warranties. The conversation transitions into memories of Harry Leary, driveway gate practice, BMX competition, the 1985 Grands, and Hill’s decision to close GHP and leave the BMX business.",
+    "historical_significance": "The recording captures a BMX Hall of Famer speaking candidly about both a present-day trade and the economic and interpersonal realities of the BMX business. Its everyday setting and gradual shift into oral history are central to its meaning.",
+    "subjects": [
+      "Greg Hill",
+      "garage flooring",
+      "polyaspartic coating",
+      "Epoxy Surface Professionals",
+      "Harry Leary",
+      "Western Sports Arama",
+      "Stu Thomsen",
+      "Clint Miller",
+      "The Leary jump",
+      "1985 NBL Grands",
+      "Pete Loncarevich",
+      "GHP",
+      "BMX business"
+    ],
+    "transcript_status": "raw machine transcript captured; timestamp-normalized working transcript created; speaker and fidelity verification pending",
+    "preservation_status": [
+      "source-captured",
+      "dossier-compiled",
+      "transcript-verification-pending"
+    ],
+    "rights": "All rights reserved unless separately documented.",
+    "compiled_date": "2026-07-20",
+    "notes": [
+      "The current URL supplied in 2026 is EI_tBe4Gf-A. Earlier production documents contain several different YouTube URLs; these are preserved as legacy publication references and not treated as the current canonical link.",
+      "The raw machine transcript misrenders several names, including Anne-Marie and Pete Loncarevich. Proper names in the descriptive record are drawn from the supporting documents and require final audio verification.",
+      "The proposal describes an intentional garage scenario, while the published conversation reflects an actual floor consultation; both production intent and recorded event are preserved."
+    ],
+    "repository_path": "collections/fireside-bmx-chat/records/fbc-greg-hill-floored"
+  },
+  {
+    "record_id": "fbc-004-greg-mathias-chasing-harry-hof",
+    "collection": "Fireside BMX Chat",
+    "subseries": "Chasing Harry",
+    "episode_number": 4,
+    "dossier_type": "Interview Dossier",
+    "recording_type": [
+      "on-location interview",
+      "oral history",
+      "museum walkthrough",
+      "collection encounter"
+    ],
+    "title": "Chasing Harry - Episode 4: Greg Mathias at the National BMX Hall of Fame",
+    "published_title": "Fireside BMX Chat Podcast: \"Chasing Harry\" Series - Episode 4 - BMX Team USA’s Greg Mathias Talks About His Friend, Harry Leary, while touring the National BMX Hall of Fame (HoF)",
+    "source_url": "https://www.youtube.com/watch?v=EUTzVetaoLc",
+    "host": "Kyle A. Huffman",
+    "guests": [
+      "Greg Mathias"
+    ],
+    "participants": [
+      "Kyle A. Huffman",
+      "Greg Mathias",
+      "Anne-Marie Huffman"
+    ],
+    "duration": "29:48",
+    "recording_date": null,
+    "publication_date": null,
+    "location": "National BMX Hall of Fame; city not supplied in the submitted materials",
+    "language": "en",
+    "summary": "Kyle and Greg Mathias meet in person at the National BMX Hall of Fame and examine Harry Leary-related bicycles and display objects. Greg recounts his friendship with Harry, the provenance of a 24-inch Daylight bicycle, the damaged and replacement 20-inch Daylight bicycles, Harry’s final days, the theft and recovery of a loaner bicycle, and the preservation of Harry-related materials.",
+    "historical_significance": "The recording links first-person testimony directly to museum objects, including a 2022 ROC 1 Daylight bike and Harry Leary display materials. It documents both object provenance and the emotional relationship between Greg Mathias and Harry Leary.",
+    "subjects": [
+      "Greg Mathias",
+      "Harry Leary",
+      "National BMX Hall of Fame",
+      "Daylight Cycle Co.",
+      "2022 ROC 1",
+      "Eric Rupe",
+      "Gork",
+      "Black Mountain BMX",
+      "CTE belief",
+      "Rob Porter",
+      "stolen bicycle recovery",
+      "HLT miniature frame",
+      "storage locker",
+      "1986 Porsche Design Fallnational plaque"
+    ],
+    "transcript_status": "raw machine transcript captured; timestamp-normalized working transcript created; speaker and fidelity verification pending",
+    "preservation_status": [
+      "source-captured",
+      "dossier-compiled",
+      "transcript-verification-pending"
+    ],
+    "rights": "All rights reserved unless separately documented.",
+    "compiled_date": "2026-07-20",
+    "notes": [
+      "The public title identifies this as Chasing Harry Episode 4. One supporting filename calls it “Greg Mathias Episode 1 - The Hall of Fame”; the discrepancy is preserved and not silently resolved.",
+      "The transcript contains speaker-name and proper-name errors common to machine transcription, including Mathias, Leary, Rupe, and place names.",
+      "Statements about CTE, timing of death, theft, and recovery are preserved as Greg Mathias’s testimony unless independently documented elsewhere."
+    ],
+    "repository_path": "collections/fireside-bmx-chat/records/fbc-004-greg-mathias-chasing-harry-hof"
+  },
+  {
+    "record_id": "fbc-linda-leary-taylor-walk-talk",
+    "collection": "Fireside BMX Chat",
+    "subseries": null,
+    "episode_number": null,
+    "dossier_type": "Interview Dossier",
+    "recording_type": [
+      "on-location interview",
+      "family oral history",
+      "memorial walk",
+      "place-based remembrance"
+    ],
+    "title": "A Walk & Talk with Linda Leary Taylor",
+    "published_title": "Fireside BMX Chat: Walk w/ Linda -Sister- to Harry Leary's \"Havasu Memorial Walkway\" Paver - Audio",
+    "source_url": "https://www.youtube.com/watch?v=2EWCctB6bss",
+    "host": "Kyle A. Huffman",
+    "guests": [
+      "Linda Leary Taylor"
+    ],
+    "participants": [
+      "Kyle A. Huffman",
+      "Linda Leary Taylor",
+      "Anne-Marie Huffman"
+    ],
+    "duration": "1:13:28",
+    "recording_date": "One-year anniversary of Harry Leary’s passing; exact calendar date not supplied in the submitted materials",
+    "publication_date": null,
+    "location": "London Bridge and Memorial Walkway, Lake Havasu City, Arizona",
+    "language": "en",
+    "summary": "Kyle, Anne-Marie, and Linda Leary Taylor walk across the London Bridge toward Harry Leary’s memorial paver. Linda shares childhood memories, family relationships, Harry’s early riding, his professional life, personal relationships, family concerns, his death, and her evolving understanding of his legacy.",
+    "historical_significance": "The physical route gives the interview a memorial structure: the conversation begins at the bridge, unfolds while walking, and concludes at Harry’s paver. Linda’s first-person family testimony preserves aspects of Harry’s life that are absent from race records and magazine coverage.",
+    "subjects": [
+      "Linda Leary Taylor",
+      "Harry Leary",
+      "London Bridge",
+      "Lake Havasu City",
+      "memorial paver",
+      "childhood",
+      "family history",
+      "early bicycle jumping",
+      "JMC",
+      "Diamondback",
+      "Shelly",
+      "CTE advocacy",
+      "death and grief",
+      "signed number plate",
+      "healing"
+    ],
+    "transcript_status": "raw machine transcript captured; timestamp-normalized working transcript created; speaker and fidelity verification pending",
+    "preservation_status": [
+      "source-captured",
+      "dossier-compiled",
+      "transcript-verification-pending"
+    ],
+    "rights": "All rights reserved unless separately documented.",
+    "compiled_date": "2026-07-20",
+    "notes": [
+      "The press release and public description identify the recording as occurring on the one-year anniversary of Harry Leary’s passing; the exact date is not supplied and is therefore not inferred.",
+      "A pre-production outline describes Anne-Marie as 22 months old, but this has not been normalized into metadata without a verified recording date.",
+      "Statements about family relationships, CTE, death, and personal behavior are preserved as Linda Leary Taylor’s testimony.",
+      "The machine transcript contains many spelling and name errors and requires full speaker-level verification."
+    ],
+    "repository_path": "collections/fireside-bmx-chat/records/fbc-linda-leary-taylor-walk-talk"
+  },
+  {
+    "record_id": "fbc-005-the-boy-leary-ladies",
+    "collection": "Fireside BMX Chat",
+    "subseries": null,
+    "episode_number": 5,
+    "dossier_type": "Interview Dossier",
+    "recording_type": [
+      "family oral history",
+      "multi-participant interview",
+      "memorial object discussion",
+      "reading of family writings"
+    ],
+    "title": "The Boy: Harry Leary as Remembered by His Mother and Sisters",
+    "published_title": "Fireside BMX Chat: Harry Leary's Mom & Sisters Share About - The Son - The Brother - The Boy",
+    "source_url": "https://www.youtube.com/watch?v=92rxPCGK6Pg",
+    "host": "Kyle A. Huffman",
+    "guests": [
+      "Beverly Leary",
+      "Linda Leary Taylor",
+      "Cammie Leary"
+    ],
+    "participants": [
+      "Kyle A. Huffman",
+      "Beverly Leary",
+      "Linda Leary Taylor",
+      "Cammie Leary"
+    ],
+    "duration": "21:21",
+    "recording_date": null,
+    "publication_date": null,
+    "location": "Remote or unspecified conversational setting",
+    "language": "en",
+    "summary": "Beverly Leary and Harry Leary’s sisters Linda and Cammie discuss the family poster board created for Dirtyfest, read three family writings, recall Harry as a child and family member, and describe him through the “One Word” exercise.",
+    "historical_significance": "The episode preserves three distinct forms of family testimony: Beverly’s direct reflection, Cammie’s poem written in Beverly’s voice and informed by shared memories, and Linda’s older napkin poem. The poster board functions as both memorial object and interview framework.",
+    "subjects": [
+      "Beverly Leary",
+      "Linda Leary Taylor",
+      "Cammie Leary",
+      "Harry Leary",
+      "The Boy",
+      "Dirtyfest",
+      "family poster board",
+      "motherhood",
+      "siblings",
+      "childhood",
+      "BMX obsession",
+      "poetry",
+      "family memory",
+      "humanization",
+      "Joy",
+      "Curiosity",
+      "Dumbass"
+    ],
+    "transcript_status": "raw machine transcript captured; timestamp-normalized working transcript created; speaker and fidelity verification pending",
+    "preservation_status": [
+      "source-captured",
+      "dossier-compiled",
+      "transcript-verification-pending"
+    ],
+    "rights": "All rights reserved unless separately documented.",
+    "compiled_date": "2026-07-20",
+    "notes": [
+      "The public description identifies the recording as Episode Five.",
+      "The file named “Leary Ladies Conversation Outline - The Boy Posterboard.pdf” does not contain a The Boy conversation outline. Its content is a “3 of 3” promotional text for the earlier Linda London Bridge episode. It is preserved and clearly flagged rather than silently reassigned.",
+      "The machine transcript contains misspellings of the Leary name and other words; the readings require fidelity review against audio and the original writings.",
+      "The exact authorship relationship of Cammie’s writing is preserved as she explains it: her words, written in Beverly’s voice, drawing from shared memories."
+    ],
+    "repository_path": "collections/fireside-bmx-chat/records/fbc-005-the-boy-leary-ladies"
+  },
+  {
+    "record_id": "fbc-jessica-reveal-archery-lesson",
+    "collection": "Fireside BMX Chat",
+    "subseries": null,
+    "episode_number": null,
+    "dossier_type": "Interview Dossier",
+    "recording_type": [
+      "experiential interview",
+      "oral history",
+      "instructional recording",
+      "archery lesson"
+    ],
+    "title": "Fireside BMX Chat and Archery Lesson with Jessica Reveal",
+    "published_title": "Fireside BMX Chat & Archery Lesson w/ Harry Leary's Niece - Jessica Reveal - Learn to shoot & more..",
+    "source_url": "https://www.youtube.com/watch?v=Gyuvtnze9N8",
+    "host": "Kyle A. Huffman",
+    "guests": [
+      "Jessica Reveal"
+    ],
+    "participants": [
+      "Kyle A. Huffman",
+      "Jessica Reveal",
+      "Anne-Marie Huffman"
+    ],
+    "duration": "55:16",
+    "recording_date": null,
+    "publication_date": null,
+    "location": "Archery range; exact facility not supplied in the submitted materials",
+    "language": "en",
+    "summary": "Jessica Reveal teaches Kyle archery safety, equipment, and shooting fundamentals while sharing memories of her uncle Harry Leary. The discussion moves through family humor, motorcycles and dirt-bike riding, Harry’s encouragement of Jessica’s archery and hunting ambitions, failure, stubbornness, anger, legacy, and family bonds.",
+    "historical_significance": "The recording preserves Harry Leary’s influence as an uncle and mentor through the act of Jessica teaching another person. Skill transfer, family testimony, and reflection on failure operate together rather than as separate subjects.",
+    "subjects": [
+      "Jessica Reveal",
+      "Harry Leary",
+      "archery",
+      "range safety",
+      "compound bows",
+      "arrows",
+      "mentorship",
+      "hunting",
+      "family",
+      "line dancing",
+      "pranks",
+      "dirt bikes",
+      "desert tortoise",
+      "stubbornness",
+      "failure leads to success",
+      "anger",
+      "legacy"
+    ],
+    "transcript_status": "raw machine transcript captured; timestamp-normalized working transcript created; speaker and fidelity verification pending",
+    "preservation_status": [
+      "source-captured",
+      "dossier-compiled",
+      "transcript-verification-pending"
+    ],
+    "rights": "All rights reserved unless separately documented.",
+    "compiled_date": "2026-07-20",
+    "notes": [
+      "The public description lists the elbow incident among discussed topics. An exact “elbow” phrase was not located in the supplied machine transcript; this topic should be checked directly against the recording before being indexed as confirmed dialogue.",
+      "The original clip-notes PDF contains an unrelated personal review on its final page. The public repository includes a cleaned eight-page copy with that page removed; the unaltered original remains in the private supplement.",
+      "The clip-notes document includes numbering irregularities and internal reminders. These are preserved as production history, not silently polished.",
+      "Archery safety statements are preserved as interview content and are not presented by this repository as a substitute for qualified in-person instruction."
+    ],
+    "repository_path": "collections/fireside-bmx-chat/records/fbc-jessica-reveal-archery-lesson"
+  },
+  {
+    "record_id": "fbc-lost-linda-leary-taylor-dirtwerx",
+    "collection": "Fireside BMX Chat",
+    "subseries": null,
+    "episode_number": null,
+    "dossier_type": "Interview Dossier",
+    "recording_type": [
+      "recovered conversation",
+      "interview",
+      "company history",
+      "artifact provenance"
+    ],
+    "title": "Lost Fireside BMX Chat: Linda Leary Taylor and the DIRTWERX Era",
+    "published_title": "Lost Fireside BMX Chat - Linda Leary Taylor shares about Harry Leary's DIRTWERX era and more",
+    "source_url": "https://www.youtube.com/watch?v=pdP6kqSLUUs",
+    "host": "Kyle A. Huffman",
+    "guests": [
+      "Linda Leary Taylor"
+    ],
+    "participants": [
+      "Kyle A. Huffman",
+      "Linda Leary Taylor"
+    ],
+    "duration": "30:28",
+    "recording_date": null,
+    "publication_date": null,
+    "location": "Remote conversation; exact locations not supplied",
+    "language": "en",
+    "summary": "Linda and Kyle discuss Harry Leary’s DIRTWERX era, Livermore Boss frame production, family financial support, a newly acquired NOS DIRTWERX frame, and the provenance of a complete DIRTWERX bike that traveled from Harry to Linda’s son Chaz, back to Harry, through Kyle’s preservation work, and finally back to Linda.",
+    "historical_significance": "The recording joins company history to a detailed artifact custody chain and documents a conservation choice to retain the complete bike’s wear and history rather than cosmetically restore it. It also records plans for Linda or another family member to ride the bike at Dirtyfest 4.",
+    "subjects": [
+      "Linda Leary Taylor",
+      "Harry Leary",
+      "DIRTWERX",
+      "Livermore Boss",
+      "Justin Dumas",
+      "NOS frame",
+      "family investment",
+      "Chaz",
+      "artifact provenance",
+      "Rob at U-Haul",
+      "conservation",
+      "Operation DIRTWERX",
+      "Dirtyfest 4",
+      "family reconnection"
+    ],
+    "transcript_status": "raw machine transcript captured; timestamp-normalized working transcript created; speaker and fidelity verification pending",
+    "preservation_status": [
+      "source-captured",
+      "dossier-compiled",
+      "transcript-verification-pending",
+      "documentation-gap-recorded"
+    ],
+    "rights": "All rights reserved unless separately documented.",
+    "compiled_date": "2026-07-20",
+    "notes": [
+      "No supporting documentation was submitted beyond the current URL, title, public description, and timestamped machine transcript.",
+      "Linda explicitly distinguishes direct knowledge from speculation regarding investors, management, and the company’s failure. The descriptive record preserves that distinction.",
+      "The $10,000 contribution is recorded as Linda’s direct statement about Beverly’s support and is not independently verified in this package.",
+      "The exact serial number and complete manufacturing history of the NOS frame were not available at the time of the conversation."
+    ],
+    "repository_path": "collections/fireside-bmx-chat/records/fbc-lost-linda-leary-taylor-dirtwerx"
+  }
+]

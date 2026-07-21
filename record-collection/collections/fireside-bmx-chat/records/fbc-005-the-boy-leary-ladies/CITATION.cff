@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "Please cite the original Lititz BMX recording and this archival dossier."
+title: "The Boy: Harry Leary as Remembered by His Mother and Sisters"
+type: dataset
+authors:
+  - family-names: Huffman
+    given-names: Kyle A.
+  - family-names: Leary
+    given-names: Beverly
+  - family-names: Taylor
+    given-names: Linda Leary
+  - family-names: Leary
+    given-names: Cammie
+publisher: "Lititz BMX"
+version: "1.0.0"
+date-released: "2026-07-20"
+url: "https://www.youtube.com/watch?v=92rxPCGK6Pg"
+license: "All rights reserved; see repository RIGHTS.md"

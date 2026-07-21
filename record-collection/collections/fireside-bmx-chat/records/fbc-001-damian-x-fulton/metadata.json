@@ -1,0 +1,62 @@
+{
+  "record_id": "fbc-001-damian-x-fulton",
+  "collection": "Fireside BMX Chat",
+  "subseries": null,
+  "episode_number": 1,
+  "dossier_type": "Interview Dossier",
+  "recording_type": [
+    "interview",
+    "oral history",
+    "audio theater"
+  ],
+  "title": "Fireside BMX Chat - Episode 1: Damian X. Fulton",
+  "published_title": "Damian Fulton Talks 80s Toys, BMX, Beachside Audio Theater, and Marvel",
+  "source_url": "https://www.youtube.com/watch?v=vtVr6GBJtlM",
+  "host": "Kyle A. Huffman",
+  "guests": [
+    "Damian X. Fulton"
+  ],
+  "participants": [
+    "Kyle A. Huffman",
+    "Damian X. Fulton",
+    "Anne-Marie Huffman"
+  ],
+  "duration": "34:18",
+  "recording_date": null,
+  "publication_date": "2025-03-06",
+  "location": "Seaside bonfire setting presented through audio theater; exact physical location not supplied",
+  "language": "en",
+  "summary": "Damian X. Fulton discusses his creative career, Radical Rick, BMX advertising and magazine culture, Harry Leary’s public image and longevity, 1980s toy and entertainment work, and the continuing relationship between BMX history and contemporary preservation.",
+  "historical_significance": "The recording connects BMX oral history with advertising, illustration, magazine publishing, toy development, and the creation of Radical Rick. It also documents the early relationship between Damian Fulton and the emerging Lititz BMX preservation project.",
+  "subjects": [
+    "Damian X. Fulton",
+    "Radical Rick",
+    "Harry Leary",
+    "Diamondback",
+    "BMX Plus!",
+    "BMX advertising",
+    "Joar pads",
+    "BMX Hall of Fame",
+    "Hot Wheels",
+    "Masters of the Universe",
+    "Mattel",
+    "Marvel",
+    "charity",
+    "Lititz BMX"
+  ],
+  "transcript_status": "raw machine transcript captured; timestamp-normalized working transcript created; speaker and fidelity verification pending",
+  "preservation_status": [
+    "source-captured",
+    "dossier-compiled",
+    "transcript-verification-pending",
+    "documentation-gap-recorded"
+  ],
+  "rights": "All rights reserved unless separately documented.",
+  "compiled_date": "2026-07-20",
+  "notes": [
+    "The legacy package reports a 34:18 video duration; the pasted timestamped transcript ends at approximately 33:41.",
+    "Machine transcript spellings for Damian Fulton, Harry Leary, Kuwahara, Joar, Stu Thomsen, Eddie Fiola, and other names require audio verification.",
+    "A complete current YouTube description was not included in the available Damian source package; this repository preserves that absence rather than inventing one.",
+    "Two untimed transcript text files were supplied and are byte-identical; both originals are retained in the private supplement, while the public repository uses the timestamped version."
+  ]
+}

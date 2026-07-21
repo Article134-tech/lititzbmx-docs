@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "Please cite the original Lititz BMX recording and this archival dossier."
+title: "A Walk & Talk with Linda Leary Taylor"
+type: dataset
+authors:
+  - family-names: Huffman
+    given-names: Kyle A.
+  - family-names: Taylor
+    given-names: Linda Leary
+publisher: "Lititz BMX"
+version: "1.0.0"
+date-released: "2026-07-20"
+url: "https://www.youtube.com/watch?v=2EWCctB6bss"
+license: "All rights reserved; see repository RIGHTS.md"

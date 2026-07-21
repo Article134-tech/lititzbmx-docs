@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "Please cite The Lititz BMX Record Collection and the original recording-specific dossier."
+title: "The Lititz BMX Record Collection"
+type: dataset
+authors:
+  - family-names: Huffman
+    given-names: Kyle A.
+publisher: "Lititz BMX"
+version: "1.0.0"
+date-released: "2026-07-20"
+url: "https://www.lititzbmx.com"
+license: "All rights reserved; see RIGHTS.md"

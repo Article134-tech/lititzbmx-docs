@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "Please cite the original Lititz BMX recording and this archival dossier."
+title: "Fireside BMX Chat and Archery Lesson with Jessica Reveal"
+type: dataset
+authors:
+  - family-names: Huffman
+    given-names: Kyle A.
+  - family-names: Reveal
+    given-names: Jessica
+publisher: "Lititz BMX"
+version: "1.0.0"
+date-released: "2026-07-20"
+url: "https://www.youtube.com/watch?v=Gyuvtnze9N8"
+license: "All rights reserved; see repository RIGHTS.md"

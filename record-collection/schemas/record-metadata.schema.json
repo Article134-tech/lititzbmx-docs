@@ -1,0 +1,141 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://lititzbmx.com/schemas/record-metadata.schema.json",
+  "title": "Lititz BMX Record Collection metadata",
+  "type": "object",
+  "required": [
+    "record_id",
+    "collection",
+    "dossier_type",
+    "title",
+    "published_title",
+    "source_url",
+    "host",
+    "participants",
+    "duration",
+    "summary",
+    "historical_significance",
+    "transcript_status",
+    "preservation_status"
+  ],
+  "properties": {
+    "record_id": {
+      "type": "string",
+      "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$"
+    },
+    "collection": {
+      "type": "string"
+    },
+    "subseries": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "episode_number": {
+      "type": [
+        "integer",
+        "null"
+      ],
+      "minimum": 0
+    },
+    "dossier_type": {
+      "type": "string",
+      "enum": [
+        "Interview Dossier",
+        "Recording Dossier",
+        "Presentation Dossier",
+        "Tour Dossier",
+        "Documentary Dossier"
+      ]
+    },
+    "recording_type": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "minItems": 1
+    },
+    "title": {
+      "type": "string"
+    },
+    "published_title": {
+      "type": "string"
+    },
+    "source_url": {
+      "type": "string",
+      "format": "uri"
+    },
+    "host": {
+      "type": "string"
+    },
+    "guests": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "participants": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "duration": {
+      "type": "string"
+    },
+    "recording_date": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "publication_date": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "location": {
+      "type": "string"
+    },
+    "language": {
+      "type": "string"
+    },
+    "summary": {
+      "type": "string"
+    },
+    "historical_significance": {
+      "type": "string"
+    },
+    "subjects": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "transcript_status": {
+      "type": "string"
+    },
+    "preservation_status": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "rights": {
+      "type": "string"
+    },
+    "compiled_date": {
+      "type": "string",
+      "format": "date"
+    },
+    "notes": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    }
+  },
+  "additionalProperties": true
+}

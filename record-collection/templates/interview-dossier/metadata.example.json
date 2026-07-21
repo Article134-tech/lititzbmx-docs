@@ -1,0 +1,35 @@
+{
+  "record_id": "replace-with-stable-id",
+  "collection": "Replace with collection name",
+  "subseries": null,
+  "episode_number": null,
+  "dossier_type": "Interview Dossier",
+  "recording_type": [
+    "interview"
+  ],
+  "title": "Replace with archival title",
+  "published_title": "Replace with published title",
+  "source_url": "https://www.youtube.com/watch?v=REPLACE",
+  "host": "Replace",
+  "guests": [
+    "Replace"
+  ],
+  "participants": [
+    "Replace"
+  ],
+  "duration": "00:00",
+  "recording_date": null,
+  "publication_date": null,
+  "location": "Not supplied",
+  "language": "en",
+  "summary": "Replace",
+  "historical_significance": "Replace",
+  "subjects": [],
+  "transcript_status": "Not started",
+  "preservation_status": [
+    "source-captured"
+  ],
+  "rights": "All rights reserved unless separately documented.",
+  "compiled_date": "YYYY-MM-DD",
+  "notes": []
+}

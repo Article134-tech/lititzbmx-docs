@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "Please cite the original Lititz BMX recording and this archival package."
+title: "Fireside BMX Chat, Episode 1: Damian X. Fulton"
+type: audiovisual
+authors:
+  - family-names: Huffman
+    given-names: Kyle A.
+  - family-names: Fulton
+    given-names: Damian X.
+publisher: "Lititz BMX"
+url: "https://www.youtube.com/watch?v=vtVr6GBJtlM"
+license: "All rights reserved unless otherwise documented in this repository."
