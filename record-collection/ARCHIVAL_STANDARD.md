@@ -1,6 +1,6 @@
 # Lititz BMX Record Collection Archival Standard
 
-**Version:** 1.0.0  
+**Version:** 1.0.1  
 **Effective date:** 2026-07-20
 
 ## 1. Purpose
@@ -200,3 +200,14 @@ Multiple statuses may apply simultaneously.
 4. Never make a missing record appear to exist.
 5. Protect private information without erasing the existence of the original source.
 6. Make the structure understandable to a future museum, archive, researcher, or family member without relying on institutional memory.
+
+
+## 13. Public visual presentation
+
+Public access requires more than correct file storage. Collection, category, project, and dossier landing pages must follow the [Lititz BMX GitHub Visual Presentation Standard](docs/VISUAL_PRESENTATION_STANDARD.md). Original supplied title cards should be displayed when appropriate, later-created access covers must be labeled, and technical files should remain visually restrained.
+
+A package is not GitHub-ready until its public landing pages and visual navigation pass the [Pre-Publication QA Checklist](docs/PREPUBLICATION_QA_CHECKLIST.md).
+
+## 14. Publication readiness
+
+“Complete,” “ready for GitHub,” and similar status language may be used only after archival integrity, privacy, repository safety, links, render behavior, and visual presentation have been checked together. A structurally sound but visually incomplete package remains a draft.

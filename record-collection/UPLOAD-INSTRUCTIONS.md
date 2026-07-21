@@ -27,13 +27,14 @@ Do **not** create a new repository. Do **not** replace the repository root. Do *
    - `reference`
    - `standards`
 8. Return to GitHub Desktop and review the changed-file list. It should show only newly added files under `record-collection/`.
-9. Use this commit summary:
+9. Confirm the previewed README files display their opening visuals and that all changed paths remain under `record-collection/`.
+10. Use this commit summary:
 
    `Add Lititz BMX Record Collection archival standard and first seven dossiers`
 
-10. Commit directly to `main`.
-11. Click **Push origin**.
-12. Verify the new folder on GitHub before making any index change.
+11. Commit directly to `main`.
+12. Click **Push origin**.
+13. Verify the new folder on GitHub before making any index change, including the rendered collection banner, category covers, and dossier title cards.
 
 ## Separate repository-index update
 

@@ -1,37 +1,53 @@
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=92rxPCGK6Pg">
+    <img src="assets/title-card.png" alt="The Boy title card showing a memorial poster board with Harry Leary family photographs and writings." width="100%">
+  </a>
+</p>
+
 # The Boy: Harry Leary as Remembered by His Mother and Sisters
 
-**Record ID:** `fbc-005-the-boy-leary-ladies`  
-**Dossier type:** Interview Dossier  
-**Classification:** Family oral history centered on preserved writings, memorial objects, and multi-generational testimony.  
-**Canonical recording:** https://www.youtube.com/watch?v=92rxPCGK6Pg
+<p align="center"><strong><a href="https://www.youtube.com/watch?v=92rxPCGK6Pg">▶ Watch the complete recording on YouTube</a></strong></p>
 
-## Purpose
 
-This dossier preserves the recording’s descriptive record, public presentation, transcript layers, planning and publication documents, derivative materials when supplied, provenance, verification issues, and preservation history.
 
-## Authority
+## At a glance
+
+| Field | Record |
+|---|---|
+| **Record ID** | `fbc-005-the-boy-leary-ladies` |
+| **Dossier type** | Interview Dossier |
+| **Classification** | Family oral history centered on preserved writings, memorial objects, and multi-generational testimony. |
+| **Participants** | Kyle A. Huffman, Beverly Leary, Linda Leary Taylor, Cammie Leary |
+| **Setting** | Remote or unspecified conversational setting |
+| **Duration** | 21:21 |
+| **Preservation status** | Dossier compiled; machine transcript preserved; full audio verification pending |
+
+## Record summary
+
+Beverly Leary and Harry Leary’s sisters Linda and Cammie discuss the family poster board created for Dirtyfest, read three family writings, recall Harry as a child and family member, and describe him through the “One Word” exercise.
+
+## Why this recording matters
+
+Preserves three distinct forms of family testimony and documents the poster board as both a memorial object and the framework for the conversation.
+
+## Explore the dossier
+
+| Public record | Context and provenance | Transcript and access |
+|---|---|---|
+| [Interview Record](interview-record.md) | [Dossier Contents](docs/dossier-contents.md) | [Working Transcript](transcript/working-transcript.md) |
+| [Published Description](source/published-description.md) | [Provenance](docs/provenance.md) | [Transcript Status](docs/transcript-status.md) |
+| [YouTube Record](source/youtube-record.md) | [Curator Notes](docs/curator-notes.md) | [Preliminary Chapter Index](docs/chapter-index.md) |
+| [Metadata](metadata.json) | [Source Inventory](docs/source-inventory.md) | [Topic Index](docs/topic-index.md) |
+| [Citation Record](CITATION.cff) | [Verification Notes](docs/verification-notes.md) | [Rights and Access](docs/rights-and-access.md) |
+
+## Archival authority
 
 The original recording is the primary source. The raw transcript is preserved unchanged as an access aid. Descriptive files identify testimony as testimony and record contradictions rather than silently resolving them.
-
-## Participants
-
-Kyle A. Huffman, Beverly Leary, Linda Leary Taylor, Cammie Leary
-
-## Dossier map
-
-- [Interview Record](interview-record.md)
-- [Metadata](metadata.json)
-- [Dossier Contents](docs/dossier-contents.md)
-- [Provenance](docs/provenance.md)
-- [Topic Index](docs/topic-index.md)
-- [Preliminary Chapter Index](docs/chapter-index.md)
-- [Verification Notes](docs/verification-notes.md)
-- [Working Transcript](transcript/working-transcript.md)
-- [Source Inventory](docs/source-inventory.md)
 
 ## Current status
 
 - source package compiled;
 - public/private review completed;
+- visual access layer completed;
 - machine transcript preserved;
 - full audio verification pending.

@@ -52,7 +52,7 @@ A raw timestamped machine transcript and timestamp-normalized working copy are p
 
 ## Preservation status
 
-- Dossier compiled in repository standard v1.0.0.
+- Dossier initially compiled in repository standard v1.0.0; public visual access layer completed in v1.0.1.
 - Original recording remains externally hosted at the supplied URL.
 - Public and private source layers separated.
 - Transcript verification pending.
