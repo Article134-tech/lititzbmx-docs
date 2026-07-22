@@ -1,0 +1,5 @@
+898851027510b98375888e1ef50a33d3a663c132b166383315a1c8e81cf52d52  README.md
+c7cf473ed55d1feee90ff063801a58865e29ed3ed3565bdb86e38d1d28c5d379  page-captures/page-001-first-lap-live-resource.png
+4de773ab40a0d7b25e52d913a5ecc6841913c6597f0a66872846aa90961b762c  source/Lititz-BMX-First-Lap-Scavenger-Hunt.pdf
+0e1cbf4315073f1ce3dbf1c6bde77945ade43879bd9f6336f1eafdf3cf50931e  source-images/source-001-first-lap-published-worksheet.png
+b7dd92d18ff333d6e157513b620a9acecad34d3efe9fd993fe20d739235299f9  text/first-lap-plain-text.txt

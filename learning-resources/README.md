@@ -27,3 +27,14 @@ A chronological learning series pairing eleven published BMX history quizzes—f
 **Status:** Complete archived sequence through 1986 / archived package v1.1
 
 [Open the BMX History Quiz Series archive](quizzes/)
+---
+
+### [Scavenger Hunts and LititzBMX.com Learning Laps](scavenger-hunts/)
+
+[![LititzBMX.com Learning Laps series index showing the First, Second, and Third Site Laps](scavenger-hunts/site-scavenger-hunts/assets/page-captures/page-001-site-learning-laps-series-index.png)](scavenger-hunts/)
+
+A three-stage site-learning series that guides visitors from introductory archive exploration, through connecting riders and artifacts, to interpreting patterns, influences, and themes across BMX history. The archive preserves the original PDFs, worksheet images, accessible text, live-page captures, source notes, and fixity records.
+
+**Status:** Active learning resource / archived package v1.0
+
+[Open the Scavenger Hunts archive](scavenger-hunts/)

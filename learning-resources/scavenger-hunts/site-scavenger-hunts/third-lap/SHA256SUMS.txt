@@ -1,0 +1,5 @@
+3b36116390ba64b3a444fb936972268d9daa18553160d7142b2a4932c5554b19  README.md
+e659daf592c61dd05d00a214fa17f43c17d8ea7b36c7efb002668817c13b277e  page-captures/page-001-third-lap-live-resource.png
+fb1710921854648e88116e81ccf04f923618137669a4d6fdb22c336349faa9e3  source/Lititz-BMX-Third-Lap-Scavenger-Hunt.pdf
+aaf23d5f87cbd05bfbc2e370f914bf19892d1c664f694ff970401f0016c49ef1  source-images/source-001-third-lap-published-worksheet.png
+63f8ef05f3bc1d7c91521c557ad029317b490ca1f6af72fd41b2eab5a7915794  text/third-lap-plain-text.txt

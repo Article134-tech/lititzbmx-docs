@@ -1,0 +1,5 @@
+1229b9cb41f7ad615a247d0352fdbe73df3a308549ee778c5b20c6d221fa1e49  README.md
+6fd49e4b22f5556c3a10a8f0e23b3a4804a2ad3eaebe5f56867f1dd068627c77  page-captures/page-001-second-lap-live-resource.png
+f224cf62d77af537cceafb707441ab2ed3c57ddda3c9fd1c2cd161d9d37a475b  source/Lititz-BMX-Second-Lap-Scavenger-Hunt.pdf
+f5c90d3bc871c9771c76ebfdf973ba73034552fa9fac98b0d72112fdc3b6b297  source-images/source-001-second-lap-published-worksheet.png
+9ac22671f743b1219463bfecef1b7932bb1726b9ed8bda03d4dc40be77f73b1a  text/second-lap-plain-text.txt
