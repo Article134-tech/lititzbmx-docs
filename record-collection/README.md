@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="assets/record-collection-banner.png" alt="The Lititz BMX Record Collection overview showing 21 compiled dossiers across Fireside BMX Chat, Pump Track Chat, and Unboxing" width="100%">
+  <img src="assets/record-collection-banner.png" alt="The Lititz BMX Record Collection overview showing 22 compiled dossiers across Fireside BMX Chat, Pump Track Chat, and Unboxing" width="100%">
 </p>
 
 # The Lititz BMX Record Collection
 
 **Repository location:** `Article134-tech/lititzbmx-docs/record-collection/`  
 **Integration method:** Controlled replacement of the existing `record-collection/` folder; no repository restructuring.  
-**Public package:** v1.1.0  
+**Public package:** v1.2.0  
 **Archival standard:** v1.0.1  
 **Compiled:** 2026-07-21  
 **Publisher and curator:** Lititz BMX / Kyle A. Huffman
@@ -20,7 +20,7 @@ The purpose is not merely to save videos. It is to preserve **how each recording
 <table>
 <tr>
 <td width="33%" valign="top"><a href="collections/fireside-bmx-chat/README.md"><img src="collections/fireside-bmx-chat/assets/category-cover.png" alt="Fireside BMX Chat visual index" width="100%"></a><br><strong><a href="collections/fireside-bmx-chat/README.md">Fireside BMX Chat</a></strong><br><strong>8 dossiers</strong><br>Oral histories, family memory, museum encounters, and campaign records.</td>
-<td width="33%" valign="top"><a href="collections/pump-track-chat/README.md"><img src="collections/pump-track-chat/assets/category-cover.png" alt="Pump Track Chat visual index" width="100%"></a><br><strong><a href="collections/pump-track-chat/README.md">Pump Track Chat</a></strong><br><strong>4 dossiers</strong><br>Planning, access, advocacy, community history, and track-building knowledge.</td>
+<td width="33%" valign="top"><a href="collections/pump-track-chat/README.md"><img src="collections/pump-track-chat/assets/category-cover.png" alt="Pump Track Chat visual index" width="100%"></a><br><strong><a href="collections/pump-track-chat/README.md">Pump Track Chat</a></strong><br><strong>5 dossiers</strong><br>Planning, access, advocacy, community history, and track-building knowledge.</td>
 <td width="33%" valign="top"><a href="collections/unboxing/README.md"><img src="collections/unboxing/assets/category-cover.png" alt="Unboxing visual index" width="100%"></a><br><strong><a href="collections/unboxing/README.md">Unboxing</a></strong><br><strong>9 dossiers</strong><br>Arrival, identification, condition, provenance clues, and first archival response.</td>
 </tr>
 </table>
@@ -30,13 +30,13 @@ The purpose is not merely to save videos. It is to preserve **how each recording
 | Category | Dossiers | Primary record types |
 |---|---:|---|
 | [Fireside BMX Chat](collections/fireside-bmx-chat/README.md) | 8 | Interview Dossiers and one campaign/charity Recording Dossier |
-| [Pump Track Chat](collections/pump-track-chat/README.md) | 4 | Interview Dossiers and one Presentation Dossier |
+| [Pump Track Chat](collections/pump-track-chat/README.md) | 5 | Interview Dossiers and one Presentation Dossier |
 | [Unboxing](collections/unboxing/README.md) | 9 | Recording Dossiers |
-| **Complete collection** | **21** | Three established top-level categories |
+| **Complete collection** | **22** | Three established top-level categories |
 
 > The four derivative clips added to “The Boy” remain inside that dossier and are not counted as additional dossiers.
 
-## Browse all 21 dossiers
+## Browse all 22 dossiers
 
 ### Fireside BMX Chat
 
@@ -55,6 +55,7 @@ The purpose is not merely to save videos. It is to preserve **how each recording
 - [Update! Pump Track Chat Podcast — Warwick Township Follow-Up](collections/pump-track-chat/records/ptc-warwick-follow-up/README.md) — Interview Dossier
 - [The Past — Our Hope for the Future of Lititz](collections/pump-track-chat/records/ptc-lititz-past-future/README.md) — Interview Dossier
 - [Pump Track Builds with Brandon Hetrick](collections/pump-track-chat/records/ptc-brandon-hetrick-pump-track-builds/README.md) — Interview Dossier
+- [Pump Track Chat #2: Coleman Bike Park and Hope for Warwick Township](collections/pump-track-chat/records/ptc-brandon-hetrick-coleman-warwick-update/README.md) — Interview Dossier
 
 ### Unboxing
 
@@ -74,9 +75,9 @@ The purpose is not merely to save videos. It is to preserve **how each recording
 - [Archival Standard](ARCHIVAL_STANDARD.md)
 - [Visual Presentation Standard](docs/VISUAL_PRESENTATION_STANDARD.md)
 - [Public/Private Preservation Rules](SECURITY_AND_PRIVACY.md)
-- [v1.1.0 Deployment Validation](docs/V1.1.0_DEPLOYMENT_VALIDATION.md)
-- [v1.1.0 Change Report](docs/V1.1.0_PART2_CHANGE_REPORT.md)
-- [GitHub Deployment Walkthrough](docs/V1.1.0_GITHUB_DEPLOYMENT_WALKTHROUGH.md)
+- [v1.2.0 Deployment Validation](docs/V1.2.0_DEPLOYMENT_VALIDATION.md)
+- [v1.2.0 Change Report](docs/V1.2.0_CHANGE_REPORT.md)
+- [v1.2.0 GitHub Deployment Walkthrough](docs/V1.2.0_GITHUB_DEPLOYMENT_WALKTHROUGH.md)
 - [Visual Asset Inventory](docs/VISUAL_ASSET_INVENTORY.md)
 
 ## Repository hierarchy
@@ -85,7 +86,7 @@ The purpose is not merely to save videos. It is to preserve **how each recording
 The Lititz BMX Record Collection
 ├── collections/
 │   ├── fireside-bmx-chat/       8 dossiers; includes Chasing Harry subseries
-│   ├── pump-track-chat/         4 dossiers
+│   ├── pump-track-chat/         5 dossiers
 │   └── unboxing/                9 dossiers
 ├── templates/                   Reusable dossier templates
 ├── schemas/                     Machine-readable metadata schema

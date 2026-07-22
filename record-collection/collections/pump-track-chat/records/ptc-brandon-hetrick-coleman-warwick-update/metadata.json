@@ -1,0 +1,84 @@
+{
+  "record_id": "ptc-brandon-hetrick-coleman-warwick-update",
+  "collection": "Pump Track Chat",
+  "subseries": null,
+  "episode_number": 2,
+  "dossier_type": "Interview Dossier",
+  "recording_type": [
+    "remote interview",
+    "project retrospective",
+    "community-development update",
+    "oral-history conversation"
+  ],
+  "title": "Pump Track Chat #2: Coleman Bike Park and Hope for Warwick Township",
+  "published_title": "Pump Track Chat returns with Brandon Hetrick-inside look-Coleman Bike Park-hope for Warwick Township",
+  "source_url": "https://www.youtube.com/watch?v=sMhoaIE3TKY",
+  "source_url_status": "direct URL supplied; screenshot showed unlisted visibility at capture",
+  "host": "Kyle A. Huffman",
+  "guests": [
+    "Brandon Hetrick"
+  ],
+  "participants": [
+    "Kyle A. Huffman",
+    "Brandon Hetrick"
+  ],
+  "duration": "Not supplied",
+  "recording_date": null,
+  "publication_date": null,
+  "upload_date_shown": "2026-07-21",
+  "visibility_at_capture": "unlisted",
+  "location": "Remote conversation; Coleman Memorial Park in Lebanon, Pennsylvania, Warwick Township / Lititz, and Rock Lititz are discussed",
+  "language": "en",
+  "summary": "Kyle A. Huffman and Brandon Hetrick revisit the completed Coleman Memorial Park pump track in Lebanon, discuss how relationships, volunteer effort, municipal coordination, materials, and design shaped the project, and apply those lessons to the continuing Warwick Township / Lititz pump-track effort and a possible Rock Lititz path.",
+  "historical_significance": "The recording preserves a project-builder’s retrospective on the Coleman Bike Park build while documenting a specific stage in Lititz BMX’s Warwick Township advocacy. It also records the memorial meaning attached to the Coleman track, Brandon Hetrick’s memories of Corey Martin and Lebanon-area trail culture, and the practical contrast between municipal and privately supported projects.",
+  "subjects": [
+    "Brandon Hetrick",
+    "Kyle A. Huffman",
+    "Pump Track Chat",
+    "Coleman Memorial Park",
+    "Coleman Bike Park",
+    "Lebanon Pennsylvania",
+    "Warwick Township",
+    "Lititz Pennsylvania",
+    "Rock Lititz",
+    "Dean L. Saylor Park",
+    "pump-track advocacy",
+    "asphalt pump tracks",
+    "concrete pump tracks",
+    "municipal projects",
+    "private projects",
+    "community volunteers",
+    "adaptive riders",
+    "all-wheels recreation",
+    "Corey Martin",
+    "Mapleton Utah",
+    "BMX trail culture"
+  ],
+  "transcript_status": "Original untimed YouTube machine transcript preserved unchanged; a separate high-confidence corrected access layer is included; speaker labels, timestamps, and full audio verification remain pending.",
+  "preservation_status": [
+    "source-captured",
+    "dossier-compiled",
+    "publication-status-gap-recorded",
+    "transcript-verification-pending"
+  ],
+  "rights": "All rights reserved unless separately documented; see docs/rights-and-access.md.",
+  "compiled_date": "2026-07-21",
+  "build_version": "1.2.0",
+  "notes": [
+    "The screenshot records an unlisted upload with a temporary working title; the final title and description were supplied later by Kyle A. Huffman.",
+    "The 100-character published title is preserved exactly, including its hyphenation.",
+    "Statements about project history, municipal processes, design, costs, liability, and community impact remain attributed to the speakers unless independently documented.",
+    "No public-launch screenshot or exact duration was supplied; neither has been inferred."
+  ],
+  "repository_path": "collections/pump-track-chat/records/ptc-brandon-hetrick-coleman-warwick-update",
+  "source_screenshot_original_filename": "2026-07-21_17-53-22.png",
+  "source_screenshot_sha256": "2d15246440e6ed33df2bbfebee96072d28824fee7a8ee75034c68ec03549be5c",
+  "source_transcript_original_filename": "Pasted text(26).txt",
+  "source_transcript_sha256": "2967cee99ca4024048cd46931a5d59ebd2f068413686d1bd4e85e7784cac4645",
+  "related_record_ids": [
+    "ptc-brandon-hetrick-pump-track-builds",
+    "ptc-warwick-follow-up",
+    "ptc-warwick-public-comment-rehearsal",
+    "ptc-lititz-past-future"
+  ]
+}

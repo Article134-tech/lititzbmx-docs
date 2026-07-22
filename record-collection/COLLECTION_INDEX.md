@@ -1,7 +1,7 @@
 # Complete Collection Index
 
-**Public package:** v1.1.0  
-**Compiled dossiers:** 21  
+**Public package:** v1.2.0  
+**Compiled dossiers:** 22  
 **Release date:** 2026-07-21
 
 This index lists every dossier in the public Record Collection. Derivative clips are documented inside their parent dossier and are not counted separately.
@@ -29,6 +29,7 @@ This index lists every dossier in the public Record Collection. Derivative clips
 | `ptc-warwick-follow-up` | [Update! Pump Track Chat Podcast — Warwick Township Follow-Up](collections/pump-track-chat/records/ptc-warwick-follow-up/README.md) | Interview Dossier | 17:48 | Original machine transcript preserved unchanged; corrected machine transcript added separately; audio and speaker ver… |
 | `ptc-lititz-past-future` | [The Past — Our Hope for the Future of Lititz](collections/pump-track-chat/records/ptc-lititz-past-future/README.md) | Interview Dossier | 19:39 | Original machine transcript preserved unchanged; corrected machine transcript added separately; audio and speaker ver… |
 | `ptc-brandon-hetrick-pump-track-builds` | [Pump Track Builds with Brandon Hetrick](collections/pump-track-chat/records/ptc-brandon-hetrick-pump-track-builds/README.md) | Interview Dossier | 21:06 | Original machine transcript preserved unchanged; corrected machine transcript added separately; audio and speaker ver… |
+| `ptc-brandon-hetrick-coleman-warwick-update` | [Pump Track Chat #2: Coleman Bike Park and Hope for Warwick Township](collections/pump-track-chat/records/ptc-brandon-hetrick-coleman-warwick-update/README.md) | Interview Dossier | Not supplied | Original untimed machine transcript preserved unchanged; corrected access layer present; audio verification pending. |
 
 [Open the Pump Track Chat visual index](collections/pump-track-chat/README.md)
 
@@ -51,8 +52,8 @@ This index lists every dossier in the public Record Collection. Derivative clips
 ## Count controls
 
 - Fireside BMX Chat: **8**
-- Pump Track Chat: **4**
+- Pump Track Chat: **5**
 - Unboxing: **9**
-- Complete collection: **21**
+- Complete collection: **22**
 - “The Boy” derivative clips: **4**, nested within one dossier and excluded from the dossier count
 - Top-level categories: **3**

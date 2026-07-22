@@ -1,15 +1,15 @@
 # Visual Asset Inventory
 
-**Version:** 1.1.0  
+**Version:** 1.2.0  
 **Updated:** 2026-07-21
 
 This inventory distinguishes preserved publication images from later repository navigation derivatives and composites.
 
 | Asset | Scope | Role | Provenance | Display |
 |---|---|---|---|---|
-| `assets/record-collection-banner.png` | collection | overview banner | later repository navigation composite rebuilt for v1.1.0 | README.md |
+| `assets/record-collection-banner.png` | collection | overview banner | later repository navigation composite rebuilt for v1.2.0 | README.md |
 | `collections/fireside-bmx-chat/assets/category-cover.png` | category | Fireside BMX Chat visual index | later repository navigation composite rebuilt for v1.1.0 | collections/fireside-bmx-chat/README.md |
-| `collections/pump-track-chat/assets/category-cover.png` | category | Pump Track Chat visual index | later repository navigation composite rebuilt for v1.1.0 | collections/pump-track-chat/README.md |
+| `collections/pump-track-chat/assets/category-cover.png` | category | Pump Track Chat visual index | later repository navigation composite rebuilt for v1.2.0 | collections/pump-track-chat/README.md |
 | `collections/unboxing/assets/category-cover.png` | category | Unboxing visual index | later repository navigation composite rebuilt for v1.1.0 | collections/unboxing/README.md |
 | `collections/unboxing/assets/category-thumbnail.png` | category | compact category navigation image | v1.1.0 copy of the final Unboxing category index | retained for compatible navigation use |
 | `collections/fireside-bmx-chat/records/fbc-001-damian-x-fulton/assets/navigation-thumbnail.png` | fbc-001-damian-x-fulton | consistent 16:9 dossier navigation thumbnail | later repository navigation derivative created for v1.1.0 from the dossier’s preserved visual | collections/fireside-bmx-chat/README.md and collection composites |
@@ -59,3 +59,7 @@ This inventory distinguishes preserved publication images from later repository 
 | `collections/fireside-bmx-chat/records/fbc-005-the-boy-leary-ladies/derivatives/clips/clip-03-linda-handwritten-poem/assets/title-card.png` | clip-03-linda-handwritten-poem | derivative clip opening visual | submitted derivative publication image; unchanged in Part 2 | collections/fireside-bmx-chat/records/fbc-005-the-boy-leary-ladies/derivatives/clips/clip-03-linda-handwritten-poem/README.md |
 | `collections/fireside-bmx-chat/records/fbc-005-the-boy-leary-ladies/derivatives/clips/clip-04-pull-bmx-magazine/assets/title-card.png` | clip-04-pull-bmx-magazine | derivative clip opening visual | submitted derivative publication image; unchanged in Part 2 | collections/fireside-bmx-chat/records/fbc-005-the-boy-leary-ladies/derivatives/clips/clip-04-pull-bmx-magazine/README.md |
 | `collections/fireside-bmx-chat/records/fbc-005-the-boy-leary-ladies/derivatives/clips/clip-05-the-boy-poster-board/assets/title-card.png` | clip-05-the-boy-poster-board | derivative clip opening visual | submitted derivative publication image; unchanged in Part 2 | collections/fireside-bmx-chat/records/fbc-005-the-boy-leary-ladies/derivatives/clips/clip-05-the-boy-poster-board/README.md |
+
+| `collections/pump-track-chat/records/ptc-brandon-hetrick-coleman-warwick-update/assets/title-card.png` | ptc-brandon-hetrick-coleman-warwick-update | dossier opening visual | v1.2.0 access derivative: exact crop from preserved YouTube screenshot centered on black 16:9 canvas | dossier README |
+| `collections/pump-track-chat/records/ptc-brandon-hetrick-coleman-warwick-update/assets/navigation-thumbnail.png` | ptc-brandon-hetrick-coleman-warwick-update | consistent 16:9 dossier navigation thumbnail | v1.2.0 copy of documented title-card access derivative | Pump Track Chat index and collection composites |
+| `collections/pump-track-chat/records/ptc-brandon-hetrick-coleman-warwick-update/source/publication/2026-07-21_17-53-22.png` | ptc-brandon-hetrick-coleman-warwick-update | preserved upload-state screenshot | supplied source screenshot preserved unchanged | source evidence only |

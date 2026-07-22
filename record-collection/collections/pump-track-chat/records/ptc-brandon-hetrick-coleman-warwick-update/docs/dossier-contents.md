@@ -1,0 +1,22 @@
+# Dossier Contents
+
+- `README.md` — public landing page for `ptc-brandon-hetrick-coleman-warwick-update`.
+- `interview-record.md` — descriptive interview record.
+- `metadata.json` — machine-readable metadata.
+- `CITATION.cff` — citation metadata.
+- `assets/title-card.png` — 16:9 access image created from an exact crop of the supplied YouTube screenshot.
+- `assets/navigation-thumbnail.png` — category-navigation copy of the access image.
+- `source/publication/2026-07-21_17-53-22.png` — supplied YouTube screenshot preserved unchanged.
+- `source/youtube-record.md` — direct source URL, upload state, and title history.
+- `source/published-description.md` — final title and complete description supplied by Kyle A. Huffman.
+- `source/original-machine-transcript-untimed.txt` — unchanged supplied YouTube machine transcript.
+- `transcript/corrected-machine-transcript.md` — separate high-confidence corrected access layer; not audio-verified.
+- `transcript/working-transcript.md` — transcript-layer pointer.
+- `docs/provenance.md` — source chain and compilation history.
+- `docs/rights-and-access.md` — public-access and rights notes.
+- `docs/transcript-status.md` — transcript-layer status.
+- `docs/verification-notes.md` — claims, discrepancies, and open verification work.
+- `docs/curator-notes.md` — classification and descriptive decisions.
+- `docs/topic-index.md` and `docs/chapter-index.md` — access aids.
+- `docs/source-inventory.csv` and `.md` — source manifest.
+- `docs/revision-history.md` — dossier change history.

@@ -1,5 +1,16 @@
 # Changelog
 
+## v1.2.0 — 2026-07-21
+
+- Added Pump Track Chat #2 with Brandon Hetrick as the 22nd compiled dossier.
+- Expanded Pump Track Chat from 4 to 5 dossiers while retaining the three-category architecture.
+- Preserved the supplied YouTube upload-state screenshot and untimed machine transcript unchanged.
+- Preserved Kyle A. Huffman’s final 100-character title and complete standardized YouTube description.
+- Added a separate corrected machine-transcript access layer without replacing the source transcript.
+- Documented that the supplied screenshot showed an unlisted working upload and that the later public launch date was not supplied.
+- Rebuilt the Pump Track Chat visual index and Record Collection banner for the 22-dossier package.
+- Updated collection indexes, machine-readable registers, citation metadata, visual inventories, manifests, fixity records, deployment guidance, and validation documentation.
+
 ## v1.1.0 — 2026-07-21
 
 - Expanded the public Record Collection from 7 to 21 compiled dossiers.
