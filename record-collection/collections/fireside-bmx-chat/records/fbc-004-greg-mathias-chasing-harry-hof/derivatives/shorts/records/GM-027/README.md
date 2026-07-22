@@ -1,4 +1,14 @@
+<p align="center">
+  <a href="../../source/evidence/published-frames-original/2026-07-22_16-52-41.png">
+    <img src="../../source/evidence/published-frames-original/2026-07-22_16-52-41.png" alt="Published frame capture for GM-027, Demon side and CTE discussion" width="420">
+  </a>
+</p>
+
+<p align="center"><em>Original supplied published-frame capture for GM-027; preserved byte-for-byte. Select the image to open the full-resolution evidence file.</em></p>
+
 # GM-027 - Demon side and CTE discussion
+
+<p align="center"><a href="../GM-026/README.md">← GM-026</a> &nbsp;·&nbsp; <a href="../../README.md">Visual Shorts Index</a> &nbsp;·&nbsp; <a href="../../../../README.md">Parent Episode 4 Dossier</a> &nbsp;·&nbsp; <a href="../GM-028/README.md">GM-028 →</a></p>
 
 | Field | Preserved record |
 |---|---|
@@ -40,3 +50,7 @@ While Harry Leary can be thought of doing many wonderful things, he did have his
 ## Qualification
 
 The speakers explicitly say the family did not test Harry Leary for CTE. No CTE diagnosis is claimed by the archive.
+
+---
+
+<p align="center"><a href="../GM-026/README.md">← GM-026</a> &nbsp;·&nbsp; <a href="../../README.md">Visual Shorts Index</a> &nbsp;·&nbsp; <a href="../../../../README.md">Parent Episode 4 Dossier</a> &nbsp;·&nbsp; <a href="../GM-028/README.md">GM-028 →</a></p>

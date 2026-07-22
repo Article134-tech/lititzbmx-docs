@@ -1,5 +1,14 @@
 # Changelog
 
+## v1.3.1 - 2026-07-22
+
+- Corrected the Greg Mathias Episode 4 public visual-access layer after the v1.3.0 evidence package displayed the 32 supplied frames only as file links.
+- Displayed all 32 original published-frame captures directly in the visual Shorts index and at the top of their individual GM record pages.
+- Added previous/index/parent/next navigation to every GM record.
+- Kept GM-010 as a text-only documented gap and GM-012A/GM-012B as separate visual records.
+- Added prominent Episode 4 visual entry points to the parent dossier, Fireside BMX Chat index, and Record Collection landing page.
+- Corrected the repository-root README insertion guidance and completed visual-presentation validation without altering source imagery or evidentiary content.
+
 ## v1.3.0 - 2026-07-22
 
 - Completed the Greg Mathias / *Chasing Harry* Episode 4 Shorts publication-evidence layer inside the existing parent dossier.

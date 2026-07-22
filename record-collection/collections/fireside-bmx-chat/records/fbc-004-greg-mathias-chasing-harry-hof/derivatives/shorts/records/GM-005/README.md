@@ -1,4 +1,14 @@
+<p align="center">
+  <a href="../../source/evidence/published-frames-original/2026-07-22_16-03-09.png">
+    <img src="../../source/evidence/published-frames-original/2026-07-22_16-03-09.png" alt="Published frame capture for GM-005, Loaner replacement Daylight 20-inch" width="420">
+  </a>
+</p>
+
+<p align="center"><em>Original supplied published-frame capture for GM-005; preserved byte-for-byte. Select the image to open the full-resolution evidence file.</em></p>
+
 # GM-005 - Loaner replacement Daylight 20-inch
+
+<p align="center"><a href="../GM-004/README.md">← GM-004</a> &nbsp;·&nbsp; <a href="../../README.md">Visual Shorts Index</a> &nbsp;·&nbsp; <a href="../../../../README.md">Parent Episode 4 Dossier</a> &nbsp;·&nbsp; <a href="../GM-006/README.md">GM-006 →</a></p>
 
 | Field | Preserved record |
 |---|---|
@@ -40,3 +50,7 @@ Harry Leary received a loaner replacement Daylight 20” bike - Harry Leary used
 ## Qualification
 
 No special medical qualification is required for the core descriptive statement. All oral-history claims remain attributed unless independently verified.
+
+---
+
+<p align="center"><a href="../GM-004/README.md">← GM-004</a> &nbsp;·&nbsp; <a href="../../README.md">Visual Shorts Index</a> &nbsp;·&nbsp; <a href="../../../../README.md">Parent Episode 4 Dossier</a> &nbsp;·&nbsp; <a href="../GM-006/README.md">GM-006 →</a></p>

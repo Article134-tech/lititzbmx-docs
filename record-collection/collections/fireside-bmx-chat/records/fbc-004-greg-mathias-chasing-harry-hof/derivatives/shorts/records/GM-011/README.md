@@ -1,4 +1,14 @@
+<p align="center">
+  <a href="../../source/evidence/published-frames-original/2026-07-22_16-17-31.png">
+    <img src="../../source/evidence/published-frames-original/2026-07-22_16-17-31.png" alt="Published frame capture for GM-011, Harry loved to drive; found outside Phoenix" width="420">
+  </a>
+</p>
+
+<p align="center"><em>Original supplied published-frame capture for GM-011; preserved byte-for-byte. Select the image to open the full-resolution evidence file.</em></p>
+
 # GM-011 - Harry loved to drive; found outside Phoenix
+
+<p align="center"><a href="../GM-010-MISSING/README.md">← GM-010</a> &nbsp;·&nbsp; <a href="../../README.md">Visual Shorts Index</a> &nbsp;·&nbsp; <a href="../../../../README.md">Parent Episode 4 Dossier</a> &nbsp;·&nbsp; <a href="../GM-012A/README.md">GM-012A →</a></p>
 
 | Field | Preserved record |
 |---|---|
@@ -40,3 +50,7 @@ Harry Leary loved to drive. He went driving and they found his body about 60 mil
 ## Qualification
 
 Cause and timing of death are preserved as interview/publication claims, not an independent medical or official finding.
+
+---
+
+<p align="center"><a href="../GM-010-MISSING/README.md">← GM-010</a> &nbsp;·&nbsp; <a href="../../README.md">Visual Shorts Index</a> &nbsp;·&nbsp; <a href="../../../../README.md">Parent Episode 4 Dossier</a> &nbsp;·&nbsp; <a href="../GM-012A/README.md">GM-012A →</a></p>

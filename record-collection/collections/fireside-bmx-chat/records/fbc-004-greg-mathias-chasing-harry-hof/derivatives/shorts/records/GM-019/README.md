@@ -1,4 +1,14 @@
+<p align="center">
+  <a href="../../source/evidence/published-frames-original/2026-07-22_16-35-45.png">
+    <img src="../../source/evidence/published-frames-original/2026-07-22_16-35-45.png" alt="Published frame capture for GM-019, Turbo cranks in two different sizes" width="420">
+  </a>
+</p>
+
+<p align="center"><em>Original supplied published-frame capture for GM-019; preserved byte-for-byte. Select the image to open the full-resolution evidence file.</em></p>
+
 # GM-019 - Turbo cranks in two different sizes
+
+<p align="center"><a href="../GM-018/README.md">← GM-018</a> &nbsp;·&nbsp; <a href="../../README.md">Visual Shorts Index</a> &nbsp;·&nbsp; <a href="../../../../README.md">Parent Episode 4 Dossier</a> &nbsp;·&nbsp; <a href="../GM-020/README.md">GM-020 →</a></p>
 
 | Field | Preserved record |
 |---|---|
@@ -40,3 +50,7 @@ In the case, there is also a set of Turbo cranks and a bag that was donated by G
 ## Qualification
 
 No special medical qualification is required for the core descriptive statement. All oral-history claims remain attributed unless independently verified.
+
+---
+
+<p align="center"><a href="../GM-018/README.md">← GM-018</a> &nbsp;·&nbsp; <a href="../../README.md">Visual Shorts Index</a> &nbsp;·&nbsp; <a href="../../../../README.md">Parent Episode 4 Dossier</a> &nbsp;·&nbsp; <a href="../GM-020/README.md">GM-020 →</a></p>

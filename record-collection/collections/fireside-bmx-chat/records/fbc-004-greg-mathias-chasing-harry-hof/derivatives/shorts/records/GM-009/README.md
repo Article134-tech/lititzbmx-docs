@@ -1,4 +1,14 @@
+<p align="center">
+  <a href="../../source/evidence/published-frames-original/2026-07-22_16-15-27.png">
+    <img src="../../source/evidence/published-frames-original/2026-07-22_16-15-27.png" alt="Published frame capture for GM-009, Concussions and suspected CTE discussion" width="420">
+  </a>
+</p>
+
+<p align="center"><em>Original supplied published-frame capture for GM-009; preserved byte-for-byte. Select the image to open the full-resolution evidence file.</em></p>
+
 # GM-009 - Concussions and suspected CTE discussion
+
+<p align="center"><a href="../GM-008/README.md">← GM-008</a> &nbsp;·&nbsp; <a href="../../README.md">Visual Shorts Index</a> &nbsp;·&nbsp; <a href="../../../../README.md">Parent Episode 4 Dossier</a> &nbsp;·&nbsp; <a href="../GM-010-MISSING/README.md">GM-010 →</a></p>
 
 | Field | Preserved record |
 |---|---|
@@ -40,3 +50,7 @@ Harry Leary’s friends and family believe that he had Chronic Traumatic Encepha
 ## Qualification
 
 CTE is discussed as a belief held by friends/family; no independent diagnosis is supplied.
+
+---
+
+<p align="center"><a href="../GM-008/README.md">← GM-008</a> &nbsp;·&nbsp; <a href="../../README.md">Visual Shorts Index</a> &nbsp;·&nbsp; <a href="../../../../README.md">Parent Episode 4 Dossier</a> &nbsp;·&nbsp; <a href="../GM-010-MISSING/README.md">GM-010 →</a></p>

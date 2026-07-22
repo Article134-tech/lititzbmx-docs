@@ -1,4 +1,14 @@
+<p align="center">
+  <a href="../../source/evidence/published-frames-original/2026-07-22_16-21-03.png">
+    <img src="../../source/evidence/published-frames-original/2026-07-22_16-21-03.png" alt="Published frame capture for GM-012B, Daylight stolen; personal items left" width="420">
+  </a>
+</p>
+
+<p align="center"><em>Original supplied published-frame capture for GM-012B; preserved byte-for-byte. Select the image to open the full-resolution evidence file.</em></p>
+
 # GM-012B - Daylight stolen; personal items left
+
+<p align="center"><a href="../GM-012A/README.md">← GM-012A</a> &nbsp;·&nbsp; <a href="../../README.md">Visual Shorts Index</a> &nbsp;·&nbsp; <a href="../../../../README.md">Parent Episode 4 Dossier</a> &nbsp;·&nbsp; <a href="../GM-013/README.md">GM-013 →</a></p>
 
 | Field | Preserved record |
 |---|---|
@@ -40,3 +50,7 @@ Harry Leary’s 20” Daylight BMX was stolen out of his car before his body was
 ## Qualification
 
 The theft and circumstances in the car are interview/publication claims and must remain attributed.
+
+---
+
+<p align="center"><a href="../GM-012A/README.md">← GM-012A</a> &nbsp;·&nbsp; <a href="../../README.md">Visual Shorts Index</a> &nbsp;·&nbsp; <a href="../../../../README.md">Parent Episode 4 Dossier</a> &nbsp;·&nbsp; <a href="../GM-013/README.md">GM-013 →</a></p>

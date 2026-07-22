@@ -1,4 +1,14 @@
+<p align="center">
+  <a href="../../source/evidence/published-frames-original/2026-07-22_16-32-11.png">
+    <img src="../../source/evidence/published-frames-original/2026-07-22_16-32-11.png" alt="Published frame capture for GM-017, Harry devalued personal gains" width="420">
+  </a>
+</p>
+
+<p align="center"><em>Original supplied published-frame capture for GM-017; preserved byte-for-byte. Select the image to open the full-resolution evidence file.</em></p>
+
 # GM-017 - Harry devalued personal gains
+
+<p align="center"><a href="../GM-016/README.md">← GM-016</a> &nbsp;·&nbsp; <a href="../../README.md">Visual Shorts Index</a> &nbsp;·&nbsp; <a href="../../../../README.md">Parent Episode 4 Dossier</a> &nbsp;·&nbsp; <a href="../GM-018/README.md">GM-018 →</a></p>
 
 | Field | Preserved record |
 |---|---|
@@ -40,3 +50,7 @@ Harry Leary devalued many of his personal gains because. The riders were told to
 ## Qualification
 
 No special medical qualification is required for the core descriptive statement. All oral-history claims remain attributed unless independently verified.
+
+---
+
+<p align="center"><a href="../GM-016/README.md">← GM-016</a> &nbsp;·&nbsp; <a href="../../README.md">Visual Shorts Index</a> &nbsp;·&nbsp; <a href="../../../../README.md">Parent Episode 4 Dossier</a> &nbsp;·&nbsp; <a href="../GM-018/README.md">GM-018 →</a></p>

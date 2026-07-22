@@ -1,4 +1,14 @@
+<p align="center">
+  <a href="../../source/evidence/published-frames-original/2026-07-22_16-54-18.png">
+    <img src="../../source/evidence/published-frames-original/2026-07-22_16-54-18.png" alt="Published frame capture for GM-028, Knocked out pretty good as a child" width="420">
+  </a>
+</p>
+
+<p align="center"><em>Original supplied published-frame capture for GM-028; preserved byte-for-byte. Select the image to open the full-resolution evidence file.</em></p>
+
 # GM-028 - Knocked out pretty good as a child
+
+<p align="center"><a href="../GM-027/README.md">← GM-027</a> &nbsp;·&nbsp; <a href="../../README.md">Visual Shorts Index</a> &nbsp;·&nbsp; <a href="../../../../README.md">Parent Episode 4 Dossier</a> &nbsp;·&nbsp; <a href="../GM-029/README.md">GM-029 →</a></p>
 
 | Field | Preserved record |
 |---|---|
@@ -40,3 +50,7 @@ Harry Leary was “knocked out pretty good” when he was a kid, Greg Mathias re
 ## Qualification
 
 Childhood injury and brain-bleed statements are secondhand recollections, not independently verified medical findings.
+
+---
+
+<p align="center"><a href="../GM-027/README.md">← GM-027</a> &nbsp;·&nbsp; <a href="../../README.md">Visual Shorts Index</a> &nbsp;·&nbsp; <a href="../../../../README.md">Parent Episode 4 Dossier</a> &nbsp;·&nbsp; <a href="../GM-029/README.md">GM-029 →</a></p>

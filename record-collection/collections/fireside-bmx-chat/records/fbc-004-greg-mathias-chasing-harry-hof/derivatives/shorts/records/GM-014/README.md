@@ -1,4 +1,14 @@
+<p align="center">
+  <a href="../../source/evidence/published-frames-original/2026-07-22_16-24-29.png">
+    <img src="../../source/evidence/published-frames-original/2026-07-22_16-24-29.png" alt="Published frame capture for GM-014, What happened to the run-over HLT 4" width="420">
+  </a>
+</p>
+
+<p align="center"><em>Original supplied published-frame capture for GM-014; preserved byte-for-byte. Select the image to open the full-resolution evidence file.</em></p>
+
 # GM-014 - What happened to the run-over HLT 4
+
+<p align="center"><a href="../GM-013/README.md">← GM-013</a> &nbsp;·&nbsp; <a href="../../README.md">Visual Shorts Index</a> &nbsp;·&nbsp; <a href="../../../../README.md">Parent Episode 4 Dossier</a> &nbsp;·&nbsp; <a href="../GM-015/README.md">GM-015 →</a></p>
 
 | Field | Preserved record |
 |---|---|
@@ -40,3 +50,7 @@ What happened to Harry Leary's Daylight Cycle Co. BMX bike that supposedly got r
 ## Qualification
 
 No special medical qualification is required for the core descriptive statement. All oral-history claims remain attributed unless independently verified.
+
+---
+
+<p align="center"><a href="../GM-013/README.md">← GM-013</a> &nbsp;·&nbsp; <a href="../../README.md">Visual Shorts Index</a> &nbsp;·&nbsp; <a href="../../../../README.md">Parent Episode 4 Dossier</a> &nbsp;·&nbsp; <a href="../GM-015/README.md">GM-015 →</a></p>

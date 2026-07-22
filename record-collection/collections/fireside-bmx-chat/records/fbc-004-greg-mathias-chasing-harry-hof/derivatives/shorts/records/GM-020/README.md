@@ -1,4 +1,14 @@
+<p align="center">
+  <a href="../../source/evidence/published-frames-original/2026-07-22_16-37-30.png">
+    <img src="../../source/evidence/published-frames-original/2026-07-22_16-37-30.png" alt="Published frame capture for GM-020, Bobblehead in the Hall of Fame case" width="420">
+  </a>
+</p>
+
+<p align="center"><em>Original supplied published-frame capture for GM-020; preserved byte-for-byte. Select the image to open the full-resolution evidence file.</em></p>
+
 # GM-020 - Bobblehead in the Hall of Fame case
+
+<p align="center"><a href="../GM-019/README.md">← GM-019</a> &nbsp;·&nbsp; <a href="../../README.md">Visual Shorts Index</a> &nbsp;·&nbsp; <a href="../../../../README.md">Parent Episode 4 Dossier</a> &nbsp;·&nbsp; <a href="../GM-021/README.md">GM-021 →</a></p>
 
 | Field | Preserved record |
 |---|---|
@@ -40,3 +50,7 @@ Greg Mathias donated a Harry Leary bobblehead to the National BMX Hall of Fame. 
 ## Qualification
 
 No special medical qualification is required for the core descriptive statement. All oral-history claims remain attributed unless independently verified.
+
+---
+
+<p align="center"><a href="../GM-019/README.md">← GM-019</a> &nbsp;·&nbsp; <a href="../../README.md">Visual Shorts Index</a> &nbsp;·&nbsp; <a href="../../../../README.md">Parent Episode 4 Dossier</a> &nbsp;·&nbsp; <a href="../GM-021/README.md">GM-021 →</a></p>

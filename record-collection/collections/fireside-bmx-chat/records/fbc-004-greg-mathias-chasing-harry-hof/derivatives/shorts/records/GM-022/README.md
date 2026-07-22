@@ -1,4 +1,14 @@
+<p align="center">
+  <a href="../../source/evidence/published-frames-original/2026-07-22_16-42-06.png">
+    <img src="../../source/evidence/published-frames-original/2026-07-22_16-42-06.png" alt="Published frame capture for GM-022, Kyle&#x27;s 1986 Porsche Design plaque donation" width="420">
+  </a>
+</p>
+
+<p align="center"><em>Original supplied published-frame capture for GM-022; preserved byte-for-byte. Select the image to open the full-resolution evidence file.</em></p>
+
 # GM-022 - Kyle's 1986 Porsche Design plaque donation
+
+<p align="center"><a href="../GM-021/README.md">← GM-021</a> &nbsp;·&nbsp; <a href="../../README.md">Visual Shorts Index</a> &nbsp;·&nbsp; <a href="../../../../README.md">Parent Episode 4 Dossier</a> &nbsp;·&nbsp; <a href="../GM-023/README.md">GM-023 →</a></p>
 
 | Field | Preserved record |
 |---|---|
@@ -40,3 +50,7 @@ Greg and Kyle find the donation Kyle made to the National BMX Hall of Fame - The
 ## Qualification
 
 No special medical qualification is required for the core descriptive statement. All oral-history claims remain attributed unless independently verified.
+
+---
+
+<p align="center"><a href="../GM-021/README.md">← GM-021</a> &nbsp;·&nbsp; <a href="../../README.md">Visual Shorts Index</a> &nbsp;·&nbsp; <a href="../../../../README.md">Parent Episode 4 Dossier</a> &nbsp;·&nbsp; <a href="../GM-023/README.md">GM-023 →</a></p>

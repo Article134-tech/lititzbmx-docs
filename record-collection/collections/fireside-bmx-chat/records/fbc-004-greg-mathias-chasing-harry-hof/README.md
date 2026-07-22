@@ -10,6 +10,20 @@
 
 
 
+## Explore the 32-Short visual publication archive
+
+The Episode 4 dossier includes a complete visual index of the 32 supplied published-frame captures, with GM-010 documented as missing and the two published number-12 records preserved separately as GM-012A and GM-012B.
+
+<table>
+<tr>
+<td width="33%" align="center"><a href="derivatives/shorts/README.md"><img src="derivatives/shorts/source/evidence/published-frames-original/2026-07-22_15-40-37.png" alt="Published frame capture for GM-001, 24-inch Daylight donated to the Hall of Fame" width="100%"></a></td>
+<td width="33%" align="center"><a href="derivatives/shorts/README.md"><img src="derivatives/shorts/source/evidence/published-frames-original/2026-07-22_16-27-20.png" alt="Published frame capture for GM-016, Harry&#x27;s Hall of Fame display case" width="100%"></a></td>
+<td width="33%" align="center"><a href="derivatives/shorts/README.md"><img src="derivatives/shorts/source/evidence/published-frames-original/2026-07-22_17-03-34.png" alt="Published frame capture for GM-032, Hall of Fame track and a few laps" width="100%"></a></td>
+</tr>
+</table>
+
+<p align="center"><strong><a href="derivatives/shorts/README.md">Open the complete 32-record visual Shorts archive →</a></strong></p>
+
 ## At a glance
 
 | Field | Record |
@@ -52,6 +66,6 @@ The original recording is the primary source. The raw transcript is preserved un
 - machine transcript preserved;
 - full audio verification pending.
 
-## Shorts publication record
+## Shorts publication evidence
 
-The complete supplied publication-evidence set for this episode is preserved in the [Greg Mathias Episode 4 Shorts register](derivatives/shorts/README.md). It contains 32 published-frame captures, the separate GM-012A/GM-012B records, a documented GM-010 gap, supplied titles/descriptions/URLs, Studio dates and visibility evidence, transcript references, provenance, qualifications, manifests, fixity, and deployment instructions.
+The [visual Shorts publication archive](derivatives/shorts/README.md) connects each displayed frame to its title, description, publication date, visibility evidence, transcript reference, provenance, qualifications, and preservation record. All 32 captures remain preserved byte-for-byte.

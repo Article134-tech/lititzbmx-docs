@@ -1,4 +1,14 @@
+<p align="center">
+  <a href="../../source/evidence/published-frames-original/2026-07-22_16-34-00.png">
+    <img src="../../source/evidence/published-frames-original/2026-07-22_16-34-00.png" alt="Published frame capture for GM-018, Locker, romance novels, and three of everything" width="420">
+  </a>
+</p>
+
+<p align="center"><em>Original supplied published-frame capture for GM-018; preserved byte-for-byte. Select the image to open the full-resolution evidence file.</em></p>
+
 # GM-018 - Locker, romance novels, and three of everything
+
+<p align="center"><a href="../GM-017/README.md">← GM-017</a> &nbsp;·&nbsp; <a href="../../README.md">Visual Shorts Index</a> &nbsp;·&nbsp; <a href="../../../../README.md">Parent Episode 4 Dossier</a> &nbsp;·&nbsp; <a href="../GM-019/README.md">GM-019 →</a></p>
 
 | Field | Preserved record |
 |---|---|
@@ -40,3 +50,7 @@ Smart people have three of everything! But… The last thing Harry cared about a
 ## Qualification
 
 No special medical qualification is required for the core descriptive statement. All oral-history claims remain attributed unless independently verified.
+
+---
+
+<p align="center"><a href="../GM-017/README.md">← GM-017</a> &nbsp;·&nbsp; <a href="../../README.md">Visual Shorts Index</a> &nbsp;·&nbsp; <a href="../../../../README.md">Parent Episode 4 Dossier</a> &nbsp;·&nbsp; <a href="../GM-019/README.md">GM-019 →</a></p>

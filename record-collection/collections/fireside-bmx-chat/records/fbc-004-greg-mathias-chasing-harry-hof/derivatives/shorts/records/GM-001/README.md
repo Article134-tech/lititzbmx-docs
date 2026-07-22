@@ -1,4 +1,14 @@
+<p align="center">
+  <a href="../../source/evidence/published-frames-original/2026-07-22_15-40-37.png">
+    <img src="../../source/evidence/published-frames-original/2026-07-22_15-40-37.png" alt="Published frame capture for GM-001, 24-inch Daylight donated to the Hall of Fame" width="420">
+  </a>
+</p>
+
+<p align="center"><em>Original supplied published-frame capture for GM-001; preserved byte-for-byte. Select the image to open the full-resolution evidence file.</em></p>
+
 # GM-001 - 24-inch Daylight donated to the Hall of Fame
+
+<p align="center"><a href="../../README.md">Visual Shorts Index</a> &nbsp;·&nbsp; <a href="../../../../README.md">Parent Episode 4 Dossier</a> &nbsp;·&nbsp; <a href="../GM-002/README.md">GM-002 →</a></p>
 
 | Field | Preserved record |
 |---|---|
@@ -40,3 +50,7 @@ Harry Leary’s 24” Daylight BMX Bike as Hanging at the National BMX Hall of F
 ## Qualification
 
 No special medical qualification is required for the core descriptive statement. All oral-history claims remain attributed unless independently verified.
+
+---
+
+<p align="center"><a href="../../README.md">Visual Shorts Index</a> &nbsp;·&nbsp; <a href="../../../../README.md">Parent Episode 4 Dossier</a> &nbsp;·&nbsp; <a href="../GM-002/README.md">GM-002 →</a></p>

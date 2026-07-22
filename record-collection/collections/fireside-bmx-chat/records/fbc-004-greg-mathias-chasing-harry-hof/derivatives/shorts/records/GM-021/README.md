@@ -1,4 +1,14 @@
+<p align="center">
+  <a href="../../source/evidence/published-frames-original/2026-07-22_16-39-35.png">
+    <img src="../../source/evidence/published-frames-original/2026-07-22_16-39-35.png" alt="Published frame capture for GM-021, Greg started and later sold Fall Risk Racing" width="420">
+  </a>
+</p>
+
+<p align="center"><em>Original supplied published-frame capture for GM-021; preserved byte-for-byte. Select the image to open the full-resolution evidence file.</em></p>
+
 # GM-021 - Greg started and later sold Fall Risk Racing
+
+<p align="center"><a href="../GM-020/README.md">← GM-020</a> &nbsp;·&nbsp; <a href="../../README.md">Visual Shorts Index</a> &nbsp;·&nbsp; <a href="../../../../README.md">Parent Episode 4 Dossier</a> &nbsp;·&nbsp; <a href="../GM-022/README.md">GM-022 →</a></p>
 
 | Field | Preserved record |
 |---|---|
@@ -40,3 +50,7 @@ Greg Mathias started Fall Risk Racing, not in 1980 something, but in 2015 or so.
 ## Qualification
 
 No special medical qualification is required for the core descriptive statement. All oral-history claims remain attributed unless independently verified.
+
+---
+
+<p align="center"><a href="../GM-020/README.md">← GM-020</a> &nbsp;·&nbsp; <a href="../../README.md">Visual Shorts Index</a> &nbsp;·&nbsp; <a href="../../../../README.md">Parent Episode 4 Dossier</a> &nbsp;·&nbsp; <a href="../GM-022/README.md">GM-022 →</a></p>

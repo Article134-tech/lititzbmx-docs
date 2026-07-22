@@ -1,4 +1,14 @@
+<p align="center">
+  <a href="../../source/evidence/published-frames-original/2026-07-22_16-19-09.png">
+    <img src="../../source/evidence/published-frames-original/2026-07-22_16-19-09.png" alt="Published frame capture for GM-012A, Search timeline before Harry was found" width="420">
+  </a>
+</p>
+
+<p align="center"><em>Original supplied published-frame capture for GM-012A; preserved byte-for-byte. Select the image to open the full-resolution evidence file.</em></p>
+
 # GM-012A - Search timeline before Harry was found
+
+<p align="center"><a href="../GM-011/README.md">← GM-011</a> &nbsp;·&nbsp; <a href="../../README.md">Visual Shorts Index</a> &nbsp;·&nbsp; <a href="../../../../README.md">Parent Episode 4 Dossier</a> &nbsp;·&nbsp; <a href="../GM-012B/README.md">GM-012B →</a></p>
 
 | Field | Preserved record |
 |---|---|
@@ -40,3 +50,7 @@ Harry Leary’s 20” Daylight BMX was stolen out of his car before his body was
 ## Qualification
 
 Search and death timeline are interview recollections and must remain attributed.
+
+---
+
+<p align="center"><a href="../GM-011/README.md">← GM-011</a> &nbsp;·&nbsp; <a href="../../README.md">Visual Shorts Index</a> &nbsp;·&nbsp; <a href="../../../../README.md">Parent Episode 4 Dossier</a> &nbsp;·&nbsp; <a href="../GM-012B/README.md">GM-012B →</a></p>

@@ -6,7 +6,7 @@
 
 **Repository location:** `Article134-tech/lititzbmx-docs/record-collection/`  
 **Integration method:** Controlled replacement of the existing `record-collection/` folder; no repository restructuring.  
-**Public package:** v1.3.0  
+**Public package:** v1.3.1  
 **Archival standard:** v1.0.1  
 **Compiled:** 2026-07-22  
 **Publisher and curator:** Lititz BMX / Kyle A. Huffman
@@ -24,6 +24,20 @@ The purpose is not merely to save videos. It is to preserve **how each recording
 <td width="33%" valign="top"><a href="collections/unboxing/README.md"><img src="collections/unboxing/assets/category-cover.png" alt="Unboxing visual index" width="100%"></a><br><strong><a href="collections/unboxing/README.md">Unboxing</a></strong><br><strong>9 dossiers</strong><br>Arrival, identification, condition, provenance clues, and first archival response.</td>
 </tr>
 </table>
+
+## Featured visual archive — Greg Mathias / Chasing Harry Episode 4
+
+The Episode 4 dossier now provides direct visual access to all 32 supplied published-frame captures, each linked to its complete archival record.
+
+<table>
+<tr>
+<td width="33%" align="center"><a href="collections/fireside-bmx-chat/records/fbc-004-greg-mathias-chasing-harry-hof/derivatives/shorts/README.md"><img src="collections/fireside-bmx-chat/records/fbc-004-greg-mathias-chasing-harry-hof/derivatives/shorts/source/evidence/published-frames-original/2026-07-22_15-40-37.png" alt="Published frame capture for GM-001, 24-inch Daylight donated to the Hall of Fame" width="100%"></a></td>
+<td width="33%" align="center"><a href="collections/fireside-bmx-chat/records/fbc-004-greg-mathias-chasing-harry-hof/derivatives/shorts/README.md"><img src="collections/fireside-bmx-chat/records/fbc-004-greg-mathias-chasing-harry-hof/derivatives/shorts/source/evidence/published-frames-original/2026-07-22_16-27-20.png" alt="Published frame capture for GM-016, Harry&#x27;s Hall of Fame display case" width="100%"></a></td>
+<td width="33%" align="center"><a href="collections/fireside-bmx-chat/records/fbc-004-greg-mathias-chasing-harry-hof/derivatives/shorts/README.md"><img src="collections/fireside-bmx-chat/records/fbc-004-greg-mathias-chasing-harry-hof/derivatives/shorts/source/evidence/published-frames-original/2026-07-22_17-03-34.png" alt="Published frame capture for GM-032, Hall of Fame track and a few laps" width="100%"></a></td>
+</tr>
+</table>
+
+<p align="center"><strong><a href="collections/fireside-bmx-chat/records/fbc-004-greg-mathias-chasing-harry-hof/derivatives/shorts/README.md">Explore the complete 32-record visual Shorts archive →</a></strong></p>
 
 ## Collection totals
 
@@ -75,6 +89,9 @@ The purpose is not merely to save videos. It is to preserve **how each recording
 - [Archival Standard](ARCHIVAL_STANDARD.md)
 - [Visual Presentation Standard](docs/VISUAL_PRESENTATION_STANDARD.md)
 - [Public/Private Preservation Rules](SECURITY_AND_PRIVACY.md)
+- [v1.3.1 Visual Access Validation](docs/V1.3.1_DEPLOYMENT_VALIDATION.md)
+- [v1.3.1 Visual Access Change Report](docs/V1.3.1_CHANGE_REPORT.md)
+- [v1.3.1 GitHub Visual-Fix Walkthrough](docs/V1.3.1_GITHUB_DEPLOYMENT_WALKTHROUGH.md)
 - [v1.3.0 Deployment Validation](docs/V1.3.0_DEPLOYMENT_VALIDATION.md)
 - [v1.3.0 Change Report](docs/V1.3.0_CHANGE_REPORT.md)
 - [v1.3.0 GitHub Deployment Walkthrough](docs/V1.3.0_GITHUB_DEPLOYMENT_WALKTHROUGH.md)

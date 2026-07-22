@@ -1,4 +1,14 @@
+<p align="center">
+  <a href="../../source/evidence/published-frames-original/2026-07-22_16-00-38.png">
+    <img src="../../source/evidence/published-frames-original/2026-07-22_16-00-38.png" alt="Published frame capture for GM-004, Last HLT 4 Daylight run-over story" width="420">
+  </a>
+</p>
+
+<p align="center"><em>Original supplied published-frame capture for GM-004; preserved byte-for-byte. Select the image to open the full-resolution evidence file.</em></p>
+
 # GM-004 - Last HLT 4 Daylight run-over story
+
+<p align="center"><a href="../GM-003/README.md">← GM-003</a> &nbsp;·&nbsp; <a href="../../README.md">Visual Shorts Index</a> &nbsp;·&nbsp; <a href="../../../../README.md">Parent Episode 4 Dossier</a> &nbsp;·&nbsp; <a href="../GM-005/README.md">GM-005 →</a></p>
 
 | Field | Preserved record |
 |---|---|
@@ -40,3 +50,7 @@ The story of Harry Leary’s 20” Daylight bike… The last HL Turbo 4 - Gettin
 ## Qualification
 
 No special medical qualification is required for the core descriptive statement. All oral-history claims remain attributed unless independently verified.
+
+---
+
+<p align="center"><a href="../GM-003/README.md">← GM-003</a> &nbsp;·&nbsp; <a href="../../README.md">Visual Shorts Index</a> &nbsp;·&nbsp; <a href="../../../../README.md">Parent Episode 4 Dossier</a> &nbsp;·&nbsp; <a href="../GM-005/README.md">GM-005 →</a></p>

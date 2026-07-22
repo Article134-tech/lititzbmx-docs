@@ -1,4 +1,14 @@
+<p align="center">
+  <a href="../../source/evidence/published-frames-original/2026-07-22_16-27-20.png">
+    <img src="../../source/evidence/published-frames-original/2026-07-22_16-27-20.png" alt="Published frame capture for GM-016, Harry&#x27;s Hall of Fame display case" width="420">
+  </a>
+</p>
+
+<p align="center"><em>Original supplied published-frame capture for GM-016; preserved byte-for-byte. Select the image to open the full-resolution evidence file.</em></p>
+
 # GM-016 - Harry's Hall of Fame display case
+
+<p align="center"><a href="../GM-015/README.md">← GM-015</a> &nbsp;·&nbsp; <a href="../../README.md">Visual Shorts Index</a> &nbsp;·&nbsp; <a href="../../../../README.md">Parent Episode 4 Dossier</a> &nbsp;·&nbsp; <a href="../GM-017/README.md">GM-017 →</a></p>
 
 | Field | Preserved record |
 |---|---|
@@ -40,3 +50,7 @@ Greg Mathias and Kyle A. Huffman found Harry Leary’s display case at the Natio
 ## Qualification
 
 No special medical qualification is required for the core descriptive statement. All oral-history claims remain attributed unless independently verified.
+
+---
+
+<p align="center"><a href="../GM-015/README.md">← GM-015</a> &nbsp;·&nbsp; <a href="../../README.md">Visual Shorts Index</a> &nbsp;·&nbsp; <a href="../../../../README.md">Parent Episode 4 Dossier</a> &nbsp;·&nbsp; <a href="../GM-017/README.md">GM-017 →</a></p>

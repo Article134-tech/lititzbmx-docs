@@ -1,4 +1,14 @@
+<p align="center">
+  <a href="../../source/evidence/published-frames-original/2026-07-22_17-03-34.png">
+    <img src="../../source/evidence/published-frames-original/2026-07-22_17-03-34.png" alt="Published frame capture for GM-032, Hall of Fame track and a few laps" width="420">
+  </a>
+</p>
+
+<p align="center"><em>Original supplied published-frame capture for GM-032; preserved byte-for-byte. Select the image to open the full-resolution evidence file.</em></p>
+
 # GM-032 - Hall of Fame track and a few laps
+
+<p align="center"><a href="../GM-031/README.md">← GM-031</a> &nbsp;·&nbsp; <a href="../../README.md">Visual Shorts Index</a> &nbsp;·&nbsp; <a href="../../../../README.md">Parent Episode 4 Dossier</a></p>
 
 | Field | Preserved record |
 |---|---|
@@ -40,3 +50,7 @@ The National BMX Hall of Fame (HoF) has a track attached to the museum. Go take 
 ## Qualification
 
 No special medical qualification is required for the core descriptive statement. All oral-history claims remain attributed unless independently verified.
+
+---
+
+<p align="center"><a href="../GM-031/README.md">← GM-031</a> &nbsp;·&nbsp; <a href="../../README.md">Visual Shorts Index</a> &nbsp;·&nbsp; <a href="../../../../README.md">Parent Episode 4 Dossier</a></p>

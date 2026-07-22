@@ -1,4 +1,14 @@
+<p align="center">
+  <a href="../../source/evidence/published-frames-original/2026-07-22_16-50-44.png">
+    <img src="../../source/evidence/published-frames-original/2026-07-22_16-50-44.png" alt="Published frame capture for GM-026, Helpful to everybody, even kids" width="420">
+  </a>
+</p>
+
+<p align="center"><em>Original supplied published-frame capture for GM-026; preserved byte-for-byte. Select the image to open the full-resolution evidence file.</em></p>
+
 # GM-026 - Helpful to everybody, even kids
+
+<p align="center"><a href="../GM-025/README.md">← GM-025</a> &nbsp;·&nbsp; <a href="../../README.md">Visual Shorts Index</a> &nbsp;·&nbsp; <a href="../../../../README.md">Parent Episode 4 Dossier</a> &nbsp;·&nbsp; <a href="../GM-027/README.md">GM-027 →</a></p>
 
 | Field | Preserved record |
 |---|---|
@@ -40,3 +50,7 @@ Harry Leary was always helpful to everyone, even kids. He was also an avid mento
 ## Qualification
 
 No special medical qualification is required for the core descriptive statement. All oral-history claims remain attributed unless independently verified.
+
+---
+
+<p align="center"><a href="../GM-025/README.md">← GM-025</a> &nbsp;·&nbsp; <a href="../../README.md">Visual Shorts Index</a> &nbsp;·&nbsp; <a href="../../../../README.md">Parent Episode 4 Dossier</a> &nbsp;·&nbsp; <a href="../GM-027/README.md">GM-027 →</a></p>

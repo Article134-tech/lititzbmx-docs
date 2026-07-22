@@ -1,4 +1,14 @@
+<p align="center">
+  <a href="../../source/evidence/published-frames-original/2026-07-22_16-13-16.png">
+    <img src="../../source/evidence/published-frames-original/2026-07-22_16-13-16.png" alt="Published frame capture for GM-008, Greg did not know Harry&#x27;s prior life" width="420">
+  </a>
+</p>
+
+<p align="center"><em>Original supplied published-frame capture for GM-008; preserved byte-for-byte. Select the image to open the full-resolution evidence file.</em></p>
+
 # GM-008 - Greg did not know Harry's prior life
+
+<p align="center"><a href="../GM-007/README.md">← GM-007</a> &nbsp;·&nbsp; <a href="../../README.md">Visual Shorts Index</a> &nbsp;·&nbsp; <a href="../../../../README.md">Parent Episode 4 Dossier</a> &nbsp;·&nbsp; <a href="../GM-009/README.md">GM-009 →</a></p>
 
 | Field | Preserved record |
 |---|---|
@@ -40,3 +50,7 @@ Greg Mathias did not know anything about Harry Leary’s “prior” life other 
 ## Qualification
 
 No special medical qualification is required for the core descriptive statement. All oral-history claims remain attributed unless independently verified.
+
+---
+
+<p align="center"><a href="../GM-007/README.md">← GM-007</a> &nbsp;·&nbsp; <a href="../../README.md">Visual Shorts Index</a> &nbsp;·&nbsp; <a href="../../../../README.md">Parent Episode 4 Dossier</a> &nbsp;·&nbsp; <a href="../GM-009/README.md">GM-009 →</a></p>

@@ -1,4 +1,14 @@
+<p align="center">
+  <a href="../../source/evidence/published-frames-original/2026-07-22_16-22-57.png">
+    <img src="../../source/evidence/published-frames-original/2026-07-22_16-22-57.png" alt="Published frame capture for GM-013, Six-month stolen-bike recovery with Rob Porter" width="420">
+  </a>
+</p>
+
+<p align="center"><em>Original supplied published-frame capture for GM-013; preserved byte-for-byte. Select the image to open the full-resolution evidence file.</em></p>
+
 # GM-013 - Six-month stolen-bike recovery with Rob Porter
+
+<p align="center"><a href="../GM-012B/README.md">← GM-012B</a> &nbsp;·&nbsp; <a href="../../README.md">Visual Shorts Index</a> &nbsp;·&nbsp; <a href="../../../../README.md">Parent Episode 4 Dossier</a> &nbsp;·&nbsp; <a href="../GM-014/README.md">GM-014 →</a></p>
 
 | Field | Preserved record |
 |---|---|
@@ -40,3 +50,7 @@ It took about 6 months to get the Harry Leary’s stolen loaner Daylight BMX bac
 ## Qualification
 
 The theft, jurisdiction, recovery, and later use of the bicycle are interview recollections unless separately verified.
+
+---
+
+<p align="center"><a href="../GM-012B/README.md">← GM-012B</a> &nbsp;·&nbsp; <a href="../../README.md">Visual Shorts Index</a> &nbsp;·&nbsp; <a href="../../../../README.md">Parent Episode 4 Dossier</a> &nbsp;·&nbsp; <a href="../GM-014/README.md">GM-014 →</a></p>

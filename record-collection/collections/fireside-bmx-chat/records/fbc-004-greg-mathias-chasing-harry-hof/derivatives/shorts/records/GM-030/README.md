@@ -1,4 +1,14 @@
+<p align="center">
+  <a href="../../source/evidence/published-frames-original/2026-07-22_16-59-30.png">
+    <img src="../../source/evidence/published-frames-original/2026-07-22_16-59-30.png" alt="Published frame capture for GM-030, One word to describe Harry; public title leaves answer blank" width="420">
+  </a>
+</p>
+
+<p align="center"><em>Original supplied published-frame capture for GM-030; preserved byte-for-byte. Select the image to open the full-resolution evidence file.</em></p>
+
 # GM-030 - One word to describe Harry; public title leaves answer blank
+
+<p align="center"><a href="../GM-029/README.md">← GM-029</a> &nbsp;·&nbsp; <a href="../../README.md">Visual Shorts Index</a> &nbsp;·&nbsp; <a href="../../../../README.md">Parent Episode 4 Dossier</a> &nbsp;·&nbsp; <a href="../GM-031/README.md">GM-031 →</a></p>
 
 | Field | Preserved record |
 |---|---|
@@ -40,3 +50,7 @@ The title above is a transcription of the title visible in the supplied YouTube 
 ## Qualification
 
 No special medical qualification is required for the core descriptive statement. All oral-history claims remain attributed unless independently verified.
+
+---
+
+<p align="center"><a href="../GM-029/README.md">← GM-029</a> &nbsp;·&nbsp; <a href="../../README.md">Visual Shorts Index</a> &nbsp;·&nbsp; <a href="../../../../README.md">Parent Episode 4 Dossier</a> &nbsp;·&nbsp; <a href="../GM-031/README.md">GM-031 →</a></p>

@@ -1,4 +1,14 @@
+<p align="center">
+  <a href="../../source/evidence/published-frames-original/2026-07-22_15-52-45.png">
+    <img src="../../source/evidence/published-frames-original/2026-07-22_15-52-45.png" alt="Published frame capture for GM-002, Harry Leary bobblehead and miniature HLT" width="420">
+  </a>
+</p>
+
+<p align="center"><em>Original supplied published-frame capture for GM-002; preserved byte-for-byte. Select the image to open the full-resolution evidence file.</em></p>
+
 # GM-002 - Harry Leary bobblehead and miniature HLT
+
+<p align="center"><a href="../GM-001/README.md">← GM-001</a> &nbsp;·&nbsp; <a href="../../README.md">Visual Shorts Index</a> &nbsp;·&nbsp; <a href="../../../../README.md">Parent Episode 4 Dossier</a> &nbsp;·&nbsp; <a href="../GM-003/README.md">GM-003 →</a></p>
 
 | Field | Preserved record |
 |---|---|
@@ -40,3 +50,7 @@ A Harry Leary Bobblehead figure was also donated to the National BMX Hall of Fam
 ## Qualification
 
 No special medical qualification is required for the core descriptive statement. All oral-history claims remain attributed unless independently verified.
+
+---
+
+<p align="center"><a href="../GM-001/README.md">← GM-001</a> &nbsp;·&nbsp; <a href="../../README.md">Visual Shorts Index</a> &nbsp;·&nbsp; <a href="../../../../README.md">Parent Episode 4 Dossier</a> &nbsp;·&nbsp; <a href="../GM-003/README.md">GM-003 →</a></p>
