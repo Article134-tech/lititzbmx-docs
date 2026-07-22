@@ -29,11 +29,11 @@ The supplied YouTube screenshot documents the upload while it was **unlisted** a
 
 | Public record | Context and provenance | Transcript and access |
 |---|---|---|
-| [Interview Record](interview-record.md) | [Dossier Contents](docs/dossier-contents.md) | [Transcript Status](docs/transcript-status.md) |
-| [Published Description Snapshot](source/published-description.md) | [Provenance](docs/provenance.md) | [Sequence Index](docs/chapter-index.md) |
-| [YouTube / Source Record](source/youtube-record.md) | [Curator Notes](docs/curator-notes.md) | [Topic Index](docs/topic-index.md) |
-| [Metadata](metadata.json) | [Source Inventory](docs/source-inventory.md) | [Rights and Access](docs/rights-and-access.md) |
-| [Citation Record](CITATION.cff) | [Verification Notes](docs/verification-notes.md) | [Revision History](docs/revision-history.md) |
+| [Interview Record](interview-record.md) | [Dossier Contents](docs/dossier-contents.md) | [Open Working Transcript](transcript/working-transcript.md) |
+| [Published Description Snapshot](source/published-description.md) | [Provenance](docs/provenance.md) | [Open Corrected Machine Transcript](transcript/corrected-machine-transcript.md) |
+| [YouTube / Source Record](source/youtube-record.md) | [Curator Notes](docs/curator-notes.md) | [Transcript Status](docs/transcript-status.md) |
+| [Metadata](metadata.json) | [Source Inventory](docs/source-inventory.md) | [Sequence Index](docs/chapter-index.md) · [Topic Index](docs/topic-index.md) |
+| [Citation Record](CITATION.cff) | [Verification Notes](docs/verification-notes.md) | [Rights and Access](docs/rights-and-access.md) · [Revision History](docs/revision-history.md) |
 
 ## Related records
 
