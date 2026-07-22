@@ -1,0 +1,24 @@
+# Published Description Record - GM-007
+
+**Visible published title:** 7. Greg Mathias and Harry Leary trained together until Greg last saw Harry at practice on Wednesday
+
+**Working-source title:** Fireside BMX Chat w/ Greg Mathias - He Last Saw Harry Leary at Practice at Black Mountain BMX
+
+## Supplied description
+
+Greg Mathias last saw Harry Leary at practice at Black Mountain BMX - a Wednesday night. Greg couldn’t get a hold of Harry for a couple of days. Then, Harry’s sister and Mom started to question Greg.
+
+**Description source:** working-source PDF.
+
+## Supplied URLs
+
+- Parent full-length recording: https://youtu.be/EUTzVetaoLc?feature=shared
+- Apple Podcasts: https://podcasts.apple.com/us/podcast/fireside-bmx-chat-a-fireside-chat-with-about-bmx/id1848602330
+- Spotify: https://open.spotify.com/show/50iXYKiNPlsvM47ZPZL1Fi?si=32d2476edc7b45c0
+- iHeartRadio: https://www.iheart.com/podcast/269-fireside-bmx-chat-a-firesi-302694528
+
+## Supplied hashtags
+
+#firesidebmxchat #bmxlife #bmxstreet #bmxracing #bmxisfun #70sbmx #80sbmx #90sbmx #00sbmx #bmxmuseum #bmxhistory #newmuseum #podcast #podcastclips
+
+**Direct Short URL/video ID:** Not visible in the supplied files and therefore not invented.

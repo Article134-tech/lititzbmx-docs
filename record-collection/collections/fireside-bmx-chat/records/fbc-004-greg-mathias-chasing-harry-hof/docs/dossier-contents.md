@@ -32,3 +32,7 @@ See `source/pre-production/` and `source/publication/`. Their presence varies ac
 - `docs/source-inventory.md`
 - `docs/rights-and-access.md`
 - `docs/revision-history.md`
+
+## Completed derivative publication layer
+
+`derivatives/shorts/` contains 32 visible publication records, one documented missing-number record, source evidence, titles/descriptions/URLs, status/date evidence, transcript references, provenance, qualifications, manifests, fixity, and deployment instructions.

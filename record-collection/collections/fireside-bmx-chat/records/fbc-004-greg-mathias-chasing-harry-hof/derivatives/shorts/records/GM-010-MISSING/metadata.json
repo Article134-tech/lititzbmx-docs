@@ -1,0 +1,18 @@
+{
+  "record_id": "GM-010",
+  "parent_record_id": "fbc-004-greg-mathias-chasing-harry-hof",
+  "source_number": 10,
+  "status": "missing/not supplied",
+  "published_frame": null,
+  "title": null,
+  "description": null,
+  "direct_short_url": null,
+  "publication_date": null,
+  "visibility": null,
+  "evidence": [
+    "Studio evidence jumps from 9 to 11.",
+    "The working-source PDF contains no numbered 10 entry.",
+    "The supplied capture set contains 32 visible records only because number 12 appears twice."
+  ],
+  "compiled_date": "2026-07-22"
+}

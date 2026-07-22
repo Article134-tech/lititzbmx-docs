@@ -6,9 +6,9 @@
 
 **Repository location:** `Article134-tech/lititzbmx-docs/record-collection/`  
 **Integration method:** Controlled replacement of the existing `record-collection/` folder; no repository restructuring.  
-**Public package:** v1.2.0  
+**Public package:** v1.3.0  
 **Archival standard:** v1.0.1  
-**Compiled:** 2026-07-21  
+**Compiled:** 2026-07-22  
 **Publisher and curator:** Lititz BMX / Kyle A. Huffman
 
 The **Lititz BMX Record Collection** preserves the historical footprint surrounding original Lititz BMX media: the recording, descriptive record, transcript layers, planning documents, publication materials, derivative clips, verification notes, and preservation history.
@@ -75,6 +75,10 @@ The purpose is not merely to save videos. It is to preserve **how each recording
 - [Archival Standard](ARCHIVAL_STANDARD.md)
 - [Visual Presentation Standard](docs/VISUAL_PRESENTATION_STANDARD.md)
 - [Public/Private Preservation Rules](SECURITY_AND_PRIVACY.md)
+- [v1.3.0 Deployment Validation](docs/V1.3.0_DEPLOYMENT_VALIDATION.md)
+- [v1.3.0 Change Report](docs/V1.3.0_CHANGE_REPORT.md)
+- [v1.3.0 GitHub Deployment Walkthrough](docs/V1.3.0_GITHUB_DEPLOYMENT_WALKTHROUGH.md)
+- [Greg Mathias Episode 4 Shorts Register](collections/fireside-bmx-chat/records/fbc-004-greg-mathias-chasing-harry-hof/derivatives/shorts/README.md)
 - [v1.2.0 Deployment Validation](docs/V1.2.0_DEPLOYMENT_VALIDATION.md)
 - [v1.2.0 Change Report](docs/V1.2.0_CHANGE_REPORT.md)
 - [v1.2.0 GitHub Deployment Walkthrough](docs/V1.2.0_GITHUB_DEPLOYMENT_WALKTHROUGH.md)

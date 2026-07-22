@@ -47,15 +47,38 @@
   ],
   "transcript_status": "raw machine transcript captured; timestamp-normalized working transcript created; speaker and fidelity verification pending",
   "preservation_status": [
-    "source-captured",
+    "derivative-publication-record-complete",
     "dossier-compiled",
+    "published-frame-fixity-complete",
+    "source-captured",
     "transcript-verification-pending"
   ],
   "rights": "All rights reserved unless separately documented.",
-  "compiled_date": "2026-07-20",
+  "compiled_date": "2026-07-22",
   "notes": [
     "The public title identifies this as Chasing Harry Episode 4. One supporting filename calls it “Greg Mathias Episode 1 - The Hall of Fame”; the discrepancy is preserved and not silently resolved.",
     "The transcript contains speaker-name and proper-name errors common to machine transcription, including Mathias, Leary, Rupe, and place names.",
-    "Statements about CTE, timing of death, theft, and recovery are preserved as Greg Mathias’s testimony unless independently documented elsewhere."
-  ]
+    "Statements about CTE, timing of death, theft, and recovery are preserved as Greg Mathias’s testimony unless independently documented elsewhere.",
+    "A controlled derivative register preserves 32 supplied published-frame captures, documents GM-010 as missing, and preserves two distinct records numbered 12 as GM-012A and GM-012B.",
+    "GM-012A was Private/Uploaded in the supplied Studio evidence; GM-012B was Public/Published. Direct Short URLs and video IDs were not visible and are not invented."
+  ],
+  "derivative_publication_records": {
+    "path": "derivatives/shorts/README.md",
+    "visible_record_count": 32,
+    "missing_record_ids": [
+      "GM-010"
+    ],
+    "duplicate_published_numbers": {
+      "12": [
+        "GM-012A",
+        "GM-012B"
+      ]
+    },
+    "publication_date_range": [
+      "2025-11-10",
+      "2025-11-14"
+    ],
+    "direct_short_urls_status": "not supplied; not invented",
+    "standalone_short_transcripts_status": "not supplied; provisional parent-transcript windows documented"
+  }
 }

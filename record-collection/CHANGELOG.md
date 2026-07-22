@@ -1,5 +1,14 @@
 # Changelog
 
+## v1.3.0 - 2026-07-22
+
+- Completed the Greg Mathias / *Chasing Harry* Episode 4 Shorts publication-evidence layer inside the existing parent dossier.
+- Preserved all 32 supplied published-frame captures and nine Studio/channel evidence captures byte-for-byte.
+- Documented GM-010 as missing and preserved the two distinct number 12 records as GM-012A and GM-012B.
+- Added supplied titles, descriptions, platform URLs, publication dates, visibility/publication states, parent-transcript references, working-source PDF, press release, provenance, medical/sensitive-claim qualifications, known gaps, manifests, and fixity.
+- Confirmed that the separately supplied parent transcript, working-source PDF, and press release are hash-identical to the copies already present in the corrected v1.2.0 base.
+- Added v1.3.0 validation and controlled GitHub replacement instructions without changing dossier/category counts.
+
 ## v1.2.0 — 2026-07-21
 
 - Added Pump Track Chat #2 with Brandon Hetrick as the 22nd compiled dossier.

@@ -12,3 +12,12 @@
 - mark unclear words rather than guessing;
 - compare the final verified transcript with the raw source;
 - add external research only in a separate research layer.
+
+## Shorts publication evidence
+
+- Thirty-two supplied frame captures are preserved and hashed.
+- Studio evidence shows no number 10 and two distinct number 12 records.
+- GM-012A is Private/Uploaded in the supplied capture; GM-012B is Public/Published.
+- Direct Short URLs and video IDs are absent from the supplied files and remain null.
+- Individual Short transcript files were not supplied; only provisional parent-transcript windows are documented.
+- CTE, death, injury, theft, and recovery statements remain attributed oral-history/publication claims.

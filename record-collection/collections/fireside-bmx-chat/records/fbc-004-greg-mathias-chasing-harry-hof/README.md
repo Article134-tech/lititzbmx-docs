@@ -51,3 +51,7 @@ The original recording is the primary source. The raw transcript is preserved un
 - visual access layer completed;
 - machine transcript preserved;
 - full audio verification pending.
+
+## Shorts publication record
+
+The complete supplied publication-evidence set for this episode is preserved in the [Greg Mathias Episode 4 Shorts register](derivatives/shorts/README.md). It contains 32 published-frame captures, the separate GM-012A/GM-012B records, a documented GM-010 gap, supplied titles/descriptions/URLs, Studio dates and visibility evidence, transcript references, provenance, qualifications, manifests, fixity, and deployment instructions.

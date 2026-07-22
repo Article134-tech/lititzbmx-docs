@@ -59,3 +59,9 @@ A raw timestamped machine transcript and timestamp-normalized working copy are p
 ## Curator classification
 
 On-location interview and collection encounter conducted inside the National BMX Hall of Fame.
+
+## Derivative publication record - completed 2026-07-22
+
+A controlled Shorts register preserves 32 supplied visible records. Source numbering omits 10 and contains two distinct records numbered 12, preserved as GM-012A and GM-012B. The derivative layer records titles, working descriptions, platform URLs, dates, visibility/publication states, frame evidence, provisional parent-transcript windows, rights, qualifications, gaps, manifests, and fixity. Direct Short URLs/video IDs were not supplied.
+
+See [derivatives/shorts/README.md](derivatives/shorts/README.md).
