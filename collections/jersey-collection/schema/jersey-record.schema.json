@@ -1,0 +1,105 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/Article134-tech/lititzbmx-docs/collections/jersey-collection/schema/jersey-record.schema.json",
+  "title": "Lititz BMX Jersey Record",
+  "type": "object",
+  "required": [
+    "record_type",
+    "record_id",
+    "title",
+    "slug",
+    "wall_status",
+    "provenance_label",
+    "description",
+    "associated_people",
+    "teams_brands_organizations",
+    "wall_card_image",
+    "live_collection_url",
+    "notes"
+  ],
+  "properties": {
+    "record_type": {
+      "enum": [
+        "accessioned_jersey",
+        "continued_journey"
+      ]
+    },
+    "record_id": {
+      "type": "string"
+    },
+    "accession_id": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "title": {
+      "type": "string"
+    },
+    "slug": {
+      "type": "string"
+    },
+    "wall_status": {
+      "enum": [
+        "current_holding",
+        "no_longer_held"
+      ]
+    },
+    "provenance_label": {
+      "type": "string"
+    },
+    "disposition": {
+      "type": "string"
+    },
+    "inventory_item_name": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "inventory_source": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "description": {
+      "type": "string"
+    },
+    "additional_context": {
+      "type": "string"
+    },
+    "associated_people": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "teams_brands_organizations": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "source_social_image": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "wall_card_image": {
+      "type": "string"
+    },
+    "live_collection_url": {
+      "type": "string",
+      "format": "uri"
+    },
+    "notes": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    }
+  },
+  "additionalProperties": true
+}

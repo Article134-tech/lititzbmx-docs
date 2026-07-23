@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this collection, please cite it using the metadata below."
+title: "The Lititz BMX Jersey Collection: The Digital Jersey Wall"
+version: 1.0.0
+date-released: 2026-07-23
+authors:
+  - family-names: Huffman
+    given-names: Kyle A.
+    affiliation: Lititz BMX
+repository-code: "https://github.com/Article134-tech/lititzbmx-docs"
+url: "https://sites.google.com/view/lititzbmxinventorylist/collections/jersey-collection"
+license: "All rights reserved"

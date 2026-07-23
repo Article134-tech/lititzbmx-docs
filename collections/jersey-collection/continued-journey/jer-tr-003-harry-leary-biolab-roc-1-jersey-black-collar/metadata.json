@@ -1,0 +1,24 @@
+{
+  "record_type": "continued_journey",
+  "record_id": "JER-TR-003",
+  "accession_id": null,
+  "title": "Harry Leary BIOLAB ROC 1 Jersey — Black Collar",
+  "slug": "jer-tr-003-harry-leary-biolab-roc-1-jersey-black-collar",
+  "wall_status": "no_longer_held",
+  "provenance_label": "From the Leary Locker",
+  "disposition": "Gifted to teammate Greg Mathias",
+  "description": "This jersey remains part of the Lititz BMX documentary record, but it is not represented as a current physical holding. Its preserved disposition is: Gifted to teammate Greg Mathias.",
+  "associated_people": [
+    "Harry Leary",
+    "Greg Mathias"
+  ],
+  "teams_brands_organizations": [
+    "BIOLAB Sciences",
+    "Race of Champions"
+  ],
+  "wall_card_image": "assets/wall-cards/jer-tr-003.png",
+  "live_collection_url": "https://sites.google.com/view/lititzbmxinventorylist/collections/jersey-collection",
+  "notes": [
+    "Preserved as a transfer, gift, return, or charitable-disposition record; not presented as a current Lititz BMX holding."
+  ]
+}

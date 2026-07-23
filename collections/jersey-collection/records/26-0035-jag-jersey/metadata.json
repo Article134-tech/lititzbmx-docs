@@ -1,0 +1,24 @@
+{
+  "record_type": "accessioned_jersey",
+  "record_id": "26.0035",
+  "accession_id": "26.0035",
+  "title": "JAG Jersey",
+  "slug": "26-0035-jag-jersey",
+  "wall_status": "current_holding",
+  "provenance_label": "Purchased from the BMX Museum",
+  "inventory_item_name": "JAG Kit with Oakley Factory Pilot Decal",
+  "inventory_source": "Online",
+  "description": "The live Jersey Collection identifies this accession as a JAG jersey purchased from the BMX Museum. The current inventory CSV assigns 26.0035 to a JAG kit with an Oakley Factory Pilot decal. This public wall record follows the current Jersey Collection display while preserving the metadata conflict for resolution.",
+  "additional_context": "See docs/KNOWN-DISCREPANCIES.md. No silent reconciliation has been made.",
+  "associated_people": [],
+  "teams_brands_organizations": [
+    "JAG BMX",
+    "BMX Museum"
+  ],
+  "source_social_image": null,
+  "wall_card_image": "assets/wall-cards/26-0035.png",
+  "live_collection_url": "https://sites.google.com/view/lititzbmxinventorylist/collections/jersey-collection",
+  "notes": [
+    "Inventory metadata conflict: public Jersey Collection and current CSV describe different objects under 26.0035."
+  ]
+}
