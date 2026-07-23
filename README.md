@@ -56,6 +56,7 @@ Official Lititz BMX logo files, technical specifications, verification imagery, 
 Interactive educational resources combining BMX history, puzzles, profiles, images, and documented source material.
 
 - [Open the Learning Resources library](learning-resources/)
+- [Explore Lititz BMX Profiles — 10 rider profiles, four brand/publication profiles and 150 track entries](learning-resources/profiles/)
 - [Explore the Interactive BMX Word Search](learning-resources/word-search/)
 - [Explore the BMX History Quiz Series](learning-resources/quizzes/)
 
