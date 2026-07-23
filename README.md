@@ -64,6 +64,7 @@ Interactive educational resources combining BMX history, puzzles, profiles, imag
 Long-form preservation, restoration, educational, and storytelling campaigns produced by Lititz BMX.
 
 - [Open the Campaigns library](campaigns/)
+- [Explore the complete #myHuffyBMXBuild ten-chapter digital book archive](campaigns/my-huffy-bmx-build/)
 - [Explore the complete #RebuildRadicalRick campaign archive](campaigns/rebuild-radical-rick/)
 - [Explore the complete #OperationDIRTWERX — The Story campaign archive](campaigns/operation-dirtwerx/)
 
