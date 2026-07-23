@@ -1,0 +1,78 @@
+{
+  "schema_version": "1.0",
+  "record_type": "track_profile_source_page",
+  "record_id": "TRACK-PAGE-08",
+  "page_number": 8,
+  "status": "source_complete",
+  "source_url": "https://sites.google.com/view/lititzbmxinventorylist/learning-resources/profiles/track-profiles/p8-track-profiles",
+  "expected_entries": 15,
+  "transcribed_entries": 15,
+  "source_captures": [
+    "source/top.png",
+    "source/bottom.png"
+  ],
+  "entries": [
+    {
+      "sequence": 1,
+      "published_label": "Blanchard Woods BMX - Evans, GA"
+    },
+    {
+      "sequence": 2,
+      "published_label": "Huncote Leisure Centre BMX Track - England, United Kingdom"
+    },
+    {
+      "sequence": 3,
+      "published_label": "Nanaimo BMX Park - BC, Canada"
+    },
+    {
+      "sequence": 4,
+      "published_label": "Wakefield BMX - MA"
+    },
+    {
+      "sequence": 5,
+      "published_label": "Koonawarra BMX track - Victoria, Australia"
+    },
+    {
+      "sequence": 6,
+      "published_label": "Corvallis BMX Track - OR"
+    },
+    {
+      "sequence": 7,
+      "published_label": "Southwest Wyoming BMX - Green River, Wyoming"
+    },
+    {
+      "sequence": 8,
+      "published_label": "The Pueblo Motorsports Park - CO"
+    },
+    {
+      "sequence": 9,
+      "published_label": "Simpson Lane Dirt Jumps - Marysville, CA"
+    },
+    {
+      "sequence": 10,
+      "published_label": "Woodland BMX - West Greenwich, RI"
+    },
+    {
+      "sequence": 11,
+      "published_label": "Great West Adventure BMX Park - Red Deer, Alberta, Canada"
+    },
+    {
+      "sequence": 12,
+      "published_label": "Atwater P.A.L. BMX Track - CA"
+    },
+    {
+      "sequence": 13,
+      "published_label": "Mountaineer Bike Yard - Morgantown, WV"
+    },
+    {
+      "sequence": 14,
+      "published_label": "Main 8 Dirt Waves BMX Park - El Dorado, KS"
+    },
+    {
+      "sequence": 15,
+      "published_label": "The Hill Climbs - Alta Loma, CA"
+    }
+  ],
+  "prepared": "2026-07-23",
+  "version": "1.0.0"
+}

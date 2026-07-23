@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "record_type": "rider_profile",
+  "record_id": "RIDER-008",
+  "slug": "tommy-brackens",
+  "title": "Tommy Brackens",
+  "status": "source_complete",
+  "source_url": "https://sites.google.com/view/lititzbmxinventorylist/learning-resources/profiles/rider-profiles/tommy-brackens-rider-profiles",
+  "source_capture": "source/page.png",
+  "published_text": "source/PUBLISHED-TEXT.md",
+  "summary": "Published profile of Tommy “The Human Dragster” Brackens, covering his motocross-to-BMX transition, professional career, NORA Cup and Brackens Racing Products.",
+  "facts": [
+    {
+      "label": "Born",
+      "value": "20 November, 1960 — Los Angeles, CA"
+    },
+    {
+      "label": "Nickname",
+      "value": "The Human Dragster"
+    },
+    {
+      "label": "Turned professional",
+      "value": "December 1980, age 20"
+    },
+    {
+      "label": "Retired",
+      "value": "1990"
+    }
+  ],
+  "qualification_notes": [
+    "The source lists Powerlite Racing under 1991 despite also stating retirement in 1990; both are preserved as published without silent correction.",
+    "The source’s opening character summary is explicitly marked as Copilot-generated and is not treated as archive verification."
+  ],
+  "prepared": "2026-07-23",
+  "version": "1.0.0"
+}

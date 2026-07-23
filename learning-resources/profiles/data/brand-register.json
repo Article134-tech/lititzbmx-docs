@@ -1,0 +1,42 @@
+[
+  {
+    "record_id": "BRAND-001",
+    "name": "Reynolds Racing",
+    "slug": "reynolds-racing",
+    "source_url": "https://sites.google.com/view/lititzbmxinventorylist/learning-resources/profiles/brand-profiles/reynold-racing-brand-profiles",
+    "status": "source_complete",
+    "capture_path": "brands/reynolds-racing/source/page.png",
+    "text_path": "brands/reynolds-racing/source/PUBLISHED-TEXT.md",
+    "notes": "The live Google Sites slug uses “reynold-racing”; the published title and record name use “Reynolds Racing.” | Craig Reynolds’ first-person account is preserved as attributed source testimony."
+  },
+  {
+    "record_id": "BRAND-002",
+    "name": "Auburn BMX",
+    "slug": "auburn-bmx",
+    "source_url": "https://sites.google.com/view/lititzbmxinventorylist/learning-resources/profiles/brand-profiles/auburn-bmx-brand-profiles",
+    "status": "source_complete",
+    "capture_path": "brands/auburn-bmx/source/page.png",
+    "text_path": "brands/auburn-bmx/source/PUBLISHED-TEXT.md",
+    "notes": "Uncertain measurements, model-year interpretations and relaunch controversy are preserved as source-qualified observations rather than resolved facts. | The Lititz BMX holdings paragraph is a collection-status statement and remains separate from the brand-history record."
+  },
+  {
+    "record_id": "BRAND-003",
+    "name": "Torker BMX",
+    "slug": "torker-bmx",
+    "source_url": "https://sites.google.com/view/lititzbmxinventorylist/learning-resources/profiles/brand-profiles/torker-bmx-brand-profiles",
+    "status": "source_complete",
+    "capture_path": "brands/torker-bmx/source/page.png",
+    "text_path": "brands/torker-bmx/source/PUBLISHED-TEXT.md",
+    "notes": "The quoted overview credited to Copilot is retained as AI-supplied source commentary, not independent verification. | Later ownership and relaunch statements are preserved as time-bound published source content."
+  },
+  {
+    "record_id": "BRAND-004",
+    "name": "Bicycles & Dirt Magazine",
+    "slug": "bicycles-and-dirt-magazine",
+    "source_url": "https://sites.google.com/view/lititzbmxinventorylist/learning-resources/profiles/brand-profiles/bicycles-and-dirt-magazine-brand-profiles",
+    "status": "source_complete",
+    "capture_path": "brands/bicycles-and-dirt-magazine/source/page.png",
+    "text_path": "brands/bicycles-and-dirt-magazine/source/PUBLISHED-TEXT.md",
+    "notes": "This is an independent publication/brand record. It is not merged with Debbi Kalsow’s rider profile. | The supplied cover creates a visual/content-appearance link because Debbi Kalsow appears on the cover; that relationship does not establish shared catalog identity, provenance or ownership."
+  }
+]

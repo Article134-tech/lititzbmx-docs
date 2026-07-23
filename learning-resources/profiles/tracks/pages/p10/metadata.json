@@ -1,0 +1,78 @@
+{
+  "schema_version": "1.0",
+  "record_type": "track_profile_source_page",
+  "record_id": "TRACK-PAGE-10",
+  "page_number": 10,
+  "status": "source_complete",
+  "source_url": "https://sites.google.com/view/lititzbmxinventorylist/learning-resources/profiles/track-profiles/p10-track-profiles",
+  "expected_entries": 15,
+  "transcribed_entries": 15,
+  "source_captures": [
+    "source/top.png",
+    "source/bottom.png"
+  ],
+  "entries": [
+    {
+      "sequence": 1,
+      "published_label": "BMX Track Sukma - Bukit Siol, Jalan Semariang, Kuching, Sarawak, Malaysia"
+    },
+    {
+      "sequence": 2,
+      "published_label": "Stadium de BMX La Chapelle Saint Mesmin - France"
+    },
+    {
+      "sequence": 3,
+      "published_label": "Kawanote Public BMX Track - Arakawa City, Tokyo, Japan"
+    },
+    {
+      "sequence": 4,
+      "published_label": "Arena BMX Nasional - Nilai, Negeri Sembilan, Malaysia"
+    },
+    {
+      "sequence": 5,
+      "published_label": "Saint-Quentin-en-Yvelines - Montigny-le-Bretonneux - France"
+    },
+    {
+      "sequence": 6,
+      "published_label": "MSC (Midoriyama Studio City) BMX Racing Track - Yokohama City, Kanagawa Prefectur, Japan"
+    },
+    {
+      "sequence": 7,
+      "published_label": "Pista BMX Peñalolén - Santiago, Chile"
+    },
+    {
+      "sequence": 8,
+      "published_label": "Piste de BMX de Machecoul - France"
+    },
+    {
+      "sequence": 9,
+      "published_label": "Shanghai Velodrome BMX Racing Track - China"
+    },
+    {
+      "sequence": 10,
+      "published_label": "Parque Urbano Isla Cautín - Temuco, Región de La Araucanía, Chile"
+    },
+    {
+      "sequence": 11,
+      "published_label": "BMX-Bahn Vegesack - Vegesack district / Bremen-Grohn - Germany"
+    },
+    {
+      "sequence": 12,
+      "published_label": "Pista de BMX Supercross Carlos Ramírez - Bogotá - Colombia"
+    },
+    {
+      "sequence": 13,
+      "published_label": "Pista Bicicross San Antonio - San Antonio, Valparaíso Region, Chile"
+    },
+    {
+      "sequence": 14,
+      "published_label": "BMX-Bahn Peißenberg - Bavaria - Germany"
+    },
+    {
+      "sequence": 15,
+      "published_label": "Liga Nacional BMX Mexico - Zacatecas City, Mexico"
+    }
+  ],
+  "prepared": "2026-07-23",
+  "version": "1.0.0"
+}

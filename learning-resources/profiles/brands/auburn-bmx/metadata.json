@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "record_type": "brand_profile",
+  "record_id": "BRAND-002",
+  "slug": "auburn-bmx",
+  "title": "Auburn BMX",
+  "status": "source_complete",
+  "source_url": "https://sites.google.com/view/lititzbmxinventorylist/learning-resources/profiles/brand-profiles/auburn-bmx-brand-profiles",
+  "source_capture": "source/page.png",
+  "published_text": "source/PUBLISHED-TEXT.md",
+  "summary": "Published brand profile documenting Auburn’s origin, modular-frame development, ownership history, production eras, rider list and Lititz BMX holdings.",
+  "facts": [
+    {
+      "label": "Production years",
+      "value": "1988–1997"
+    },
+    {
+      "label": "Founded by",
+      "value": "Bob Morales & Todd Huffman"
+    },
+    {
+      "label": "Original concept",
+      "value": "Developed as a Honda proposal before adoption of the Auburn name"
+    }
+  ],
+  "qualification_notes": [
+    "Uncertain measurements, model-year interpretations and relaunch controversy are preserved as source-qualified observations rather than resolved facts.",
+    "The Lititz BMX holdings paragraph is a collection-status statement and remains separate from the brand-history record."
+  ],
+  "prepared": "2026-07-23",
+  "version": "1.0.0"
+}

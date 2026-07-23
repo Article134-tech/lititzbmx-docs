@@ -1,0 +1,78 @@
+{
+  "schema_version": "1.0",
+  "record_type": "track_profile_source_page",
+  "record_id": "TRACK-PAGE-07",
+  "page_number": 7,
+  "status": "source_complete",
+  "source_url": "https://sites.google.com/view/lititzbmxinventorylist/learning-resources/profiles/track-profiles/p7-track-profiles",
+  "expected_entries": 15,
+  "transcribed_entries": 15,
+  "source_captures": [
+    "source/top.png",
+    "source/bottom.png"
+  ],
+  "entries": [
+    {
+      "sequence": 1,
+      "published_label": "The Cove BMX Track - Adelaide, Australia"
+    },
+    {
+      "sequence": 2,
+      "published_label": "Dronfield BMX Track - Dronfield, North East Derbyshire, United Kingdom"
+    },
+    {
+      "sequence": 3,
+      "published_label": "Mill Valley Jumps - Marin County, CA"
+    },
+    {
+      "sequence": 4,
+      "published_label": "River Valley BMX - Sumner, WA"
+    },
+    {
+      "sequence": 5,
+      "published_label": "Bexley BMX - Christchurch, New Zealand"
+    },
+    {
+      "sequence": 6,
+      "published_label": "Piste de BMX Montivilliers - Normandy, France."
+    },
+    {
+      "sequence": 7,
+      "published_label": "Spartanburg BMX - Boiling Springs, SC"
+    },
+    {
+      "sequence": 8,
+      "published_label": "Pleasant Valley BMX - NY (Dutchess County)"
+    },
+    {
+      "sequence": 9,
+      "published_label": "Detweiller Park BMX - Peoria, Il"
+    },
+    {
+      "sequence": 10,
+      "published_label": "Chesterfield BMX Track - Ringwood Park, Chesterfield, United Kingdom"
+    },
+    {
+      "sequence": 11,
+      "published_label": "Warminster Wizards BMX Track - Warminster, Wiltshire, United Kingdom"
+    },
+    {
+      "sequence": 12,
+      "published_label": "Oasis Leisure Centre BMX Track - Willington, Durham, United Kingdom"
+    },
+    {
+      "sequence": 13,
+      "published_label": "Richfield Park BMX - Davison, MI"
+    },
+    {
+      "sequence": 14,
+      "published_label": "Maui BMX - HI"
+    },
+    {
+      "sequence": 15,
+      "published_label": "Brookville BMX Track - OH"
+    }
+  ],
+  "prepared": "2026-07-23",
+  "version": "1.0.0"
+}

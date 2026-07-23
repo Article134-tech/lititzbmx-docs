@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "record_type": "rider_profile",
+  "record_id": "RIDER-004",
+  "slug": "clint-miller",
+  "title": "Clint Miller",
+  "status": "source_complete",
+  "source_url": "https://sites.google.com/view/lititzbmxinventorylist/learning-resources/profiles/rider-profiles/clint-miller-rider-profiles",
+  "source_capture": "source/page.png",
+  "published_text": "source/PUBLISHED-TEXT.md",
+  "summary": "Published profile of Clint “The Barbarian” Miller, documenting his professional career, championships, sponsors and later DirtWerx connection.",
+  "facts": [
+    {
+      "label": "Born",
+      "value": "29 April, 1962"
+    },
+    {
+      "label": "Nickname",
+      "value": "The Barbarian"
+    },
+    {
+      "label": "Turned professional",
+      "value": "1978, age 15"
+    },
+    {
+      "label": "Hall of Fame",
+      "value": "2005 ABA BMX Hall of Fame"
+    }
+  ],
+  "qualification_notes": [
+    "The final character assessment is preserved as an attributed Torker Racing statement."
+  ],
+  "prepared": "2026-07-23",
+  "version": "1.0.0"
+}

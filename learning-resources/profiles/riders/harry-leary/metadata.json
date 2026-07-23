@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "record_type": "rider_profile",
+  "record_id": "RIDER-005",
+  "slug": "harry-leary",
+  "title": "Harry Leary",
+  "status": "source_complete",
+  "source_url": "https://sites.google.com/view/lititzbmxinventorylist/learning-resources/profiles/rider-profiles/harry-leary-rider-profiles",
+  "source_capture": "source/page.png",
+  "published_text": "source/PUBLISHED-TEXT.md",
+  "summary": "Published rider profile preserving key career dates, selected wins, training quotations and the public transition of Harry Leary material from the private Fireside Chat community.",
+  "facts": [
+    {
+      "label": "Life dates",
+      "value": "22 Feb. 1959 — 7 Sep. 2024"
+    },
+    {
+      "label": "Place of birth",
+      "value": "Lynwood, Ca"
+    },
+    {
+      "label": "Nickname",
+      "value": "Turbo"
+    },
+    {
+      "label": "First race",
+      "value": "July 30, 1974"
+    }
+  ],
+  "qualification_notes": [
+    "External-source claims are retained with their original attributions.",
+    "This rider profile is an independent learning record; it may contextually link to Harry’s Room without becoming the same catalog record."
+  ],
+  "prepared": "2026-07-23",
+  "version": "1.0.0"
+}

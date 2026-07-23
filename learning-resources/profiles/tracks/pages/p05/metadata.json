@@ -1,0 +1,78 @@
+{
+  "schema_version": "1.0",
+  "record_type": "track_profile_source_page",
+  "record_id": "TRACK-PAGE-05",
+  "page_number": 5,
+  "status": "source_complete",
+  "source_url": "https://sites.google.com/view/lititzbmxinventorylist/learning-resources/profiles/track-profiles/p5-track-profiles",
+  "expected_entries": 15,
+  "transcribed_entries": 15,
+  "source_captures": [
+    "source/top.png",
+    "source/bottom.png"
+  ],
+  "entries": [
+    {
+      "sequence": 1,
+      "published_label": "Airtime BMX - Reedley, CA"
+    },
+    {
+      "sequence": 2,
+      "published_label": "Brockwell Park BMX Track - London - “UK's 1st Documented BMX track”"
+    },
+    {
+      "sequence": 3,
+      "published_label": "Auburn-Dewitt BMX Track - Auburn, CA"
+    },
+    {
+      "sequence": 4,
+      "published_label": "Milton BMX Track - Ontario, Canada"
+    },
+    {
+      "sequence": 5,
+      "published_label": "Hedge End BMX Track - UK"
+    },
+    {
+      "sequence": 6,
+      "published_label": "Sarasota BMX Track - FL"
+    },
+    {
+      "sequence": 7,
+      "published_label": "Ed Fountain Park BMX - Las Vegas, NV"
+    },
+    {
+      "sequence": 8,
+      "published_label": "Ruardean BMX Track - Gloucestershire, England"
+    },
+    {
+      "sequence": 9,
+      "published_label": "Merritt College - Oakland, CA"
+    },
+    {
+      "sequence": 10,
+      "published_label": "Waterford Oaks BMX Track - MI"
+    },
+    {
+      "sequence": 11,
+      "published_label": "Lalor Park - Victoria - Melbourne Australia"
+    },
+    {
+      "sequence": 12,
+      "published_label": "Upland Parks and Rec BMX Track - CA"
+    },
+    {
+      "sequence": 13,
+      "published_label": "First State BMX - Milford, DE"
+    },
+    {
+      "sequence": 14,
+      "published_label": "Midland BMX Track - TX"
+    },
+    {
+      "sequence": 15,
+      "published_label": "Frogtown - Angels Camp, CA"
+    }
+  ],
+  "prepared": "2026-07-23",
+  "version": "1.0.0"
+}

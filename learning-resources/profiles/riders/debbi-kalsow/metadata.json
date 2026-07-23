@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "record_type": "rider_profile",
+  "record_id": "RIDER-001",
+  "slug": "debbi-kalsow",
+  "title": "Debbi Kalsow",
+  "status": "source_complete",
+  "source_url": "https://sites.google.com/view/lititzbmxinventorylist/learning-resources/profiles/rider-profiles/debbi-kalsow-rider-profiles",
+  "source_capture": "source/page.png",
+  "published_text": "source/PUBLISHED-TEXT.md",
+  "summary": "Pioneering BMX racer profile preserving the published account of her racing career, women’s points-system barriers, major wins, print references and later team work.",
+  "facts": [
+    {
+      "label": "Born",
+      "value": "23 Jan. 1968 in Big Rapids, Mi"
+    },
+    {
+      "label": "National BMX Hall of Fame",
+      "value": "Inducted 2018"
+    },
+    {
+      "label": "First sponsor",
+      "value": "East Lansing Cycle Shop — 1979"
+    }
+  ],
+  "qualification_notes": [
+    "The source alternates between the spellings “Kalsow” and “Kaslow.” Both are preserved in the transcription.",
+    "The Pinkbike passage is preserved as attributed source text, not independently verified by this archive record."
+  ],
+  "prepared": "2026-07-23",
+  "version": "1.0.0"
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "record_type": "rider_profile",
+  "record_id": "RIDER-010",
+  "slug": "mike-poulson",
+  "title": "Michael “Mike” Poulson",
+  "status": "source_complete",
+  "source_url": "https://sites.google.com/view/lititzbmxinventorylist/learning-resources/profiles/rider-profiles/mike-poulson-rider-profiles",
+  "source_capture": "source/page.png",
+  "published_text": "source/PUBLISHED-TEXT.md",
+  "summary": "Published profile of Mike “MP” Poulson preserving his amateur and professional career, Hall of Fame recognition, print appearances and later landscaping work.",
+  "facts": [
+    {
+      "label": "Born",
+      "value": "4 January, 1965 — Ogden, UT"
+    },
+    {
+      "label": "Nickname",
+      "value": "MP"
+    },
+    {
+      "label": "Started racing",
+      "value": "1978"
+    },
+    {
+      "label": "Hall of Fame",
+      "value": "2025 National BMX Hall of Fame — Early Racer category"
+    }
+  ],
+  "qualification_notes": [
+    "No polished full-page profile screenshot was supplied in this intake; the preserved image is the supplied public profile/social capture.",
+    "The reported high-school earnings figure and USA BMX assessment remain source-attributed statements."
+  ],
+  "prepared": "2026-07-23",
+  "version": "1.0.0"
+}

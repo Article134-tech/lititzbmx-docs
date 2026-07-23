@@ -1,0 +1,78 @@
+{
+  "schema_version": "1.0",
+  "record_type": "track_profile_source_page",
+  "record_id": "TRACK-PAGE-02",
+  "page_number": 2,
+  "status": "source_complete",
+  "source_url": "https://sites.google.com/view/lititzbmxinventorylist/learning-resources/profiles/track-profiles/p2-track-profiles",
+  "expected_entries": 15,
+  "transcribed_entries": 15,
+  "source_captures": [
+    "source/top.png",
+    "source/bottom.png"
+  ],
+  "entries": [
+    {
+      "sequence": 1,
+      "published_label": "H Town BMX Supercross - North Houston, TX"
+    },
+    {
+      "sequence": 2,
+      "published_label": "Canyon Country BMX Track - Santa Clarita, CA"
+    },
+    {
+      "sequence": 3,
+      "published_label": "Boystown - South Dade County, FL"
+    },
+    {
+      "sequence": 4,
+      "published_label": "Catamount BMX - Bennington, VT"
+    },
+    {
+      "sequence": 5,
+      "published_label": "“High Voltage” - Oakland Hills, CA"
+    },
+    {
+      "sequence": 6,
+      "published_label": "Bay Area BMX Track - Coos Bay, OR"
+    },
+    {
+      "sequence": 7,
+      "published_label": "Egg Harbor Township BMX Track - NJ"
+    },
+    {
+      "sequence": 8,
+      "published_label": "Wild Mountain BMX - Newton, IA"
+    },
+    {
+      "sequence": 9,
+      "published_label": "Sarasota BMX - FL"
+    },
+    {
+      "sequence": 10,
+      "published_label": "Emerald Valley BMX - Eugene, OR"
+    },
+    {
+      "sequence": 11,
+      "published_label": "Westlake BMX - Indianapolis, IN"
+    },
+    {
+      "sequence": 12,
+      "published_label": "Blue Springs BMX Track - MO"
+    },
+    {
+      "sequence": 13,
+      "published_label": "Star City BMX Track - Lincoln, NE"
+    },
+    {
+      "sequence": 14,
+      "published_label": "Lums Pond BMX Track - Newark, DE"
+    },
+    {
+      "sequence": 15,
+      "published_label": "Millersville BMX Raceway - MD"
+    }
+  ],
+  "prepared": "2026-07-23",
+  "version": "1.0.0"
+}

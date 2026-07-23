@@ -1,0 +1,14 @@
+{
+  "policy": "Contextual appearances do not merge independent catalog records or establish shared provenance, ownership or custody.",
+  "relationships": [
+    {
+      "relationship_id": "CTX-001",
+      "subject": "BRAND-004",
+      "predicate": "visually_features",
+      "object": "RIDER-001",
+      "basis": "The supplied Bicycles & Dirt Magazine cover displays Debbi Kalsow and labels the issue with a Debbi Kalsow interview.",
+      "classification": "visual/content appearance only",
+      "catalog_merge": false
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "schema_version": "1.0",
+  "record_type": "track_profile_source_page",
+  "record_id": "TRACK-PAGE-09",
+  "page_number": 9,
+  "status": "source_complete",
+  "source_url": "https://sites.google.com/view/lititzbmxinventorylist/learning-resources/profiles/track-profiles/p9-track-profiles",
+  "expected_entries": 15,
+  "transcribed_entries": 15,
+  "source_captures": [
+    "source/top.png",
+    "source/bottom.png"
+  ],
+  "entries": [
+    {
+      "sequence": 1,
+      "published_label": "Rock City BMX - Rockford, MI"
+    },
+    {
+      "sequence": 2,
+      "published_label": "“Wetlands BMX Track” - Bolsa Chica Dirt Jumps - Huntington Beach, CA"
+    },
+    {
+      "sequence": 3,
+      "published_label": "Cleves BMX - OH"
+    },
+    {
+      "sequence": 4,
+      "published_label": "Okeeheelee BMX - West Palm Beach, FL"
+    },
+    {
+      "sequence": 5,
+      "published_label": "Bowie BMX Bike Park - TX"
+    },
+    {
+      "sequence": 6,
+      "published_label": "Columbus BMX - IN"
+    },
+    {
+      "sequence": 7,
+      "published_label": "Tri-City BMX - Kearny, NE"
+    },
+    {
+      "sequence": 8,
+      "published_label": "Oak Mountain BMX Track - AL"
+    },
+    {
+      "sequence": 9,
+      "published_label": "Wheelhouse BMX - Prescott Valley, AZ"
+    },
+    {
+      "sequence": 10,
+      "published_label": "Valley BMX - Athens, PA"
+    },
+    {
+      "sequence": 11,
+      "published_label": "Hurlford BMX Track - East Ayrshire - UK"
+    },
+    {
+      "sequence": 12,
+      "published_label": "Show Low BMX - AZ"
+    },
+    {
+      "sequence": 13,
+      "published_label": "Peachtree City BMX Track - GA"
+    },
+    {
+      "sequence": 14,
+      "published_label": "Silksworth BMX Track - Sunderland (specifically the Silksworth area) - UK"
+    },
+    {
+      "sequence": 15,
+      "published_label": "Lake Havasu City BMX - AZ"
+    }
+  ],
+  "prepared": "2026-07-23",
+  "version": "1.0.0"
+}

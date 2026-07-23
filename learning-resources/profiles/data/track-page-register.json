@@ -1,0 +1,112 @@
+[
+  {
+    "record_id": "TRACK-PAGE-01",
+    "page_number": 1,
+    "source_url": "https://sites.google.com/view/lititzbmxinventorylist/learning-resources/profiles/track-profiles",
+    "status": "source_complete",
+    "expected_entries": 15,
+    "transcribed_entries": 15,
+    "top_capture": "tracks/pages/p01/source/top.png",
+    "bottom_capture": "tracks/pages/p01/source/bottom.png",
+    "notes": ""
+  },
+  {
+    "record_id": "TRACK-PAGE-02",
+    "page_number": 2,
+    "source_url": "https://sites.google.com/view/lititzbmxinventorylist/learning-resources/profiles/track-profiles/p2-track-profiles",
+    "status": "source_complete",
+    "expected_entries": 15,
+    "transcribed_entries": 15,
+    "top_capture": "tracks/pages/p02/source/top.png",
+    "bottom_capture": "tracks/pages/p02/source/bottom.png",
+    "notes": ""
+  },
+  {
+    "record_id": "TRACK-PAGE-03",
+    "page_number": 3,
+    "source_url": "https://sites.google.com/view/lititzbmxinventorylist/learning-resources/profiles/track-profiles/p3-track-profiles",
+    "status": "source_complete",
+    "expected_entries": 15,
+    "transcribed_entries": 15,
+    "top_capture": "tracks/pages/p03/source/top.png",
+    "bottom_capture": "tracks/pages/p03/source/bottom.png",
+    "notes": ""
+  },
+  {
+    "record_id": "TRACK-PAGE-04",
+    "page_number": 4,
+    "source_url": "https://sites.google.com/view/lititzbmxinventorylist/learning-resources/profiles/track-profiles/p4-track-profiles",
+    "status": "source_complete",
+    "expected_entries": 15,
+    "transcribed_entries": 15,
+    "top_capture": "tracks/pages/p04/source/top.png",
+    "bottom_capture": "tracks/pages/p04/source/bottom.png",
+    "notes": ""
+  },
+  {
+    "record_id": "TRACK-PAGE-05",
+    "page_number": 5,
+    "source_url": "https://sites.google.com/view/lititzbmxinventorylist/learning-resources/profiles/track-profiles/p5-track-profiles",
+    "status": "source_complete",
+    "expected_entries": 15,
+    "transcribed_entries": 15,
+    "top_capture": "tracks/pages/p05/source/top.png",
+    "bottom_capture": "tracks/pages/p05/source/bottom.png",
+    "notes": ""
+  },
+  {
+    "record_id": "TRACK-PAGE-06",
+    "page_number": 6,
+    "source_url": "https://sites.google.com/view/lititzbmxinventorylist/learning-resources/profiles/track-profiles/p6-track-profiles",
+    "status": "source_complete",
+    "expected_entries": 15,
+    "transcribed_entries": 15,
+    "top_capture": "tracks/pages/p06/source/top.png",
+    "bottom_capture": "tracks/pages/p06/source/bottom.png",
+    "notes": ""
+  },
+  {
+    "record_id": "TRACK-PAGE-07",
+    "page_number": 7,
+    "source_url": "https://sites.google.com/view/lititzbmxinventorylist/learning-resources/profiles/track-profiles/p7-track-profiles",
+    "status": "source_complete",
+    "expected_entries": 15,
+    "transcribed_entries": 15,
+    "top_capture": "tracks/pages/p07/source/top.png",
+    "bottom_capture": "tracks/pages/p07/source/bottom.png",
+    "notes": ""
+  },
+  {
+    "record_id": "TRACK-PAGE-08",
+    "page_number": 8,
+    "source_url": "https://sites.google.com/view/lititzbmxinventorylist/learning-resources/profiles/track-profiles/p8-track-profiles",
+    "status": "source_complete",
+    "expected_entries": 15,
+    "transcribed_entries": 15,
+    "top_capture": "tracks/pages/p08/source/top.png",
+    "bottom_capture": "tracks/pages/p08/source/bottom.png",
+    "notes": ""
+  },
+  {
+    "record_id": "TRACK-PAGE-09",
+    "page_number": 9,
+    "source_url": "https://sites.google.com/view/lititzbmxinventorylist/learning-resources/profiles/track-profiles/p9-track-profiles",
+    "status": "source_complete",
+    "expected_entries": 15,
+    "transcribed_entries": 15,
+    "top_capture": "tracks/pages/p09/source/top.png",
+    "bottom_capture": "tracks/pages/p09/source/bottom.png",
+    "notes": ""
+  },
+  {
+    "record_id": "TRACK-PAGE-10",
+    "page_number": 10,
+    "source_url": "https://sites.google.com/view/lititzbmxinventorylist/learning-resources/profiles/track-profiles/p10-track-profiles",
+    "status": "source_complete",
+    "expected_entries": 15,
+    "transcribed_entries": 15,
+    "top_capture": "tracks/pages/p10/source/top.png",
+    "bottom_capture": "tracks/pages/p10/source/bottom.png",
+    "notes": ""
+  }
+]

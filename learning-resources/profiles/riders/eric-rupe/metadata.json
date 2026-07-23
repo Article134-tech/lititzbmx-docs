@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "record_type": "rider_profile",
+  "record_id": "RIDER-002",
+  "slug": "eric-rupe",
+  "title": "Eric Rupe",
+  "status": "source_complete",
+  "source_url": "https://sites.google.com/view/lititzbmxinventorylist/learning-resources/profiles/rider-profiles/eric-rupe-rider-profiles",
+  "source_capture": "source/page.png",
+  "published_text": "source/PUBLISHED-TEXT.md",
+  "summary": "Published rider profile documenting Eric “Big Daddy” Rupe’s beginnings, championship record, long career and Mongoose history.",
+  "facts": [
+    {
+      "label": "Born",
+      "value": "14 June, 1963 — Reseda, CA"
+    },
+    {
+      "label": "Nickname",
+      "value": "“Big Daddy”"
+    },
+    {
+      "label": "Hall of Fame",
+      "value": "1988 ABA Hall of Fame inductee"
+    },
+    {
+      "label": "First race bike",
+      "value": "Schwinn Sting-Ray"
+    }
+  ],
+  "qualification_notes": [
+    "The source’s prime-years height field is preserved exactly in the transcription; the overview renders it as approximately 5 ft 6 in.",
+    "The final “Four Fun Facts” section is explicitly identified by the source as Copilot-generated and is retained as an AI-supplied source note, not archive verification."
+  ],
+  "prepared": "2026-07-23",
+  "version": "1.0.0"
+}

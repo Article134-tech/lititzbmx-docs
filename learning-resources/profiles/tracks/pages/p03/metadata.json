@@ -1,0 +1,78 @@
+{
+  "schema_version": "1.0",
+  "record_type": "track_profile_source_page",
+  "record_id": "TRACK-PAGE-03",
+  "page_number": 3,
+  "status": "source_complete",
+  "source_url": "https://sites.google.com/view/lititzbmxinventorylist/learning-resources/profiles/track-profiles/p3-track-profiles",
+  "expected_entries": 15,
+  "transcribed_entries": 15,
+  "source_captures": [
+    "source/top.png",
+    "source/bottom.png"
+  ],
+  "entries": [
+    {
+      "sequence": 1,
+      "published_label": "Capital City Family BMX - Lansing, MI"
+    },
+    {
+      "sequence": 2,
+      "published_label": "Yankee Hill BMX Track - Lincoln, NE"
+    },
+    {
+      "sequence": 3,
+      "published_label": "BMX Track on Charlotte Motor Speedway - Charlotte, NC"
+    },
+    {
+      "sequence": 4,
+      "published_label": "Pine Bluff BMX - AR"
+    },
+    {
+      "sequence": 5,
+      "published_label": "Kearny Moto Park - San Diego, CA"
+    },
+    {
+      "sequence": 6,
+      "published_label": "Cactus Park BMX - Lakeside, CA"
+    },
+    {
+      "sequence": 7,
+      "published_label": "Can-Am BMX Track - Goodells, MI"
+    },
+    {
+      "sequence": 8,
+      "published_label": "Oak Creek BMX Track - Roseville, CA"
+    },
+    {
+      "sequence": 9,
+      "published_label": "Stockton BMX - CA"
+    },
+    {
+      "sequence": 10,
+      "published_label": "Wee-Chi-Tah BMX Track - Whitcha Falls, TX"
+    },
+    {
+      "sequence": 11,
+      "published_label": "Orion Park - Moffett Field, CA"
+    },
+    {
+      "sequence": 12,
+      "published_label": "Orange YMCA BMX Track - CA"
+    },
+    {
+      "sequence": 13,
+      "published_label": "Stone Edge - Daytona Beach, FL"
+    },
+    {
+      "sequence": 14,
+      "published_label": "Grand Prix BMX Track - Lake Perris, CA"
+    },
+    {
+      "sequence": 15,
+      "published_label": "Lemoore BMX Raceway"
+    }
+  ],
+  "prepared": "2026-07-23",
+  "version": "1.0.0"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Lititz BMX Profiles — People, Makers and Places",
+  "subtitle": "A Visual Learning Atlas",
+  "version": "1.0.0",
+  "status": "complete",
+  "prepared": "2026-07-23",
+  "record_counts": {
+    "riders": 10,
+    "brands": 4,
+    "track_pages": 10,
+    "track_pages_complete": 10,
+    "track_entries_transcribed": 150,
+    "track_entries_expected": 150,
+    "images_preserved": 37,
+    "images_pending": 0
+  },
+  "source_root": "https://sites.google.com/view/lititzbmxinventorylist/learning-resources/profiles",
+  "known_gaps": [],
+  "source_qualifications": [
+    "Published spelling, date, measurement and attribution discrepancies remain preserved and visibly qualified.",
+    "The Mike Poulson image is preserved as the supplied public profile/social capture rather than represented as a full polished Google Sites page capture.",
+    "Track records document the published visual index and do not independently establish track histories."
+  ],
+  "rights": "Lititz BMX"
+}

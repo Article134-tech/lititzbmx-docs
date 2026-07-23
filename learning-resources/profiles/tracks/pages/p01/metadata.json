@@ -1,0 +1,78 @@
+{
+  "schema_version": "1.0",
+  "record_type": "track_profile_source_page",
+  "record_id": "TRACK-PAGE-01",
+  "page_number": 1,
+  "status": "source_complete",
+  "source_url": "https://sites.google.com/view/lititzbmxinventorylist/learning-resources/profiles/track-profiles",
+  "expected_entries": 15,
+  "transcribed_entries": 15,
+  "source_captures": [
+    "source/top.png",
+    "source/bottom.png"
+  ],
+  "entries": [
+    {
+      "sequence": 1,
+      "published_label": "B.U.M.S. - Long Beach, CA — “First BMX Track”"
+    },
+    {
+      "sequence": 2,
+      "published_label": "Lititz Rec Center (LRC) - Lititz, PA"
+    },
+    {
+      "sequence": 3,
+      "published_label": "Fremont BMX - Sunol, CA"
+    },
+    {
+      "sequence": 4,
+      "published_label": "Pontiac Silverdome - Pontiac, MI"
+    },
+    {
+      "sequence": 5,
+      "published_label": "The Cutting Edge - Ontario, CA"
+    },
+    {
+      "sequence": 6,
+      "published_label": "Harry Leary’s Turbo BMX Track - Kingman, Az"
+    },
+    {
+      "sequence": 7,
+      "published_label": "Velodrome BMX - Balboa Park - San Diego, CA"
+    },
+    {
+      "sequence": 8,
+      "published_label": "York Bumps n' Berms - York, PA"
+    },
+    {
+      "sequence": 9,
+      "published_label": "Saddleback - Orange, CA"
+    },
+    {
+      "sequence": 10,
+      "published_label": "Devonshire Downs - England"
+    },
+    {
+      "sequence": 11,
+      "published_label": "Westminster Elks BMX Track - MD"
+    },
+    {
+      "sequence": 12,
+      "published_label": "Waterford Oaks BMX - MI"
+    },
+    {
+      "sequence": 13,
+      "published_label": "Mount Druitt BMX - Australia"
+    },
+    {
+      "sequence": 14,
+      "published_label": "Rancho San Diego Downhill - “Rancho” - CA"
+    },
+    {
+      "sequence": 15,
+      "published_label": "Cow Patty BMX Track - Pace, FL"
+    }
+  ],
+  "prepared": "2026-07-23",
+  "version": "1.0.0"
+}

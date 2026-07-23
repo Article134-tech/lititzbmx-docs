@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+title: "Lititz BMX Profiles — People, Makers and Places"
+message: "Please cite this archive and its individual source pages when using the preserved profile records."
+type: dataset
+authors:
+  - family-names: Huffman
+    given-names: Kyle A.
+version: "1.0.0"
+date-released: "2026-07-23"
+repository-code: "https://github.com/Article134-tech/lititzbmx-docs/tree/main/learning-resources/profiles"
+url: "https://sites.google.com/view/lititzbmxinventorylist/learning-resources/profiles"

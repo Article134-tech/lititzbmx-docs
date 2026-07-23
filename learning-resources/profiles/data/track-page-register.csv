@@ -1,0 +1,11 @@
+record_id,page_number,source_url,status,expected_entries,transcribed_entries,top_capture,bottom_capture,notes
+TRACK-PAGE-01,1,https://sites.google.com/view/lititzbmxinventorylist/learning-resources/profiles/track-profiles,source_complete,15,15,tracks/pages/p01/source/top.png,tracks/pages/p01/source/bottom.png,
+TRACK-PAGE-02,2,https://sites.google.com/view/lititzbmxinventorylist/learning-resources/profiles/track-profiles/p2-track-profiles,source_complete,15,15,tracks/pages/p02/source/top.png,tracks/pages/p02/source/bottom.png,
+TRACK-PAGE-03,3,https://sites.google.com/view/lititzbmxinventorylist/learning-resources/profiles/track-profiles/p3-track-profiles,source_complete,15,15,tracks/pages/p03/source/top.png,tracks/pages/p03/source/bottom.png,
+TRACK-PAGE-04,4,https://sites.google.com/view/lititzbmxinventorylist/learning-resources/profiles/track-profiles/p4-track-profiles,source_complete,15,15,tracks/pages/p04/source/top.png,tracks/pages/p04/source/bottom.png,
+TRACK-PAGE-05,5,https://sites.google.com/view/lititzbmxinventorylist/learning-resources/profiles/track-profiles/p5-track-profiles,source_complete,15,15,tracks/pages/p05/source/top.png,tracks/pages/p05/source/bottom.png,
+TRACK-PAGE-06,6,https://sites.google.com/view/lititzbmxinventorylist/learning-resources/profiles/track-profiles/p6-track-profiles,source_complete,15,15,tracks/pages/p06/source/top.png,tracks/pages/p06/source/bottom.png,
+TRACK-PAGE-07,7,https://sites.google.com/view/lititzbmxinventorylist/learning-resources/profiles/track-profiles/p7-track-profiles,source_complete,15,15,tracks/pages/p07/source/top.png,tracks/pages/p07/source/bottom.png,
+TRACK-PAGE-08,8,https://sites.google.com/view/lititzbmxinventorylist/learning-resources/profiles/track-profiles/p8-track-profiles,source_complete,15,15,tracks/pages/p08/source/top.png,tracks/pages/p08/source/bottom.png,
+TRACK-PAGE-09,9,https://sites.google.com/view/lititzbmxinventorylist/learning-resources/profiles/track-profiles/p9-track-profiles,source_complete,15,15,tracks/pages/p09/source/top.png,tracks/pages/p09/source/bottom.png,
+TRACK-PAGE-10,10,https://sites.google.com/view/lititzbmxinventorylist/learning-resources/profiles/track-profiles/p10-track-profiles,source_complete,15,15,tracks/pages/p10/source/top.png,tracks/pages/p10/source/bottom.png,
