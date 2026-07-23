@@ -69,13 +69,21 @@ Long-form preservation, restoration, educational, and storytelling campaigns pro
 
 ### The Lititz BMX Record Collection
 
-<a href="record-collection/README.md"><img src="record-collection/assets/record-collection-banner.png" alt="The Lititz BMX Record Collection visual index showing seven compiled media dossiers" width="720"></a>
+<a href="record-collection/README.md"><img src="record-collection/assets/record-collection-banner.png" alt="The Lititz BMX Record Collection — 22 compiled media dossiers" width="720"></a>
 
-Archival standards and media dossiers preserving Lititz BMX recordings, transcripts, production context, publication materials, derivative records, and oral-history interviews.
+The **Lititz BMX Record Collection** preserves 22 compiled media dossiers and their broader historical footprints—including original recordings, transcript layers, publication materials, derivative clips, provenance, verification notes, and archival context across Fireside BMX Chat, Pump Track Chat, and Unboxing.
 
-- [Explore the Lititz BMX Record Collection](record-collection/)
-- [Browse the Fireside BMX Chat dossiers](record-collection/collections/fireside-bmx-chat/)
+- [Explore the complete Lititz BMX Record Collection](record-collection/README.md)
+- [Browse the Fireside BMX Chat dossiers](record-collection/collections/fireside-bmx-chat/README.md)
 - [Review the Record Collection Archival Standard](record-collection/ARCHIVAL_STANDARD.md)
+
+#### Featured derivative archives
+
+- [Greg Hill — *Floored: A BMX & Garage Story* — 25-Short flooring-brochure archive](record-collection/collections/fireside-bmx-chat/records/fbc-greg-hill-floored/derivatives/shorts/README.md)  
+  One garage. One BMX legend. Twenty-five layers of BMX history, including Harry Leary, early racing, GHP, BMX-business economics, career reinvention, and Greg Hill’s flooring work.
+
+- [Greg Mathias — *Chasing Harry*, Episode 4 — 32-record visual Shorts publication archive](record-collection/collections/fireside-bmx-chat/records/fbc-004-greg-mathias-chasing-harry-hof/derivatives/shorts/README.md)  
+  A visual publication archive preserving 32 surviving Shorts, their original published frames, descriptions, transcripts, evidence, provenance, and relationship to the complete Hall of Fame conversation.
 
 ### Sitemap and Technical Resources
 
