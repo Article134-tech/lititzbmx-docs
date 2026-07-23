@@ -61,11 +61,12 @@ Interactive educational resources combining BMX history, puzzles, profiles, imag
 
 ### Collections
 
-<a href="collections/jersey-collection/"><img src="collections/jersey-collection/source/photographs/physical-jersey-wall-hero.jpg" alt="The Lititz BMX Digital Jersey Wall" width="720"></a>
+<a href="collections/harrys-room/"><img src="collections/harrys-room/source/photographs/physical-harrys-room.jpg" alt="Harry’s Room — The Harry Leary Collection" width="720"></a>
 
 Museum-style visual collections organizing related artifacts, provenance, learning context, and public access records.
 
 - [Open the Collections library](collections/)
+- [Enter Harry’s Room — 28 integrated Harry Leary accession records](collections/harrys-room/)
 - [Explore the Digital Jersey Wall — 22 accessioned jerseys and five continued-journey records](collections/jersey-collection/)
 
 ### Campaign Archives
