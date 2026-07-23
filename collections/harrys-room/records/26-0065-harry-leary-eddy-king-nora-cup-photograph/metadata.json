@@ -1,0 +1,53 @@
+{
+  "$schema": "../../schema/harrys-room-record.schema.json",
+  "record_id": "HLR-26.0065",
+  "artifact_id": "26.0065",
+  "legacy_ids": [],
+  "title": "Photograph of Harry Leary and Eddy King at the NORA Cup",
+  "alternate_titles": [],
+  "slug": "26-0065-harry-leary-eddy-king-nora-cup-photograph",
+  "collection": "Harry’s Room — The Harry Leary Collection",
+  "room_zone": {
+    "id": "memory-wall",
+    "label": "The Memory Wall"
+  },
+  "record_type": "photograph",
+  "holding_status": "current-holding-as-presented",
+  "image_status": "direct",
+  "primary_image": "../../source/artifact-images/26-0065-harry-leary-eddy-king-nora-cup-photograph.png",
+  "secondary_images": [],
+  "source_pages": [
+    {
+      "source_label": "Original LititzBMX.com collection source 1",
+      "url": "https://sites.google.com/view/lititzbmxinventorylist/collections/the-harry-leary-collection-1"
+    }
+  ],
+  "claim_status": "collection-attributed",
+  "description": "A framed photograph identified by the collection as Harry Leary and Eddy King on the occasion when Eddy King won the NORA Cup. It preserves a shared moment rather than a solitary achievement.",
+  "provenance_summary": "Presented as part of the Harry Leary Collection; acquisition detail was not supplied in this source package.",
+  "qualifications": [
+    "The identities and NORA Cup event context are preserved from the supplied collection caption.",
+    "No independent event-date or photograph-authentication documentation was supplied with this release."
+  ],
+  "people": [
+    "Harry Leary",
+    "Eddy King"
+  ],
+  "organizations": [
+    "BMX Action NORA Cup"
+  ],
+  "subjects": [
+    "photograph",
+    "NORA Cup",
+    "friendship",
+    "riders"
+  ],
+  "related_records": [
+    "26.0051",
+    "26.0036",
+    "26.0053"
+  ],
+  "cross_collection": null,
+  "release_version": "1.0.0",
+  "updated": "2026-07-23"
+}

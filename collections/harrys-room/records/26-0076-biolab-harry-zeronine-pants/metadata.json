@@ -1,0 +1,52 @@
+{
+  "$schema": "../../schema/harrys-room-record.schema.json",
+  "record_id": "HLR-26.0076",
+  "artifact_id": "26.0076",
+  "legacy_ids": [],
+  "title": "BIOLAB “Harry” Zeronine Pants",
+  "alternate_titles": [],
+  "slug": "26-0076-biolab-harry-zeronine-pants",
+  "collection": "Harry’s Room — The Harry Leary Collection",
+  "room_zone": {
+    "id": "riders-wardrobe",
+    "label": "The Rider’s Wardrobe"
+  },
+  "record_type": "racing pants",
+  "holding_status": "current-holding-as-presented",
+  "image_status": "context-only",
+  "primary_image": "../../source/artifact-images/26-0076-biolab-harry-zeronine-pants-context.png",
+  "secondary_images": [],
+  "source_pages": [
+    {
+      "source_label": "Original LititzBMX.com collection source 2",
+      "url": "https://sites.google.com/view/lititzbmxinventorylist/collections/the-harry-leary-collection-1/harry-leary-collection-2"
+    }
+  ],
+  "claim_status": "collection-attributed",
+  "description": "Matching BIOLAB / Zeronine racing pants paired by the collection with jersey 26.0075. The record is preserved now even though a direct photograph of the pants was not supplied.",
+  "provenance_summary": "Presented as part of the Harry Leary Collection; acquisition detail was not supplied in this source package.",
+  "qualifications": [
+    "The supplied image is contextual and shows the matching jersey, not a direct photograph of the pants.",
+    "A direct photograph of artifact 26.0076 remains the only image gap in this release."
+  ],
+  "people": [
+    "Harry Leary"
+  ],
+  "organizations": [
+    "BIOLAB Sciences",
+    "Zeronine Apparel"
+  ],
+  "subjects": [
+    "racing pants",
+    "paired uniform",
+    "image gap"
+  ],
+  "related_records": [
+    "26.0075",
+    "26.0023",
+    "26.0025"
+  ],
+  "cross_collection": null,
+  "release_version": "1.0.0",
+  "updated": "2026-07-23"
+}

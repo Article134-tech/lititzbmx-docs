@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "Please cite Harry’s Room as a Lititz BMX curated digital collection."
+title: "Harry’s Room — The Harry Leary Collection"
+type: dataset
+authors:
+  - family-names: Huffman
+    given-names: Kyle A.
+version: "1.0.0"
+date-released: "2026-07-23"
+publisher: "Lititz BMX"
+url: "https://github.com/Article134-tech/lititzbmx-docs/tree/main/collections/harrys-room"

@@ -1,0 +1,51 @@
+# People, Organizations and Brands Index
+
+Names are indexed from visible artifact markings and supplied collection descriptions. Inclusion does not imply endorsement or a complete organizational history.
+
+## People
+
+- **Dottie Ellis-Merki** — [26.0036](../records/26-0036-dottie-ellis-merki-letter-and-dirtwerx-decal/)
+- **Eddy King** — [26.0065](../records/26-0065-harry-leary-eddy-king-nora-cup-photograph/)
+- **Greg Hill** — [26.0045](../records/26-0045-ghp-cruiser-bars-with-15-plate/)
+- **Greg Mathias** — [26.0030](../records/26-0030-harry-leary-2017-uci-worlds-championship-helmet/)
+- **Harry Leary** — [26.0067](../records/26-0067-1994-aba-vet-pro-title-trophy/), [26.0037](../records/26-0037-cactus-park-state-qualifier-radical-rick-plaque/), [26.0048](../records/26-0048-f1-challenge-trophy/), [26.0033](../records/26-0033-supercross-of-bmx-top-money-winner-plaque/), [26.0028](../records/26-0028-2000-aba-third-place-vet-pro-plaque/), [26.0053](../records/26-0053-race-against-drugs-harry-leary-plaque/), [26.0034](../records/26-0034-2003-world-4-stroke-mx-championship-second-place-award/), [26.0013](../records/26-0013-2015-california-state-qualifier-third-place-tin/), [26.0030](../records/26-0030-harry-leary-2017-uci-worlds-championship-helmet/), [26.0062](../records/26-0062-harry-leary-dirtwerx-helmet/), [26.0018](../records/26-0018-harry-leary-leary-81-redman-jersey/), [26.0021](../records/26-0021-harry-leary-thrill-roc-1-jersey/), [26.0023](../records/26-0023-harry-leary-biolab-peak-performance-roc-1-jersey/), [26.0025](../records/26-0025-harry-leary-fasthouse-4-jersey/), [26.0063](../records/26-0063-harry-leary-dirtwerx-jersey/), [26.0039](../records/26-0039-harry-leary-honda-jersey/), [26.0064](../records/26-0064-tangent-beanie-smells-like-harry/), [26.0040](../records/26-0040-harry-leary-gt-judge-lanyard/), [26.0050](../records/26-0050-harry-leary-fall-risk-racing-2023-number-plate-decal/), [26.0075](../records/26-0075-biolab-leary-4-zeronine-jersey/), [26.0076](../records/26-0076-biolab-harry-zeronine-pants/), [26.0046](../records/26-0046-harry-leary-toolbox/), [26.0038](../records/26-0038-harry-leary-specialized-hemi-frame-jeremy-mcgrath-signatures/), [26.0052](../records/26-0052-damaged-daylight-hlt4-frame-last-hlt4/), [26.0045](../records/26-0045-ghp-cruiser-bars-with-15-plate/), [26.0036](../records/26-0036-dottie-ellis-merki-letter-and-dirtwerx-decal/), [26.0065](../records/26-0065-harry-leary-eddy-king-nora-cup-photograph/), [26.0051](../records/26-0051-linda-and-harry-leary-signed-copy/)
+- **Jeremy McGrath** — [26.0038](../records/26-0038-harry-leary-specialized-hemi-frame-jeremy-mcgrath-signatures/)
+- **Linda Leary Taylor** — [26.0051](../records/26-0051-linda-and-harry-leary-signed-copy/)
+
+## Organizations and brands
+
+- **American Bicycle Association (ABA)** — [26.0067](../records/26-0067-1994-aba-vet-pro-title-trophy/), [26.0028](../records/26-0028-2000-aba-third-place-vet-pro-plaque/)
+- **BIOLAB Sciences** — [26.0023](../records/26-0023-harry-leary-biolab-peak-performance-roc-1-jersey/), [26.0075](../records/26-0075-biolab-leary-4-zeronine-jersey/), [26.0076](../records/26-0076-biolab-harry-zeronine-pants/)
+- **BMX Action NORA Cup** — [26.0065](../records/26-0065-harry-leary-eddy-king-nora-cup-photograph/)
+- **Box Components** — [26.0021](../records/26-0021-harry-leary-thrill-roc-1-jersey/), [26.0023](../records/26-0023-harry-leary-biolab-peak-performance-roc-1-jersey/)
+- **Cactus Park BMX** — [26.0037](../records/26-0037-cactus-park-state-qualifier-radical-rick-plaque/)
+- **Daylight** — [26.0052](../records/26-0052-damaged-daylight-hlt4-frame-last-hlt4/)
+- **DIRTWERX** — [26.0062](../records/26-0062-harry-leary-dirtwerx-helmet/), [26.0063](../records/26-0063-harry-leary-dirtwerx-jersey/), [26.0036](../records/26-0036-dottie-ellis-merki-letter-and-dirtwerx-decal/)
+- **Dirtyfest** — [26.0036](../records/26-0036-dottie-ellis-merki-letter-and-dirtwerx-decal/)
+- **F-1 Challenge** — [26.0048](../records/26-0048-f1-challenge-trophy/)
+- **Fall Risk Racing** — [26.0050](../records/26-0050-harry-leary-fall-risk-racing-2023-number-plate-decal/)
+- **Fasthouse Speed Shop** — [26.0025](../records/26-0025-harry-leary-fasthouse-4-jersey/)
+- **Fly Racing** — [26.0030](../records/26-0030-harry-leary-2017-uci-worlds-championship-helmet/)
+- **FMF** — [26.0046](../records/26-0046-harry-leary-toolbox/)
+- **Fox Racing** — [26.0039](../records/26-0039-harry-leary-honda-jersey/)
+- **Gary Turner BMX** — [26.0040](../records/26-0040-harry-leary-gt-judge-lanyard/)
+- **GHP** — [26.0045](../records/26-0045-ghp-cruiser-bars-with-15-plate/)
+- **Honda** — [26.0039](../records/26-0039-harry-leary-honda-jersey/), [26.0046](../records/26-0046-harry-leary-toolbox/)
+- **Nabisco Brands** — [26.0053](../records/26-0053-race-against-drugs-harry-leary-plaque/)
+- **North Carolina State Fairgrounds** — [26.0033](../records/26-0033-supercross-of-bmx-top-money-winner-plaque/)
+- **OASIS** — [26.0053](../records/26-0053-race-against-drugs-harry-leary-plaque/)
+- **Peak Performance** — [26.0023](../records/26-0023-harry-leary-biolab-peak-performance-roc-1-jersey/)
+- **RAD — Race Against Drugs** — [26.0053](../records/26-0053-race-against-drugs-harry-leary-plaque/)
+- **Radical Rick** — [26.0037](../records/26-0037-cactus-park-state-qualifier-radical-rick-plaque/)
+- **Redman** — [26.0018](../records/26-0018-harry-leary-leary-81-redman-jersey/)
+- **Renthal** — [26.0046](../records/26-0046-harry-leary-toolbox/)
+- **South Lake Tahoe BMX** — [26.0013](../records/26-0013-2015-california-state-qualifier-third-place-tin/)
+- **Specialized** — [26.0038](../records/26-0038-harry-leary-specialized-hemi-frame-jeremy-mcgrath-signatures/)
+- **Supercross of BMX** — [26.0033](../records/26-0033-supercross-of-bmx-top-money-winner-plaque/)
+- **Tangent** — [26.0064](../records/26-0064-tangent-beanie-smells-like-harry/), [26.0045](../records/26-0045-ghp-cruiser-bars-with-15-plate/)
+- **Thrill** — [26.0021](../records/26-0021-harry-leary-thrill-roc-1-jersey/)
+- **UCI** — [26.0030](../records/26-0030-harry-leary-2017-uci-worlds-championship-helmet/)
+- **White Bros.** — [26.0034](../records/26-0034-2003-world-4-stroke-mx-championship-second-place-award/)
+- **World 4-Stroke MX Championship** — [26.0034](../records/26-0034-2003-world-4-stroke-mx-championship-second-place-award/)
+- **Zeronine** — [26.0023](../records/26-0023-harry-leary-biolab-peak-performance-roc-1-jersey/)
+- **Zeronine Apparel** — [26.0075](../records/26-0075-biolab-leary-4-zeronine-jersey/), [26.0076](../records/26-0076-biolab-harry-zeronine-pants/)

@@ -1,0 +1,33 @@
+{
+  "collection_id": "LBC-HARRYS-ROOM",
+  "title": "Harry’s Room — The Harry Leary Collection",
+  "short_title": "Harry’s Room",
+  "version": "1.0.0",
+  "release_date": "2026-07-23",
+  "curator": "Kyle A. Huffman",
+  "publisher": "Lititz BMX",
+  "record_count": 28,
+  "direct_image_record_count": 27,
+  "context_only_record_count": 1,
+  "source_page_count": 2,
+  "duplicate_source_page_accessions": [
+    "26.0048"
+  ],
+  "canonical_id_normalizations": [
+    {
+      "canonical": "26.0067",
+      "legacy": "67"
+    }
+  ],
+  "design_concept": "A single integrated digital room organized as a trophy case, rider wardrobe, workshop bench and memory wall. Original source-page divisions are retained only in provenance documentation.",
+  "live_source_pages": [
+    "https://sites.google.com/view/lititzbmxinventorylist/collections/the-harry-leary-collection-1",
+    "https://sites.google.com/view/lititzbmxinventorylist/collections/the-harry-leary-collection-1/harry-leary-collection-2"
+  ],
+  "related_collections": [
+    "../jersey-collection/"
+  ],
+  "related_campaigns": [
+    "../../campaigns/operation-dirtwerx/"
+  ]
+}

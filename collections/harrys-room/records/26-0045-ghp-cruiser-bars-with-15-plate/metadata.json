@@ -1,0 +1,54 @@
+{
+  "$schema": "../../schema/harrys-room-record.schema.json",
+  "record_id": "HLR-26.0045",
+  "artifact_id": "26.0045",
+  "legacy_ids": [],
+  "title": "GHP Cruiser Bars with “15” Plate",
+  "alternate_titles": [],
+  "slug": "26-0045-ghp-cruiser-bars-with-15-plate",
+  "collection": "Harry’s Room — The Harry Leary Collection",
+  "room_zone": {
+    "id": "workshop-bench",
+    "label": "The Workshop Bench"
+  },
+  "record_type": "handlebars and number plate",
+  "holding_status": "current-holding-as-presented",
+  "image_status": "direct",
+  "primary_image": "../../source/artifact-images/26-0045-ghp-cruiser-bars-with-15-plate.png",
+  "secondary_images": [],
+  "source_pages": [
+    {
+      "source_label": "Original LititzBMX.com collection source 2",
+      "url": "https://sites.google.com/view/lititzbmxinventorylist/collections/the-harry-leary-collection-1/harry-leary-collection-2"
+    }
+  ],
+  "claim_status": "attributed-unresolved",
+  "description": "Black GHP cruiser bars paired with a red and white number 15 plate, attributed by the collection as Harry Leary equipment. The source post preserves active research questions about when and how they were used.",
+  "provenance_summary": "Presented as part of the Harry Leary Collection; acquisition detail was not supplied in this source package.",
+  "qualifications": [
+    "The source post includes approximate riding dates, team-history questions and a statement about the origin of “The Leary” jump. Those statements remain attributed and unresolved in this artifact record.",
+    "The archive does not convert the research post’s questions or approximate dates into verified findings."
+  ],
+  "people": [
+    "Harry Leary",
+    "Greg Hill"
+  ],
+  "organizations": [
+    "GHP",
+    "Tangent"
+  ],
+  "subjects": [
+    "handlebars",
+    "number 15",
+    "active research",
+    "provenance gap"
+  ],
+  "related_records": [
+    "26.0052",
+    "26.0046",
+    "26.0050"
+  ],
+  "cross_collection": null,
+  "release_version": "1.0.0",
+  "updated": "2026-07-23"
+}

@@ -1,0 +1,54 @@
+{
+  "$schema": "../../schema/harrys-room-record.schema.json",
+  "record_id": "HLR-26.0030",
+  "artifact_id": "26.0030",
+  "legacy_ids": [],
+  "title": "Harry Leary’s 2017 UCI Worlds Championship Helmet",
+  "alternate_titles": [],
+  "slug": "26-0030-harry-leary-2017-uci-worlds-championship-helmet",
+  "collection": "Harry’s Room — The Harry Leary Collection",
+  "room_zone": {
+    "id": "riders-wardrobe",
+    "label": "The Rider’s Wardrobe"
+  },
+  "record_type": "helmet",
+  "holding_status": "current-holding-as-presented",
+  "image_status": "direct",
+  "primary_image": "../../source/artifact-images/26-0030-harry-leary-2017-uci-worlds-championship-helmet.png",
+  "secondary_images": [],
+  "source_pages": [
+    {
+      "source_label": "Original LititzBMX.com collection source 1",
+      "url": "https://sites.google.com/view/lititzbmxinventorylist/collections/the-harry-leary-collection-1"
+    }
+  ],
+  "claim_status": "visual-comparison-attribution",
+  "description": "A Fly Racing full-face helmet attributed by the collection to Harry Leary’s 2017 UCI Worlds appearance. The supplied source post documents the visual-comparison process that led to the identification.",
+  "provenance_summary": "Presented as part of the Harry Leary Collection; acquisition detail was not supplied in this source package.",
+  "qualifications": [
+    "The identification is a collection attribution based on visual comparison with footage or photographs, not an independent authentication.",
+    "No separate manufacturer, event or rider documentation was supplied with this release."
+  ],
+  "people": [
+    "Harry Leary",
+    "Greg Mathias"
+  ],
+  "organizations": [
+    "UCI",
+    "Fly Racing"
+  ],
+  "subjects": [
+    "2017",
+    "UCI Worlds",
+    "helmet",
+    "visual comparison"
+  ],
+  "related_records": [
+    "26.0062",
+    "26.0040",
+    "26.0050"
+  ],
+  "cross_collection": null,
+  "release_version": "1.0.0",
+  "updated": "2026-07-23"
+}

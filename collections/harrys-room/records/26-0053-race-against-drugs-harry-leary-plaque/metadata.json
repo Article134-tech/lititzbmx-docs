@@ -1,0 +1,56 @@
+{
+  "$schema": "../../schema/harrys-room-record.schema.json",
+  "record_id": "HLR-26.0053",
+  "artifact_id": "26.0053",
+  "legacy_ids": [],
+  "title": "Race Against Drugs “Harry Leary” Plaque",
+  "alternate_titles": [
+    "Racers Against Drugs “Harry Leary” Plaque"
+  ],
+  "slug": "26-0053-race-against-drugs-harry-leary-plaque",
+  "collection": "Harry’s Room — The Harry Leary Collection",
+  "room_zone": {
+    "id": "trophy-case",
+    "label": "The Trophy Case"
+  },
+  "record_type": "plaque",
+  "holding_status": "current-holding-as-presented",
+  "image_status": "direct",
+  "primary_image": "../../source/artifact-images/26-0053-race-against-drugs-harry-leary-plaque.png",
+  "secondary_images": [],
+  "source_pages": [
+    {
+      "source_label": "Original LititzBMX.com collection source 1",
+      "url": "https://sites.google.com/view/lititzbmxinventorylist/collections/the-harry-leary-collection-1"
+    }
+  ],
+  "claim_status": "inscription-supported",
+  "description": "A framed RAD plaque dated Saturday, December 16, 1989. Its inscription thanks Harry Leary for working toward a drug-free tomorrow, preserving a public-service dimension of his story.",
+  "provenance_summary": "Presented as part of the Harry Leary Collection; acquisition detail was not supplied in this source package.",
+  "qualifications": [
+    "The physical plaque reads “RACE AGAINST DRUGS.” The Google Sites caption used “Racers Against Drugs”; both forms are preserved.",
+    "The source caption used “Article ID” rather than “Artifact ID.” The archive normalizes the field name while documenting the original typo."
+  ],
+  "people": [
+    "Harry Leary"
+  ],
+  "organizations": [
+    "RAD — Race Against Drugs",
+    "OASIS",
+    "Nabisco Brands"
+  ],
+  "subjects": [
+    "1989",
+    "drug-free advocacy",
+    "public service",
+    "plaque"
+  ],
+  "related_records": [
+    "26.0037",
+    "26.0036",
+    "26.0065"
+  ],
+  "cross_collection": null,
+  "release_version": "1.0.0",
+  "updated": "2026-07-23"
+}

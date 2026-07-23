@@ -1,0 +1,50 @@
+{
+  "$schema": "../../schema/harrys-room-record.schema.json",
+  "record_id": "HLR-26.0064",
+  "artifact_id": "26.0064",
+  "legacy_ids": [],
+  "title": "Tangent Beanie — “Smells Like Harry”",
+  "alternate_titles": [],
+  "slug": "26-0064-tangent-beanie-smells-like-harry",
+  "collection": "Harry’s Room — The Harry Leary Collection",
+  "room_zone": {
+    "id": "riders-wardrobe",
+    "label": "The Rider’s Wardrobe"
+  },
+  "record_type": "beanie",
+  "holding_status": "current-holding-as-presented",
+  "image_status": "direct",
+  "primary_image": "../../source/artifact-images/26-0064-tangent-beanie-smells-like-harry.png",
+  "secondary_images": [],
+  "source_pages": [
+    {
+      "source_label": "Original LititzBMX.com collection source 2",
+      "url": "https://sites.google.com/view/lititzbmxinventorylist/collections/the-harry-leary-collection-1/harry-leary-collection-2"
+    }
+  ],
+  "claim_status": "collection-attributed",
+  "description": "A worn Tangent beanie retained as a personal-material record. The supplied collection title includes the sensory and intimate note “Smells like Harry,” preserving the curator’s original description.",
+  "provenance_summary": "Presented as part of the Harry Leary Collection; acquisition detail was not supplied in this source package.",
+  "qualifications": [
+    "“Smells like Harry” is preserved as the collection’s descriptive wording, not presented as an independently verifiable material finding."
+  ],
+  "people": [
+    "Harry Leary"
+  ],
+  "organizations": [
+    "Tangent"
+  ],
+  "subjects": [
+    "beanie",
+    "personal object",
+    "sensory memory"
+  ],
+  "related_records": [
+    "26.0039",
+    "26.0040",
+    "26.0062"
+  ],
+  "cross_collection": null,
+  "release_version": "1.0.0",
+  "updated": "2026-07-23"
+}

@@ -1,0 +1,54 @@
+{
+  "$schema": "../../schema/harrys-room-record.schema.json",
+  "record_id": "HLR-26.0037",
+  "artifact_id": "26.0037",
+  "legacy_ids": [],
+  "title": "Cactus Park BMX State Qualifier “1st” Place Radical Rick Plaque",
+  "alternate_titles": [],
+  "slug": "26-0037-cactus-park-state-qualifier-radical-rick-plaque",
+  "collection": "Harry’s Room — The Harry Leary Collection",
+  "room_zone": {
+    "id": "trophy-case",
+    "label": "The Trophy Case"
+  },
+  "record_type": "plaque",
+  "holding_status": "current-holding-as-presented",
+  "image_status": "direct",
+  "primary_image": "../../source/artifact-images/26-0037-cactus-park-state-qualifier-radical-rick-plaque.png",
+  "secondary_images": [],
+  "source_pages": [
+    {
+      "source_label": "Original LititzBMX.com collection source 1",
+      "url": "https://sites.google.com/view/lititzbmxinventorylist/collections/the-harry-leary-collection-1"
+    }
+  ],
+  "claim_status": "source-supported",
+  "description": "A framed 2018 Cactus Park BMX State Championship Qualifier first-place plaque featuring Radical Rick artwork. The collection identifies it as the first of the Leary Locker purchases.",
+  "provenance_summary": "Identified by the collection as the first Leary Locker purchase.",
+  "qualifications": [
+    "The event, year and first-place designation are visible in the supplied photograph.",
+    "The “first Leary Locker purchase” statement is preserved from the collection description."
+  ],
+  "people": [
+    "Harry Leary"
+  ],
+  "organizations": [
+    "Cactus Park BMX",
+    "Radical Rick"
+  ],
+  "subjects": [
+    "2018",
+    "state qualifier",
+    "first place",
+    "Radical Rick",
+    "Leary Locker"
+  ],
+  "related_records": [
+    "26.0067",
+    "26.0053",
+    "26.0013"
+  ],
+  "cross_collection": null,
+  "release_version": "1.0.0",
+  "updated": "2026-07-23"
+}

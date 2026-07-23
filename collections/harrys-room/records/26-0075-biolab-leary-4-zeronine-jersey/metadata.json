@@ -1,0 +1,56 @@
+{
+  "$schema": "../../schema/harrys-room-record.schema.json",
+  "record_id": "HLR-26.0075",
+  "artifact_id": "26.0075",
+  "legacy_ids": [],
+  "title": "BIOLAB “Leary 4” Zeronine Jersey",
+  "alternate_titles": [],
+  "slug": "26-0075-biolab-leary-4-zeronine-jersey",
+  "collection": "Harry’s Room — The Harry Leary Collection",
+  "room_zone": {
+    "id": "riders-wardrobe",
+    "label": "The Rider’s Wardrobe"
+  },
+  "record_type": "jersey",
+  "holding_status": "current-holding-as-presented",
+  "image_status": "direct",
+  "primary_image": "../../source/artifact-images/26-0075-biolab-leary-4-zeronine-jersey.png",
+  "secondary_images": [],
+  "source_pages": [
+    {
+      "source_label": "Original LititzBMX.com collection source 2",
+      "url": "https://sites.google.com/view/lititzbmxinventorylist/collections/the-harry-leary-collection-1/harry-leary-collection-2"
+    }
+  ],
+  "claim_status": "source-supported",
+  "description": "A BIOLAB / Zeronine jersey marked “LEARY” and number 4. The collection pairs it with matching pants preserved as artifact 26.0076.",
+  "provenance_summary": "From the Leary Locker, as documented in the Digital Jersey Wall record.",
+  "qualifications": [
+    "The rider name, number and BIOLAB/Zeronine design are visible in the supplied image.",
+    "The paired-pants relationship is preserved from the supplied collection description."
+  ],
+  "people": [
+    "Harry Leary"
+  ],
+  "organizations": [
+    "BIOLAB Sciences",
+    "Zeronine Apparel"
+  ],
+  "subjects": [
+    "jersey",
+    "4",
+    "paired uniform",
+    "Leary Locker"
+  ],
+  "related_records": [
+    "26.0076",
+    "26.0023",
+    "26.0025"
+  ],
+  "cross_collection": {
+    "label": "Digital Jersey Wall",
+    "path": "../../../jersey-collection/records/26-0075-biolab-leary-4-zeronine-jersey/"
+  },
+  "release_version": "1.0.0",
+  "updated": "2026-07-23"
+}

@@ -6,6 +6,16 @@ Museum-style visual collections organizing related artifacts, provenance, learni
 
 ---
 
+## Harry’s Room — The Harry Leary Collection
+
+<p align="center"><a href="harrys-room/"><img src="harrys-room/source/photographs/physical-harrys-room.jpg" alt="Physical Harry Leary display area in the Lititz BMX collection" width="900"></a></p>
+
+**Harry’s Room** integrates 28 unique accession records into a single digital exhibit organized as a trophy case, rider’s wardrobe, workshop bench and memory wall. Two original source pages remain preserved in the provenance layer, but the public collection is presented as one expandable room.
+
+[Enter Harry’s Room](harrys-room/)
+
+---
+
 ## The Digital Jersey Wall
 
 <p align="center"><a href="jersey-collection/"><img src="jersey-collection/source/photographs/physical-jersey-wall-hero.jpg" alt="Lititz BMX physical jersey wall" width="900"></a></p>

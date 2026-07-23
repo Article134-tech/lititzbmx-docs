@@ -1,0 +1,58 @@
+{
+  "$schema": "../../schema/harrys-room-record.schema.json",
+  "record_id": "HLR-26.0023",
+  "artifact_id": "26.0023",
+  "legacy_ids": [],
+  "title": "Harry Leary BIOLAB / Peak Performance ROC 1 Jersey",
+  "alternate_titles": [],
+  "slug": "26-0023-harry-leary-biolab-peak-performance-roc-1-jersey",
+  "collection": "Harry’s Room — The Harry Leary Collection",
+  "room_zone": {
+    "id": "riders-wardrobe",
+    "label": "The Rider’s Wardrobe"
+  },
+  "record_type": "jersey",
+  "holding_status": "current-holding-as-presented",
+  "image_status": "direct",
+  "primary_image": "../../source/artifact-images/26-0023-harry-leary-biolab-peak-performance-roc-1-jersey.png",
+  "secondary_images": [],
+  "source_pages": [
+    {
+      "source_label": "Original LititzBMX.com collection source 1",
+      "url": "https://sites.google.com/view/lititzbmxinventorylist/collections/the-harry-leary-collection-1"
+    }
+  ],
+  "claim_status": "source-supported",
+  "description": "A red and orange BIOLAB / Peak Performance jersey marked “LEARY,” “ROC,” “NAG” and number 1. It joins championship status with later team and sponsor identity.",
+  "provenance_summary": "From the Leary Locker, as documented in the Digital Jersey Wall record.",
+  "qualifications": [
+    "The rider, number and sponsor markings are visible in the supplied image.",
+    "The Google Sites source misspelled “Performance” as “PERFORMNCE.” The public title is normalized while the original wording is documented."
+  ],
+  "people": [
+    "Harry Leary"
+  ],
+  "organizations": [
+    "BIOLAB Sciences",
+    "Peak Performance",
+    "Box Components",
+    "Zeronine"
+  ],
+  "subjects": [
+    "jersey",
+    "ROC 1",
+    "NAG 1",
+    "Leary Locker"
+  ],
+  "related_records": [
+    "26.0021",
+    "26.0075",
+    "26.0018"
+  ],
+  "cross_collection": {
+    "label": "Digital Jersey Wall",
+    "path": "../../../jersey-collection/records/26-0023-harry-leary-leary-biolab-roc-1-jersey/"
+  },
+  "release_version": "1.0.0",
+  "updated": "2026-07-23"
+}

@@ -1,0 +1,54 @@
+{
+  "$schema": "../../schema/harrys-room-record.schema.json",
+  "record_id": "HLR-26.0036",
+  "artifact_id": "26.0036",
+  "legacy_ids": [],
+  "title": "Dottie Ellis-Merki Letter and DIRTWERX Decal",
+  "alternate_titles": [],
+  "slug": "26-0036-dottie-ellis-merki-letter-and-dirtwerx-decal",
+  "collection": "Harry’s Room — The Harry Leary Collection",
+  "room_zone": {
+    "id": "memory-wall",
+    "label": "The Memory Wall"
+  },
+  "record_type": "correspondence and decal",
+  "holding_status": "current-holding-as-presented",
+  "image_status": "direct",
+  "primary_image": "../../source/artifact-images/26-0036-dottie-ellis-merki-letter-and-dirtwerx-decal.png",
+  "secondary_images": [],
+  "source_pages": [
+    {
+      "source_label": "Original LititzBMX.com collection source 1",
+      "url": "https://sites.google.com/view/lititzbmxinventorylist/collections/the-harry-leary-collection-1"
+    }
+  ],
+  "claim_status": "document-supported",
+  "description": "A framed handwritten letter from Dottie Ellis-Merki displayed with a DIRTWERX decal. The correspondence discusses the decal and a future memorial for Harry at Dirtyfest, preserving relationship and intent alongside the object.",
+  "provenance_summary": "Received from Dottie Ellis-Merki, as identified in the collection title and visible signature.",
+  "qualifications": [
+    "The letter and decal are directly pictured.",
+    "The handwriting has not been fully transcribed or independently authenticated in this release."
+  ],
+  "people": [
+    "Harry Leary",
+    "Dottie Ellis-Merki"
+  ],
+  "organizations": [
+    "DIRTWERX",
+    "Dirtyfest"
+  ],
+  "subjects": [
+    "letter",
+    "correspondence",
+    "decal",
+    "memorial"
+  ],
+  "related_records": [
+    "26.0063",
+    "26.0062",
+    "26.0051"
+  ],
+  "cross_collection": null,
+  "release_version": "1.0.0",
+  "updated": "2026-07-23"
+}

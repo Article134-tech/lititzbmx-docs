@@ -1,0 +1,52 @@
+{
+  "$schema": "../../schema/harrys-room-record.schema.json",
+  "record_id": "HLR-26.0013",
+  "artifact_id": "26.0013",
+  "legacy_ids": [],
+  "title": "2015 California State Qualifier, South Lake Tahoe, Third-Place Tin",
+  "alternate_titles": [],
+  "slug": "26-0013-2015-california-state-qualifier-third-place-tin",
+  "collection": "Harry’s Room — The Harry Leary Collection",
+  "room_zone": {
+    "id": "trophy-case",
+    "label": "The Trophy Case"
+  },
+  "record_type": "award",
+  "holding_status": "current-holding-as-presented",
+  "image_status": "direct",
+  "primary_image": "../../source/artifact-images/26-0013-2015-california-state-qualifier-third-place-tin.png",
+  "secondary_images": [],
+  "source_pages": [
+    {
+      "source_label": "Original LititzBMX.com collection source 2",
+      "url": "https://sites.google.com/view/lititzbmxinventorylist/collections/the-harry-leary-collection-1/harry-leary-collection-2"
+    }
+  ],
+  "claim_status": "mixed-source",
+  "description": "A 2015 California State Championship Qualifier award from South Lake Tahoe BMX, identified by the collection as Harry Leary’s third-place tin.",
+  "provenance_summary": "Presented as part of the Harry Leary Collection; acquisition detail was not supplied in this source package.",
+  "qualifications": [
+    "The event, year and South Lake Tahoe BMX wording are visible on the object.",
+    "The third-place result and Harry Leary attribution are preserved from the supplied collection description."
+  ],
+  "people": [
+    "Harry Leary"
+  ],
+  "organizations": [
+    "South Lake Tahoe BMX"
+  ],
+  "subjects": [
+    "2015",
+    "California State Qualifier",
+    "third place",
+    "award tin"
+  ],
+  "related_records": [
+    "26.0028",
+    "26.0037",
+    "26.0050"
+  ],
+  "cross_collection": null,
+  "release_version": "1.0.0",
+  "updated": "2026-07-23"
+}

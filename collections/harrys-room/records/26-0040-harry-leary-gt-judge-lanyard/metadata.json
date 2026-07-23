@@ -1,0 +1,51 @@
+{
+  "$schema": "../../schema/harrys-room-record.schema.json",
+  "record_id": "HLR-26.0040",
+  "artifact_id": "26.0040",
+  "legacy_ids": [],
+  "title": "Harry Leary GT Judge Lanyard",
+  "alternate_titles": [],
+  "slug": "26-0040-harry-leary-gt-judge-lanyard",
+  "collection": "Harry’s Room — The Harry Leary Collection",
+  "room_zone": {
+    "id": "riders-wardrobe",
+    "label": "The Rider’s Wardrobe"
+  },
+  "record_type": "credential",
+  "holding_status": "current-holding-as-presented",
+  "image_status": "direct",
+  "primary_image": "../../source/artifact-images/26-0040-harry-leary-gt-judge-lanyard.png",
+  "secondary_images": [],
+  "source_pages": [
+    {
+      "source_label": "Original LititzBMX.com collection source 2",
+      "url": "https://sites.google.com/view/lititzbmxinventorylist/collections/the-harry-leary-collection-1/harry-leary-collection-2"
+    }
+  ],
+  "claim_status": "inscription-supported",
+  "description": "A Gary Turner BMX lanyard and judge credential issued to Harry Leary for 20-inch 70–80 and 91-up classes. It documents a role in BMX beyond riding and racing.",
+  "provenance_summary": "Presented as part of the Harry Leary Collection; acquisition detail was not supplied in this source package.",
+  "qualifications": [
+    "The name, judge role and class ranges are visible on the credential."
+  ],
+  "people": [
+    "Harry Leary"
+  ],
+  "organizations": [
+    "Gary Turner BMX"
+  ],
+  "subjects": [
+    "judge",
+    "credential",
+    "lanyard",
+    "age-group classes"
+  ],
+  "related_records": [
+    "26.0050",
+    "26.0030",
+    "26.0064"
+  ],
+  "cross_collection": null,
+  "release_version": "1.0.0",
+  "updated": "2026-07-23"
+}

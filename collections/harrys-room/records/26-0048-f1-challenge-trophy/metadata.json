@@ -1,0 +1,59 @@
+{
+  "$schema": "../../schema/harrys-room-record.schema.json",
+  "record_id": "HLR-26.0048",
+  "artifact_id": "26.0048",
+  "legacy_ids": [],
+  "title": "The F-1 Challenge Trophy",
+  "alternate_titles": [],
+  "slug": "26-0048-f1-challenge-trophy",
+  "collection": "Harry’s Room — The Harry Leary Collection",
+  "room_zone": {
+    "id": "trophy-case",
+    "label": "The Trophy Case"
+  },
+  "record_type": "trophy",
+  "holding_status": "current-holding-as-presented",
+  "image_status": "direct",
+  "primary_image": "../../source/artifact-images/26-0048-f1-challenge-trophy-page-1.png",
+  "secondary_images": [
+    "../../source/artifact-images/26-0048-f1-challenge-trophy-page-2.png"
+  ],
+  "source_pages": [
+    {
+      "source_label": "Original LititzBMX.com collection source 1",
+      "url": "https://sites.google.com/view/lititzbmxinventorylist/collections/the-harry-leary-collection-1"
+    },
+    {
+      "source_label": "Original LititzBMX.com collection source 2",
+      "url": "https://sites.google.com/view/lititzbmxinventorylist/collections/the-harry-leary-collection-1/harry-leary-collection-2"
+    }
+  ],
+  "claim_status": "collection-attributed",
+  "description": "An ornate cup trophy presented in the source material as the 1986 title trophy for the 20-inch BMX format described as F1/F-1 racing. The same accession appeared on both original collection pages and is intentionally represented once in Harry’s Room.",
+  "provenance_summary": "Presented as part of the Harry Leary Collection; acquisition detail was not supplied in this source package.",
+  "qualifications": [
+    "The source uses both “F1” and “F-1”; both forms are preserved.",
+    "The two original Google Sites pages showed the same accession. Harry’s Room creates one record with two source-page references rather than duplicating the artifact.",
+    "The characterization as a title trophy for a 20-inch geared BMX format is preserved from the supplied collection description."
+  ],
+  "people": [
+    "Harry Leary"
+  ],
+  "organizations": [
+    "F-1 Challenge"
+  ],
+  "subjects": [
+    "1986",
+    "F1 racing",
+    "F-1 racing",
+    "title trophy"
+  ],
+  "related_records": [
+    "26.0067",
+    "26.0033",
+    "26.0028"
+  ],
+  "cross_collection": null,
+  "release_version": "1.0.0",
+  "updated": "2026-07-23"
+}

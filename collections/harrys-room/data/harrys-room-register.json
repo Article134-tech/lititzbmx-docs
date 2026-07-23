@@ -1,0 +1,1058 @@
+[
+  {
+    "record_id": "HLR-26.0067",
+    "artifact_id": "26.0067",
+    "legacy_ids": [
+      "67"
+    ],
+    "title": "1994 ABA Vet Pro Title Trophy",
+    "slug": "26-0067-1994-aba-vet-pro-title-trophy",
+    "record_path": "records/26-0067-1994-aba-vet-pro-title-trophy/",
+    "room_zone_id": "trophy-case",
+    "room_zone_label": "The Trophy Case",
+    "record_type": "trophy",
+    "holding_status": "current-holding-as-presented",
+    "image_status": "direct",
+    "primary_image": "source/artifact-images/26-0067-1994-aba-vet-pro-title-trophy.png",
+    "source_page_count": 1,
+    "source_pages": [
+      1
+    ],
+    "claim_status": "collection-attributed",
+    "people": [
+      "Harry Leary"
+    ],
+    "organizations": [
+      "American Bicycle Association (ABA)"
+    ],
+    "subjects": [
+      "1994",
+      "Vet Pro",
+      "championship",
+      "trophy"
+    ],
+    "related_records": [
+      "26.0037",
+      "26.0028",
+      "26.0033"
+    ],
+    "cross_collection_path": ""
+  },
+  {
+    "record_id": "HLR-26.0037",
+    "artifact_id": "26.0037",
+    "legacy_ids": [],
+    "title": "Cactus Park BMX State Qualifier “1st” Place Radical Rick Plaque",
+    "slug": "26-0037-cactus-park-state-qualifier-radical-rick-plaque",
+    "record_path": "records/26-0037-cactus-park-state-qualifier-radical-rick-plaque/",
+    "room_zone_id": "trophy-case",
+    "room_zone_label": "The Trophy Case",
+    "record_type": "plaque",
+    "holding_status": "current-holding-as-presented",
+    "image_status": "direct",
+    "primary_image": "source/artifact-images/26-0037-cactus-park-state-qualifier-radical-rick-plaque.png",
+    "source_page_count": 1,
+    "source_pages": [
+      1
+    ],
+    "claim_status": "source-supported",
+    "people": [
+      "Harry Leary"
+    ],
+    "organizations": [
+      "Cactus Park BMX",
+      "Radical Rick"
+    ],
+    "subjects": [
+      "2018",
+      "state qualifier",
+      "first place",
+      "Radical Rick",
+      "Leary Locker"
+    ],
+    "related_records": [
+      "26.0067",
+      "26.0053",
+      "26.0013"
+    ],
+    "cross_collection_path": ""
+  },
+  {
+    "record_id": "HLR-26.0048",
+    "artifact_id": "26.0048",
+    "legacy_ids": [],
+    "title": "The F-1 Challenge Trophy",
+    "slug": "26-0048-f1-challenge-trophy",
+    "record_path": "records/26-0048-f1-challenge-trophy/",
+    "room_zone_id": "trophy-case",
+    "room_zone_label": "The Trophy Case",
+    "record_type": "trophy",
+    "holding_status": "current-holding-as-presented",
+    "image_status": "direct",
+    "primary_image": "source/artifact-images/26-0048-f1-challenge-trophy-page-1.png",
+    "source_page_count": 2,
+    "source_pages": [
+      1,
+      2
+    ],
+    "claim_status": "collection-attributed",
+    "people": [
+      "Harry Leary"
+    ],
+    "organizations": [
+      "F-1 Challenge"
+    ],
+    "subjects": [
+      "1986",
+      "F1 racing",
+      "F-1 racing",
+      "title trophy"
+    ],
+    "related_records": [
+      "26.0067",
+      "26.0033",
+      "26.0028"
+    ],
+    "cross_collection_path": ""
+  },
+  {
+    "record_id": "HLR-26.0033",
+    "artifact_id": "26.0033",
+    "legacy_ids": [],
+    "title": "Supercross of BMX “Top Money Winner” Plaque",
+    "slug": "26-0033-supercross-of-bmx-top-money-winner-plaque",
+    "record_path": "records/26-0033-supercross-of-bmx-top-money-winner-plaque/",
+    "room_zone_id": "trophy-case",
+    "room_zone_label": "The Trophy Case",
+    "record_type": "plaque",
+    "holding_status": "current-holding-as-presented",
+    "image_status": "direct",
+    "primary_image": "source/artifact-images/26-0033-supercross-of-bmx-top-money-winner-plaque.png",
+    "source_page_count": 1,
+    "source_pages": [
+      2
+    ],
+    "claim_status": "inscription-supported",
+    "people": [
+      "Harry Leary"
+    ],
+    "organizations": [
+      "Supercross of BMX",
+      "North Carolina State Fairgrounds"
+    ],
+    "subjects": [
+      "1985",
+      "top money winner",
+      "plaque",
+      "Raleigh North Carolina"
+    ],
+    "related_records": [
+      "26.0048",
+      "26.0067",
+      "26.0034"
+    ],
+    "cross_collection_path": ""
+  },
+  {
+    "record_id": "HLR-26.0028",
+    "artifact_id": "26.0028",
+    "legacy_ids": [],
+    "title": "2000 ABA Third-Place Plaque",
+    "slug": "26-0028-2000-aba-third-place-vet-pro-plaque",
+    "record_path": "records/26-0028-2000-aba-third-place-vet-pro-plaque/",
+    "room_zone_id": "trophy-case",
+    "room_zone_label": "The Trophy Case",
+    "record_type": "plaque",
+    "holding_status": "current-holding-as-presented",
+    "image_status": "direct",
+    "primary_image": "source/artifact-images/26-0028-2000-aba-third-place-vet-pro-plaque.png",
+    "source_page_count": 1,
+    "source_pages": [
+      1
+    ],
+    "claim_status": "inscription-supported",
+    "people": [
+      "Harry Leary"
+    ],
+    "organizations": [
+      "American Bicycle Association (ABA)"
+    ],
+    "subjects": [
+      "2000",
+      "Vet Pro",
+      "National number three",
+      "plaque"
+    ],
+    "related_records": [
+      "26.0067",
+      "26.0037",
+      "26.0013"
+    ],
+    "cross_collection_path": ""
+  },
+  {
+    "record_id": "HLR-26.0053",
+    "artifact_id": "26.0053",
+    "legacy_ids": [],
+    "title": "Race Against Drugs “Harry Leary” Plaque",
+    "slug": "26-0053-race-against-drugs-harry-leary-plaque",
+    "record_path": "records/26-0053-race-against-drugs-harry-leary-plaque/",
+    "room_zone_id": "trophy-case",
+    "room_zone_label": "The Trophy Case",
+    "record_type": "plaque",
+    "holding_status": "current-holding-as-presented",
+    "image_status": "direct",
+    "primary_image": "source/artifact-images/26-0053-race-against-drugs-harry-leary-plaque.png",
+    "source_page_count": 1,
+    "source_pages": [
+      1
+    ],
+    "claim_status": "inscription-supported",
+    "people": [
+      "Harry Leary"
+    ],
+    "organizations": [
+      "RAD — Race Against Drugs",
+      "OASIS",
+      "Nabisco Brands"
+    ],
+    "subjects": [
+      "1989",
+      "drug-free advocacy",
+      "public service",
+      "plaque"
+    ],
+    "related_records": [
+      "26.0037",
+      "26.0036",
+      "26.0065"
+    ],
+    "cross_collection_path": ""
+  },
+  {
+    "record_id": "HLR-26.0034",
+    "artifact_id": "26.0034",
+    "legacy_ids": [],
+    "title": "2003 World 4-Stroke MX Championship Second-Place Award",
+    "slug": "26-0034-2003-world-4-stroke-mx-championship-second-place-award",
+    "record_path": "records/26-0034-2003-world-4-stroke-mx-championship-second-place-award/",
+    "room_zone_id": "trophy-case",
+    "room_zone_label": "The Trophy Case",
+    "record_type": "award",
+    "holding_status": "current-holding-as-presented",
+    "image_status": "direct",
+    "primary_image": "source/artifact-images/26-0034-2003-world-4-stroke-mx-championship-second-place-award.png",
+    "source_page_count": 1,
+    "source_pages": [
+      2
+    ],
+    "claim_status": "inscription-supported",
+    "people": [
+      "Harry Leary"
+    ],
+    "organizations": [
+      "White Bros.",
+      "World 4-Stroke MX Championship"
+    ],
+    "subjects": [
+      "2003",
+      "motocross",
+      "second place",
+      "award"
+    ],
+    "related_records": [
+      "26.0039",
+      "26.0033",
+      "26.0067"
+    ],
+    "cross_collection_path": ""
+  },
+  {
+    "record_id": "HLR-26.0013",
+    "artifact_id": "26.0013",
+    "legacy_ids": [],
+    "title": "2015 California State Qualifier, South Lake Tahoe, Third-Place Tin",
+    "slug": "26-0013-2015-california-state-qualifier-third-place-tin",
+    "record_path": "records/26-0013-2015-california-state-qualifier-third-place-tin/",
+    "room_zone_id": "trophy-case",
+    "room_zone_label": "The Trophy Case",
+    "record_type": "award",
+    "holding_status": "current-holding-as-presented",
+    "image_status": "direct",
+    "primary_image": "source/artifact-images/26-0013-2015-california-state-qualifier-third-place-tin.png",
+    "source_page_count": 1,
+    "source_pages": [
+      2
+    ],
+    "claim_status": "mixed-source",
+    "people": [
+      "Harry Leary"
+    ],
+    "organizations": [
+      "South Lake Tahoe BMX"
+    ],
+    "subjects": [
+      "2015",
+      "California State Qualifier",
+      "third place",
+      "award tin"
+    ],
+    "related_records": [
+      "26.0028",
+      "26.0037",
+      "26.0050"
+    ],
+    "cross_collection_path": ""
+  },
+  {
+    "record_id": "HLR-26.0030",
+    "artifact_id": "26.0030",
+    "legacy_ids": [],
+    "title": "Harry Leary’s 2017 UCI Worlds Championship Helmet",
+    "slug": "26-0030-harry-leary-2017-uci-worlds-championship-helmet",
+    "record_path": "records/26-0030-harry-leary-2017-uci-worlds-championship-helmet/",
+    "room_zone_id": "riders-wardrobe",
+    "room_zone_label": "The Rider’s Wardrobe",
+    "record_type": "helmet",
+    "holding_status": "current-holding-as-presented",
+    "image_status": "direct",
+    "primary_image": "source/artifact-images/26-0030-harry-leary-2017-uci-worlds-championship-helmet.png",
+    "source_page_count": 1,
+    "source_pages": [
+      1
+    ],
+    "claim_status": "visual-comparison-attribution",
+    "people": [
+      "Harry Leary",
+      "Greg Mathias"
+    ],
+    "organizations": [
+      "UCI",
+      "Fly Racing"
+    ],
+    "subjects": [
+      "2017",
+      "UCI Worlds",
+      "helmet",
+      "visual comparison"
+    ],
+    "related_records": [
+      "26.0062",
+      "26.0040",
+      "26.0050"
+    ],
+    "cross_collection_path": ""
+  },
+  {
+    "record_id": "HLR-26.0062",
+    "artifact_id": "26.0062",
+    "legacy_ids": [],
+    "title": "Harry Leary “Harry” DIRTWERX Helmet",
+    "slug": "26-0062-harry-leary-dirtwerx-helmet",
+    "record_path": "records/26-0062-harry-leary-dirtwerx-helmet/",
+    "room_zone_id": "riders-wardrobe",
+    "room_zone_label": "The Rider’s Wardrobe",
+    "record_type": "helmet",
+    "holding_status": "current-holding-as-presented",
+    "image_status": "direct",
+    "primary_image": "source/artifact-images/26-0062-harry-leary-dirtwerx-helmet.png",
+    "source_page_count": 1,
+    "source_pages": [
+      2
+    ],
+    "claim_status": "collection-attributed",
+    "people": [
+      "Harry Leary"
+    ],
+    "organizations": [
+      "DIRTWERX"
+    ],
+    "subjects": [
+      "helmet",
+      "DIRTWERX",
+      "personal gear"
+    ],
+    "related_records": [
+      "26.0063",
+      "26.0036",
+      "26.0030"
+    ],
+    "cross_collection_path": ""
+  },
+  {
+    "record_id": "HLR-26.0018",
+    "artifact_id": "26.0018",
+    "legacy_ids": [],
+    "title": "Harry Leary “Leary 81” Redman Jersey",
+    "slug": "26-0018-harry-leary-leary-81-redman-jersey",
+    "record_path": "records/26-0018-harry-leary-leary-81-redman-jersey/",
+    "room_zone_id": "riders-wardrobe",
+    "room_zone_label": "The Rider’s Wardrobe",
+    "record_type": "jersey",
+    "holding_status": "current-holding-as-presented",
+    "image_status": "direct",
+    "primary_image": "source/artifact-images/26-0018-harry-leary-leary-81-redman-jersey.png",
+    "source_page_count": 1,
+    "source_pages": [
+      1
+    ],
+    "claim_status": "collection-attributed",
+    "people": [
+      "Harry Leary"
+    ],
+    "organizations": [
+      "Redman"
+    ],
+    "subjects": [
+      "jersey",
+      "81",
+      "team identity",
+      "Leary Locker"
+    ],
+    "related_records": [
+      "26.0021",
+      "26.0023",
+      "26.0025"
+    ],
+    "cross_collection_path": "../../../jersey-collection/records/26-0018-harry-leary-leary-81-redman-jersey/"
+  },
+  {
+    "record_id": "HLR-26.0021",
+    "artifact_id": "26.0021",
+    "legacy_ids": [],
+    "title": "Harry Leary Thrill ROC 1 Jersey",
+    "slug": "26-0021-harry-leary-thrill-roc-1-jersey",
+    "record_path": "records/26-0021-harry-leary-thrill-roc-1-jersey/",
+    "room_zone_id": "riders-wardrobe",
+    "room_zone_label": "The Rider’s Wardrobe",
+    "record_type": "jersey",
+    "holding_status": "current-holding-as-presented",
+    "image_status": "direct",
+    "primary_image": "source/artifact-images/26-0021-harry-leary-thrill-roc-1-jersey.png",
+    "source_page_count": 1,
+    "source_pages": [
+      1
+    ],
+    "claim_status": "source-supported",
+    "people": [
+      "Harry Leary"
+    ],
+    "organizations": [
+      "Thrill",
+      "Box Components"
+    ],
+    "subjects": [
+      "jersey",
+      "ROC 1",
+      "Race of Champions",
+      "Leary Locker"
+    ],
+    "related_records": [
+      "26.0023",
+      "26.0018",
+      "26.0075"
+    ],
+    "cross_collection_path": "../../../jersey-collection/records/26-0021-leary-thrill-roc-1-jersey/"
+  },
+  {
+    "record_id": "HLR-26.0023",
+    "artifact_id": "26.0023",
+    "legacy_ids": [],
+    "title": "Harry Leary BIOLAB / Peak Performance ROC 1 Jersey",
+    "slug": "26-0023-harry-leary-biolab-peak-performance-roc-1-jersey",
+    "record_path": "records/26-0023-harry-leary-biolab-peak-performance-roc-1-jersey/",
+    "room_zone_id": "riders-wardrobe",
+    "room_zone_label": "The Rider’s Wardrobe",
+    "record_type": "jersey",
+    "holding_status": "current-holding-as-presented",
+    "image_status": "direct",
+    "primary_image": "source/artifact-images/26-0023-harry-leary-biolab-peak-performance-roc-1-jersey.png",
+    "source_page_count": 1,
+    "source_pages": [
+      1
+    ],
+    "claim_status": "source-supported",
+    "people": [
+      "Harry Leary"
+    ],
+    "organizations": [
+      "BIOLAB Sciences",
+      "Peak Performance",
+      "Box Components",
+      "Zeronine"
+    ],
+    "subjects": [
+      "jersey",
+      "ROC 1",
+      "NAG 1",
+      "Leary Locker"
+    ],
+    "related_records": [
+      "26.0021",
+      "26.0075",
+      "26.0018"
+    ],
+    "cross_collection_path": "../../../jersey-collection/records/26-0023-harry-leary-leary-biolab-roc-1-jersey/"
+  },
+  {
+    "record_id": "HLR-26.0025",
+    "artifact_id": "26.0025",
+    "legacy_ids": [],
+    "title": "Harry Leary Fasthouse “4” Jersey",
+    "slug": "26-0025-harry-leary-fasthouse-4-jersey",
+    "record_path": "records/26-0025-harry-leary-fasthouse-4-jersey/",
+    "room_zone_id": "riders-wardrobe",
+    "room_zone_label": "The Rider’s Wardrobe",
+    "record_type": "jersey",
+    "holding_status": "current-holding-as-presented",
+    "image_status": "direct",
+    "primary_image": "source/artifact-images/26-0025-harry-leary-fasthouse-4-jersey.png",
+    "source_page_count": 1,
+    "source_pages": [
+      2
+    ],
+    "claim_status": "source-supported",
+    "people": [
+      "Harry Leary"
+    ],
+    "organizations": [
+      "Fasthouse Speed Shop"
+    ],
+    "subjects": [
+      "jersey",
+      "4",
+      "team identity",
+      "Leary Locker"
+    ],
+    "related_records": [
+      "26.0075",
+      "26.0063",
+      "26.0018"
+    ],
+    "cross_collection_path": "../../../jersey-collection/records/26-0025-leary-fasthouse-4-jersey/"
+  },
+  {
+    "record_id": "HLR-26.0063",
+    "artifact_id": "26.0063",
+    "legacy_ids": [],
+    "title": "Harry Leary DIRTWERX Jersey",
+    "slug": "26-0063-harry-leary-dirtwerx-jersey",
+    "record_path": "records/26-0063-harry-leary-dirtwerx-jersey/",
+    "room_zone_id": "riders-wardrobe",
+    "room_zone_label": "The Rider’s Wardrobe",
+    "record_type": "jersey",
+    "holding_status": "current-holding-as-presented",
+    "image_status": "direct",
+    "primary_image": "source/artifact-images/26-0063-harry-leary-dirtwerx-jersey.png",
+    "source_page_count": 1,
+    "source_pages": [
+      2
+    ],
+    "claim_status": "source-supported",
+    "people": [
+      "Harry Leary"
+    ],
+    "organizations": [
+      "DIRTWERX"
+    ],
+    "subjects": [
+      "jersey",
+      "DIRTWERX",
+      "Leary Locker"
+    ],
+    "related_records": [
+      "26.0062",
+      "26.0036",
+      "26.0025"
+    ],
+    "cross_collection_path": "../../../jersey-collection/records/26-0063-harry-leary-dirtwerx-jersey/"
+  },
+  {
+    "record_id": "HLR-26.0039",
+    "artifact_id": "26.0039",
+    "legacy_ids": [],
+    "title": "Harry Leary’s Honda Jersey",
+    "slug": "26-0039-harry-leary-honda-jersey",
+    "record_path": "records/26-0039-harry-leary-honda-jersey/",
+    "room_zone_id": "riders-wardrobe",
+    "room_zone_label": "The Rider’s Wardrobe",
+    "record_type": "jersey",
+    "holding_status": "current-holding-as-presented",
+    "image_status": "direct",
+    "primary_image": "source/artifact-images/26-0039-harry-leary-honda-jersey.png",
+    "source_page_count": 1,
+    "source_pages": [
+      1
+    ],
+    "claim_status": "collection-attributed",
+    "people": [
+      "Harry Leary"
+    ],
+    "organizations": [
+      "Honda",
+      "Fox Racing"
+    ],
+    "subjects": [
+      "jersey",
+      "Honda",
+      "motorcycles",
+      "ATVs"
+    ],
+    "related_records": [
+      "26.0034",
+      "26.0030",
+      "26.0064"
+    ],
+    "cross_collection_path": ""
+  },
+  {
+    "record_id": "HLR-26.0064",
+    "artifact_id": "26.0064",
+    "legacy_ids": [],
+    "title": "Tangent Beanie — “Smells Like Harry”",
+    "slug": "26-0064-tangent-beanie-smells-like-harry",
+    "record_path": "records/26-0064-tangent-beanie-smells-like-harry/",
+    "room_zone_id": "riders-wardrobe",
+    "room_zone_label": "The Rider’s Wardrobe",
+    "record_type": "beanie",
+    "holding_status": "current-holding-as-presented",
+    "image_status": "direct",
+    "primary_image": "source/artifact-images/26-0064-tangent-beanie-smells-like-harry.png",
+    "source_page_count": 1,
+    "source_pages": [
+      2
+    ],
+    "claim_status": "collection-attributed",
+    "people": [
+      "Harry Leary"
+    ],
+    "organizations": [
+      "Tangent"
+    ],
+    "subjects": [
+      "beanie",
+      "personal object",
+      "sensory memory"
+    ],
+    "related_records": [
+      "26.0039",
+      "26.0040",
+      "26.0062"
+    ],
+    "cross_collection_path": ""
+  },
+  {
+    "record_id": "HLR-26.0040",
+    "artifact_id": "26.0040",
+    "legacy_ids": [],
+    "title": "Harry Leary GT Judge Lanyard",
+    "slug": "26-0040-harry-leary-gt-judge-lanyard",
+    "record_path": "records/26-0040-harry-leary-gt-judge-lanyard/",
+    "room_zone_id": "riders-wardrobe",
+    "room_zone_label": "The Rider’s Wardrobe",
+    "record_type": "credential",
+    "holding_status": "current-holding-as-presented",
+    "image_status": "direct",
+    "primary_image": "source/artifact-images/26-0040-harry-leary-gt-judge-lanyard.png",
+    "source_page_count": 1,
+    "source_pages": [
+      2
+    ],
+    "claim_status": "inscription-supported",
+    "people": [
+      "Harry Leary"
+    ],
+    "organizations": [
+      "Gary Turner BMX"
+    ],
+    "subjects": [
+      "judge",
+      "credential",
+      "lanyard",
+      "age-group classes"
+    ],
+    "related_records": [
+      "26.0050",
+      "26.0030",
+      "26.0064"
+    ],
+    "cross_collection_path": ""
+  },
+  {
+    "record_id": "HLR-26.0050",
+    "artifact_id": "26.0050",
+    "legacy_ids": [],
+    "title": "Harry Leary Fall Risk Racing 2023 Number-Plate Decal",
+    "slug": "26-0050-harry-leary-fall-risk-racing-2023-number-plate-decal",
+    "record_path": "records/26-0050-harry-leary-fall-risk-racing-2023-number-plate-decal/",
+    "room_zone_id": "riders-wardrobe",
+    "room_zone_label": "The Rider’s Wardrobe",
+    "record_type": "number-plate decal",
+    "holding_status": "current-holding-as-presented",
+    "image_status": "direct",
+    "primary_image": "source/artifact-images/26-0050-harry-leary-fall-risk-racing-2023-number-plate-decal.png",
+    "source_page_count": 1,
+    "source_pages": [
+      2
+    ],
+    "claim_status": "mixed-source",
+    "people": [
+      "Harry Leary"
+    ],
+    "organizations": [
+      "Fall Risk Racing"
+    ],
+    "subjects": [
+      "2023",
+      "number plate",
+      "race identity",
+      "Fall Risk Racing"
+    ],
+    "related_records": [
+      "26.0040",
+      "26.0013",
+      "26.0030"
+    ],
+    "cross_collection_path": ""
+  },
+  {
+    "record_id": "HLR-26.0075",
+    "artifact_id": "26.0075",
+    "legacy_ids": [],
+    "title": "BIOLAB “Leary 4” Zeronine Jersey",
+    "slug": "26-0075-biolab-leary-4-zeronine-jersey",
+    "record_path": "records/26-0075-biolab-leary-4-zeronine-jersey/",
+    "room_zone_id": "riders-wardrobe",
+    "room_zone_label": "The Rider’s Wardrobe",
+    "record_type": "jersey",
+    "holding_status": "current-holding-as-presented",
+    "image_status": "direct",
+    "primary_image": "source/artifact-images/26-0075-biolab-leary-4-zeronine-jersey.png",
+    "source_page_count": 1,
+    "source_pages": [
+      2
+    ],
+    "claim_status": "source-supported",
+    "people": [
+      "Harry Leary"
+    ],
+    "organizations": [
+      "BIOLAB Sciences",
+      "Zeronine Apparel"
+    ],
+    "subjects": [
+      "jersey",
+      "4",
+      "paired uniform",
+      "Leary Locker"
+    ],
+    "related_records": [
+      "26.0076",
+      "26.0023",
+      "26.0025"
+    ],
+    "cross_collection_path": "../../../jersey-collection/records/26-0075-biolab-leary-4-zeronine-jersey/"
+  },
+  {
+    "record_id": "HLR-26.0076",
+    "artifact_id": "26.0076",
+    "legacy_ids": [],
+    "title": "BIOLAB “Harry” Zeronine Pants",
+    "slug": "26-0076-biolab-harry-zeronine-pants",
+    "record_path": "records/26-0076-biolab-harry-zeronine-pants/",
+    "room_zone_id": "riders-wardrobe",
+    "room_zone_label": "The Rider’s Wardrobe",
+    "record_type": "racing pants",
+    "holding_status": "current-holding-as-presented",
+    "image_status": "context-only",
+    "primary_image": "source/artifact-images/26-0076-biolab-harry-zeronine-pants-context.png",
+    "source_page_count": 1,
+    "source_pages": [
+      2
+    ],
+    "claim_status": "collection-attributed",
+    "people": [
+      "Harry Leary"
+    ],
+    "organizations": [
+      "BIOLAB Sciences",
+      "Zeronine Apparel"
+    ],
+    "subjects": [
+      "racing pants",
+      "paired uniform",
+      "image gap"
+    ],
+    "related_records": [
+      "26.0075",
+      "26.0023",
+      "26.0025"
+    ],
+    "cross_collection_path": ""
+  },
+  {
+    "record_id": "HLR-26.0046",
+    "artifact_id": "26.0046",
+    "legacy_ids": [],
+    "title": "Harry Leary’s Toolbox",
+    "slug": "26-0046-harry-leary-toolbox",
+    "record_path": "records/26-0046-harry-leary-toolbox/",
+    "room_zone_id": "workshop-bench",
+    "room_zone_label": "The Workshop Bench",
+    "record_type": "toolbox",
+    "holding_status": "current-holding-as-presented",
+    "image_status": "direct",
+    "primary_image": "source/artifact-images/26-0046-harry-leary-toolbox.png",
+    "source_page_count": 1,
+    "source_pages": [
+      1
+    ],
+    "claim_status": "collection-attributed",
+    "people": [
+      "Harry Leary"
+    ],
+    "organizations": [
+      "Honda",
+      "FMF",
+      "Renthal"
+    ],
+    "subjects": [
+      "toolbox",
+      "workshop",
+      "personal equipment"
+    ],
+    "related_records": [
+      "26.0038",
+      "26.0052",
+      "26.0045"
+    ],
+    "cross_collection_path": ""
+  },
+  {
+    "record_id": "HLR-26.0038",
+    "artifact_id": "26.0038",
+    "legacy_ids": [],
+    "title": "Harry Leary Specialized Hemi Frame Signed Twice by Jeremy McGrath",
+    "slug": "26-0038-harry-leary-specialized-hemi-frame-jeremy-mcgrath-signatures",
+    "record_path": "records/26-0038-harry-leary-specialized-hemi-frame-jeremy-mcgrath-signatures/",
+    "room_zone_id": "workshop-bench",
+    "room_zone_label": "The Workshop Bench",
+    "record_type": "bicycle frame",
+    "holding_status": "current-holding-as-presented",
+    "image_status": "direct",
+    "primary_image": "source/artifact-images/26-0038-harry-leary-specialized-hemi-frame-jeremy-mcgrath-signatures.png",
+    "source_page_count": 1,
+    "source_pages": [
+      1
+    ],
+    "claim_status": "collection-attributed",
+    "people": [
+      "Harry Leary",
+      "Jeremy McGrath"
+    ],
+    "organizations": [
+      "Specialized"
+    ],
+    "subjects": [
+      "bicycle frame",
+      "Hemi",
+      "signature",
+      "action sports"
+    ],
+    "related_records": [
+      "26.0046",
+      "26.0052",
+      "26.0039"
+    ],
+    "cross_collection_path": ""
+  },
+  {
+    "record_id": "HLR-26.0052",
+    "artifact_id": "26.0052",
+    "legacy_ids": [],
+    "title": "Damaged Daylight HLT4 Frame — The Last HLT4",
+    "slug": "26-0052-damaged-daylight-hlt4-frame-last-hlt4",
+    "record_path": "records/26-0052-damaged-daylight-hlt4-frame-last-hlt4/",
+    "room_zone_id": "workshop-bench",
+    "room_zone_label": "The Workshop Bench",
+    "record_type": "bicycle frame",
+    "holding_status": "current-holding-as-presented",
+    "image_status": "direct",
+    "primary_image": "source/artifact-images/26-0052-damaged-daylight-hlt4-frame-last-hlt4.png",
+    "source_page_count": 1,
+    "source_pages": [
+      2
+    ],
+    "claim_status": "collection-attributed",
+    "people": [
+      "Harry Leary"
+    ],
+    "organizations": [
+      "Daylight"
+    ],
+    "subjects": [
+      "bicycle frame",
+      "HLT4",
+      "HL Turbo 4",
+      "damage"
+    ],
+    "related_records": [
+      "26.0038",
+      "26.0045",
+      "26.0046"
+    ],
+    "cross_collection_path": ""
+  },
+  {
+    "record_id": "HLR-26.0045",
+    "artifact_id": "26.0045",
+    "legacy_ids": [],
+    "title": "GHP Cruiser Bars with “15” Plate",
+    "slug": "26-0045-ghp-cruiser-bars-with-15-plate",
+    "record_path": "records/26-0045-ghp-cruiser-bars-with-15-plate/",
+    "room_zone_id": "workshop-bench",
+    "room_zone_label": "The Workshop Bench",
+    "record_type": "handlebars and number plate",
+    "holding_status": "current-holding-as-presented",
+    "image_status": "direct",
+    "primary_image": "source/artifact-images/26-0045-ghp-cruiser-bars-with-15-plate.png",
+    "source_page_count": 1,
+    "source_pages": [
+      2
+    ],
+    "claim_status": "attributed-unresolved",
+    "people": [
+      "Harry Leary",
+      "Greg Hill"
+    ],
+    "organizations": [
+      "GHP",
+      "Tangent"
+    ],
+    "subjects": [
+      "handlebars",
+      "number 15",
+      "active research",
+      "provenance gap"
+    ],
+    "related_records": [
+      "26.0052",
+      "26.0046",
+      "26.0050"
+    ],
+    "cross_collection_path": ""
+  },
+  {
+    "record_id": "HLR-26.0036",
+    "artifact_id": "26.0036",
+    "legacy_ids": [],
+    "title": "Dottie Ellis-Merki Letter and DIRTWERX Decal",
+    "slug": "26-0036-dottie-ellis-merki-letter-and-dirtwerx-decal",
+    "record_path": "records/26-0036-dottie-ellis-merki-letter-and-dirtwerx-decal/",
+    "room_zone_id": "memory-wall",
+    "room_zone_label": "The Memory Wall",
+    "record_type": "correspondence and decal",
+    "holding_status": "current-holding-as-presented",
+    "image_status": "direct",
+    "primary_image": "source/artifact-images/26-0036-dottie-ellis-merki-letter-and-dirtwerx-decal.png",
+    "source_page_count": 1,
+    "source_pages": [
+      1
+    ],
+    "claim_status": "document-supported",
+    "people": [
+      "Harry Leary",
+      "Dottie Ellis-Merki"
+    ],
+    "organizations": [
+      "DIRTWERX",
+      "Dirtyfest"
+    ],
+    "subjects": [
+      "letter",
+      "correspondence",
+      "decal",
+      "memorial"
+    ],
+    "related_records": [
+      "26.0063",
+      "26.0062",
+      "26.0051"
+    ],
+    "cross_collection_path": ""
+  },
+  {
+    "record_id": "HLR-26.0065",
+    "artifact_id": "26.0065",
+    "legacy_ids": [],
+    "title": "Photograph of Harry Leary and Eddy King at the NORA Cup",
+    "slug": "26-0065-harry-leary-eddy-king-nora-cup-photograph",
+    "record_path": "records/26-0065-harry-leary-eddy-king-nora-cup-photograph/",
+    "room_zone_id": "memory-wall",
+    "room_zone_label": "The Memory Wall",
+    "record_type": "photograph",
+    "holding_status": "current-holding-as-presented",
+    "image_status": "direct",
+    "primary_image": "source/artifact-images/26-0065-harry-leary-eddy-king-nora-cup-photograph.png",
+    "source_page_count": 1,
+    "source_pages": [
+      1
+    ],
+    "claim_status": "collection-attributed",
+    "people": [
+      "Harry Leary",
+      "Eddy King"
+    ],
+    "organizations": [
+      "BMX Action NORA Cup"
+    ],
+    "subjects": [
+      "photograph",
+      "NORA Cup",
+      "friendship",
+      "riders"
+    ],
+    "related_records": [
+      "26.0051",
+      "26.0036",
+      "26.0053"
+    ],
+    "cross_collection_path": ""
+  },
+  {
+    "record_id": "HLR-26.0051",
+    "artifact_id": "26.0051",
+    "legacy_ids": [],
+    "title": "Linda and Harry Leary Signed Copy",
+    "slug": "26-0051-linda-and-harry-leary-signed-copy",
+    "record_path": "records/26-0051-linda-and-harry-leary-signed-copy/",
+    "room_zone_id": "memory-wall",
+    "room_zone_label": "The Memory Wall",
+    "record_type": "signed photograph or copy",
+    "holding_status": "current-holding-as-presented",
+    "image_status": "direct",
+    "primary_image": "source/artifact-images/26-0051-linda-and-harry-leary-signed-copy.png",
+    "source_page_count": 1,
+    "source_pages": [
+      1
+    ],
+    "claim_status": "collection-attributed",
+    "people": [
+      "Harry Leary",
+      "Linda Leary Taylor"
+    ],
+    "organizations": [],
+    "subjects": [
+      "signed copy",
+      "photograph",
+      "relationship",
+      "related artifacts"
+    ],
+    "related_records": [
+      "26.0065",
+      "26.0036",
+      "26.0038"
+    ],
+    "cross_collection_path": ""
+  }
+]

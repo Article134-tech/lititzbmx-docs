@@ -1,0 +1,54 @@
+{
+  "$schema": "../../schema/harrys-room-record.schema.json",
+  "record_id": "HLR-26.0025",
+  "artifact_id": "26.0025",
+  "legacy_ids": [],
+  "title": "Harry Leary Fasthouse “4” Jersey",
+  "alternate_titles": [],
+  "slug": "26-0025-harry-leary-fasthouse-4-jersey",
+  "collection": "Harry’s Room — The Harry Leary Collection",
+  "room_zone": {
+    "id": "riders-wardrobe",
+    "label": "The Rider’s Wardrobe"
+  },
+  "record_type": "jersey",
+  "holding_status": "current-holding-as-presented",
+  "image_status": "direct",
+  "primary_image": "../../source/artifact-images/26-0025-harry-leary-fasthouse-4-jersey.png",
+  "secondary_images": [],
+  "source_pages": [
+    {
+      "source_label": "Original LititzBMX.com collection source 2",
+      "url": "https://sites.google.com/view/lititzbmxinventorylist/collections/the-harry-leary-collection-1/harry-leary-collection-2"
+    }
+  ],
+  "claim_status": "source-supported",
+  "description": "A black and yellow Fasthouse Speed Shop jersey marked “LEARY” and number 4. It preserves a distinct team and visual chapter within the room’s rider-identity display.",
+  "provenance_summary": "From the Leary Locker, as documented in the Digital Jersey Wall record.",
+  "qualifications": [
+    "The rider name, number and Fasthouse branding are visible in the supplied image."
+  ],
+  "people": [
+    "Harry Leary"
+  ],
+  "organizations": [
+    "Fasthouse Speed Shop"
+  ],
+  "subjects": [
+    "jersey",
+    "4",
+    "team identity",
+    "Leary Locker"
+  ],
+  "related_records": [
+    "26.0075",
+    "26.0063",
+    "26.0018"
+  ],
+  "cross_collection": {
+    "label": "Digital Jersey Wall",
+    "path": "../../../jersey-collection/records/26-0025-leary-fasthouse-4-jersey/"
+  },
+  "release_version": "1.0.0",
+  "updated": "2026-07-23"
+}

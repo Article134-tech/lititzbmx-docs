@@ -1,0 +1,62 @@
+[
+  {
+    "id": "trophy-case",
+    "label": "The Trophy Case",
+    "subtitle": "Championships, recognition and public service",
+    "intro": "Awards and plaques connect the room to specific seasons, events, titles and moments when BMX reached beyond the track.",
+    "records": [
+      "26.0067",
+      "26.0037",
+      "26.0048",
+      "26.0033",
+      "26.0028",
+      "26.0053",
+      "26.0034",
+      "26.0013"
+    ]
+  },
+  {
+    "id": "riders-wardrobe",
+    "label": "The Rider’s Wardrobe",
+    "subtitle": "Jerseys, helmets and race identity",
+    "intro": "Wearable objects preserve team identity, rider numbers, personal habits and the visual language of Harry Leary’s later BMX life.",
+    "records": [
+      "26.0030",
+      "26.0062",
+      "26.0018",
+      "26.0021",
+      "26.0023",
+      "26.0025",
+      "26.0063",
+      "26.0039",
+      "26.0064",
+      "26.0040",
+      "26.0050",
+      "26.0075",
+      "26.0076"
+    ]
+  },
+  {
+    "id": "workshop-bench",
+    "label": "The Workshop Bench",
+    "subtitle": "Frames, bars and tools",
+    "intro": "The workshop objects show history as something built, adjusted, damaged, carried and kept in motion rather than merely displayed.",
+    "records": [
+      "26.0046",
+      "26.0038",
+      "26.0052",
+      "26.0045"
+    ]
+  },
+  {
+    "id": "memory-wall",
+    "label": "The Memory Wall",
+    "subtitle": "Correspondence, photographs and relationships",
+    "intro": "Letters, signed photographs and relationship records preserve the human network surrounding the artifacts.",
+    "records": [
+      "26.0036",
+      "26.0065",
+      "26.0051"
+    ]
+  }
+]

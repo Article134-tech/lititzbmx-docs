@@ -1,0 +1,172 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/Article134-tech/lititzbmx-docs/blob/main/collections/harrys-room/schema/harrys-room-record.schema.json",
+  "title": "Harry’s Room record metadata",
+  "type": "object",
+  "required": [
+    "record_id",
+    "artifact_id",
+    "title",
+    "slug",
+    "collection",
+    "room_zone",
+    "record_type",
+    "holding_status",
+    "image_status",
+    "primary_image",
+    "source_pages",
+    "claim_status",
+    "description",
+    "qualifications",
+    "people",
+    "organizations",
+    "subjects",
+    "related_records",
+    "release_version",
+    "updated"
+  ],
+  "properties": {
+    "$schema": {
+      "type": "string"
+    },
+    "record_id": {
+      "type": "string",
+      "pattern": "^HLR-"
+    },
+    "artifact_id": {
+      "type": "string",
+      "pattern": "^26\\.\\d{4}$"
+    },
+    "legacy_ids": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "title": {
+      "type": "string"
+    },
+    "alternate_titles": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "slug": {
+      "type": "string"
+    },
+    "collection": {
+      "const": "Harry’s Room — The Harry Leary Collection"
+    },
+    "room_zone": {
+      "type": "object",
+      "required": [
+        "id",
+        "label"
+      ],
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "label": {
+          "type": "string"
+        }
+      }
+    },
+    "record_type": {
+      "type": "string"
+    },
+    "holding_status": {
+      "type": "string"
+    },
+    "image_status": {
+      "enum": [
+        "direct",
+        "context-only"
+      ]
+    },
+    "primary_image": {
+      "type": "string"
+    },
+    "secondary_images": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "source_pages": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "required": [
+          "source_label",
+          "url"
+        ],
+        "properties": {
+          "source_label": {
+            "type": "string"
+          },
+          "url": {
+            "type": "string",
+            "format": "uri"
+          }
+        }
+      }
+    },
+    "claim_status": {
+      "type": "string"
+    },
+    "description": {
+      "type": "string"
+    },
+    "provenance_summary": {
+      "type": "string"
+    },
+    "qualifications": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "people": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "organizations": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "subjects": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "related_records": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "pattern": "^26\\.\\d{4}$"
+      }
+    },
+    "cross_collection": {
+      "type": [
+        "object",
+        "null"
+      ]
+    },
+    "release_version": {
+      "type": "string"
+    },
+    "updated": {
+      "type": "string",
+      "format": "date"
+    }
+  },
+  "additionalProperties": false
+}

@@ -1,0 +1,53 @@
+{
+  "$schema": "../../schema/harrys-room-record.schema.json",
+  "record_id": "HLR-26.0039",
+  "artifact_id": "26.0039",
+  "legacy_ids": [],
+  "title": "Harry Leary’s Honda Jersey",
+  "alternate_titles": [],
+  "slug": "26-0039-harry-leary-honda-jersey",
+  "collection": "Harry’s Room — The Harry Leary Collection",
+  "room_zone": {
+    "id": "riders-wardrobe",
+    "label": "The Rider’s Wardrobe"
+  },
+  "record_type": "jersey",
+  "holding_status": "current-holding-as-presented",
+  "image_status": "direct",
+  "primary_image": "../../source/artifact-images/26-0039-harry-leary-honda-jersey.png",
+  "secondary_images": [],
+  "source_pages": [
+    {
+      "source_label": "Original LititzBMX.com collection source 1",
+      "url": "https://sites.google.com/view/lititzbmxinventorylist/collections/the-harry-leary-collection-1"
+    }
+  ],
+  "claim_status": "collection-attributed",
+  "description": "A black, red and white Honda / Fox racing jersey attributed to Harry Leary. The supplied post connects the object to his enthusiasm for Honda motorcycles and ATVs.",
+  "provenance_summary": "Presented as part of the Harry Leary Collection; acquisition detail was not supplied in this source package.",
+  "qualifications": [
+    "The jersey and its branding are visible in the supplied source image.",
+    "The source post’s general remark about “Ride Red” stickers is contextual commentary, not used here as authentication evidence."
+  ],
+  "people": [
+    "Harry Leary"
+  ],
+  "organizations": [
+    "Honda",
+    "Fox Racing"
+  ],
+  "subjects": [
+    "jersey",
+    "Honda",
+    "motorcycles",
+    "ATVs"
+  ],
+  "related_records": [
+    "26.0034",
+    "26.0030",
+    "26.0064"
+  ],
+  "cross_collection": null,
+  "release_version": "1.0.0",
+  "updated": "2026-07-23"
+}

@@ -1,0 +1,53 @@
+{
+  "$schema": "../../schema/harrys-room-record.schema.json",
+  "record_id": "HLR-26.0034",
+  "artifact_id": "26.0034",
+  "legacy_ids": [],
+  "title": "2003 World 4-Stroke MX Championship Second-Place Award",
+  "alternate_titles": [],
+  "slug": "26-0034-2003-world-4-stroke-mx-championship-second-place-award",
+  "collection": "Harry’s Room — The Harry Leary Collection",
+  "room_zone": {
+    "id": "trophy-case",
+    "label": "The Trophy Case"
+  },
+  "record_type": "award",
+  "holding_status": "current-holding-as-presented",
+  "image_status": "direct",
+  "primary_image": "../../source/artifact-images/26-0034-2003-world-4-stroke-mx-championship-second-place-award.png",
+  "secondary_images": [],
+  "source_pages": [
+    {
+      "source_label": "Original LititzBMX.com collection source 2",
+      "url": "https://sites.google.com/view/lititzbmxinventorylist/collections/the-harry-leary-collection-1/harry-leary-collection-2"
+    }
+  ],
+  "claim_status": "inscription-supported",
+  "description": "A framed second-place award for the 19th Annual White Bros. World 4-Stroke MX Championship, April 12–13, 2003. It broadens Harry’s Room beyond BMX into connected motorcycle activity.",
+  "provenance_summary": "Presented as part of the Harry Leary Collection; acquisition detail was not supplied in this source package.",
+  "qualifications": [
+    "The event title, second-place result and April 12–13, 2003 dates are visible in the supplied image.",
+    "The attribution to Harry Leary comes from the collection description."
+  ],
+  "people": [
+    "Harry Leary"
+  ],
+  "organizations": [
+    "White Bros.",
+    "World 4-Stroke MX Championship"
+  ],
+  "subjects": [
+    "2003",
+    "motocross",
+    "second place",
+    "award"
+  ],
+  "related_records": [
+    "26.0039",
+    "26.0033",
+    "26.0067"
+  ],
+  "cross_collection": null,
+  "release_version": "1.0.0",
+  "updated": "2026-07-23"
+}

@@ -1,0 +1,53 @@
+{
+  "$schema": "../../schema/harrys-room-record.schema.json",
+  "record_id": "HLR-26.0033",
+  "artifact_id": "26.0033",
+  "legacy_ids": [],
+  "title": "Supercross of BMX “Top Money Winner” Plaque",
+  "alternate_titles": [],
+  "slug": "26-0033-supercross-of-bmx-top-money-winner-plaque",
+  "collection": "Harry’s Room — The Harry Leary Collection",
+  "room_zone": {
+    "id": "trophy-case",
+    "label": "The Trophy Case"
+  },
+  "record_type": "plaque",
+  "holding_status": "current-holding-as-presented",
+  "image_status": "direct",
+  "primary_image": "../../source/artifact-images/26-0033-supercross-of-bmx-top-money-winner-plaque.png",
+  "secondary_images": [],
+  "source_pages": [
+    {
+      "source_label": "Original LititzBMX.com collection source 2",
+      "url": "https://sites.google.com/view/lititzbmxinventorylist/collections/the-harry-leary-collection-1/harry-leary-collection-2"
+    }
+  ],
+  "claim_status": "inscription-supported",
+  "description": "A Supercross of BMX Pro Spectacular plaque marked “Top Money Winner,” North Carolina State Fairgrounds, Horse Show Arena, February 22, 1985.",
+  "provenance_summary": "Presented as part of the Harry Leary Collection; acquisition detail was not supplied in this source package.",
+  "qualifications": [
+    "The event title, location, date and “Top Money Winner” wording are visible on the plaque.",
+    "The connection to Harry Leary is based on its placement and description in the supplied collection."
+  ],
+  "people": [
+    "Harry Leary"
+  ],
+  "organizations": [
+    "Supercross of BMX",
+    "North Carolina State Fairgrounds"
+  ],
+  "subjects": [
+    "1985",
+    "top money winner",
+    "plaque",
+    "Raleigh North Carolina"
+  ],
+  "related_records": [
+    "26.0048",
+    "26.0067",
+    "26.0034"
+  ],
+  "cross_collection": null,
+  "release_version": "1.0.0",
+  "updated": "2026-07-23"
+}

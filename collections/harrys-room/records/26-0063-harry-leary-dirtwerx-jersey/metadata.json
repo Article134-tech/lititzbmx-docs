@@ -1,0 +1,53 @@
+{
+  "$schema": "../../schema/harrys-room-record.schema.json",
+  "record_id": "HLR-26.0063",
+  "artifact_id": "26.0063",
+  "legacy_ids": [],
+  "title": "Harry Leary DIRTWERX Jersey",
+  "alternate_titles": [],
+  "slug": "26-0063-harry-leary-dirtwerx-jersey",
+  "collection": "Harry’s Room — The Harry Leary Collection",
+  "room_zone": {
+    "id": "riders-wardrobe",
+    "label": "The Rider’s Wardrobe"
+  },
+  "record_type": "jersey",
+  "holding_status": "current-holding-as-presented",
+  "image_status": "direct",
+  "primary_image": "../../source/artifact-images/26-0063-harry-leary-dirtwerx-jersey.png",
+  "secondary_images": [],
+  "source_pages": [
+    {
+      "source_label": "Original LititzBMX.com collection source 2",
+      "url": "https://sites.google.com/view/lititzbmxinventorylist/collections/the-harry-leary-collection-1/harry-leary-collection-2"
+    }
+  ],
+  "claim_status": "source-supported",
+  "description": "A black, gray, yellow and white DIRTWERX jersey marked “LEARY.” It is a wearable link between Harry’s Room and the broader Operation DIRTWERX preservation record.",
+  "provenance_summary": "From the Leary Locker, as documented in the Digital Jersey Wall record.",
+  "qualifications": [
+    "The rider name and DIRTWERX graphics are visible in the supplied image."
+  ],
+  "people": [
+    "Harry Leary"
+  ],
+  "organizations": [
+    "DIRTWERX"
+  ],
+  "subjects": [
+    "jersey",
+    "DIRTWERX",
+    "Leary Locker"
+  ],
+  "related_records": [
+    "26.0062",
+    "26.0036",
+    "26.0025"
+  ],
+  "cross_collection": {
+    "label": "Digital Jersey Wall",
+    "path": "../../../jersey-collection/records/26-0063-harry-leary-dirtwerx-jersey/"
+  },
+  "release_version": "1.0.0",
+  "updated": "2026-07-23"
+}

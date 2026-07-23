@@ -1,0 +1,55 @@
+{
+  "$schema": "../../schema/harrys-room-record.schema.json",
+  "record_id": "HLR-26.0018",
+  "artifact_id": "26.0018",
+  "legacy_ids": [],
+  "title": "Harry Leary “Leary 81” Redman Jersey",
+  "alternate_titles": [],
+  "slug": "26-0018-harry-leary-leary-81-redman-jersey",
+  "collection": "Harry’s Room — The Harry Leary Collection",
+  "room_zone": {
+    "id": "riders-wardrobe",
+    "label": "The Rider’s Wardrobe"
+  },
+  "record_type": "jersey",
+  "holding_status": "current-holding-as-presented",
+  "image_status": "direct",
+  "primary_image": "../../source/artifact-images/26-0018-harry-leary-leary-81-redman-jersey.png",
+  "secondary_images": [],
+  "source_pages": [
+    {
+      "source_label": "Original LititzBMX.com collection source 1",
+      "url": "https://sites.google.com/view/lititzbmxinventorylist/collections/the-harry-leary-collection-1"
+    }
+  ],
+  "claim_status": "collection-attributed",
+  "description": "A Redman jersey marked “LEARY” and number 81. Its bold graphics preserve one of the later visual identities represented in Harry’s Room.",
+  "provenance_summary": "From the Leary Locker, as documented in the Digital Jersey Wall record.",
+  "qualifications": [
+    "The jersey markings are visible in the supplied image.",
+    "The rider attribution and Leary Locker provenance are preserved from the collection records."
+  ],
+  "people": [
+    "Harry Leary"
+  ],
+  "organizations": [
+    "Redman"
+  ],
+  "subjects": [
+    "jersey",
+    "81",
+    "team identity",
+    "Leary Locker"
+  ],
+  "related_records": [
+    "26.0021",
+    "26.0023",
+    "26.0025"
+  ],
+  "cross_collection": {
+    "label": "Digital Jersey Wall",
+    "path": "../../../jersey-collection/records/26-0018-harry-leary-leary-81-redman-jersey/"
+  },
+  "release_version": "1.0.0",
+  "updated": "2026-07-23"
+}

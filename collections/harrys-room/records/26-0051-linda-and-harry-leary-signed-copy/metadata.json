@@ -1,0 +1,51 @@
+{
+  "$schema": "../../schema/harrys-room-record.schema.json",
+  "record_id": "HLR-26.0051",
+  "artifact_id": "26.0051",
+  "legacy_ids": [],
+  "title": "Linda and Harry Leary Signed Copy",
+  "alternate_titles": [],
+  "slug": "26-0051-linda-and-harry-leary-signed-copy",
+  "collection": "Harry’s Room — The Harry Leary Collection",
+  "room_zone": {
+    "id": "memory-wall",
+    "label": "The Memory Wall"
+  },
+  "record_type": "signed photograph or copy",
+  "holding_status": "current-holding-as-presented",
+  "image_status": "direct",
+  "primary_image": "../../source/artifact-images/26-0051-linda-and-harry-leary-signed-copy.png",
+  "secondary_images": [],
+  "source_pages": [
+    {
+      "source_label": "Original LititzBMX.com collection source 1",
+      "url": "https://sites.google.com/view/lititzbmxinventorylist/collections/the-harry-leary-collection-1"
+    }
+  ],
+  "claim_status": "collection-attributed",
+  "description": "A framed signed BMX action photograph or copy associated with Linda and Harry Leary. The source caption adds that the archive also owns the jersey and frame shown in the image, linking the photograph to surviving physical artifacts.",
+  "provenance_summary": "Presented as part of the Harry Leary Collection; the source caption associates the signed copy with Linda and Harry Leary.",
+  "qualifications": [
+    "The source caption describes the object as a signed copy and states that the museum owns the related jersey and frame.",
+    "The signatures and the relationship to the pictured equipment have not been independently authenticated in this release."
+  ],
+  "people": [
+    "Harry Leary",
+    "Linda Leary Taylor"
+  ],
+  "organizations": [],
+  "subjects": [
+    "signed copy",
+    "photograph",
+    "relationship",
+    "related artifacts"
+  ],
+  "related_records": [
+    "26.0065",
+    "26.0036",
+    "26.0038"
+  ],
+  "cross_collection": null,
+  "release_version": "1.0.0",
+  "updated": "2026-07-23"
+}

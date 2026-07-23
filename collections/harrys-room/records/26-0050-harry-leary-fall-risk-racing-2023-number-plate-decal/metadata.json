@@ -1,0 +1,52 @@
+{
+  "$schema": "../../schema/harrys-room-record.schema.json",
+  "record_id": "HLR-26.0050",
+  "artifact_id": "26.0050",
+  "legacy_ids": [],
+  "title": "Harry Leary Fall Risk Racing 2023 Number-Plate Decal",
+  "alternate_titles": [],
+  "slug": "26-0050-harry-leary-fall-risk-racing-2023-number-plate-decal",
+  "collection": "Harry’s Room — The Harry Leary Collection",
+  "room_zone": {
+    "id": "riders-wardrobe",
+    "label": "The Rider’s Wardrobe"
+  },
+  "record_type": "number-plate decal",
+  "holding_status": "current-holding-as-presented",
+  "image_status": "direct",
+  "primary_image": "../../source/artifact-images/26-0050-harry-leary-fall-risk-racing-2023-number-plate-decal.png",
+  "secondary_images": [],
+  "source_pages": [
+    {
+      "source_label": "Original LititzBMX.com collection source 2",
+      "url": "https://sites.google.com/view/lititzbmxinventorylist/collections/the-harry-leary-collection-1/harry-leary-collection-2"
+    }
+  ],
+  "claim_status": "mixed-source",
+  "description": "A framed Fall Risk Racing number-plate decal marked “Harry Leary” and number 5, identified by the supplied collection description as a 2023 record.",
+  "provenance_summary": "Presented as part of the Harry Leary Collection; acquisition detail was not supplied in this source package.",
+  "qualifications": [
+    "The rider name, number and team branding are visible in the supplied image.",
+    "The 2023 date is preserved from the collection description."
+  ],
+  "people": [
+    "Harry Leary"
+  ],
+  "organizations": [
+    "Fall Risk Racing"
+  ],
+  "subjects": [
+    "2023",
+    "number plate",
+    "race identity",
+    "Fall Risk Racing"
+  ],
+  "related_records": [
+    "26.0040",
+    "26.0013",
+    "26.0030"
+  ],
+  "cross_collection": null,
+  "release_version": "1.0.0",
+  "updated": "2026-07-23"
+}

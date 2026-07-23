@@ -1,0 +1,53 @@
+{
+  "$schema": "../../schema/harrys-room-record.schema.json",
+  "record_id": "HLR-26.0038",
+  "artifact_id": "26.0038",
+  "legacy_ids": [],
+  "title": "Harry Leary Specialized Hemi Frame Signed Twice by Jeremy McGrath",
+  "alternate_titles": [],
+  "slug": "26-0038-harry-leary-specialized-hemi-frame-jeremy-mcgrath-signatures",
+  "collection": "Harry’s Room — The Harry Leary Collection",
+  "room_zone": {
+    "id": "workshop-bench",
+    "label": "The Workshop Bench"
+  },
+  "record_type": "bicycle frame",
+  "holding_status": "current-holding-as-presented",
+  "image_status": "direct",
+  "primary_image": "../../source/artifact-images/26-0038-harry-leary-specialized-hemi-frame-jeremy-mcgrath-signatures.png",
+  "secondary_images": [],
+  "source_pages": [
+    {
+      "source_label": "Original LititzBMX.com collection source 1",
+      "url": "https://sites.google.com/view/lititzbmxinventorylist/collections/the-harry-leary-collection-1"
+    }
+  ],
+  "claim_status": "collection-attributed",
+  "description": "A red Specialized Hemi frame attributed to Harry Leary and described by the collection as signed twice by Jeremy McGrath. It connects BMX equipment with a broader action-sports relationship.",
+  "provenance_summary": "Presented as part of the Harry Leary Collection; acquisition detail was not supplied in this source package.",
+  "qualifications": [
+    "The supplied image shows one close-up signature area; the collection description states that the frame was signed twice.",
+    "The signatures have not been independently authenticated in this release."
+  ],
+  "people": [
+    "Harry Leary",
+    "Jeremy McGrath"
+  ],
+  "organizations": [
+    "Specialized"
+  ],
+  "subjects": [
+    "bicycle frame",
+    "Hemi",
+    "signature",
+    "action sports"
+  ],
+  "related_records": [
+    "26.0046",
+    "26.0052",
+    "26.0039"
+  ],
+  "cross_collection": null,
+  "release_version": "1.0.0",
+  "updated": "2026-07-23"
+}

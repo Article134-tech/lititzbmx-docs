@@ -1,0 +1,53 @@
+{
+  "$schema": "../../schema/harrys-room-record.schema.json",
+  "record_id": "HLR-26.0046",
+  "artifact_id": "26.0046",
+  "legacy_ids": [],
+  "title": "Harry Leary’s Toolbox",
+  "alternate_titles": [],
+  "slug": "26-0046-harry-leary-toolbox",
+  "collection": "Harry’s Room — The Harry Leary Collection",
+  "room_zone": {
+    "id": "workshop-bench",
+    "label": "The Workshop Bench"
+  },
+  "record_type": "toolbox",
+  "holding_status": "current-holding-as-presented",
+  "image_status": "direct",
+  "primary_image": "../../source/artifact-images/26-0046-harry-leary-toolbox.png",
+  "secondary_images": [],
+  "source_pages": [
+    {
+      "source_label": "Original LititzBMX.com collection source 1",
+      "url": "https://sites.google.com/view/lititzbmxinventorylist/collections/the-harry-leary-collection-1"
+    }
+  ],
+  "claim_status": "collection-attributed",
+  "description": "A wear-marked multi-drawer toolbox identified by the collection as Harry Leary’s. Its surface retains motorcycle and racing stickers, turning use, age and personal preference into visible evidence.",
+  "provenance_summary": "Presented as part of the Harry Leary Collection; acquisition detail was not supplied in this source package.",
+  "qualifications": [
+    "The toolbox and stickers are visible in the supplied source image.",
+    "No contents inventory or independent ownership documentation was supplied with this release."
+  ],
+  "people": [
+    "Harry Leary"
+  ],
+  "organizations": [
+    "Honda",
+    "FMF",
+    "Renthal"
+  ],
+  "subjects": [
+    "toolbox",
+    "workshop",
+    "personal equipment"
+  ],
+  "related_records": [
+    "26.0038",
+    "26.0052",
+    "26.0045"
+  ],
+  "cross_collection": null,
+  "release_version": "1.0.0",
+  "updated": "2026-07-23"
+}
