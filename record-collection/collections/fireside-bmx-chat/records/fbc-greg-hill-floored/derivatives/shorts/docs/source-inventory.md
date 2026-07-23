@@ -1,0 +1,14 @@
+# Source Inventory
+
+| Path | Role | Provenance | SHA-256 |
+|---|---|---|---|
+| `source/visual/shared-published-frame-cleaner-capture.png` | Shared series visual | Cleaner video-derived frame supplied after the initial player capture; not an original clean title card. | `0d5cbfd376664b8d5955a36ab2ce3de4f15176586a2703339b5f8062137c822c` |
+| `source/evidence/shared-series-player-capture.png` | Player capture | Shows the shared visual in the published-video player context. | `0ba60193b1365ef8fcacfc8957c71206b288a06d775ae24fa921274b40d4d65c` |
+| `source/evidence/youtube-studio-gh-001-006.png` | YouTube Studio evidence | Titles, dates, public state, 0:36 duration, views, and comments for GH-001 through GH-006. | `12c0dba9895362f23c903ce39f1094ed6aab3e274eb6f939071d3446c31ab665` |
+| `source/evidence/youtube-studio-gh-006-012.png` | YouTube Studio evidence | Titles, dates, public state, 0:36 duration, views, and comments for GH-006 through GH-012. | `c373acccc86b70528d0cab9133135aad3a15cdfa16433816eca013b85a905836` |
+| `source/evidence/youtube-studio-gh-013-019.png` | YouTube Studio evidence | Titles, dates, public state, 0:36 duration, views, and comments for GH-013 through GH-019. | `a36f191e6444bad8e482ebf40046c229310a8569c0264daf47977d7094560840` |
+| `source/evidence/youtube-studio-gh-020-025.png` | YouTube Studio evidence | Titles, dates, public state, 0:36 duration, views, and comments for GH-020 through GH-025. | `cbab495601cbd7ce835e1a9d85ae2a5dcadb3424805dcca6ca424e9286321b4c` |
+| `source/user-supplied-short-records.md` | Working source compilation | Exact submitted titles, URLs, descriptions, and Short transcript text. | `bf628f353444fd84c32ffcc9a136c580fd104ab9d1b3461e6a15ff316193fbad` |
+| `source/playlist/published-playlist-description.md` | Playlist publication record | Exact live playlist description supplied by the curator. | `f05df18cded7dbdd61b44c6b809048a540701752fb4c4e638902122387b73993` |
+
+The existing parent dossier also preserves the timestamped parent transcript, podcast proposal, description-development PDF, and `floored-press-release-and-drafts.pdf`. Those files are linked rather than duplicated.

@@ -32,3 +32,9 @@ See `source/pre-production/` and `source/publication/`. Their presence varies ac
 - `docs/source-inventory.md`
 - `docs/rights-and-access.md`
 - `docs/revision-history.md`
+
+## Derivative publication archive
+
+- `derivatives/shorts/README.md` — flooring-brochure access layer
+- `derivatives/shorts/records/GH-001/` through `GH-025/`
+- JSON/CSV register, JSON Schema, transcript alignment, playlist record, source/evidence manifests, and fixity

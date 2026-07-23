@@ -1,0 +1,109 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://lititzbmx.com/schemas/floored-short-record.schema.json",
+  "title": "Lititz BMX Floored Shorts derivative record",
+  "type": "object",
+  "required": [
+    "record_id",
+    "parent_record_id",
+    "published_number",
+    "published_title",
+    "short_url",
+    "youtube_video_id",
+    "publication_date",
+    "duration_seconds",
+    "visibility",
+    "publication_state",
+    "thematic_group",
+    "shared_visual",
+    "transcript_status",
+    "parent_transcript_alignment",
+    "subjects"
+  ],
+  "properties": {
+    "record_id": {
+      "type": "string",
+      "pattern": "^GH-[0-9]{3}$"
+    },
+    "parent_record_id": {
+      "const": "fbc-greg-hill-floored"
+    },
+    "published_number": {
+      "type": "integer",
+      "minimum": 1,
+      "maximum": 25
+    },
+    "published_title": {
+      "type": "string"
+    },
+    "archival_display_title": {
+      "type": "string"
+    },
+    "short_url": {
+      "type": "string",
+      "format": "uri"
+    },
+    "youtube_video_id": {
+      "type": "string"
+    },
+    "playlist_url": {
+      "type": "string",
+      "format": "uri"
+    },
+    "publication_date": {
+      "type": "string",
+      "format": "date"
+    },
+    "duration_seconds": {
+      "const": 36
+    },
+    "visibility": {
+      "const": "Public"
+    },
+    "publication_state": {
+      "const": "Published"
+    },
+    "thematic_group": {
+      "type": "string"
+    },
+    "shared_visual": {
+      "type": "string"
+    },
+    "transcript_status": {
+      "type": "string"
+    },
+    "parent_transcript_alignment": {
+      "type": "object",
+      "required": [
+        "start",
+        "end",
+        "source"
+      ]
+    },
+    "people": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "organizations": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "subjects": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "notes": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    }
+  },
+  "additionalProperties": true
+}

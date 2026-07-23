@@ -1,0 +1,49 @@
+{
+  "$schema": "../../schema/floored-short-record.schema.json",
+  "record_id": "GH-025",
+  "parent_record_id": "fbc-greg-hill-floored",
+  "published_number": 25,
+  "published_title": "25: Greg Hil confirms that he is up for the job - \"When you are ready to go - just let me know.\"",
+  "archival_display_title": "Greg Hill Confirms He Is Ready for the Garage-Floor Job",
+  "short_url": "https://youtube.com/shorts/cu7daAFsn6s",
+  "youtube_video_id": "cu7daAFsn6s",
+  "playlist_url": "https://youtube.com/playlist?list=PLPoYIOMe8Ph8",
+  "publication_date": "2025-06-05",
+  "duration": "0:36",
+  "duration_seconds": 36,
+  "visibility": "Public",
+  "publication_state": "Published",
+  "views_at_evidence_capture": 15,
+  "comments_at_evidence_capture": 0,
+  "evidence_capture_date": "2026-07-22",
+  "thematic_group": "final-coat",
+  "shared_visual": "../../source/visual/shared-published-frame-cleaner-capture.png",
+  "summary": "Greg Hill and Kyle A. Huffman conclude the conversation. The published title and parent transcript record Hill confirming that Kyle can contact him when ready to proceed with the flooring work.",
+  "claim_status": "attributed statement aligned to parent transcript",
+  "transcript_status": "no Short-level transcript supplied; parent transcript passage aligned",
+  "supplied_transcript_file": null,
+  "parent_transcript_alignment": {
+    "start": "16:16",
+    "end": "16:33",
+    "source": "../../../../source/original-transcript-timestamped.txt",
+    "excerpt_file": "parent-transcript-alignment.txt"
+  },
+  "people": [
+    "Greg Hill",
+    "Kyle A. Huffman"
+  ],
+  "organizations": [
+    "Epoxy Surface Professionals",
+    "Lititz BMX"
+  ],
+  "subjects": [
+    "garage-floor consultation",
+    "project closeout",
+    "Floored series conclusion"
+  ],
+  "notes": [
+    "Published title spells Greg Hill as “Greg Hil”; exact title is preserved."
+  ],
+  "compiled_date": "2026-07-22",
+  "package_version": "1.4.0"
+}

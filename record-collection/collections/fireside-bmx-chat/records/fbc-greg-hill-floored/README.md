@@ -10,6 +10,14 @@
 
 
 
+## Explore the 25-Short flooring-brochure archive
+
+<a href="derivatives/shorts/README.md"><img src="derivatives/shorts/source/visual/shared-published-frame-cleaner-capture.png" alt="Shared published visual for the Greg Hill Floored 25-Short archive" width="520"></a>
+
+The complete derivative series is presented as a machine-readable flooring brochure: six thematic systems, 25 specification-sheet records, exact published descriptions, transcript evidence, Studio-confirmed dates and visibility, playlist preservation, source manifests, and timestamped parent alignment.
+
+<p align="center"><strong><a href="derivatives/shorts/README.md">Explore all 25 Greg Hill — Floored Shorts →</a></strong></p>
+
 ## At a glance
 
 | Field | Record |
@@ -47,6 +55,7 @@ The original recording is the primary source. The raw transcript is preserved un
 ## Current status
 
 - source package compiled;
+- 25-Short flooring-brochure archive completed;
 - public/private review completed;
 - visual access layer completed;
 - machine transcript preserved;

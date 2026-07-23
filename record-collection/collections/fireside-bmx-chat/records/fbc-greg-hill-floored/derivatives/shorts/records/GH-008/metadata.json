@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/floored-short-record.schema.json",
+  "record_id": "GH-008",
+  "parent_record_id": "fbc-greg-hill-floored",
+  "published_number": 8,
+  "published_title": "8: Greg Hill shares “You Have to Be All In.\"-\"You can't do two things and win a title.\" - #champion",
+  "archival_display_title": "Greg Hill on Championship Commitment — “You Have to Be All In”",
+  "short_url": "https://youtube.com/shorts/VfYcWxgx55w",
+  "youtube_video_id": "VfYcWxgx55w",
+  "playlist_url": "https://youtube.com/playlist?list=PLPoYIOMe8Ph8",
+  "publication_date": "2025-05-26",
+  "duration": "0:36",
+  "duration_seconds": 36,
+  "visibility": "Public",
+  "publication_state": "Published",
+  "views_at_evidence_capture": 17,
+  "comments_at_evidence_capture": 0,
+  "evidence_capture_date": "2026-07-22",
+  "thematic_group": "race-grade-performance",
+  "shared_visual": "../../source/visual/shared-published-frame-cleaner-capture.png",
+  "summary": "The published record frames Greg Hill’s view that a rider must be completely committed to win a title. No Short-level transcript was supplied; the parent transcript preserves the corresponding passage.",
+  "claim_status": "attributed statement aligned to parent transcript",
+  "transcript_status": "no Short-level transcript supplied; parent transcript passage aligned",
+  "supplied_transcript_file": null,
+  "parent_transcript_alignment": {
+    "start": "8:03",
+    "end": "8:16",
+    "source": "../../../../source/original-transcript-timestamped.txt",
+    "excerpt_file": "parent-transcript-alignment.txt"
+  },
+  "people": [
+    "Greg Hill"
+  ],
+  "organizations": [],
+  "subjects": [
+    "BMX championship mindset",
+    "commitment",
+    "racing psychology",
+    "winning titles",
+    "elite athlete focus"
+  ],
+  "notes": [],
+  "compiled_date": "2026-07-22",
+  "package_version": "1.4.0"
+}

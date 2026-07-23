@@ -1,0 +1,72 @@
+{
+  "series": "Greg Hill — Floored",
+  "groups": {
+    "surface-preparation": {
+      "title": "Surface Preparation",
+      "subtitle": "Garage evaluation, flooring process, warranty, and project portfolio",
+      "tagline": "The consultation begins with the surface itself.",
+      "records": [
+        1,
+        2,
+        3
+      ]
+    },
+    "heritage-finish": {
+      "title": "Heritage Finish",
+      "subtitle": "Harry Leary, DIRTWERX, “The Leary,” friendship, and early BMX culture",
+      "tagline": "BMX history emerges from the garage beneath the flooring estimate.",
+      "records": [
+        4,
+        5,
+        6,
+        7,
+        11,
+        14
+      ]
+    },
+    "race-grade-performance": {
+      "title": "Race-Grade Performance",
+      "subtitle": "Commitment, gate practice, competition, retaliation, and racing focus",
+      "tagline": "The performance layer behind titles and rivalries.",
+      "records": [
+        8,
+        9,
+        10,
+        12,
+        13
+      ]
+    },
+    "commercial-grade-bmx": {
+      "title": "Commercial-Grade BMX",
+      "subtitle": "GHP, market scale, frame economics, margins, and the “bro price”",
+      "tagline": "Recognizable brands operating inside a surprisingly small market.",
+      "records": [
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+      ]
+    },
+    "life-beyond-the-track": {
+      "title": "Life Beyond the Track",
+      "subtitle": "Closing GHP, lost relationships, refusing a return, and finding happiness",
+      "tagline": "What remained after the brand and business were gone.",
+      "records": [
+        21,
+        22,
+        23,
+        24
+      ]
+    },
+    "final-coat": {
+      "title": "Final Coat",
+      "subtitle": "The flooring estimate closes the conversation",
+      "tagline": "Twenty-five layers later, Greg returns to the original job.",
+      "records": [
+        25
+      ]
+    }
+  }
+}

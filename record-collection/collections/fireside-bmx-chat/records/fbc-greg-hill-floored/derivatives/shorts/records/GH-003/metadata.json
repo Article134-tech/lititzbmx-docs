@@ -1,0 +1,51 @@
+{
+  "$schema": "../../schema/floored-short-record.schema.json",
+  "record_id": "GH-003",
+  "parent_record_id": "fbc-greg-hill-floored",
+  "published_number": 3,
+  "published_title": "3: BMX legend Greg Hill talks about posting pictures of his work on Facebook - No burrito pics here",
+  "archival_display_title": "Greg Hill Uses Facebook as a Flooring Portfolio — Not a Burrito Feed",
+  "short_url": "https://youtube.com/shorts/-y-WPsU9Ft8",
+  "youtube_video_id": "-y-WPsU9Ft8",
+  "playlist_url": "https://youtube.com/playlist?list=PLPoYIOMe8Ph8",
+  "publication_date": "2025-05-23",
+  "duration": "0:36",
+  "duration_seconds": 36,
+  "visibility": "Public",
+  "publication_state": "Published",
+  "views_at_evidence_capture": 491,
+  "comments_at_evidence_capture": 0,
+  "evidence_capture_date": "2026-07-22",
+  "thematic_group": "surface-preparation",
+  "shared_visual": "../../source/visual/shared-published-frame-cleaner-capture.png",
+  "summary": "Greg Hill explains that he posts completed flooring projects on Facebook as a visible work portfolio, contrasting those posts with routine meal photographs and saying the work images have helped him obtain jobs.",
+  "claim_status": "attributed firsthand testimony",
+  "transcript_status": "supplied partial transcript excerpt; ending incomplete",
+  "supplied_transcript_file": "supplied-transcript.txt",
+  "parent_transcript_alignment": {
+    "start": "0:47",
+    "end": "1:13",
+    "source": "../../../../source/original-transcript-timestamped.txt",
+    "excerpt_file": "parent-transcript-alignment.txt"
+  },
+  "people": [
+    "Greg Hill",
+    "Kyle A. Huffman"
+  ],
+  "organizations": [
+    "Epoxy Surface Professionals",
+    "Facebook"
+  ],
+  "subjects": [
+    "flooring portfolio",
+    "Facebook marketing",
+    "completed projects",
+    "customer acquisition",
+    "life after BMX"
+  ],
+  "notes": [
+    "Supplied transcript renders “flooring industry” as “boring industry”; source wording is preserved."
+  ],
+  "compiled_date": "2026-07-22",
+  "package_version": "1.4.0"
+}

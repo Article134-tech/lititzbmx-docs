@@ -1,0 +1,26 @@
+record_id,short_transcript_status,parent_start,parent_end,parent_source,alignment_excerpt_file
+GH-001,supplied partial transcript excerpt; ending incomplete,1:22,1:52,../../source/original-transcript-timestamped.txt,records/GH-001/parent-transcript-alignment.txt
+GH-002,supplied transcript excerpt,3:18,3:50,../../source/original-transcript-timestamped.txt,records/GH-002/parent-transcript-alignment.txt
+GH-003,supplied partial transcript excerpt; ending incomplete,0:47,1:13,../../source/original-transcript-timestamped.txt,records/GH-003/parent-transcript-alignment.txt
+GH-004,supplied transcript excerpt,5:10,5:33,../../source/original-transcript-timestamped.txt,records/GH-004/parent-transcript-alignment.txt
+GH-005,supplied partial transcript excerpt; ending incomplete,8:16,8:56,../../source/original-transcript-timestamped.txt,records/GH-005/parent-transcript-alignment.txt
+GH-006,supplied partial transcript excerpt; beginning omitted and one phrase unclear,10:54,11:24,../../source/original-transcript-timestamped.txt,records/GH-006/parent-transcript-alignment.txt
+GH-007,supplied partial transcript excerpt; ending incomplete,5:56,6:28,../../source/original-transcript-timestamped.txt,records/GH-007/parent-transcript-alignment.txt
+GH-008,no Short-level transcript supplied; parent transcript passage aligned,8:03,8:16,../../source/original-transcript-timestamped.txt,records/GH-008/parent-transcript-alignment.txt
+GH-009,supplied partial transcript excerpt; beginning omitted,6:20,7:00,../../source/original-transcript-timestamped.txt,records/GH-009/parent-transcript-alignment.txt
+GH-010,supplied partial transcript excerpt; ending incomplete,6:52,7:28,../../source/original-transcript-timestamped.txt,records/GH-010/parent-transcript-alignment.txt
+GH-011,supplied complete transcript excerpt,9:04,9:19,../../source/original-transcript-timestamped.txt,records/GH-011/parent-transcript-alignment.txt
+GH-012,supplied partial transcript excerpt; ending incomplete,12:49,13:12,../../source/original-transcript-timestamped.txt,records/GH-012/parent-transcript-alignment.txt
+GH-013,supplied complete transcript excerpt,13:12,13:36,../../source/original-transcript-timestamped.txt,records/GH-013/parent-transcript-alignment.txt
+GH-014,supplied complete transcript excerpt,13:21,13:36,../../source/original-transcript-timestamped.txt,records/GH-014/parent-transcript-alignment.txt
+GH-015,supplied complete transcript excerpt,13:36,14:04,../../source/original-transcript-timestamped.txt,records/GH-015/parent-transcript-alignment.txt
+GH-016,supplied partial transcript excerpt; ending incomplete,14:04,14:20,../../source/original-transcript-timestamped.txt,records/GH-016/parent-transcript-alignment.txt
+GH-017,supplied complete transcript excerpt,14:12,14:47,../../source/original-transcript-timestamped.txt,records/GH-017/parent-transcript-alignment.txt
+GH-018,supplied partial transcript excerpt; beginning continues from parent context,14:38,15:08,../../source/original-transcript-timestamped.txt,records/GH-018/parent-transcript-alignment.txt
+GH-019,supplied complete transcript excerpt,15:08,15:26,../../source/original-transcript-timestamped.txt,records/GH-019/parent-transcript-alignment.txt
+GH-020,supplied complete transcript excerpt,15:18,15:34,../../source/original-transcript-timestamped.txt,records/GH-020/parent-transcript-alignment.txt
+GH-021,supplied complete transcript excerpt,15:34,15:52,../../source/original-transcript-timestamped.txt,records/GH-021/parent-transcript-alignment.txt
+GH-022,supplied partial transcript excerpt; ending incomplete,15:43,16:09,../../source/original-transcript-timestamped.txt,records/GH-022/parent-transcript-alignment.txt
+GH-023,no Short-level transcript supplied; parent transcript passage aligned,16:00,16:16,../../source/original-transcript-timestamped.txt,records/GH-023/parent-transcript-alignment.txt
+GH-024,no Short-level transcript supplied; parent transcript passage aligned,16:09,16:16,../../source/original-transcript-timestamped.txt,records/GH-024/parent-transcript-alignment.txt
+GH-025,no Short-level transcript supplied; parent transcript passage aligned,16:16,16:33,../../source/original-transcript-timestamped.txt,records/GH-025/parent-transcript-alignment.txt

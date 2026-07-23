@@ -1,8 +1,8 @@
 # Complete Collection Index
 
-**Public package:** v1.2.0  
+**Public package:** v1.4.0  
 **Compiled dossiers:** 22  
-**Release date:** 2026-07-21
+**Release date:** 2026-07-22
 
 This index lists every dossier in the public Record Collection. Derivative clips are documented inside their parent dossier and are not counted separately.
 
@@ -11,7 +11,7 @@ This index lists every dossier in the public Record Collection. Derivative clips
 | Record ID | Title | Dossier type | Duration | Transcript status |
 |---|---|---|---|---|
 | `fbc-001-damian-x-fulton` | [Fireside BMX Chat - Episode 1: Damian X. Fulton](collections/fireside-bmx-chat/records/fbc-001-damian-x-fulton/README.md) | Interview Dossier | 34:18 | raw machine transcript captured; timestamp-normalized working transcript created; speaker and fidelity verification p… |
-| `fbc-greg-hill-floored` | [Fireside BMX Chat: Greg Hill - Floored](collections/fireside-bmx-chat/records/fbc-greg-hill-floored/README.md) | Interview Dossier | 16:54 | raw machine transcript captured; timestamp-normalized working transcript created; speaker and fidelity verification p… |
+| `fbc-greg-hill-floored` | [Fireside BMX Chat: Greg Hill - Floored](collections/fireside-bmx-chat/records/fbc-greg-hill-floored/README.md) · [25-Short flooring-brochure archive](collections/fireside-bmx-chat/records/fbc-greg-hill-floored/derivatives/shorts/README.md) | Interview Dossier | 16:54 | Parent transcript preserved; GH-001 through GH-025 derivative archive complete; speaker and fidelity verification pending. |
 | `fbc-004-greg-mathias-chasing-harry-hof` | [Chasing Harry - Episode 4: Greg Mathias at the National BMX Hall of Fame](collections/fireside-bmx-chat/records/fbc-004-greg-mathias-chasing-harry-hof/README.md) | Interview Dossier | 29:48 | raw machine transcript captured; timestamp-normalized working transcript created; speaker and fidelity verification p… |
 | `fbc-linda-leary-taylor-walk-talk` | [A Walk & Talk with Linda Leary Taylor](collections/fireside-bmx-chat/records/fbc-linda-leary-taylor-walk-talk/README.md) | Interview Dossier | 1:13:28 | raw machine transcript captured; timestamp-normalized working transcript created; speaker and fidelity verification p… |
 | `fbc-005-the-boy-leary-ladies` | [The Boy: Harry Leary as Remembered by His Mother and Sisters](collections/fireside-bmx-chat/records/fbc-005-the-boy-leary-ladies/README.md) | Interview Dossier | 21:21 | raw machine transcript captured; timestamp-normalized working transcript created; speaker and fidelity verification p… |

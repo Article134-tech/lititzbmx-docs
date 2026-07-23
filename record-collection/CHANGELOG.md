@@ -1,5 +1,14 @@
 # Changelog
 
+## v1.4.0 - 2026-07-22
+
+- Added the complete Greg Hill / *Floored* GH-001 through GH-025 Shorts derivative archive inside the existing parent dossier.
+- Presented the series as a flooring brochure with six machine-readable thematic systems while retaining the permanent numerical sequence.
+- Preserved all exact titles, URLs, descriptions, supplied transcript excerpts, transcript gaps, playlist text, shared visual captures, and four Studio publication-evidence captures.
+- Confirmed all 25 Shorts as Public / Published, 0:36 each, published May 23–June 5, 2025.
+- Added per-record metadata, JSON Schema, JSON/CSV registers, transcript alignment, people/organization and subject indexes, provenance, claim qualifications, manifests, fixity, validation, and deployment guidance.
+- Added prominent visual entry points at the parent dossier, Fireside BMX Chat index, and Record Collection landing page without changing dossier counts.
+
 ## v1.3.1 - 2026-07-22
 
 - Corrected the Greg Mathias Episode 4 public visual-access layer after the v1.3.0 evidence package displayed the 32 supplied frames only as file links.

@@ -1,0 +1,49 @@
+{
+  "$schema": "../../schema/floored-short-record.schema.json",
+  "record_id": "GH-018",
+  "parent_record_id": "fbc-greg-hill-floored",
+  "published_number": 18,
+  "published_title": "18: Greg Hill talks about the \"bro-price\" -a staple in BMX- \"my price\" - not an issue in flooring",
+  "archival_display_title": "Greg Hill on BMX “Bro Price” Culture and Thin Margins",
+  "short_url": "https://youtube.com/shorts/-3a9hJjboOE",
+  "youtube_video_id": "-3a9hJjboOE",
+  "playlist_url": "https://youtube.com/playlist?list=PLPoYIOMe8Ph8",
+  "publication_date": "2025-06-05",
+  "duration": "0:36",
+  "duration_seconds": 36,
+  "visibility": "Public",
+  "publication_state": "Published",
+  "views_at_evidence_capture": 20,
+  "comments_at_evidence_capture": 0,
+  "evidence_capture_date": "2026-07-22",
+  "thematic_group": "commercial-grade-bmx",
+  "shared_visual": "../../source/visual/shared-published-frame-cleaner-capture.png",
+  "summary": "Greg Hill contrasts BMX requests for a “bro price” or hookup with flooring customers who generally expect to pay for a professional service. He characterizes BMX margins as terrible.",
+  "claim_status": "attributed firsthand business opinion",
+  "transcript_status": "supplied partial transcript excerpt; beginning continues from parent context",
+  "supplied_transcript_file": "supplied-transcript.txt",
+  "parent_transcript_alignment": {
+    "start": "14:38",
+    "end": "15:08",
+    "source": "../../../../source/original-transcript-timestamped.txt",
+    "excerpt_file": "parent-transcript-alignment.txt"
+  },
+  "people": [
+    "Greg Hill",
+    "Kyle A. Huffman"
+  ],
+  "organizations": [
+    "Greg Hill Products",
+    "Epoxy Surface Professionals"
+  ],
+  "subjects": [
+    "BMX bro price",
+    "friendship discounts",
+    "BMX frame manufacturing",
+    "profit margins",
+    "professional service pricing"
+  ],
+  "notes": [],
+  "compiled_date": "2026-07-22",
+  "package_version": "1.4.0"
+}

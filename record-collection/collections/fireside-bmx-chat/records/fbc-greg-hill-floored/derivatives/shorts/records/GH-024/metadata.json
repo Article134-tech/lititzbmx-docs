@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/floored-short-record.schema.json",
+  "record_id": "GH-024",
+  "parent_record_id": "fbc-greg-hill-floored",
+  "published_number": 24,
+  "published_title": "24: Greg Hill is \"super happy\" not being in BMX - if you know you know IYKYK",
+  "archival_display_title": "Greg Hill Says He Is “Super Happy” Outside the BMX Business",
+  "short_url": "https://youtube.com/shorts/KozO6dhMvk4",
+  "youtube_video_id": "KozO6dhMvk4",
+  "playlist_url": "https://youtube.com/playlist?list=PLPoYIOMe8Ph8",
+  "publication_date": "2025-06-05",
+  "duration": "0:36",
+  "duration_seconds": 36,
+  "visibility": "Public",
+  "publication_state": "Published",
+  "views_at_evidence_capture": 27,
+  "comments_at_evidence_capture": 0,
+  "evidence_capture_date": "2026-07-22",
+  "thematic_group": "life-beyond-the-track",
+  "shared_visual": "../../source/visual/shared-published-frame-cleaner-capture.png",
+  "summary": "The publication presents Greg Hill as “super happy” after leaving the BMX business. No Short-level transcript was supplied; the parent transcript preserves the surrounding answer.",
+  "claim_status": "attributed statement aligned to parent transcript",
+  "transcript_status": "no Short-level transcript supplied; parent transcript passage aligned",
+  "supplied_transcript_file": null,
+  "parent_transcript_alignment": {
+    "start": "16:09",
+    "end": "16:16",
+    "source": "../../../../source/original-transcript-timestamped.txt",
+    "excerpt_file": "parent-transcript-alignment.txt"
+  },
+  "people": [
+    "Greg Hill"
+  ],
+  "organizations": [
+    "Greg Hill Products",
+    "Epoxy Surface Professionals"
+  ],
+  "subjects": [
+    "life after BMX business",
+    "career satisfaction",
+    "work-life balance",
+    "happiness after career change"
+  ],
+  "notes": [],
+  "compiled_date": "2026-07-22",
+  "package_version": "1.4.0"
+}

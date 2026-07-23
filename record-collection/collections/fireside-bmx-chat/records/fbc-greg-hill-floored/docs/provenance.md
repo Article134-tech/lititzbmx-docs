@@ -27,3 +27,7 @@ The audiovisual recording at https://www.youtube.com/watch?v=EI_tBe4Gf-A remains
 ## Repository compilation
 
 The dossier was compiled on 2026-07-20 from materials supplied by Kyle A. Huffman. Files were renamed by role for stable repository use; original names and hashes remain documented.
+
+## 2026-07-22 derivative expansion
+
+The 25 public Shorts, shared visual captures, YouTube Studio evidence, enhanced playlist title/description, and user-supplied Short transcripts were compiled into `derivatives/shorts/` for Record Collection v1.4.0. The parent dossier remains authoritative for the complete recording and production sources.

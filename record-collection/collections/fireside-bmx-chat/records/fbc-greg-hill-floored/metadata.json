@@ -48,13 +48,25 @@
   "preservation_status": [
     "source-captured",
     "dossier-compiled",
-    "transcript-verification-pending"
+    "transcript-verification-pending",
+    "shorts-derivative-archive-complete"
   ],
   "rights": "All rights reserved unless separately documented.",
   "compiled_date": "2026-07-20",
   "notes": [
     "The current URL supplied in 2026 is EI_tBe4Gf-A. Earlier production documents contain several different YouTube URLs; these are preserved as legacy publication references and not treated as the current canonical link.",
     "The raw machine transcript misrenders several names, including Anne-Marie and Pete Loncarevich. Proper names in the descriptive record are drawn from the supporting documents and require final audio verification.",
-    "The proposal describes an intentional garage scenario, while the published conversation reflects an actual floor consultation; both production intent and recorded event are preserved."
+    "The proposal describes an intentional garage scenario, while the published conversation reflects an actual floor consultation; both production intent and recorded event are preserved.",
+    "Record Collection v1.4.0 adds GH-001 through GH-025 as a complete public derivative archive with exact publication evidence and timestamp alignment."
+  ],
+  "derivative_collections": [
+    {
+      "type": "YouTube Shorts publication archive",
+      "record_count": 25,
+      "path": "derivatives/shorts/README.md",
+      "playlist_url": "https://youtube.com/playlist?list=PLPoYIOMe8Ph8",
+      "publication_window": "2025-05-23 through 2025-06-05",
+      "presentation": "machine-readable flooring brochure"
+    }
   ]
 }

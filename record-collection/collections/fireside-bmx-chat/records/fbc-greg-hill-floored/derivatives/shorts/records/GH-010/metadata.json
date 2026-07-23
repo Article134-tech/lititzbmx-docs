@@ -1,0 +1,49 @@
+{
+  "$schema": "../../schema/floored-short-record.schema.json",
+  "record_id": "GH-010",
+  "parent_record_id": "fbc-greg-hill-floored",
+  "published_number": 10,
+  "published_title": "10: Did Greg Hill run gates with his wife when they were kids? Curious if you know their 1st race...",
+  "archival_display_title": "Greg Hill on Childhood Gate Practice and His Future Wife",
+  "short_url": "https://youtube.com/shorts/j2FXBdGDkB0",
+  "youtube_video_id": "j2FXBdGDkB0",
+  "playlist_url": "https://youtube.com/playlist?list=PLPoYIOMe8Ph8",
+  "publication_date": "2025-05-26",
+  "duration": "0:36",
+  "duration_seconds": 36,
+  "visibility": "Public",
+  "publication_state": "Published",
+  "views_at_evidence_capture": 304,
+  "comments_at_evidence_capture": 0,
+  "evidence_capture_date": "2026-07-22",
+  "thematic_group": "race-grade-performance",
+  "shared_visual": "../../source/visual/shared-published-frame-cleaner-capture.png",
+  "summary": "Kyle asks whether Greg Hill’s future wife joined childhood gate-practice sessions. Hill says they were about ten years old and distinguishes those early years from the later teenage environment.",
+  "claim_status": "attributed firsthand testimony",
+  "transcript_status": "supplied partial transcript excerpt; ending incomplete",
+  "supplied_transcript_file": "supplied-transcript.txt",
+  "parent_transcript_alignment": {
+    "start": "6:52",
+    "end": "7:28",
+    "source": "../../../../source/original-transcript-timestamped.txt",
+    "excerpt_file": "parent-transcript-alignment.txt"
+  },
+  "people": [
+    "Greg Hill",
+    "Greg Hill’s future wife",
+    "Greg Hill’s mother",
+    "Kyle A. Huffman"
+  ],
+  "organizations": [],
+  "subjects": [
+    "childhood BMX racing",
+    "starting-gate practice",
+    "family BMX history",
+    "pre-teen BMX culture"
+  ],
+  "notes": [
+    "The published title asks about a first race, but the supplied excerpt does not establish first-race details."
+  ],
+  "compiled_date": "2026-07-22",
+  "package_version": "1.4.0"
+}

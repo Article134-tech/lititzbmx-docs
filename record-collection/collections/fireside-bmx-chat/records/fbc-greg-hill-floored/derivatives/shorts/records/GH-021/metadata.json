@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/floored-short-record.schema.json",
+  "record_id": "GH-021",
+  "parent_record_id": "fbc-greg-hill-floored",
+  "published_number": 21,
+  "published_title": "21: Greg Hill shares that when he shut down GHP and got out of BMX -his phone never rang- \"stopped\"",
+  "archival_display_title": "Greg Hill Says His Phone Stopped Ringing After GHP Closed",
+  "short_url": "https://youtube.com/shorts/Y2uPJS-hj0Y",
+  "youtube_video_id": "Y2uPJS-hj0Y",
+  "playlist_url": "https://youtube.com/playlist?list=PLPoYIOMe8Ph8",
+  "publication_date": "2025-06-05",
+  "duration": "0:36",
+  "duration_seconds": 36,
+  "visibility": "Public",
+  "publication_state": "Published",
+  "views_at_evidence_capture": 24,
+  "comments_at_evidence_capture": 0,
+  "evidence_capture_date": "2026-07-22",
+  "thematic_group": "life-beyond-the-track",
+  "shared_visual": "../../source/visual/shared-published-frame-cleaner-capture.png",
+  "summary": "Greg Hill recalls GHP supporting approximately 35–40 teams with roughly 5–20 riders each, then says his phone completely stopped ringing after he closed the company and left BMX.",
+  "claim_status": "attributed approximate firsthand recollection",
+  "transcript_status": "supplied complete transcript excerpt",
+  "supplied_transcript_file": "supplied-transcript.txt",
+  "parent_transcript_alignment": {
+    "start": "15:34",
+    "end": "15:52",
+    "source": "../../../../source/original-transcript-timestamped.txt",
+    "excerpt_file": "parent-transcript-alignment.txt"
+  },
+  "people": [
+    "Greg Hill"
+  ],
+  "organizations": [
+    "Greg Hill Products"
+  ],
+  "subjects": [
+    "closing GHP",
+    "BMX support teams",
+    "sponsored riders",
+    "professional relationships",
+    "social isolation after business closure"
+  ],
+  "notes": [],
+  "compiled_date": "2026-07-22",
+  "package_version": "1.4.0"
+}

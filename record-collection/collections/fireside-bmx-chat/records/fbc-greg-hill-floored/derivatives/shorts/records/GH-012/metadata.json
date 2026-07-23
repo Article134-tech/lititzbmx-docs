@@ -1,0 +1,49 @@
+{
+  "$schema": "../../schema/floored-short-record.schema.json",
+  "record_id": "GH-012",
+  "parent_record_id": "fbc-greg-hill-floored",
+  "published_number": 12,
+  "published_title": "12: Greg Hill shared -Pete Loncarevich Kicks My Tire in 1985 NBL Grands- 2 months later-at ABA Grand",
+  "archival_display_title": "Pete Loncarevich, the 1985 Grands, and Greg Hill’s Response",
+  "short_url": "https://youtube.com/shorts/FyONbwUNlzE",
+  "youtube_video_id": "FyONbwUNlzE",
+  "playlist_url": "https://youtube.com/playlist?list=PLPoYIOMe8Ph8",
+  "publication_date": "2025-05-26",
+  "duration": "0:36",
+  "duration_seconds": 36,
+  "visibility": "Public",
+  "publication_state": "Published",
+  "views_at_evidence_capture": 113,
+  "comments_at_evidence_capture": 0,
+  "evidence_capture_date": "2026-07-22",
+  "thematic_group": "race-grade-performance",
+  "shared_visual": "../../source/visual/shared-published-frame-cleaner-capture.png",
+  "summary": "Greg Hill recalls Pete Loncarevich kicking his tire during a semifinal at the 1985 NBL Grands and says he responded approximately two months later at the ABA Grands by running Loncarevich off the track.",
+  "claim_status": "attributed firsthand competition recollection; not independently adjudicated",
+  "transcript_status": "supplied partial transcript excerpt; ending incomplete",
+  "supplied_transcript_file": "supplied-transcript.txt",
+  "parent_transcript_alignment": {
+    "start": "12:49",
+    "end": "13:12",
+    "source": "../../../../source/original-transcript-timestamped.txt",
+    "excerpt_file": "parent-transcript-alignment.txt"
+  },
+  "people": [
+    "Greg Hill",
+    "Pete Loncarevich"
+  ],
+  "organizations": [
+    "NBL",
+    "ABA"
+  ],
+  "subjects": [
+    "1985 NBL Grands",
+    "1985 ABA Grands",
+    "BMX race contact",
+    "competitive retaliation",
+    "professional rivalry"
+  ],
+  "notes": [],
+  "compiled_date": "2026-07-22",
+  "package_version": "1.4.0"
+}

@@ -6,7 +6,7 @@
 
 **Repository location:** `Article134-tech/lititzbmx-docs/record-collection/`  
 **Integration method:** Controlled replacement of the existing `record-collection/` folder; no repository restructuring.  
-**Public package:** v1.3.1  
+**Public package:** v1.4.0  
 **Archival standard:** v1.0.1  
 **Compiled:** 2026-07-22  
 **Publisher and curator:** Lititz BMX / Kyle A. Huffman
@@ -24,6 +24,14 @@ The purpose is not merely to save videos. It is to preserve **how each recording
 <td width="33%" valign="top"><a href="collections/unboxing/README.md"><img src="collections/unboxing/assets/category-cover.png" alt="Unboxing visual index" width="100%"></a><br><strong><a href="collections/unboxing/README.md">Unboxing</a></strong><br><strong>9 dossiers</strong><br>Arrival, identification, condition, provenance clues, and first archival response.</td>
 </tr>
 </table>
+
+## Featured archive — Greg Hill / *Floored*
+
+A real garage-floor consultation becomes a 25-chapter BMX oral history. The derivative archive presents the complete public Shorts series as a machine-readable flooring brochure without hiding the exact publication evidence.
+
+<p align="center"><a href="collections/fireside-bmx-chat/records/fbc-greg-hill-floored/derivatives/shorts/README.md"><img src="collections/fireside-bmx-chat/records/fbc-greg-hill-floored/derivatives/shorts/source/visual/shared-published-frame-cleaner-capture.png" alt="Shared visual for the Greg Hill Floored 25-Short flooring-brochure archive" width="520"></a></p>
+
+<p align="center"><strong><a href="collections/fireside-bmx-chat/records/fbc-greg-hill-floored/derivatives/shorts/README.md">Explore the complete 25-record Floored brochure archive →</a></strong></p>
 
 ## Featured visual archive — Greg Mathias / Chasing Harry Episode 4
 
@@ -89,6 +97,9 @@ The Episode 4 dossier now provides direct visual access to all 32 supplied publi
 - [Archival Standard](ARCHIVAL_STANDARD.md)
 - [Visual Presentation Standard](docs/VISUAL_PRESENTATION_STANDARD.md)
 - [Public/Private Preservation Rules](SECURITY_AND_PRIVACY.md)
+- [v1.4.0 Greg Hill / Floored Deployment Validation](docs/V1.4.0_DEPLOYMENT_VALIDATION.md)
+- [v1.4.0 Greg Hill / Floored Change Report](docs/V1.4.0_CHANGE_REPORT.md)
+- [Greg Hill / Floored 25-Short Brochure Archive](collections/fireside-bmx-chat/records/fbc-greg-hill-floored/derivatives/shorts/README.md)
 - [v1.3.1 Visual Access Validation](docs/V1.3.1_DEPLOYMENT_VALIDATION.md)
 - [v1.3.1 Visual Access Change Report](docs/V1.3.1_CHANGE_REPORT.md)
 - [v1.3.1 GitHub Visual-Fix Walkthrough](docs/V1.3.1_GITHUB_DEPLOYMENT_WALKTHROUGH.md)

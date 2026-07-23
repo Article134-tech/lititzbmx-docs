@@ -1,0 +1,49 @@
+{
+  "$schema": "../../schema/floored-short-record.schema.json",
+  "record_id": "GH-023",
+  "parent_record_id": "fbc-greg-hill-floored",
+  "published_number": 23,
+  "published_title": "23: Greg Hill says he wouldn't get back into BMX if someone offered me \"all the money\" in the world",
+  "archival_display_title": "Greg Hill Rules Out Returning to the BMX Business",
+  "short_url": "https://youtube.com/shorts/5zFc6e87TH8",
+  "youtube_video_id": "5zFc6e87TH8",
+  "playlist_url": "https://youtube.com/playlist?list=PLPoYIOMe8Ph8",
+  "publication_date": "2025-06-05",
+  "duration": "0:36",
+  "duration_seconds": 36,
+  "visibility": "Public",
+  "publication_state": "Published",
+  "views_at_evidence_capture": 29,
+  "comments_at_evidence_capture": 0,
+  "evidence_capture_date": "2026-07-22",
+  "thematic_group": "life-beyond-the-track",
+  "shared_visual": "../../source/visual/shared-published-frame-cleaner-capture.png",
+  "summary": "The published record frames Greg Hill as unwilling to return to the BMX business even for an extraordinary financial offer. No Short-level transcript was supplied; the parent transcript preserves the matching statement.",
+  "claim_status": "attributed statement aligned to parent transcript",
+  "transcript_status": "no Short-level transcript supplied; parent transcript passage aligned",
+  "supplied_transcript_file": null,
+  "parent_transcript_alignment": {
+    "start": "16:00",
+    "end": "16:16",
+    "source": "../../../../source/original-transcript-timestamped.txt",
+    "excerpt_file": "parent-transcript-alignment.txt"
+  },
+  "people": [
+    "Greg Hill"
+  ],
+  "organizations": [
+    "Greg Hill Products",
+    "BMX industry"
+  ],
+  "subjects": [
+    "returning to BMX business",
+    "career transition",
+    "life after GHP",
+    "post-BMX work"
+  ],
+  "notes": [
+    "The record concerns a return to the BMX business, not rejection of BMX history or the sport itself."
+  ],
+  "compiled_date": "2026-07-22",
+  "package_version": "1.4.0"
+}

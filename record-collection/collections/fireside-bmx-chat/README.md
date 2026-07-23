@@ -5,7 +5,7 @@
 Fireside BMX Chat preserves conversations and recordings that place BMX history inside human settings: family remembrance, museum encounters, shared activities, recovered conversations, and campaign work.
 
 **Compiled dossiers:** 8  
-**Public package:** v1.1.0  
+**Public package:** v1.4.0  
 **Dossier types:** Interview and Recording Dossiers
 
 ## Visual dossier index
@@ -17,7 +17,7 @@ Fireside BMX Chat preserves conversations and recordings that place BMX history 
 </tr>
 <tr>
 <td width="34%" valign="top"><a href="records/fbc-greg-hill-floored/README.md"><img src="records/fbc-greg-hill-floored/assets/navigation-thumbnail.png" alt="Repository navigation thumbnail for Greg Hill — Floored" width="100%"></a></td>
-<td valign="top"><strong><a href="records/fbc-greg-hill-floored/README.md">Fireside BMX Chat: Greg Hill - Floored</a></strong><br>Greg Hill visits Kyle’s garage to discuss flooring options, materials, process, cost, and warranties. <br><br><strong>Duration:</strong> 16:54<br><strong>Type:</strong> Interview Dossier<br><a href="https://www.youtube.com/watch?v=EI_tBe4Gf-A">Watch on YouTube</a> · <a href="records/fbc-greg-hill-floored/interview-record.md">Open Interview Record</a></td>
+<td valign="top"><strong><a href="records/fbc-greg-hill-floored/README.md">Fireside BMX Chat: Greg Hill - Floored</a></strong><br>Greg Hill visits Kyle’s garage to discuss flooring options, materials, process, cost, and warranties. <br><br><strong>Duration:</strong> 16:54<br><strong>Type:</strong> Interview Dossier<br><a href="https://www.youtube.com/watch?v=EI_tBe4Gf-A">Watch on YouTube</a> · <a href="records/fbc-greg-hill-floored/interview-record.md">Open Interview Record</a><br><br><strong><a href="records/fbc-greg-hill-floored/derivatives/shorts/README.md">Explore the 25-record Floored flooring-brochure archive</a></strong></td>
 </tr>
 <tr>
 <td width="34%" valign="top"><a href="records/fbc-004-greg-mathias-chasing-harry-hof/README.md"><img src="records/fbc-004-greg-mathias-chasing-harry-hof/assets/navigation-thumbnail.png" alt="Repository navigation thumbnail for Greg Mathias — Hall of Fame" width="100%"></a></td>

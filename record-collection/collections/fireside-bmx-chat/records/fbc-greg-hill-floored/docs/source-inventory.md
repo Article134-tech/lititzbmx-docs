@@ -11,3 +11,7 @@
 ## Restricted originals
 
 Unaltered originals and duplicate captures are preserved in the separate private supplement.
+
+## Derivative-series source inventory
+
+The v1.4.0 Greg Hill Shorts evidence and publication records are documented in [`../derivatives/shorts/docs/source-inventory.md`](../derivatives/shorts/docs/source-inventory.md).

@@ -1,0 +1,128 @@
+{
+  "people": {
+    "Greg Hill": [
+      "GH-001",
+      "GH-002",
+      "GH-003",
+      "GH-004",
+      "GH-005",
+      "GH-006",
+      "GH-007",
+      "GH-008",
+      "GH-009",
+      "GH-010",
+      "GH-011",
+      "GH-012",
+      "GH-013",
+      "GH-014",
+      "GH-015",
+      "GH-016",
+      "GH-017",
+      "GH-018",
+      "GH-019",
+      "GH-020",
+      "GH-021",
+      "GH-022",
+      "GH-023",
+      "GH-024",
+      "GH-025"
+    ],
+    "Kyle A. Huffman": [
+      "GH-001",
+      "GH-002",
+      "GH-003",
+      "GH-004",
+      "GH-005",
+      "GH-010",
+      "GH-014",
+      "GH-015",
+      "GH-018",
+      "GH-020",
+      "GH-022",
+      "GH-025"
+    ],
+    "Harry Leary": [
+      "GH-004",
+      "GH-005",
+      "GH-006",
+      "GH-007",
+      "GH-009",
+      "GH-011",
+      "GH-014"
+    ],
+    "Clint Miller": [
+      "GH-009"
+    ],
+    "Stu Thomsen": [
+      "GH-009"
+    ],
+    "Greg Hill’s father": [
+      "GH-009"
+    ],
+    "Greg Hill’s future wife": [
+      "GH-010"
+    ],
+    "Greg Hill’s mother": [
+      "GH-010"
+    ],
+    "Pete Loncarevich": [
+      "GH-012"
+    ]
+  },
+  "organizations": {
+    "Epoxy Surface Professionals": [
+      "GH-001",
+      "GH-002",
+      "GH-003",
+      "GH-017",
+      "GH-018",
+      "GH-024",
+      "GH-025"
+    ],
+    "Lititz BMX": [
+      "GH-001",
+      "GH-004",
+      "GH-025"
+    ],
+    "Facebook": [
+      "GH-003"
+    ],
+    "DIRTWERX": [
+      "GH-004"
+    ],
+    "Livermore Boss": [
+      "GH-004"
+    ],
+    "Western Sports-A-Rama": [
+      "GH-005",
+      "GH-007"
+    ],
+    "Diamond Back BMX": [
+      "GH-006"
+    ],
+    "JMC": [
+      "GH-007"
+    ],
+    "NBL": [
+      "GH-012"
+    ],
+    "ABA": [
+      "GH-012"
+    ],
+    "BMX industry": [
+      "GH-015",
+      "GH-016",
+      "GH-020",
+      "GH-023"
+    ],
+    "Greg Hill Products": [
+      "GH-017",
+      "GH-018",
+      "GH-019",
+      "GH-021",
+      "GH-022",
+      "GH-023",
+      "GH-024"
+    ]
+  }
+}

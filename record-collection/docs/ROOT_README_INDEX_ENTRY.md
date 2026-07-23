@@ -19,3 +19,9 @@ Twenty-two compiled media dossiers preserving original recordings, transcript la
 Recommended commit summary:
 
 `Add Record Collection and Episode 4 visual archive to repository index`
+
+
+### Featured derivative archives
+
+- [Greg Hill / Floored — 25-Short flooring-brochure archive](record-collection/collections/fireside-bmx-chat/records/fbc-greg-hill-floored/derivatives/shorts/README.md)
+- [Greg Mathias / Chasing Harry Episode 4 — 32-record visual Shorts archive](record-collection/collections/fireside-bmx-chat/records/fbc-004-greg-mathias-chasing-harry-hof/derivatives/shorts/README.md)

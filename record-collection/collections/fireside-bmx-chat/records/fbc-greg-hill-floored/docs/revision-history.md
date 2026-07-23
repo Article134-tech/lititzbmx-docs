@@ -13,3 +13,9 @@
 - Preserved canonical URL, supplied title, public description status, title card when available, and raw transcript.
 - Added working transcript, Interview Record, topic and chapter indexes, curator notes, verification notes, and source inventory.
 - Applied and documented public/private source handling.
+
+## 2026-07-22 - Repository v1.4.0
+
+- Added the complete GH-001 through GH-025 public Shorts derivative archive.
+- Preserved exact titles, descriptions, URLs, transcript evidence, dates, Studio state, shared visual, playlist record, machine-readable registers, and timestamp alignment.
+- Introduced the flooring-brochure access layer without altering source evidence or the parent dossier count.

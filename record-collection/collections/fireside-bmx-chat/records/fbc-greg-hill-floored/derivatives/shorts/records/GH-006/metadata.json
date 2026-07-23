@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schema/floored-short-record.schema.json",
+  "record_id": "GH-006",
+  "parent_record_id": "fbc-greg-hill-floored",
+  "published_number": 6,
+  "published_title": "6: Greg Hill shares about a food fight with team Diamond Back -Down Interstate 40- Harry Leary drove",
+  "archival_display_title": "Greg Hill Remembers a Diamond Back Food Fight on Interstate 40",
+  "short_url": "https://youtube.com/shorts/TPtagvRnPtk",
+  "youtube_video_id": "TPtagvRnPtk",
+  "playlist_url": "https://youtube.com/playlist?list=PLPoYIOMe8Ph8",
+  "publication_date": "2025-05-26",
+  "duration": "0:36",
+  "duration_seconds": 36,
+  "visibility": "Public",
+  "publication_state": "Published",
+  "views_at_evidence_capture": 29,
+  "comments_at_evidence_capture": 0,
+  "evidence_capture_date": "2026-07-22",
+  "thematic_group": "heritage-finish",
+  "shared_visual": "../../source/visual/shared-published-frame-cleaner-capture.png",
+  "summary": "Greg Hill recalls a BMX tour encounter on Interstate 40 in which Harry Leary was driving and riders exchanged bananas and other food with a Diamond Back team vehicle.",
+  "claim_status": "attributed firsthand testimony",
+  "transcript_status": "supplied partial transcript excerpt; beginning omitted and one phrase unclear",
+  "supplied_transcript_file": "supplied-transcript.txt",
+  "parent_transcript_alignment": {
+    "start": "10:54",
+    "end": "11:24",
+    "source": "../../../../source/original-transcript-timestamped.txt",
+    "excerpt_file": "parent-transcript-alignment.txt"
+  },
+  "people": [
+    "Greg Hill",
+    "Harry Leary"
+  ],
+  "organizations": [
+    "Diamond Back BMX"
+  ],
+  "subjects": [
+    "BMX team tours",
+    "Interstate 40",
+    "team rivalry",
+    "behind-the-scenes BMX culture",
+    "road stories"
+  ],
+  "notes": [],
+  "compiled_date": "2026-07-22",
+  "package_version": "1.4.0"
+}
