@@ -1,0 +1,51 @@
+{
+  "volume": 1,
+  "title": "From Page to Artifact",
+  "issues": [
+    {
+      "issue": 1,
+      "title": "The Printed World",
+      "records": [
+        "26.0133",
+        "26.0056",
+        "26.0041"
+      ]
+    },
+    {
+      "issue": 2,
+      "title": "From Damian’s Hand",
+      "records": [
+        "26.0001",
+        "26.0042",
+        "26.0057",
+        "26.0072"
+      ]
+    },
+    {
+      "issue": 3,
+      "title": "The Cast Steps Off the Page",
+      "records": [
+        "26.0129",
+        "26.0130",
+        "26.0131",
+        "26.0132",
+        "26.0058"
+      ]
+    },
+    {
+      "issue": 4,
+      "title": "Rebuilt, Not Replaced",
+      "records": [
+        "campaign"
+      ]
+    },
+    {
+      "issue": 5,
+      "title": "The Story Keeps Riding",
+      "records": [
+        "26.0037",
+        "pending"
+      ]
+    }
+  ]
+}

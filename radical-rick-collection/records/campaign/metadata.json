@@ -1,0 +1,38 @@
+{
+  "record_id": "campaign",
+  "slug": "campaign",
+  "title": "#RebuildRadicalRick Campaign",
+  "source_title": "#RebuildRadicalRick Campaign",
+  "issue": 4,
+  "issue_title": "Rebuilt, Not Replaced",
+  "reading_order": 13,
+  "record_type": "campaign-cross-record",
+  "category": "Campaign archive",
+  "creator_display": "Lititz BMX",
+  "edition_display": "March 12–28, 2025",
+  "image": "source/campaign/campaign.png",
+  "alt": "Lititz BMX campaign post announcing the completed Radical Rick figure and the approaching Rebuild Radical Rick finale.",
+  "summary": "A serialized 2025 Lititz BMX campaign documenting the reconstruction of a 40th Anniversary Radical Rick figure. The campaign archive preserves 19 officially numbered episode positions, 18 verified episodes and one unresolved lost episode without reconstructing missing evidence.",
+  "provenance": "The complete campaign archive is already preserved in the repository under campaigns/rebuild-radical-rick/.",
+  "claims": "The collection does not duplicate the episode archive. It presents the campaign as a connected storyline and directs readers to the canonical campaign record.",
+  "accession_status": "campaign",
+  "volume": 1,
+  "source_page": "https://sites.google.com/view/lititzbmxinventorylist/collections/the-radical-rick-collection",
+  "inventory_source_url": "",
+  "legacy_ids": [],
+  "$schema": "../../schema/radical-rick-record.schema.json",
+  "details": [
+    "Campaign period: March 12–28, 2025.",
+    "Nineteen official episode positions.",
+    "Eighteen verified episodes.",
+    "Episode 15 preserved as The Lost Episode."
+  ],
+  "related_records": [
+    "../../../../campaigns/rebuild-radical-rick/"
+  ],
+  "source_image": "source/campaign/campaign.png",
+  "record_path": "records/campaign/",
+  "metadata_version": "1.0.0",
+  "published_date": "2026-07-23",
+  "rights_statement": "Artifact images and Lititz BMX descriptive content remain associated with their respective creators, owners and Lititz BMX. Published for historical, educational and preservation access."
+}

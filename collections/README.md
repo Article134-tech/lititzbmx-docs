@@ -6,6 +6,16 @@ Museum-style visual collections organizing related artifacts, provenance, learni
 
 ---
 
+## The Radical Rick Collection — Volume One
+
+<p align="center"><a href="radical-rick-collection/"><img src="radical-rick-collection/source/hero.jpg" alt="Lititz BMX Radical Rick collection display" width="900"></a></p>
+
+**The Radical Rick Collection** presents authentic artifact photographs, original Damian Fulton artwork, publications, figures, campaign evidence and related media as a digital graphic-novel exhibition. Volume One, *From Page to Artifact*, preserves 13 accessioned artifacts, one pending package and the connected #RebuildRadicalRick campaign while leaving the series open for future volumes.
+
+[Read The Radical Rick Collection — Volume One](radical-rick-collection/)
+
+---
+
 ## Harry’s Room — The Harry Leary Collection
 
 <p align="center"><a href="harrys-room/"><img src="harrys-room/source/photographs/physical-harrys-room.jpg" alt="Physical Harry Leary display area in the Lititz BMX collection" width="900"></a></p>

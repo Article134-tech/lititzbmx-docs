@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "Please cite this collection using the following metadata."
+title: "The Radical Rick Collection: Volume One — From Page to Artifact"
+type: dataset
+version: "1.0.1"
+date-released: "2026-07-23"
+authors:
+  - family-names: "Huffman"
+    given-names: "Kyle A."
+publisher: "Lititz BMX"
+repository-code: "https://github.com/Article134-tech/lititzbmx-docs"
+url: "https://github.com/Article134-tech/lititzbmx-docs/tree/main/collections/radical-rick-collection"
+abstract: "A digital graphic-novel exhibition preserving 13 accessioned Radical Rick artifacts, one pending-accession package, one connected campaign, authentic source images, provenance, claim qualifications and machine-readable records."

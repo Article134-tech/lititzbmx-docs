@@ -1,0 +1,26 @@
+{
+  "collection_id": "radical-rick-collection",
+  "title": "The Radical Rick Collection",
+  "subtitle": "A Digital Graphic-Novel Exhibition",
+  "version": "1.0.1",
+  "published_date": "2026-07-23",
+  "volumes": [
+    {
+      "volume": 1,
+      "title": "From Page to Artifact",
+      "path": "volumes/volume-1/",
+      "accessioned_artifacts": 13,
+      "pending_records": 1,
+      "campaign_records": 1
+    }
+  ],
+  "record_count": 15,
+  "accessioned_artifact_count": 13,
+  "source_image_count": 18,
+  "generated_artwork_count": 0,
+  "source_page": "https://sites.google.com/view/lititzbmxinventorylist/collections/the-radical-rick-collection",
+  "maintainer": "Kyle A. Huffman / Lititz BMX",
+  "repository": "Article134-tech/lititzbmx-docs",
+  "status": "Published selection; expandable series",
+  "rights": "See README and record-level rights statements."
+}

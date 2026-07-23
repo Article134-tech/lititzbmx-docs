@@ -1,0 +1,39 @@
+{
+  "artifact_id": "26.0037",
+  "slug": "26-0037",
+  "title": "Cactus Park BMX State Qualifier “1st” Place — Radical Rick Plaque",
+  "source_title": "Cactus Park BMX State Qualifier “1st” Place - Radical Rick Plaque — First of the Leary Locker purchases",
+  "issue": 5,
+  "issue_title": "The Story Keeps Riding",
+  "reading_order": 14,
+  "record_type": "award-plaque",
+  "category": "Awards",
+  "creator_display": "Plaque artwork by Damian X. Fulton (inventory attribution)",
+  "edition_display": "2018 State Championship Qualifier plaque",
+  "image": "source/artifacts/26-0037.png",
+  "alt": "Framed 2018 Cactus Park BMX State Championship Qualifier first-place plaque featuring Radical Rick artwork and a number-one plate.",
+  "summary": "This 1st Place plaque from a Cactus Park BMX State Qualifier features artwork by Radical Rick creator Damian Fulton. It was the first item acquired from the “Leary Locker” collection, which ultimately led to the discovery of additional artifacts connected to BMX legend Harry Leary. The plaque also inspired a podcast conversation with Fulton and a charity effort benefiting Samaritan’s Purse, where all proceeds were donated.",
+  "provenance": "Leary Locker; also preserved as a canonical record in Harry’s Room.",
+  "claims": "The charity and acquisition-chain statements are preserved from the Lititz BMX inventory.",
+  "record_id": "26.0037",
+  "accession_status": "accessioned",
+  "volume": 1,
+  "source_page": "https://sites.google.com/view/lititzbmxinventorylist/collections/the-radical-rick-collection",
+  "inventory_source_url": "Damian Fulton Fireside BMX Chat: https://youtu.be/vtVr6GBJtlM?si=L8jdyQFYpHgkhIJ4",
+  "legacy_ids": [],
+  "$schema": "../../schema/radical-rick-record.schema.json",
+  "details": [
+    "First artifact acquired from the Leary Locker collection.",
+    "Connects Radical Rick artwork to Harry Leary’s preserved competition history.",
+    "The acquisition led to additional Leary artifacts, a Damian Fulton conversation and a Samaritan’s Purse charity effort according to the inventory."
+  ],
+  "related_records": [
+    "../../../harrys-room/records/26-0037-cactus-park-state-qualifier-radical-rick-plaque/",
+    "../../../../record-collection/collections/fireside-bmx-chat/records/fbc-001-damian-x-fulton/README.md"
+  ],
+  "source_image": "source/artifacts/26-0037.png",
+  "record_path": "records/26-0037/",
+  "metadata_version": "1.0.0",
+  "published_date": "2026-07-23",
+  "rights_statement": "Artifact images and Lititz BMX descriptive content remain associated with their respective creators, owners and Lititz BMX. Published for historical, educational and preservation access."
+}

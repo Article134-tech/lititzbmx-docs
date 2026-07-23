@@ -1,0 +1,38 @@
+{
+  "artifact_id": "26.0131",
+  "slug": "26-0131",
+  "title": "Hooligan BMX Skuzzer Switchblade Figure",
+  "source_title": "Hooligan BMX Skuzzer Switchblade",
+  "issue": 3,
+  "issue_title": "The Cast Steps Off the Page",
+  "reading_order": 10,
+  "record_type": "custom-figure",
+  "category": "Figure",
+  "creator_display": "Hooligan BMX; character art associated with Damian X. Fulton",
+  "edition_display": "Not supplied",
+  "image": "source/artifacts/26-0131.png",
+  "alt": "Packaged custom Skuzzer Switchblade figure on Radical Rick illustrated card art.",
+  "summary": "A packaged custom figure of Skuzzer Switchblade, preserving one of Radical Rick’s supporting characters as a contemporary physical collectible. The figure and illustrated card are documented together as the complete presentation.",
+  "provenance": "Current Lititz BMX holding; acquisition details were not supplied in the artifact entry.",
+  "claims": "No edition size, production date or material description was supplied.",
+  "record_id": "26.0131",
+  "accession_status": "accessioned",
+  "volume": 1,
+  "source_page": "https://sites.google.com/view/lititzbmxinventorylist/collections/the-radical-rick-collection",
+  "inventory_source_url": "",
+  "legacy_ids": [],
+  "$schema": "../../schema/radical-rick-record.schema.json",
+  "details": [
+    "Figure remains photographed in custom blister-card packaging.",
+    "Package label identifies the character as Skuzzer Switchblade.",
+    "Visible card art and branding are retained as evidence."
+  ],
+  "related_records": [
+    "../../../../record-collection/collections/unboxing/records/unb-hooligan-radical-rick-figure/README.md"
+  ],
+  "source_image": "source/artifacts/26-0131.png",
+  "record_path": "records/26-0131/",
+  "metadata_version": "1.0.0",
+  "published_date": "2026-07-23",
+  "rights_statement": "Artifact images and Lititz BMX descriptive content remain associated with their respective creators, owners and Lititz BMX. Published for historical, educational and preservation access."
+}
