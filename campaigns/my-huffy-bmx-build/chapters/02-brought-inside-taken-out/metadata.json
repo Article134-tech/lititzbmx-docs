@@ -1,0 +1,19 @@
+{
+  "$schema": "../../schema/chapter.schema.json",
+  "record_id": "HUFFY-CH-02",
+  "chapter_number": 2,
+  "title": "Brought Inside - Taken Out",
+  "published_page_title": "Chapter 2: Brought Inside - Taken Out",
+  "narrative_role": "Evaluation before modification",
+  "source_dates": "2026-04-15; 2026-04-20",
+  "google_sites_url": "https://sites.google.com/view/lititzbmxinventorylist/campaigns/huffybmx-build-campaigns/ch-2-huffy-bmx-build-campaigns",
+  "source_images": [
+    "source/facebook/ch02-2026-04-15-box-brought-inside.png",
+    "source/facebook/ch02-2026-04-20-box-opened.png"
+  ],
+  "page_captures": [
+    "source/google-sites/chapter-02-page-capture.png"
+  ],
+  "evidence_note": "Nicholas Long and Linda Leary Taylor are documented as influences on the decision to consider the bike seriously, not as formal endorsers of every later component choice.",
+  "status": "verified"
+}

@@ -1,0 +1,66 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "campaign.schema.json",
+  "type": "object",
+  "required": [
+    "campaign_id",
+    "title",
+    "version",
+    "chapter_count",
+    "chapters"
+  ],
+  "properties": {
+    "campaign_id": {
+      "type": "string"
+    },
+    "title": {
+      "type": "string"
+    },
+    "version": {
+      "type": "string"
+    },
+    "chapter_count": {
+      "const": 10
+    },
+    "source_file_count": {
+      "type": "integer",
+      "minimum": 1
+    },
+    "chapters": {
+      "type": "array",
+      "minItems": 10,
+      "maxItems": 10,
+      "items": {
+        "type": "object",
+        "required": [
+          "record_id",
+          "number",
+          "title",
+          "path",
+          "url"
+        ],
+        "properties": {
+          "record_id": {
+            "type": "string"
+          },
+          "number": {
+            "type": "integer",
+            "minimum": 1,
+            "maximum": 10
+          },
+          "title": {
+            "type": "string"
+          },
+          "path": {
+            "type": "string"
+          },
+          "url": {
+            "type": "string",
+            "format": "uri"
+          }
+        }
+      }
+    }
+  },
+  "additionalProperties": true
+}

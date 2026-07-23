@@ -1,52 +1,41 @@
-# Lititz BMX Campaigns
+# Lititz BMX Campaign Archives
 
-This directory contains long-form preservation, restoration, educational, and storytelling campaigns produced by Lititz BMX.
+Long-form preservation, restoration, educational, and storytelling campaigns produced by Lititz BMX.
 
-Unlike individual artifact pages, campaigns combine artifacts, interviews, photographs, videos, documents, and historical research into larger connected stories that evolve over time.
-
----
-
-## Current Campaigns
-
-### [#RebuildRadicalRick](rebuild-radical-rick/)
-
-The preservation and reconstruction of a 40th Anniversary Radical Rick figure, documented through a 19-position serialized campaign connecting BMX history, comic culture, creator interviews, archival research, and community participation.
-
-**Status:** Archived  
-**Campaign period:** March 12–28, 2025
-
-[Open the campaign archive](rebuild-radical-rick/)
+[Return to the repository home](../README.md)
 
 ---
 
-### A Fireside Story of Harry Leary
+## #myHuffyBMXBuild — The Journey
 
-A comprehensive multimedia history of Harry Leary using interviews, photographs, artifacts, archival material, and original research.
+<a href="my-huffy-bmx-build/"><img src="my-huffy-bmx-build/source/photographs/completed-bike-fire-hydrant.png" alt="Completed black and orange Huffy HX Pro Cruiser beside a fire hydrant." width="760"></a>
 
-*Status: Active*
+A ten-chapter digital book following an underestimated Huffy HX Pro Cruiser from acquisition through practical learning, Harry Leary provenance, #OperationDIRTWERX continuity, archive identity, pump-track advocacy, public publication, and continuing use.
 
----
-
-### Operation DIRTWERX
-
-Preserving the history of DIRTWERX through prototypes, rider interviews, equipment, artifacts, documents, and media.
-
-*Status: Active*
-
-[Open the #OperationDIRTWERX — The Story archive](operation-dirtwerx/)
+[Read the complete #myHuffyBMXBuild campaign book](my-huffy-bmx-build/)
 
 ---
 
-### 10,000 Hours
+## #OperationDIRTWERX — The Story
 
-A long-term educational series documenting the work required to preserve BMX history through cataloging, research, interviews, photography, writing, and public education.
+<a href="operation-dirtwerx/"><img src="operation-dirtwerx/source-images/source-001-2025-04-10-campaign-underway.png" alt="Operation DIRTWERX campaign launch showing Harry Leary’s bicycle disassembled for preservation work." width="760"></a>
 
-*Status: Active*
+The recovery, evaluation, preservation, and return of a DIRTWERX bicycle connected to BMX pioneer Harry Leary and the Leary family.
+
+[Explore the complete #OperationDIRTWERX archive](operation-dirtwerx/)
 
 ---
 
-### #myHuffyBMXBuild
+## #RebuildRadicalRick
 
-The restoration and documentation of an early Huffy BMX bicycle while demonstrating preservation techniques and historical research.
+<a href="rebuild-radical-rick/"><img src="rebuild-radical-rick/source-images/episode-19-facebook-post.png" alt="Final source record from the Rebuild Radical Rick campaign." width="760"></a>
 
-*Status: Active*
+A nineteen-position visual campaign archive preserving the build, clues, creator history, community engagement, finale, and documented lost Episode 15.
+
+[Explore the complete #RebuildRadicalRick archive](rebuild-radical-rick/)
+
+---
+
+## Preservation approach
+
+Campaign archives separate original visual evidence, source wording, public-page presentation, later archival explanation, structured data, and verification notes. Missing material is documented rather than recreated through assumption.

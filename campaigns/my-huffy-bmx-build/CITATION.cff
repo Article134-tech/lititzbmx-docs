@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "Please cite the #myHuffyBMXBuild campaign archive and Lititz BMX when using this record."
+title: "#myHuffyBMXBuild — The Journey: A Ten-Chapter BMX Build Story"
+version: 1.0.0
+date-released: 2026-07-23
+authors:
+  - family-names: Huffman
+    given-names: Kyle A.
+repository-code: "https://github.com/Article134-tech/lititzbmx-docs"
+url: "https://sites.google.com/view/lititzbmxinventorylist/campaigns/huffybmx-build-campaigns"
+license: "All rights reserved; educational and historical reference permitted subject to the repository public-use notice."

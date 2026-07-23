@@ -1,0 +1,19 @@
+{
+  "$schema": "../../schema/chapter.schema.json",
+  "record_id": "HUFFY-CH-01",
+  "chapter_number": 1,
+  "title": "As Confirmed by Sugar Cayne - Then Buy Me...",
+  "published_page_title": "Chapter 1: As Confirmed by Sugar Cayne - Then Buy Me...",
+  "narrative_role": "Resistance becomes possibility",
+  "source_dates": "2026-04-04; 2026-04-11",
+  "google_sites_url": "https://sites.google.com/view/lititzbmxinventorylist/campaigns/huffybmx-build-campaigns",
+  "source_images": [
+    "source/facebook/ch01-2026-04-04-sugar-cayne-inspiration.png",
+    "source/facebook/ch01-2026-04-11-damaged-box-arrival.png"
+  ],
+  "page_captures": [
+    "source/google-sites/chapter-01-page-capture.png"
+  ],
+  "evidence_note": "Sugar Cayne influenced the decision to consider the platform; the later complimentary Chapter 1 sponsorship was a Lititz BMX gift and not payment for editorial coverage.",
+  "status": "verified"
+}

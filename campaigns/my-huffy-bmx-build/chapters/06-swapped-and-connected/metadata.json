@@ -1,0 +1,22 @@
+{
+  "$schema": "../../schema/chapter.schema.json",
+  "record_id": "HUFFY-CH-06",
+  "chapter_number": 6,
+  "title": "Swapped & Connected",
+  "published_page_title": "Chapter 6: Swapped & Connected",
+  "narrative_role": "Performance, preservation and discernment",
+  "source_dates": "2026-04-22; 2026-04-23; 2026-04-24",
+  "google_sites_url": "https://sites.google.com/view/lititzbmxinventorylist/campaigns/huffybmx-build-campaigns/ch-6-huffy-bmx-build-campaigns",
+  "source_images": [
+    "source/facebook/ch06-2026-04-22-brake-adjustments.png",
+    "source/facebook/ch06-2026-04-23-stem-cap-installed.png",
+    "source/facebook/ch06-2026-04-24-grip-removal.png",
+    "source/facebook/ch06-2026-04-24-harry-linked-chain-considered.png"
+  ],
+  "page_captures": [
+    "source/google-sites/chapter-06-page-capture-part-1.png",
+    "source/google-sites/chapter-06-page-capture-part-2.png"
+  ],
+  "evidence_note": "The Harry-linked chain was considered and not installed. The brake observations are a record of the builder’s adjustment process, not a controlled performance guarantee.",
+  "status": "verified"
+}

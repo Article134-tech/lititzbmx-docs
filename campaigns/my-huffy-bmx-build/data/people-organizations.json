@@ -1,0 +1,62 @@
+{
+  "people": [
+    {
+      "name": "Kyle A. Huffman",
+      "role": "Builder, author, photographer, archivist, and Lititz BMX owner"
+    },
+    {
+      "name": "Harry Leary",
+      "role": "BMX pioneer whose seat, seat post, chain context, and DIRTWERX history inform the build; not owner or rider of this Huffy"
+    },
+    {
+      "name": "Linda Leary Taylor",
+      "role": "Provided Harry Leary provenance components and contemporaneous responses"
+    },
+    {
+      "name": "Sugar Cayne",
+      "role": "Initial inspiration, Bike of the Day publisher, and complimentary Chapter 1 lifetime sponsor"
+    },
+    {
+      "name": "Nicholas Long",
+      "role": "Trusted rider influence cited during the acquisition decision"
+    },
+    {
+      "name": "Brandon Hetrick",
+      "role": "Coleman Bike Park unboxing participant"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Lititz BMX",
+      "role": "Producer and archive owner"
+    },
+    {
+      "name": "Huffy BMX",
+      "role": "Manufacturer of the stock HX Pro Cruiser platform"
+    },
+    {
+      "name": "Box Components",
+      "role": "Grip and brake-pad component context"
+    },
+    {
+      "name": "Tioga",
+      "role": "PowerBlock tire manufacturer"
+    },
+    {
+      "name": "#OperationDIRTWERX",
+      "role": "Earlier preservation campaign connected through grip hardware and Harry Leary history"
+    },
+    {
+      "name": "Warwick Township",
+      "role": "Pump-track advocacy context"
+    },
+    {
+      "name": "Coleman Bike Park",
+      "role": "Postscript field-use and filming location in Lebanon, Pennsylvania"
+    },
+    {
+      "name": "WorldWide Exotic BMX",
+      "role": "Secondary circulation of the build and campaign"
+    }
+  ]
+}

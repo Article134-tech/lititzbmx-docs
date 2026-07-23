@@ -1,0 +1,19 @@
+{
+  "$schema": "../../schema/chapter.schema.json",
+  "record_id": "HUFFY-CH-05",
+  "chapter_number": 5,
+  "title": "Weight Removed... A Stand Taken.... Purpose Shared",
+  "published_page_title": "Chapter 5: Weight Removed... A Stand Taken.... Purpose Shared",
+  "narrative_role": "Archive identity and stated purpose",
+  "source_dates": "2026-04-22",
+  "google_sites_url": "https://sites.google.com/view/lititzbmxinventorylist/campaigns/huffybmx-build-campaigns/ch-5-huffy-bmx-build-campaigns",
+  "source_images": [
+    "source/facebook/ch05-2026-04-22-morning-light.png",
+    "source/facebook/ch05-2026-04-22-archive-stem-cap-arrives.png"
+  ],
+  "page_captures": [
+    "source/google-sites/chapter-05-page-capture.png"
+  ],
+  "evidence_note": "The stem cap is introduced in this chapter and installed in Chapter 6; the sequence is preserved.",
+  "status": "verified"
+}

@@ -1,0 +1,87 @@
+{
+  "$schema": "../schema/campaign.schema.json",
+  "campaign_id": "LBC-HUFFY-2026",
+  "title": "#myHuffyBMXBuild — The Journey",
+  "subtitle": "A Ten-Chapter BMX Build Story",
+  "version": "1.0.0",
+  "status": "complete-with-continuing-postscript",
+  "producer": "Lititz BMX",
+  "owner": "Kyle A. Huffman",
+  "original_campaign_url": "https://sites.google.com/view/lititzbmxinventorylist/campaigns/huffybmx-build-campaigns",
+  "chapter_count": 10,
+  "afterword": "afterword/sugar-cayne-bike-of-the-day/",
+  "postscript": "postscript/coleman-bike-park/",
+  "source_file_count": 54,
+  "chapters": [
+    {
+      "record_id": "HUFFY-CH-01",
+      "number": 1,
+      "title": "As Confirmed by Sugar Cayne - Then Buy Me...",
+      "path": "chapters/01-as-confirmed-by-sugar-cayne-then-buy-me/",
+      "url": "https://sites.google.com/view/lititzbmxinventorylist/campaigns/huffybmx-build-campaigns"
+    },
+    {
+      "record_id": "HUFFY-CH-02",
+      "number": 2,
+      "title": "Brought Inside - Taken Out",
+      "path": "chapters/02-brought-inside-taken-out/",
+      "url": "https://sites.google.com/view/lititzbmxinventorylist/campaigns/huffybmx-build-campaigns/ch-2-huffy-bmx-build-campaigns"
+    },
+    {
+      "record_id": "HUFFY-CH-03",
+      "number": 3,
+      "title": "Stood Up with a Post of Authority",
+      "path": "chapters/03-stood-up-with-a-post-of-authority/",
+      "url": "https://sites.google.com/view/lititzbmxinventorylist/campaigns/huffybmx-build-campaigns/ch-3-huffy-bmx-build-campaigns"
+    },
+    {
+      "record_id": "HUFFY-CH-04",
+      "number": 4,
+      "title": "Progress... Weight",
+      "path": "chapters/04-progress-weight/",
+      "url": "https://sites.google.com/view/lititzbmxinventorylist/campaigns/huffybmx-build-campaigns/ch-4-huffy-bmx-build-campaigns"
+    },
+    {
+      "record_id": "HUFFY-CH-05",
+      "number": 5,
+      "title": "Weight Removed... A Stand Taken.... Purpose Shared",
+      "path": "chapters/05-weight-removed-a-stand-taken-purpose-shared/",
+      "url": "https://sites.google.com/view/lititzbmxinventorylist/campaigns/huffybmx-build-campaigns/ch-5-huffy-bmx-build-campaigns"
+    },
+    {
+      "record_id": "HUFFY-CH-06",
+      "number": 6,
+      "title": "Swapped & Connected",
+      "path": "chapters/06-swapped-and-connected/",
+      "url": "https://sites.google.com/view/lititzbmxinventorylist/campaigns/huffybmx-build-campaigns/ch-6-huffy-bmx-build-campaigns"
+    },
+    {
+      "record_id": "HUFFY-CH-07",
+      "number": 7,
+      "title": "Get a Grip",
+      "path": "chapters/07-get-a-grip/",
+      "url": "https://sites.google.com/view/lititzbmxinventorylist/campaigns/huffybmx-build-campaigns/ch-7-huffy-bmx-build-campaigns"
+    },
+    {
+      "record_id": "HUFFY-CH-08",
+      "number": 8,
+      "title": "Life Outdoors",
+      "path": "chapters/08-life-outdoors/",
+      "url": "https://sites.google.com/view/lititzbmxinventorylist/campaigns/huffybmx-build-campaigns/ch-8-huffy-bmx-build-campaigns"
+    },
+    {
+      "record_id": "HUFFY-CH-09",
+      "number": 9,
+      "title": "A Week in the Life of...",
+      "path": "chapters/09-a-week-in-the-life-of/",
+      "url": "https://sites.google.com/view/lititzbmxinventorylist/campaigns/huffybmx-build-campaigns/ch-9-huffy-bmx-build-campaigns"
+    },
+    {
+      "record_id": "HUFFY-CH-10",
+      "number": 10,
+      "title": "Keep Rollin On",
+      "path": "chapters/10-keep-rollin-on/",
+      "url": "https://sites.google.com/view/lititzbmxinventorylist/campaigns/huffybmx-build-campaigns/ch-10-huffy-bmx-build-campaigns"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schema/chapter.schema.json",
+  "record_id": "HUFFY-CH-07",
+  "chapter_number": 7,
+  "title": "Get a Grip",
+  "published_page_title": "Chapter 7: Get a Grip",
+  "narrative_role": "Physical continuity from #OperationDIRTWERX",
+  "source_dates": "2026-04-25",
+  "google_sites_url": "https://sites.google.com/view/lititzbmxinventorylist/campaigns/huffybmx-build-campaigns/ch-7-huffy-bmx-build-campaigns",
+  "source_images": [
+    "source/facebook/ch07-2026-04-25-worn-grips-reconsidered.png",
+    "source/facebook/ch07-2026-04-25-grip-clamps-cleaned.png",
+    "source/facebook/ch07-2026-04-25-clamps-installed-dirtwerx-continuity.png"
+  ],
+  "page_captures": [
+    "source/google-sites/chapter-07-page-capture-part-1.png",
+    "source/google-sites/chapter-07-page-capture-part-2.png"
+  ],
+  "evidence_note": "The recovered grip hardware connects this build with Operation DIRTWERX and Harry Leary preservation work. It does not establish the Huffy as a Harry Leary-owned or Harry Leary-ridden bicycle.",
+  "status": "verified"
+}

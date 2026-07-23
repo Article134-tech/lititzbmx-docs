@@ -1,0 +1,19 @@
+{
+  "$schema": "../../schema/chapter.schema.json",
+  "record_id": "HUFFY-CH-03",
+  "chapter_number": 3,
+  "title": "Stood Up with a Post of Authority",
+  "published_page_title": "Chapter 3: Stood Up with a Post of Authority",
+  "narrative_role": "Harry Leary provenance changes the project",
+  "source_dates": "2026-04-21",
+  "google_sites_url": "https://sites.google.com/view/lititzbmxinventorylist/campaigns/huffybmx-build-campaigns/ch-3-huffy-bmx-build-campaigns",
+  "source_images": [
+    "source/facebook/ch03-2026-04-21-bike-on-stand.png",
+    "source/facebook/ch03-2026-04-21-harry-leary-seat-post.png"
+  ],
+  "page_captures": [
+    "source/google-sites/chapter-03-page-capture.png"
+  ],
+  "evidence_note": "The seat and seat post are documented as Harry Leary provenance through Linda Leary Taylor. Their installation does not make the Huffy a bicycle owned or ridden by Harry Leary.",
+  "status": "verified"
+}

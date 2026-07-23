@@ -1,0 +1,19 @@
+{
+  "$schema": "../../schema/chapter.schema.json",
+  "record_id": "HUFFY-CH-04",
+  "chapter_number": 4,
+  "title": "Progress... Weight",
+  "published_page_title": "Chapter 4: Progress... Weight",
+  "narrative_role": "Refinement and removal",
+  "source_dates": "2026-04-21; 2026-04-22",
+  "google_sites_url": "https://sites.google.com/view/lititzbmxinventorylist/campaigns/huffybmx-build-campaigns/ch-4-huffy-bmx-build-campaigns",
+  "source_images": [
+    "source/facebook/ch04-2026-04-21-progress-and-weight.png",
+    "source/facebook/ch04-2026-04-22-removed-components.png"
+  ],
+  "page_captures": [
+    "source/google-sites/chapter-04-page-capture.png"
+  ],
+  "evidence_note": "The images establish removal and documentation. Permanent physical retention or later disposal of every removed component is not established.",
+  "status": "verified"
+}

@@ -1,0 +1,19 @@
+{
+  "$schema": "../../schema/chapter.schema.json",
+  "record_id": "HUFFY-CH-10",
+  "chapter_number": 10,
+  "title": "Keep Rollin On",
+  "published_page_title": "Chapter 10: Keep Rollin On",
+  "narrative_role": "Mature configuration and public submission",
+  "source_dates": "2026-05-02; May 2026, exact submission timestamp not preserved",
+  "google_sites_url": "https://sites.google.com/view/lititzbmxinventorylist/campaigns/huffybmx-build-campaigns/ch-10-huffy-bmx-build-campaigns",
+  "source_images": [
+    "source/facebook/ch10-2026-05-02-tioga-powerblocks-installed.png",
+    "source/facebook/ch10-2026-05-bike-of-the-day-submission.png"
+  ],
+  "page_captures": [
+    "source/google-sites/chapter-10-page-capture.png"
+  ],
+  "evidence_note": "The source establishes successful submission. Selection and publication are documented separately in the Sugar Cayne Afterword. The mental-health language remains the builder’s own reflection and is not expanded into a medical conclusion.",
+  "status": "verified"
+}

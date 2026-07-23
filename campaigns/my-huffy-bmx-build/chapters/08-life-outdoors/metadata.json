@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schema/chapter.schema.json",
+  "record_id": "HUFFY-CH-08",
+  "chapter_number": 8,
+  "title": "Life Outdoors",
+  "published_page_title": "Chapter 8: Life Outdoors",
+  "narrative_role": "First motion and functional proof",
+  "source_dates": "2026-04-25; 2026-04-26",
+  "google_sites_url": "https://sites.google.com/view/lititzbmxinventorylist/campaigns/huffybmx-build-campaigns/ch-8-huffy-bmx-build-campaigns",
+  "source_images": [
+    "source/facebook/ch08-2026-04-25-bike-on-covered-porch.png",
+    "source/facebook/ch08-2026-04-26-first-shakedown-ride.png",
+    "source/facebook/ch08-2026-04-26-ride-video.png"
+  ],
+  "page_captures": [
+    "source/google-sites/chapter-08-page-capture.png"
+  ],
+  "evidence_note": "Ride descriptions reflect the builder’s direct experience during an initial shakedown, not a controlled durability or professional product test.",
+  "status": "verified"
+}

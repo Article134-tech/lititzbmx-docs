@@ -1,0 +1,22 @@
+{
+  "$schema": "../../schema/chapter.schema.json",
+  "record_id": "HUFFY-CH-09",
+  "chapter_number": 9,
+  "title": "A Week in the Life of...",
+  "published_page_title": "Chapter 9: A Week in the Life of...",
+  "narrative_role": "Advocacy, learning and continued evolution",
+  "source_dates": "2026-04-26; 2026-04-27; 2026-04-28; 2026-04-30",
+  "google_sites_url": "https://sites.google.com/view/lititzbmxinventorylist/campaigns/huffybmx-build-campaigns/ch-9-huffy-bmx-build-campaigns",
+  "source_images": [
+    "source/facebook/ch09-2026-04-26-one-week-build-gallery.png",
+    "source/facebook/ch09-2026-04-27-pump-track-advocacy.png",
+    "source/facebook/ch09-2026-04-28-headset-spacers.png",
+    "source/facebook/ch09-2026-04-30-wheels-and-tires-arrive.png"
+  ],
+  "page_captures": [
+    "source/google-sites/chapter-09-page-capture-part-1.png",
+    "source/google-sites/chapter-09-page-capture-part-2.png"
+  ],
+  "evidence_note": "The page header is “A Week in the Life of...” while the repeated table of contents labels Chapter 9 “Life Outdoors.” Both published forms are preserved. The wheels and tires are introduced here, not treated as installed until later evidence.",
+  "status": "verified"
+}
