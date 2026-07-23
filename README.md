@@ -59,6 +59,15 @@ Interactive educational resources combining BMX history, puzzles, profiles, imag
 - [Explore the Interactive BMX Word Search](learning-resources/word-search/)
 - [Explore the BMX History Quiz Series](learning-resources/quizzes/)
 
+### Collections
+
+<a href="collections/jersey-collection/"><img src="collections/jersey-collection/source/photographs/physical-jersey-wall-hero.jpg" alt="The Lititz BMX Digital Jersey Wall" width="720"></a>
+
+Museum-style visual collections organizing related artifacts, provenance, learning context, and public access records.
+
+- [Open the Collections library](collections/)
+- [Explore the Digital Jersey Wall — 22 accessioned jerseys and five continued-journey records](collections/jersey-collection/)
+
 ### Campaign Archives
 
 Long-form preservation, restoration, educational, and storytelling campaigns produced by Lititz BMX.
