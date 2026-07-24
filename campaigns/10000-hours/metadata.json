@@ -1,0 +1,18 @@
+{
+  "schema_version": "1.0",
+  "collection_id": "CAMPAIGN-10000-HOURS",
+  "title": "10,000 Hours of BMX Inspiration Mixed Tape",
+  "subtitle": "A 23-track visual campaign archive",
+  "record_count": 23,
+  "campaign_root_count": 1,
+  "child_page_count": 22,
+  "page_capture_count": 22,
+  "standalone_social_image_count": 4,
+  "preserved_visual_file_count": 29,
+  "audio_files_archived": 0,
+  "status": "complete_source_preservation_package",
+  "source_root": "https://sites.google.com/view/lititzbmxinventorylist/campaigns/10000-hours-campaigns",
+  "maintainer": "Lititz BMX",
+  "release_version": "1.0.0",
+  "release_date": "2026-07-23"
+}

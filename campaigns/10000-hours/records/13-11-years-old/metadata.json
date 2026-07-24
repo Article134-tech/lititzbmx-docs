@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0",
+  "record_type": "campaign_mixtape_track",
+  "campaign_id": "CAMPAIGN-10000-HOURS",
+  "track_number": 13,
+  "section": "Side B",
+  "slug": "11-years-old",
+  "title": "Once I Was 11 Years Old",
+  "source_url": "https://sites.google.com/view/lititzbmxinventorylist/campaigns/10000-hours-campaigns/11-years-old-10000-hours-campaigns",
+  "quote": "“Once I was 11 years old my Daddy told me Son, go get yourself a bike or you will be lonely.” - 10,000 hours",
+  "prompt": "",
+  "notes": "The page text supplied no artist or song label. The visible embed identifies Lukas Graham’s “7 Years.”",
+  "published_page_text": null,
+  "inspiration": {
+    "artist": "Lukas Graham",
+    "song": "7 Years",
+    "url": "https://www.youtube.com/watch?v=eCq3G6LGhe8",
+    "attribution_status": "visible_in_embed_not_stated_in_page_text",
+    "audio_archived": false
+  },
+  "images": {
+    "page_capture": "source/page-captures/13-11-years-old-page.png",
+    "standalone_source": null
+  },
+  "status": "source_preserved",
+  "created": "2026-07-23",
+  "maintainer": "Lititz BMX"
+}

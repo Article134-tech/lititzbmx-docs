@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0",
+  "record_type": "campaign_mixtape_track",
+  "campaign_id": "CAMPAIGN-10000-HOURS",
+  "track_number": 20,
+  "section": "Side B",
+  "slug": "no-name-in-lights",
+  "title": "No Name in Lights",
+  "source_url": "https://sites.google.com/view/lititzbmxinventorylist/campaigns/10000-hours-campaigns/no-name-in-lights-10000-hours-campaigns",
+  "quote": "“He doesn’t need his name up in lights, he only wants to race and take home that 1. She only hears the beat of her heart as she feels the gate drop. Their will is beyond reach.” - 10,000 hours",
+  "prompt": "",
+  "notes": "The page text supplied no artist or song label. The visible embedded-video title references Fort Minor / Mike Shinoda, but no normalized song title is asserted here.",
+  "published_page_text": null,
+  "inspiration": {
+    "artist": "Fort Minor / Mike Shinoda — as visible in embed",
+    "song": "Video link as published",
+    "url": "https://www.youtube.com/watch?v=gteotBdcx5g&t=1s",
+    "attribution_status": "visible_in_embed_not_stated_in_page_text",
+    "audio_archived": false
+  },
+  "images": {
+    "page_capture": "source/page-captures/20-no-name-in-lights-page.png",
+    "standalone_source": null
+  },
+  "status": "source_preserved",
+  "created": "2026-07-23",
+  "maintainer": "Lititz BMX"
+}

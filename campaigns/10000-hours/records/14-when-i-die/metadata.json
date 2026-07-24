@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0",
+  "record_type": "campaign_mixtape_track",
+  "campaign_id": "CAMPAIGN-10000-HOURS",
+  "track_number": 14,
+  "section": "Side B",
+  "slug": "when-i-die",
+  "title": "The Underdog Who Never Lost Hope",
+  "source_url": "https://sites.google.com/view/lititzbmxinventorylist/campaigns/10000-hours-campaigns/when-i-die-10000-hours-campaigns",
+  "quote": "“When I die, I am going down as the underdog who never lost hope!” - 10,000 hours",
+  "prompt": "",
+  "notes": "The page text supplied no artist or song label. The visible embedded-video title indicates a live performance built around “Lucky You,” but the performer is not identified by the page text.",
+  "published_page_text": null,
+  "inspiration": {
+    "artist": null,
+    "song": "Lucky You — performance link as published",
+    "url": "https://www.youtube.com/watch?v=6OqtJJAWSXc",
+    "attribution_status": "visible_in_embed_not_stated_in_page_text",
+    "audio_archived": false
+  },
+  "images": {
+    "page_capture": "source/page-captures/14-when-i-die-page.png",
+    "standalone_source": null
+  },
+  "status": "source_preserved",
+  "created": "2026-07-23",
+  "maintainer": "Lititz BMX"
+}

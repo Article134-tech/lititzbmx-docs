@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0",
+  "record_type": "campaign_mixtape_track",
+  "campaign_id": "CAMPAIGN-10000-HOURS",
+  "track_number": 5,
+  "section": "Side A",
+  "slug": "life-earned",
+  "title": "Life Earned",
+  "source_url": "https://sites.google.com/view/lititzbmxinventorylist/campaigns/10000-hours-campaigns/life-earned-10000-hours-campaigns",
+  "quote": "“Let your life be earned. Every Win. Every Bruise. Every Loss. Every Cut. Every Smile. Earned.” - 10,000 hours",
+  "prompt": "",
+  "notes": "",
+  "published_page_text": null,
+  "inspiration": {
+    "artist": "Macklemore",
+    "song": "Aint Gonna Die Tonight",
+    "url": "https://www.youtube.com/watch?v=MEdKPEG3bTY",
+    "attribution_status": "stated_on_page",
+    "audio_archived": false
+  },
+  "images": {
+    "page_capture": "source/page-captures/05-life-earned-page.png",
+    "standalone_source": null
+  },
+  "status": "source_preserved",
+  "created": "2026-07-23",
+  "maintainer": "Lititz BMX"
+}

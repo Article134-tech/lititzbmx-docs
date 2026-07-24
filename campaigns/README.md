@@ -6,6 +6,16 @@ Long-form preservation, restoration, educational, and storytelling campaigns pro
 
 ---
 
+## 10,000 Hours of BMX Inspiration Mixed Tape
+
+<a href="10000-hours/"><img src="10000-hours/source/series-index.png" alt="10,000 Hours of BMX Inspiration Mixed Tape — published campaign index and visual track grid." width="760"></a>
+
+A 23-track visual campaign archive pairing BMX reflections, questions and source imagery with the externally hosted music that inspired each entry. The campaign root opens the tape, 22 child pages form the track sequence, and Curtain Call closes the recording—with room left for an encore.
+
+[Play the complete 10,000 Hours of BMX Inspiration Mixed Tape](10000-hours/)
+
+---
+
 ## #myHuffyBMXBuild — The Journey
 
 <a href="my-huffy-bmx-build/"><img src="my-huffy-bmx-build/source/photographs/completed-bike-fire-hydrant.png" alt="Completed black and orange Huffy HX Pro Cruiser beside a fire hydrant." width="760"></a>

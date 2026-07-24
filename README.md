@@ -76,6 +76,7 @@ Museum-style visual collections organizing related artifacts, provenance, learni
 Long-form preservation, restoration, educational, and storytelling campaigns produced by Lititz BMX.
 
 - [Open the Campaigns library](campaigns/)
+- [Play the 10,000 Hours of BMX Inspiration Mixed Tape — 23 visual campaign records](campaigns/10000-hours/)
 - [Explore the complete #myHuffyBMXBuild ten-chapter digital book archive](campaigns/my-huffy-bmx-build/)
 - [Explore the complete #RebuildRadicalRick campaign archive](campaigns/rebuild-radical-rick/)
 - [Explore the complete #OperationDIRTWERX — The Story campaign archive](campaigns/operation-dirtwerx/)

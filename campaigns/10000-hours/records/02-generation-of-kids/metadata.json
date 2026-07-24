@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0",
+  "record_type": "campaign_mixtape_track",
+  "campaign_id": "CAMPAIGN-10000-HOURS",
+  "track_number": 2,
+  "section": "Side A",
+  "slug": "generation-of-kids",
+  "title": "A Generation of Kids",
+  "source_url": "https://sites.google.com/view/lititzbmxinventorylist/campaigns/10000-hours-campaigns/generation-of-kids-10000-hours-campaigns",
+  "quote": "“A generation of kids who chose love over a desk.” - 10,000 hours",
+  "prompt": "Were you one?",
+  "notes": "",
+  "published_page_text": null,
+  "inspiration": {
+    "artist": "Macklemore & Ryan Lewis",
+    "song": "10000 Hours",
+    "url": "https://www.youtube.com/watch?v=P83kj1Oe45o&t=1s",
+    "attribution_status": "stated_on_page",
+    "audio_archived": false
+  },
+  "images": {
+    "page_capture": "source/page-captures/02-generation-of-kids-page.png",
+    "standalone_source": "source/social-posts/02-generation-of-kids-social.png"
+  },
+  "status": "source_preserved",
+  "created": "2026-07-23",
+  "maintainer": "Lititz BMX"
+}

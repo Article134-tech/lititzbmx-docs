@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0",
+  "record_type": "campaign_mixtape_track",
+  "campaign_id": "CAMPAIGN-10000-HOURS",
+  "track_number": 1,
+  "section": "Intro",
+  "slug": "ive-heard-you-die-twice",
+  "title": "I’ve Heard You Die Twice",
+  "source_url": "https://sites.google.com/view/lititzbmxinventorylist/campaigns/10000-hours-campaigns",
+  "quote": "“I’ve heard you die twice. Once when you last spin a crank. And the second is the last time someone mentions your name.” - 10,000 hours",
+  "prompt": "Whose name in BMX should be forever shared yet has been missing from our tongues for a while?",
+  "notes": "The published social post adds that the person does not have to be famous and that its selected photographs were not intended to identify the people being remembered.",
+  "published_page_text": null,
+  "inspiration": {
+    "artist": "Macklemore with Skylar Grey",
+    "song": "Glorious",
+    "url": "https://www.youtube.com/watch?v=MNKFtvRrs3A",
+    "attribution_status": "stated_on_page",
+    "audio_archived": false
+  },
+  "images": {
+    "page_capture": "source/page-captures/01-ive-heard-you-die-twice-page.png",
+    "standalone_source": "source/social-posts/01-ive-heard-you-die-twice-social.png"
+  },
+  "status": "source_preserved",
+  "created": "2026-07-23",
+  "maintainer": "Lititz BMX"
+}

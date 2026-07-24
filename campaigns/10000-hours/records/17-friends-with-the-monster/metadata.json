@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0",
+  "record_type": "campaign_mixtape_track",
+  "campaign_id": "CAMPAIGN-10000-HOURS",
+  "track_number": 17,
+  "section": "Side B",
+  "slug": "friends-with-the-monster",
+  "title": "Friends with the Monster",
+  "source_url": "https://sites.google.com/view/lititzbmxinventorylist/campaigns/10000-hours-campaigns/friends-with-the-monster-10000-hours-campaigns",
+  "quote": "Visible source-post excerpt: “I am friends with the monster that sits at my gate. Get along with the taunting that spews from hi…”",
+  "prompt": "",
+  "notes": "Known source inconsistency: the left-side source card supports the “friends with the monster” entry, while the published right-side page text repeats the wording from “The Greats Rode a Lot.” The visible page embed is also a Macklemore “Ten Thousand Hours” performance. All elements are preserved without silent correction.",
+  "published_page_text": "“The greats weren’t great because at birth they could ride, the greats were great because they rode a lot.” - 10,000 Hours\n\nHere are five we think might agree. We encourage you to add to the list.",
+  "inspiration": {
+    "artist": "Macklemore",
+    "song": "Ten Thousand Hours — live performance as embedded",
+    "url": "https://www.youtube.com/watch?v=qMgrBgvQdNI",
+    "attribution_status": "visible_in_embed; page_text_mismatch",
+    "audio_archived": false
+  },
+  "images": {
+    "page_capture": "source/page-captures/17-friends-with-the-monster-page.png",
+    "standalone_source": null
+  },
+  "status": "source_preserved",
+  "created": "2026-07-23",
+  "maintainer": "Lititz BMX"
+}

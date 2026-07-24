@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "Please cite this archive when using the 10,000 Hours campaign records."
+title: "10,000 Hours of BMX Inspiration Mixed Tape"
+type: dataset
+version: 1.0.0
+date-released: 2026-07-23
+authors:
+  - family-names: Huffman
+    given-names: Kyle A.
+publisher:
+  name: Lititz BMX
+url: "https://github.com/Article134-tech/lititzbmx-docs/tree/main/campaigns/10000-hours"
+repository-code: "https://github.com/Article134-tech/lititzbmx-docs"
+keywords:
+  - BMX
+  - campaign
+  - digital preservation
+  - visual archive
+  - music inspiration
+  - mixtape

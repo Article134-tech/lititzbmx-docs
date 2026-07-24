@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0",
+  "record_type": "campaign_mixtape_track",
+  "campaign_id": "CAMPAIGN-10000-HOURS",
+  "track_number": 6,
+  "section": "Side A",
+  "slug": "10-percent-luck",
+  "title": "10% Luck",
+  "source_url": "https://sites.google.com/view/lititzbmxinventorylist/campaigns/10000-hours-campaigns/10-percent-luck-10000-hours-campaigns",
+  "quote": "“10% luck, 20% skill, 15% concentrated power of will, 5% pleasure, 50% pain, 100% reason to remember the name” - 10,000 hours",
+  "prompt": "What name in BMX do you remember because of that mixture? They don’t have to be “famous”; they just need to have taught you the math on a bike.",
+  "notes": "",
+  "published_page_text": null,
+  "inspiration": {
+    "artist": "Fort Minor",
+    "song": "Remember The Name",
+    "url": "https://www.youtube.com/watch?v=PAeZvmwSY3k",
+    "attribution_status": "stated_on_page",
+    "audio_archived": false
+  },
+  "images": {
+    "page_capture": "source/page-captures/06-10-percent-luck-page.png",
+    "standalone_source": null
+  },
+  "status": "source_preserved",
+  "created": "2026-07-23",
+  "maintainer": "Lititz BMX"
+}

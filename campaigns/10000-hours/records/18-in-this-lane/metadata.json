@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0",
+  "record_type": "campaign_mixtape_track",
+  "campaign_id": "CAMPAIGN-10000-HOURS",
+  "track_number": 18,
+  "section": "Side B",
+  "slug": "in-this-lane",
+  "title": "In This Lane",
+  "source_url": "https://sites.google.com/view/lititzbmxinventorylist/campaigns/10000-hours-campaigns/in-this-lane-10000-hours-campaigns",
+  "quote": "“You’ve got me in this lane, I’ll come out in beast mode!” - 10,000 hours",
+  "prompt": "",
+  "notes": "The page text supplied no artist or song label. The external inspiration link is preserved exactly as published.",
+  "published_page_text": null,
+  "inspiration": {
+    "artist": null,
+    "song": "Inspiration link as published",
+    "url": "https://www.youtube.com/watch?v=7CtK8g532E0&t=1s",
+    "attribution_status": "not_stated_on_page",
+    "audio_archived": false
+  },
+  "images": {
+    "page_capture": "source/page-captures/18-in-this-lane-page.png",
+    "standalone_source": null
+  },
+  "status": "source_preserved",
+  "created": "2026-07-23",
+  "maintainer": "Lititz BMX"
+}

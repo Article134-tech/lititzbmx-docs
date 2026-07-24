@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0",
+  "record_type": "campaign_mixtape_track",
+  "campaign_id": "CAMPAIGN-10000-HOURS",
+  "track_number": 15,
+  "section": "Side B",
+  "slug": "sometimes-you-feel-tired",
+  "title": "Sometimes You Feel Tired",
+  "source_url": "https://sites.google.com/view/lititzbmxinventorylist/campaigns/10000-hours-campaigns/sometimes-you-feel-tired-10000-hours-campaigns",
+  "quote": "“Sometimes you feel tired. You feel weak. When you feel weak, you just want to give up. You’ve got to find the motivation within you. That inner strength. To not give up. To not give in. It is within you!” - 10,000 hours",
+  "prompt": "",
+  "notes": "The page text supplied no artist or song label. The visible embed identifies Eminem’s “Lose Yourself.”",
+  "published_page_text": null,
+  "inspiration": {
+    "artist": "Eminem",
+    "song": "Lose Yourself",
+    "url": "https://www.youtube.com/watch?v=Cbtgk20s6wA",
+    "attribution_status": "visible_in_embed_not_stated_in_page_text",
+    "audio_archived": false
+  },
+  "images": {
+    "page_capture": "source/page-captures/15-sometimes-you-feel-tired-page.png",
+    "standalone_source": null
+  },
+  "status": "source_preserved",
+  "created": "2026-07-23",
+  "maintainer": "Lititz BMX"
+}

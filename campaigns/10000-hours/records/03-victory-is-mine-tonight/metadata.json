@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0",
+  "record_type": "campaign_mixtape_track",
+  "campaign_id": "CAMPAIGN-10000-HOURS",
+  "track_number": 3,
+  "section": "Side A",
+  "slug": "victory-is-mine-tonight",
+  "title": "Victory Is Mine Tonight",
+  "source_url": "https://sites.google.com/view/lititzbmxinventorylist/campaigns/10000-hours-campaigns/victory-is-mine-tonight-10000-hours-campaigns",
+  "quote": "“Victory is mine tonight. The crowd is cheering. Can you feel it?” - 10,000 hours",
+  "prompt": "",
+  "notes": "",
+  "published_page_text": null,
+  "inspiration": {
+    "artist": "Macklemore",
+    "song": "Ain’t Gonna Die",
+    "url": "https://www.youtube.com/watch?v=ktq4kUXCIhA&t=22s",
+    "attribution_status": "stated_on_page",
+    "audio_archived": false
+  },
+  "images": {
+    "page_capture": "source/page-captures/03-victory-is-mine-tonight-page.png",
+    "standalone_source": "source/social-posts/03-victory-is-mine-tonight-social.png"
+  },
+  "status": "source_preserved",
+  "created": "2026-07-23",
+  "maintainer": "Lititz BMX"
+}
